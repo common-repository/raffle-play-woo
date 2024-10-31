@@ -1,0 +1,4043 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Raffle Play Woo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-08 09:54+0000\n"
+"PO-Revision-Date: 2024-07-19 18:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: raffle-play-woo"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:359
+msgid " All value from Category"
+msgstr " Toate valorile din Categoria"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:133
+msgid " Include the rest of the Countries "
+msgstr " Includeți restul țărilor"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:969
+msgid ""
+" is optional, if productid is added, the raffle linked to that product will "
+"be retrieved."
+msgstr ""
+" este opțional, dacă se adaugă productid, se va prelua tombola legată de "
+"acel produs."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:970
+msgid ""
+" is optional, used to filter the code, if the shortcode is present in "
+"multiple pages (Dedicated keyword. Do not use keyword \"."
+msgstr ""
+" este opțional, utilizat pentru a filtra codul, dacă codul scurt este "
+"prezent în mai multe pagini (Cuvânt cheie dedicat. Nu folosiți cuvântul "
+"cheie \"."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1246
+msgid " keyword for percentage sold"
+msgstr " cuvânt cheie pentru procent vândut"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1245
+msgid " keyword for remaining tickets"
+msgstr " cuvânt cheie pentru biletele rămase"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1244
+msgid " keyword for total number of tickets"
+msgstr " cuvânt cheie pentru numărul total de bilete"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1243
+msgid " keyword to display sold tickets"
+msgstr " cuvânt cheie pentru afișarea biletelor vândute"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:68
+msgid " will be swapped with the number above"
+msgstr " va fi schimbat cu numărul de mai sus"
+
+#: raffle-play-woo.php:42
+msgid " WooCommerce is not installed/active"
+msgstr " WooCommerce nu este instalat/activ"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:254
+#, php-format
+msgid ""
+"%s - 2, 3 uses date replacer; %d - 5, 6 uses numeric replacer; If deleted "
+"won't replace the values"
+msgstr ""
+"%s - 2, 3 folosește înlocuitorul datei; %d - 5, 6 folosește înlocuitorul "
+"numeric; Dacă este șters nu înlocuiește valorile"
+
+#: includes/templates/product_raffle_tab.php:187
+#, php-format
+msgid "%s entries per page"
+msgstr "%s intrări pe pagină"
+
+#: includes/RafflePlayWoo_LifeCycle.php:4896
+#, php-format
+msgid "%s- Order Id %d has ticket number %d"
+msgstr "%s- Id-ul comenzii %d are numărul biletului %d"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:21
+msgid "(Add Number of thickets for this raffle product)"
+msgstr "(Adăugați numărul de tufișuri pentru acest produs de tombolă)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:359
+#, fuzzy
+#| msgid "At least"
+msgid "(at least)"
+msgstr "Cel puțin"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:491
+msgid ""
+"(can be found and edited (styled) under plugin folder /includes/templates )"
+msgstr ""
+"(poate fi găsit și editat (stilizat) în folderul plugin /includes/templates )"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1148
+msgid "(D)"
+msgstr "(D)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1121
+msgid "(Deleted)"
+msgstr "(Șters)"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:19
+msgid "(Enable the option)"
+msgstr "(Activați opțiunea)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:18
+msgid ""
+"(Generated tickets need to have a time limit for each order at checkout)"
+msgstr ""
+"(Biletele generate trebuie să aibă o limită de timp pentru fiecare comandă "
+"la checkout)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:137
+msgid "(grouped by country)"
+msgstr "(grupate pe țări)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:292
+msgid "(In order to save the column changes, run this report)"
+msgstr "(Pentru a salva modificările coloanelor, rulați acest raport)"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:152
+msgid "(limited to 15 characters)"
+msgstr "(limitat la 15 caractere)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:42
+msgid "(live data)"
+msgstr "(date în direct)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:90
+msgid "(Monday to Sunday)"
+msgstr "(de luni până duminică)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:431
+msgid "(PDFs are only generated for processing, invoice, and completed orders)"
+msgstr ""
+"(PDF-urile sunt generate doar pentru procesare, factură și comenzi "
+"finalizate)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1147
+msgid "(T)"
+msgstr "(T)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1120
+msgid "(Terminated)"
+msgstr "(Încheiat)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:86
+msgid "(use -1 for unlimited)"
+msgstr "(utilizați -1 pentru nelimitat)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:388
+msgid "(Winning Product)"
+msgstr "(Produs câștigător)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:313
+msgid "(Your Message) All raffle tickets have been sold"
+msgstr "(Mesajul dvs.) Toate biletele de tombolă au fost vândute"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:265
+msgid "(Your Message) The raffle has finished"
+msgstr "(Mesajul dumneavoastră) Tombola s-a încheiat"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:289
+#, php-format
+msgid "(Your Message) The raffle has finished on %s"
+msgstr "(Mesajul dumneavoastră) Tombola s-a încheiat pe %s"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:301
+#, php-format
+msgid "(Your Message) The raffle will end on %s"
+msgstr "(Mesajul dvs.) Tombola se va încheia pe %s"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:277
+#, php-format
+msgid "(Your Message) The raffle will start on %s"
+msgstr "(Mesajul dvs.) Tombola va începe pe %s"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:325
+#: includes/w/W_RafflePlayWoo_MainPage.php:337
+#, php-format
+msgid "(Your Message) There are only %d tickets left"
+msgstr "(Mesajul dumneavoastră) Au mai rămas doar %d bilete"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:110
+msgid "*** Leave empty not to display ***"
+msgstr "*** Lăsați gol pentru a nu fi afișat ***"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:111
+msgid "*** To display copy the short code and paste it into the post/page ***"
+msgstr "*** Pentru a afișa copiați codul scurt și lipiți-l în post/pagină ***"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1041
+msgid ""
+"***IMPORTANT*** If this option is YES (Hide Cart), the position to display "
+"the countdown only works for the first 3 top positions (Before Single "
+"Product, Before Single Product Summary, Top of Single Product Summary), the "
+"other positions will be hidden by woocommerce"
+msgstr ""
+"***IMPORTANT*** Dacă această opțiune este DA (Ascundeți coșul), poziția de "
+"afișare a numărătorii inverse funcționează doar pentru primele 3 poziții de "
+"top (Înainte de produsul unic, Înainte de rezumatul produsului unic, Partea "
+"de sus a rezumatului produsului unic), celelalte poziții vor fi ascunse de "
+"woocommerce"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:93
+msgid "***Or it can be left empty***"
+msgstr "***Sau poate fi lăsată goală***"
+
+#: includes/external/dompdf/lib/php-css-parser/tests/Sabberworm/CSS/RuleSet/DeclarationBlockTest.php:215
+msgid "-10px"
+msgstr "-10px"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:975
+msgid "1. Copy the shortcode and paste it in the page/post/etc"
+msgstr "1. Copiați codul scurt și lipiți-l în pagină/post/etc"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:976
+msgid "2. In the functions.php of your child theme add following filter hook"
+msgstr "2. În functions.php al temei tale copil adăugați următorul filtru hook"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:463
+#: includes/w/W_RafflePlayWoo_Promotion.php:64
+#: includes/w/W_RafflePlayWoo_Promotion.php:291
+msgid "Action"
+msgstr "Acțiune"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:255
+#: includes/w/W_RafflePlayWoo_Lucky.php:464
+msgid "Active"
+msgstr "Activ"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:217
+msgid "Active Promotion (In use or not)"
+msgstr "Promovarea activă (în uz sau nu)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:148
+#: includes/w/W_RafflePlayWoo_Reports.php:279
+msgid "Add"
+msgstr "Adăugați"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:191
+msgid "Add / remove free raffle tickets to cart based on the rules"
+msgstr ""
+"Adăugați/eliminați bilete de tombolă gratuite în coș în funcție de reguli"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:233
+msgid "Add [end] at the end to break the text into a new line"
+msgstr "Adăugați [end] la sfârșit pentru a întrerupe textul într-o linie nouă"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:250
+msgid "Add raffle id, only to display tickets sold for that raffle"
+msgstr ""
+"Adăugați id-ul tombolei, numai pentru a afișa biletele vândute pentru acea "
+"tombolă"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:142
+#, php-format
+msgid "Add to Cart (exceeding tickets %d)"
+msgstr "Adăugați în coș (depășind numărul de bilete %d)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:320
+#, php-format
+msgid "Add To Cart (limit on - exceeding tickets - %d)"
+msgstr "Adăugați în coș (limită la - depășirea numărului de bilete - %d)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:308
+msgid "Add To Cart (limit on - no tickets left)"
+msgstr "Adaugă în coș (limită - nu mai sunt bilete)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:136
+msgid "Add to Cart (no tickets left)"
+msgstr "Adaugă în coș (nu mai sunt bilete)"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:24
+msgid ""
+"Added \"View by Order\" - tickets can be grouped by order in \"View "
+"Tickets\" tab "
+msgstr ""
+"Adăugat \"Vizualizare după ordine\" - biletele pot fi grupate după ordine în "
+"tab-ul \"Vizualizare bilete\""
+
+#: includes/releases/RafflePlayWoo_Release_62.php:23
+msgid "Added - Custom shortcode for progress bar"
+msgstr "Adăugat - Shortcode personalizat pentru bara de progres"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:46
+msgid "Added - Customize Progress Bar from template"
+msgstr "Adăugat - Personalizați bara de progres din șablon"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:41
+msgid "Added - Customize Progress Bar tab in General Raffle."
+msgstr "Adăugat - fila Personalizați bara de progres în tombola generală."
+
+#: includes/releases/RafflePlayWoo_Release_62.php:19
+msgid "Added - Lucky Numbers"
+msgstr "Adăugat - Numere norocoase"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:18
+msgid "Added Countdown in product card"
+msgstr "Adăugat numărătoarea inversă în cardul de produs"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:21
+msgid "Added Progress bar in product card and product page"
+msgstr "Bară de progres adăugată în fișa de produs și în pagina de produs"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:27
+msgid "Added Raffle tab in product page"
+msgstr "Adaugat tab-ul Raffle în pagina produsului"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:261
+msgid "Added to cart message"
+msgstr "Mesaj adăugat în coș"
+
+#: includes/RafflePlayWoo_Plugin.php:302
+msgid "Address"
+msgstr "Adresa"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:979
+#: includes/w/W_RafflePlayWoo_Reports.php:305
+msgid "Address One"
+msgstr "Prima adresă"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:980
+#: includes/w/W_RafflePlayWoo_Reports.php:306
+msgid "Address Two"
+msgstr "Adresa doi"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:472
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:608
+msgid "After Add to Cart Button"
+msgstr "După butonul Adaugă în coș"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:473
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:609
+msgid "After Add to Cart Form"
+msgstr "După Formularul de adăugare în coș"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:471
+msgid "After Add to Cart Quanitity"
+msgstr "După Adăugare în coș Cantitate"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:607
+msgid "After Add to Cart Quantity"
+msgstr "După adăugarea în coș Cantitate"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:216
+msgid "After Billing Address"
+msgstr "După adresa de facturare"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:341
+msgid "After changing ticket, resend email order details to customer."
+msgstr ""
+"După modificarea biletului, retrimiteți detaliile comenzii prin e-mail către "
+"client."
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:207
+msgid ""
+"After how many Reserved Time cycles to remove the raffle products from "
+"Checkout"
+msgstr ""
+"După câte cicluri de Timp Rezervat pentru a elimina produsele de tombolă din "
+"Checkout"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:536
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:671
+msgid "After Loop Item Title"
+msgstr "După buclă Titlul articolului"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:537
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:672
+msgid "After Price Loop Item"
+msgstr "După buclă de preț Articolul"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:474
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:610
+msgid "After Single Product Summary"
+msgstr "După rezumatul produsului unic"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:467
+msgid "After Sold"
+msgstr "După vânzare"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:31
+msgid ""
+"After the reserved time has passed a custom message can be displayed to "
+"notify the customer the tickets are no longer reserved but can still be "
+"purchased"
+msgstr ""
+"După ce timpul rezervat a trecut, un mesaj personalizat poate fi afișat "
+"pentru a notifica clientul că biletele nu mai sunt rezervate, dar pot fi "
+"încă achiziționate"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:182
+msgid ""
+"After the reserved time has passed removed the reserved raffle products from "
+"the checkout. When raffle tickets are generated at checkout are reserved as "
+"purchased tickets"
+msgstr ""
+"După ce timpul rezervat a trecut, scoateți produsele rezervate din casierie. "
+"Atunci când biletele de tombolă sunt generate la checkout sunt rezervate ca "
+"bilete cumpărate"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:112
+msgid "All"
+msgstr "Toate"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:17
+msgid "All new raffles cannot be deleted, but can be edited."
+msgstr "Toate tombolele noi nu pot fi șterse, dar pot fi modificate."
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:9
+msgid "All the report are self explanatory"
+msgstr "Toate rapoartele sunt autoexplicative"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:14
+msgid "Allows to export any order field"
+msgstr "Permite exportarea oricărui câmp al comenzii"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:25
+msgid ""
+"Also can be created using shortcodes [woocommerce_cart] and "
+"[woocommerce_checkout]"
+msgstr ""
+"De asemenea, poate fi creat folosind shortcodes [woocommerce_cart] și "
+"[woocommerce_checkout]"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:23
+msgid ""
+"Also can be customized to giveaway tickets based on amount spent on specific "
+"categories"
+msgstr ""
+"De asemenea, poate fi personalizat pentru a oferi bilete în funcție de suma "
+"cheltuită pe anumite categorii"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:85
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:99
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:112
+msgid "AND"
+msgstr "ȘI"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:16
+msgid "Anonymous Users"
+msgstr "Utilizatori anonimi"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:72
+msgid "Any fields left empty will not be displayed"
+msgstr "Toate câmpurile lăsate goale nu vor fi afișate"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:500
+msgid "April"
+msgstr "Aprilie"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:416
+msgid ""
+"Are you getting duplicated tickets? Enable this option, and the system will "
+"check for duplicates, and fix them after the order is created"
+msgstr ""
+"Primiți bilete duplicate? Activați această opțiune, iar sistemul va verifica "
+"dacă există dubluri și le va repara după ce comanda este creată"
+
+#: includes/RafflePlayWoo_Plugin.php:318
+msgid "Are you sure you want to change this ticket?"
+msgstr "Sunteți sigur că doriți să schimbați acest bilet?"
+
+#: includes/RafflePlayWoo_Plugin.php:306
+msgid "Are you sure you want to delete it?"
+msgstr "Ești sigur că vrei să o ștergi?"
+
+#: includes/RafflePlayWoo_Plugin.php:309
+msgid "Are you sure you want to PERMANENTLY delete this raffle's tickets?"
+msgstr ""
+"Sunteți sigur că doriți să ștergeți PERMANENT biletele acestei tombole?"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:359
+msgid "At Checkout, do not assign raffle tickets to following orders"
+msgstr "La Checkout, nu atribuiți bilete de tombolă următoarelor comenzi"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:369
+msgid "At least"
+msgstr "Cel puțin"
+
+#: includes/RafflePlayWoo_LifeCycle.php:415
+msgid "Audit"
+msgstr "Audit"
+
+#: includes/w/W_RafflePlayWoo_AuditPage.php:14
+msgid "Audit Info"
+msgstr "Informații de audit"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:504
+msgid "August"
+msgstr "August"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:256
+msgid "Available Columns"
+msgstr "Coloane disponibile"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:366
+msgid "Available Tickets"
+msgstr "Bilete disponibile"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1047
+#: includes/w/W_RafflePlayWoo_MainPage.php:1274
+msgid "Background Color"
+msgstr "Culoare de fundal"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1306
+msgid "Background color of the progress, text, hex, rgb, and rgba accepted."
+msgstr ""
+"Culoarea de fundal a progresului, text, acceptată în format hexazecimal, rgb "
+"și rgba."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:404
+msgid "Background Image"
+msgstr "Imagine de fundal"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:34
+msgid "Backup"
+msgstr "Backup"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:447
+msgid "Backup Actions"
+msgstr "Acțiuni de backup"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:471
+msgid "Backup All Live Data"
+msgstr "Copie de rezervă a tuturor datelor live"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:475
+msgid "Backup Data from Table View"
+msgstr "Copie de rezervă a datelor din Vizualizare tabel"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:457
+msgid "Backup Name (max 10 characters)*"
+msgstr "Nume copie de rezervă (max. 10 caractere)*"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1304
+msgid "Bar color of the progress, text, hex, rgb, and rgba accepted."
+msgstr "Culoarea barei de progres, text, hex, rgb și rgba acceptate."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:657
+msgid "Be aware: inproper css manipulation will break the pdf file"
+msgstr "Atenție: manipularea incorectă a css-ului va rupe fișierul pdf"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:620
+#: includes/w/W_RafflePlayWoo_MainPage.php:634
+msgid "Be aware: inproper html manipulation will break the pdf file"
+msgstr "Atenție: manipularea incorectă a html-ului va rupe fișierul pdf"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:895
+msgid "Before Account Details"
+msgstr "Înainte de detalii despre cont"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:467
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:603
+msgid "Before Add to Cart Button"
+msgstr "Înainte de butonul Adaugă în coș"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:465
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:601
+msgid "Before Add to Cart Form"
+msgstr "Înainte de formularul de adăugare în coș"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:470
+msgid "Before Add to Cart Quanitity"
+msgstr "Înainte de a adăuga în coș Cantitate"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:606
+msgid "Before Add to Cart Quantity"
+msgstr "Înainte de a adăuga în coș Cantitate"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:893
+msgid "Before Addresses"
+msgstr "Înainte de adrese"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:890
+msgid "Before Dashboard"
+msgstr "Înainte de tabloul de bord"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:892
+msgid "Before Downloads"
+msgstr "Înainte de descărcări"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:180
+msgid ""
+"Before going live with the raffle as a good practice is good to do a few "
+"tests, this will give you an idea how the system works"
+msgstr ""
+"Înainte de a intra în direct cu tombola ca o bună practică este bine să "
+"faceți câteva teste, acest lucru vă va da o idee despre cum funcționează "
+"sistemul"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:896
+msgid "Before Logout"
+msgstr "Înainte de deconectare"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:533
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:668
+msgid "Before Loop Item"
+msgstr "Înainte de bucla Elementul de buclă"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:534
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:669
+msgid "Before Loop Item Title"
+msgstr "Înainte de buclă Titlul articolului"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:891
+msgid "Before Order"
+msgstr "Înainte de comandă"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:206
+msgid "Before Order Info"
+msgstr "Înainte de a comanda Informații"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:894
+msgid "Before Payments Methods"
+msgstr "Înainte de metodele de plată"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:462
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:598
+msgid "Before Single Product"
+msgstr "Înainte de produsul unic"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:463
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:599
+msgid "Before Single Product Summary"
+msgstr "Înainte de rezumatul unui singur produs"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:468
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:469
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:604
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:605
+msgid "Before Single Variation"
+msgstr "Înainte de variația unică"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:466
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:602
+msgid "Before Variations Form"
+msgstr "Înainte de formularul de variații"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:240
+msgid ""
+"Below messages are displayed in the raffle product page (when adding to cart)"
+", and in the cart page (when updating cart)"
+msgstr ""
+"Mesajele de mai jos sunt afișate în pagina produsului de tombolă (la "
+"adăugarea în coș) și în pagina coșului (la actualizarea coșului)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:50
+msgid "Below selected must match the order data to show the tickets"
+msgstr ""
+"Datele selectate mai jos trebuie să se potrivească cu datele comenzii pentru "
+"a afișa biletele"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:211
+msgid "Between Order Info and Billing Address"
+msgstr "Între informații despre comandă și adresa de facturare"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:45
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:73
+msgid "Block"
+msgstr "Bloc"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:19
+#: includes/w/W_RafflePlayWoo_MainPage.php:732
+#: includes/w/W_RafflePlayWoo_Raffles.php:358
+msgid "Blue"
+msgstr "Albastru"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:85
+#: includes/w/W_RafflePlayWoo_MainPage.php:173
+msgid "Body Tickets"
+msgstr "Bilete Body"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:619
+msgid "Business Info Header (html)"
+msgstr "Informații de afaceri Header (html)"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:272
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:242
+msgid "Buy Out Product "
+msgstr "Cumpărați produsul"
+
+#: includes/RafflePlayWoo_Plugin.php:312
+msgid "Buyout"
+msgstr "Răscumpărare"
+
+#: includes/RafflePlayWoo_Plugin.php:313
+msgid "Buyout Product"
+msgstr "Produs de răscumpărare"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:155
+msgid "By Raffle Ticket"
+msgstr "Prin bilet de tombolă"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:153
+msgid "By Raffle Ticket "
+msgstr "Prin bilet de tombolă"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:13
+msgid "By Raffle Tickets"
+msgstr "Prin bilete de tombolă"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:177
+#: includes/w/W_RafflePlayWoo_Promotion.php:454
+#: includes/w/W_RafflePlayWoo_Raffles.php:499
+#: includes/w/W_RafflePlayWoo_Reports.php:278
+#: includes/w/W_RafflePlayWoo_ViewPage.php:183
+#: includes/w/W_RafflePlayWoo_ViewPage.php:293
+#: includes/w/W_RafflePlayWoo_ViewPage.php:483
+#: includes/w/W_RafflePlayWoo_Winners.php:115
+msgid "Cancel"
+msgstr "Anulează"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:354
+msgid "Cancelled"
+msgstr "Anulat"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:353
+msgid "Cancelled by an admin or the customer – no further action required"
+msgstr ""
+"Anulat de către un administrator sau de către client - nu este necesară "
+"nicio acțiune suplimentară"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2027
+msgid "Cannot be added to cart"
+msgstr "Nu poate fi adăugat la coș"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:158
+msgid "Cannot create lucky numbers for this raffle."
+msgstr "Nu se pot crea numere norocoase pentru această tombolă."
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:21
+msgid "Cart and Checkout are now built using blocks by default"
+msgstr ""
+"Coșul de cumpărături și finalizarea comenzii sunt acum construite folosind "
+"blocuri în mod implicit"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:35
+msgid "Cart page is built using:"
+msgstr "Pagina de coș este construită folosind:"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:348
+msgid "Change"
+msgstr "Schimbare"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:344
+msgid "Change Ticket Number to: "
+msgstr "Schimbați numărul biletului în:"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:765
+msgid ""
+"Change width, height, color, text size of the raffle ticket view in Thank "
+"you / Email"
+msgstr ""
+"Modificarea lățimii, înălțimii, culorii, mărimii textului pentru "
+"vizualizarea biletului de tombolă în Thank you / Email"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:63
+msgid "Checkout page is built using:"
+msgstr "Pagina de checkout este construită folosind:"
+
+#: includes/RafflePlayWoo_Plugin.php:276
+#: includes/d/D_RafflePlayWoo_Reports.php:981
+#: includes/w/W_RafflePlayWoo_Reports.php:307
+msgid "City"
+msgstr "Orașul"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:184
+msgid "Clear"
+msgstr "Clar"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:73
+msgid "Clear Dates"
+msgstr "Date clare"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:38
+msgid "Clear Filter"
+msgstr "Curățați filtrul"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:316
+#: includes/w/W_RafflePlayWoo_ViewPage.php:319
+#: includes/w/W_RafflePlayWoo_ViewPage.php:387
+#: includes/w/W_RafflePlayWoo_ViewPage.php:434
+msgid "Close"
+msgstr "Închideți"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:261
+msgid "Col Text"
+msgstr "Col Text"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1057
+msgid "Color"
+msgstr "Culoare"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:381
+msgid "Complete"
+msgstr "Complet"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:302
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:306
+msgid "Completed"
+msgstr "Completat"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:202
+msgid "Concentrate Number (pool)"
+msgstr "Numărul de concentrat (bazin)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:242
+msgid "Concentrate Number (Set per raffle)"
+msgstr "Număr de concentrat (set pe tombolă)"
+
+#: includes/RafflePlayWoo_Plugin.php:319
+msgid "Confirm Ticket Change"
+msgstr "Confirmați schimbarea biletului"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:266
+msgid ""
+"Congratulations, you are now entering the free raffle draw. Complete the "
+"purchase"
+msgstr ""
+"Felicitări, acum participați la tragerea la sorți gratuită. Finalizați "
+"achiziția"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:911
+msgid "Content Display - Raffle Tickets"
+msgstr "Afișare conținut - Bilete de tombolă"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:39
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:72
+msgid "Copy and paste image url here"
+msgstr "Copiați și lipiți url-ul imaginii aici"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:176
+msgid "Copy Shortcode"
+msgstr "Copiați codul scurt"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:160
+msgid ""
+"Copy the shortcode and paste it in the page. (Enter unique shortcode id)"
+msgstr ""
+"Copiați codul scurt și lipiți-l în pagină. (Introduceți id-ul unic al "
+"codului scurt)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1164
+msgid ""
+"Copy the shortcode on any page or post, and change the values. Datetime can "
+"be of timestamp or format yyyy-mm-dd hh:mm:ss. Color and bgcolor can be of "
+"hex or rgb. The rest are just labels."
+msgstr ""
+"Copiați codul scurt pe orice pagină sau postare și modificați valorile. "
+"Datetime poate fi de tip timestamp sau în format yyyy-mm-dd hh:mm:ss. Color "
+"și bgcolor pot fi de tip hexagonal sau rgb. Restul sunt doar etichete."
+
+#: includes/RafflePlayWoo_Plugin.php:317
+msgid "Could not generate Random ticket"
+msgstr "Nu s-a putut genera un bilet aleatoriu"
+
+#: includes/RafflePlayWoo_Raffles.php:415
+msgid "Could not remove products linked to this raffle"
+msgstr "Nu s-a putut elimina produsele legate de această tombolă"
+
+#: includes/RafflePlayWoo_Raffles.php:411
+msgid "Could not remove raffle data"
+msgstr "Nu s-a putut elimina datele din tombolă"
+
+#: includes/RafflePlayWoo_Raffles.php:407
+msgid "Could not remove tickets for this raffle"
+msgstr "Nu s-a putut elimina bilete pentru această tombolă"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:409
+#: includes/w/W_RafflePlayWoo_Raffles.php:435
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:450
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:521
+msgid "Countdown Image"
+msgstr "Numărătoarea inversă Imagine"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:106
+msgid "Countdown Settings"
+msgstr "Setări pentru numărătoarea inversă"
+
+#: includes/RafflePlayWoo_Plugin.php:273
+#: includes/d/D_RafflePlayWoo_Reports.php:549
+#: includes/d/D_RafflePlayWoo_Reports.php:679
+#: includes/d/D_RafflePlayWoo_Reports.php:983
+#: includes/w/W_RafflePlayWoo_Reports.php:309
+msgid "Country"
+msgstr "Țara"
+
+#: includes/RafflePlayWoo_Plugin.php:274
+#: includes/d/D_RafflePlayWoo_Reports.php:550
+#: includes/d/D_RafflePlayWoo_Reports.php:680
+#: includes/d/D_RafflePlayWoo_Reports.php:984
+#: includes/w/W_RafflePlayWoo_Reports.php:310
+msgid "County"
+msgstr "Județul"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:17
+msgid "Create a custom shortcode and show it on a page"
+msgstr "Creați un cod scurt personalizat și afișați-l pe o pagină"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:419
+msgid "Create a pdf attachment with the raffle info. Attached to the email"
+msgstr ""
+"Creați un atașament în format pdf cu informațiile despre tombolă. Atașat la "
+"e-mail"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:42
+msgid ""
+"Create a promotional raffle with free tickets to boost your sales on your "
+"shop."
+msgstr ""
+"Creați o tombolă promoțională cu bilete gratuite pentru a stimula vânzările "
+"în magazinul dumneavoastră."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:26
+#: includes/w/W_RafflePlayWoo_MainPage.php:739
+#: includes/w/W_RafflePlayWoo_Raffles.php:365
+msgid "Custom"
+msgstr "Personalizat"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:190
+msgid "Custom Currency Symbol"
+msgstr "Simbol valutar personalizat"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:15
+msgid ""
+"Custom data captured at checkout. Click on the plus button, add the field "
+"META name in the db, and the column name"
+msgstr ""
+"Date personalizate capturate la finalizarea comenzii. Faceți clic pe butonul "
+"plus, adăugați numele câmpului META în baza de date și numele coloanei"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:240
+msgid "Custom display on any page the latest raffle tickets sold"
+msgstr ""
+"Afișarea personalizată pe orice pagină a celor mai recente bilete de tombolă "
+"vândute"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1313
+msgid "Custom html class"
+msgstr "Clasa html personalizată"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1284
+msgid "Custom HTML classes"
+msgstr "Clase HTML personalizate"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1295
+msgid "Custom Progress Bar Shortcode"
+msgstr "Bară de progres personalizată Shortcode"
+
+#: includes/RafflePlayWoo_Plugin.php:268
+msgid "Customer Id"
+msgstr "ID client"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:121
+msgid "Customer Search Tickets"
+msgstr "Bilete de căutare pentru clienți"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:227
+msgid ""
+"Customers are not allowed to add to cart, delete or update the promotional "
+"raffle product "
+msgstr ""
+"Clienții nu au voie să adauge în coș, să șteargă sau să actualizeze produsul "
+"promoțional al tombolei"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:11
+msgid "Customers can search for their tickets"
+msgstr "Clienții își pot căuta biletele"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1021
+msgid "Customize Countdown"
+msgstr "Personalizați numărătoarea inversă"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:763
+msgid "Customize how raffle ticket will show in Thank you Page / Email"
+msgstr ""
+"Personalizați modul în care biletul de tombolă va fi afișat în pagina de "
+"mulțumire / e-mail"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1198
+msgid "Customize Progress Bar"
+msgstr "Personalizați bara de progres"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:136
+#: includes/w/W_RafflePlayWoo_Reports.php:82
+msgid "Daily Sales"
+msgstr "Vânzări zilnice"
+
+#: includes/RafflePlayWoo_LifeCycle.php:6114
+#: includes/RafflePlayWoo_LifeCycle.php:6240
+msgid "Data is not set"
+msgstr "Datele nu sunt setate"
+
+#: includes/RafflePlayWoo_LifeCycle.php:6228
+msgid "Data Saved"
+msgstr "Date salvate"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:33
+msgid "Data Table is displayed with search, column sorting, pagination"
+msgstr "Tabelul de date este afișat cu căutare, sortare pe coloane, paginare"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:41
+msgid "Date and time when the raffle tickets are available for purchase"
+msgstr ""
+"Data și ora la care biletele de tombolă sunt disponibile pentru cumpărare"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:46
+msgid "Date and time when the raffle will end"
+msgstr "Data și ora la care se va încheia tombola"
+
+#: includes/RafflePlayWoo_Countdown.php:52
+msgid "Days"
+msgstr "Zile"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1067
+msgid "Days Label"
+msgstr "Zile Etichetă"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1153
+#: includes/w/W_RafflePlayWoo_MainPage.php:1180
+msgid "Days left until Christmas 2025"
+msgstr "Zile rămase până la Crăciun 2025"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:266
+msgid ""
+"DB  Name  is going to be extracted from the order metadata. ( E.g Data "
+"captured at checkout)"
+msgstr ""
+"DB Name va fi extras din metadatele comenzii. (de exemplu, datele capturate "
+"la finalizarea comenzii)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:262
+msgid "DB Meta Name"
+msgstr "DB Meta Name"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:508
+msgid "December"
+msgstr "Decembrie"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:56
+msgid "Default Raffle (ID - 0)"
+msgstr "Raffle implicit (ID - 0)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:273
+msgid "Default Raffle has no products"
+msgstr "Default Raffle nu are produse"
+
+#: includes/RafflePlayWoo_Plugin.php:327
+#: includes/w/W_RafflePlayWoo_Lucky.php:490
+msgid "Delete"
+msgstr "Ștergeți"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:41
+#, fuzzy
+#| msgid "Delete Raffle Tickets"
+msgid "Delete All Raffle Tickets"
+msgstr "Ștergeți bilete de tombolă"
+
+#: includes/RafflePlayWoo_Plugin.php:334
+msgid "Delete Lucky Number?"
+msgstr "Șterge numărul norocos?"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:388
+msgid "Deprecated functionality - use function above"
+msgstr "Funcționalitate depreciată - utilizați funcția de mai sus"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:37
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:70
+msgid "Display image instead of the crossword"
+msgstr "Afișați imaginea în loc de cuvinte încrucișate"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:236
+msgid ""
+"Display information to user when raffle is terminated, or there are no more "
+"tickets, or raffle hasnt started etc."
+msgstr ""
+"Afișarea de informații pentru utilizator atunci când tombola se încheie, sau "
+"când nu mai există bilete, sau când tombola nu a început etc."
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:135
+msgid "Display message when no tickets found"
+msgstr "Afișarea unui mesaj atunci când nu se găsesc bilete"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:256
+msgid "display table as data table"
+msgstr "afișarea tabelului ca tabel de date"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:333
+msgid "Do not generate Raffle Tickets for Orders with Status:"
+msgstr "Nu generați bilete de tombolă pentru comenzile cu statusul:"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1133
+msgid "Do you want to display a countdown in the home page? or any other page?"
+msgstr ""
+"Doriți să afișați o numărătoare inversă în pagina principală? sau în orice "
+"altă pagină?"
+
+#: includes/w/W_RafflePlayWoo_Info.php:56
+msgid "Doc - Default Raffle Setup"
+msgstr "Doc - Configurarea implicită a tombola"
+
+#: includes/w/W_RafflePlayWoo_Info.php:72
+msgid "Doc - Email PDF Attachment"
+msgstr "Doc - Atașament PDF prin e-mail"
+
+#: includes/w/W_RafflePlayWoo_Info.php:52
+msgid "Doc - Installation"
+msgstr "Doc - Instalare"
+
+#: includes/w/W_RafflePlayWoo_Info.php:60
+msgid "Doc - Raffles Setup"
+msgstr "Doc - Configurarea tombolelor"
+
+#: includes/w/W_RafflePlayWoo_Info.php:68
+msgid "Doc - Reports Page"
+msgstr "Doc - Rapoarte Pagina de rapoarte"
+
+#: includes/w/W_RafflePlayWoo_Info.php:64
+msgid "Doc - Winners Page"
+msgstr "Doc - Pagina câștigătorilor"
+
+#: includes/docs/RafflePlayWoo_Docs_Pdf_Attachment.php:14
+#, php-format
+msgid "Documentation - How to add custom data to pdf. View %s "
+msgstr ""
+"Documentație - Cum să adăugați date personalizate la pdf. Vizualizare %s"
+
+#: includes/w/W_RafflePlayWoo_Info.php:134
+msgid "Domain License"
+msgstr "Licență de domeniu"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:245
+msgid "Drag & drop to remove from Report Columns"
+msgstr "Trageți și fixați pentru a elimina din coloanele raportului"
+
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:5
+msgid "Due to lack of transparency, we do not provide random winner generator"
+msgstr ""
+"Datorită lipsei de transparență, nu oferim un generator aleatoriu de "
+"câștigători"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:97
+msgid "Duplicates"
+msgstr "Duplicuri"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:400
+msgid "Duplicates found in this raffle"
+msgstr "Duplicuri găsite în această tombolă"
+
+#: includes/docs/RafflePlayWoo_Docs_Pdf_Attachment.php:7
+#, php-format
+msgid "Each Setting explained for PDF Attachment. View %s "
+msgstr "Fiecare setare explicată pentru atașarea PDF. Vizualizare %s"
+
+#: includes/RafflePlayWoo_Plugin.php:326
+#: includes/w/W_RafflePlayWoo_Lucky.php:477
+msgid "Edit"
+msgstr "Editați"
+
+#: includes/RafflePlayWoo_Plugin.php:289
+msgid "Edit Raffle"
+msgstr "Editați Raffle"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:334
+msgid "Edit Ticket"
+msgstr "Editare bilet"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1248
+msgid "eg: 20/100 tickets sold - 80 left"
+msgstr "de exemplu: 20/100 bilete vândute - 80 rămase"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:138
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:165
+msgid "Eg: Leading zero set to 5, prefix T-, ticket is 12 => result: T-00012"
+msgstr ""
+"De exemplu: zero de frunte setat la 5, prefixul T-, biletul este 12 => "
+"rezultat: T-00012"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:193
+msgid "Eg: Raffle draw is on 25th of June 2021"
+msgstr "De exemplu: Extragerea pentru tombolă are loc pe 25 iunie 2021"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1225
+msgid "eg: Raffle has 1000 tickets available, the progress will show."
+msgstr "ex: Tombola are 1000 de bilete disponibile, progresul va fi afișat."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1206
+msgid "eg: raffle is terminated, raffle hasn't started, raffle has ended"
+msgstr "ex: tombola s-a încheiat, tombola nu a început, tombola s-a încheiat"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:298
+msgid "Eg: Raffle takes place on 10th of January 2021"
+msgstr "Ex: Tombola are loc pe 10 ianuarie 2021"
+
+#: includes/RafflePlayWoo_Plugin.php:267
+#: includes/d/D_RafflePlayWoo_Reports.php:985
+#: includes/templates/customer_search.php:15
+#: includes/w/W_RafflePlayWoo_Reports.php:311
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:61
+msgid "Email"
+msgstr "Email"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:295
+msgid "Email Extra Line Text"
+msgstr "Email Extra Line Text"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1636
+msgid "Email or phone number not provided"
+msgstr "Numărul de e-mail sau de telefon nu este furnizat"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:68
+#: includes/w/W_RafflePlayWoo_MainPage.php:71
+msgid "Email Template & Thank you Page"
+msgstr "Șablon de e-mail și pagină de mulțumire"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:414
+msgid "Enable Duplicates Fixing after Order Created"
+msgstr "Activați repararea duplicatelor după crearea comenzii"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:417
+msgid "Enable PDF Email Attachment"
+msgstr "Activați atașarea de e-mailuri PDF"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:845
+msgid "Enable Raffle Tab in Woocommerce Account"
+msgstr "Activați fila Raffle în contul Woocommerce"
+
+#: includes/RafflePlayWoo_Plugin.php:296
+#: includes/w/W_RafflePlayWoo_Raffles.php:234
+msgid "End Date"
+msgstr "Data de încheiere"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:127
+#, php-format
+msgid "End date is set as early than today - notify user - %s as end date"
+msgstr ""
+"Data de încheiere este stabilită mai devreme de astăzi - notificați "
+"utilizatorul - %s ca dată de încheiere"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1118
+msgid "Ends In Label"
+msgstr "Se termină în Label"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2549
+#: includes/RafflePlayWoo_LifeCycle.php:4870
+msgid "Enter Raffle Tickets Number in the Variations"
+msgstr "Introduceți numărul biletelor de tombolă în Variații"
+
+#: includes/w/W_RafflePlayWoo_Info.php:91
+msgid "Enter the license number"
+msgstr "Introduceți numărul de licență"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2521
+#: includes/RafflePlayWoo_LifeCycle.php:4844
+msgid ""
+"Enter the number or raffle tickets you want for this product. If you have "
+"Raffle Variable Product set the number of raffle tickets in the Variation "
+"product"
+msgstr ""
+"Introduceți numărul de bilete de tombolă pe care îl doriți pentru acest "
+"produs. Dacă aveți Raffle Variable Product, setați numărul de bilete de "
+"tombolă în produsul Variation"
+
+#: includes/RafflePlayWoo_Plugin.php:257
+msgid "Error Parsing Data"
+msgstr "Eroare de analiză a datelor"
+
+#: includes/RafflePlayWoo_Plugin.php:320
+msgid "Error. Could not change the number. Refresh the page and try again"
+msgstr ""
+"Eroare. Nu s-a putut modifica numărul. Actualizați pagina și încercați din "
+"nou"
+
+#: raffle-play-woo.php:27
+msgid ""
+"Error: plugin \"Raffle Play\" requires a higher version of PHP to be running."
+msgstr ""
+"Eroare: Plugin-ul \"Raffle Play\" necesită o versiune mai mare de PHP pentru "
+"a fi rulat."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:218
+msgid ""
+"Example: Concentrate number is 100, customer buys 20 tickets, and there are "
+"4 lucky numbers not won. The pool to draw one winning number is 124. Changes "
+"to win is 4/124 for each number drawn from 24 purchased. (Extremely high to "
+"win)"
+msgstr ""
+"Exemplu: Numărul concentrat este 100, clientul cumpără 20 de bilete și "
+"există 4 numere norocoase care nu au fost câștigate. Fondul pentru "
+"extragerea unui număr câștigător este 124. Modificările pentru câștig sunt "
+"4/124 pentru fiecare număr extras din cele 24 cumpărate. (Un procent extrem "
+"de mare de câștig)"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:482
+msgid "Execute"
+msgstr "Executați"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:154
+msgid "Export Columns"
+msgstr "Coloane de export"
+
+#: includes/RafflePlayWoo_Plugin.php:303
+#: includes/w/W_RafflePlayWoo_Winners.php:103
+msgid "Extra Info"
+msgstr "Informații suplimentare"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:188
+msgid ""
+"Extra info about raffle displayed on next table row. Leave empty to skip. Eg:"
+" Raffle draw is on 25th of June 2021. Good Luck!"
+msgstr ""
+"Informații suplimentare despre tombolă afișate pe următorul rând de masă. "
+"Lăsați gol pentru a trece peste. De ex: Tragerea la sorți a tombolei are loc "
+"pe 25 iunie 2021. Mult noroc!"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:633
+msgid "Extra Info Footer (html)"
+msgstr "Informații suplimentare Footer (html)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:90
+msgid "Extra Info Line"
+msgstr "Linia de informații suplimentare"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:91
+msgid ""
+"Extra information about the raffle (like when/where the draw is taking place)"
+msgstr ""
+"Informații suplimentare despre tombolă (cum ar fi când/unde va avea loc "
+"extragerea)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:186
+msgid "Extra Line Info"
+msgstr "Informații suplimentare de linie"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:91
+msgid "Extra Settings"
+msgstr "Setări suplimentare"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:656
+msgid "Extra Style (CSS)"
+msgstr "Stil suplimentar (CSS)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:265
+msgid ""
+"Extract custom fields captured at checkout. Custom fields saved in order can "
+"be extracted in this report."
+msgstr ""
+"Extrageți câmpurile personalizate capturate la checkout. Câmpurile "
+"personalizate salvate în comandă pot fi extrase în acest raport."
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:349
+msgid "Failed"
+msgstr "A eșuat"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:498
+msgid "February"
+msgstr "Februarie"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:35
+#: includes/w/W_RafflePlayWoo_ViewPage.php:133
+#: includes/w/W_RafflePlayWoo_ViewPage.php:182
+#: includes/w/W_RafflePlayWoo_ViewPage.php:308
+msgid "Filter"
+msgstr "Filtru"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:49
+msgid "Finish"
+msgstr "Finisaj"
+
+#: includes/RafflePlayWoo_Plugin.php:265
+#: includes/d/D_RafflePlayWoo_Reports.php:977
+#: includes/templates/customer_search.php:16
+#: includes/w/W_RafflePlayWoo_Reports.php:303
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:105
+msgid "First Name"
+msgstr "Primul nume"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:27
+msgid ""
+"Fixed - Changing customer in the order, will update the raffle tickets in My "
+"Account page"
+msgstr ""
+"Fixed - Schimbarea clientului în comandă va actualiza biletele de tombolă în "
+"pagina Contul meu"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:31
+msgid "Fixed - Removed expired reserved tickets after time expired"
+msgstr ""
+"Fixed - Eliminarea biletelor rezervate expirate după expirarea timpului"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:35
+msgid "Fixed - Removed raffle tickets limit for variation tickets"
+msgstr ""
+"Fixed - Eliminarea limitei biletelor de tombolă pentru biletele de variație"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:646
+msgid "Footer Height (px)"
+msgstr "Înălțimea piciorului de pagină (px)"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:27
+msgid "For now your product is under the Default raffle "
+msgstr "Deocamdată, produsul tău se află sub tombola Default"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:56
+msgid "For suggestions email me at developer@tuskcode.com"
+msgstr "Pentru sugestii, trimiteți-mi un e-mail la developer@tuskcode.com"
+
+#: includes/RafflePlayWoo_Includes.php:33
+msgid "For suggestions or support contact here"
+msgstr "Pentru sugestii sau sprijin, contactați aici"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:29
+msgid ""
+"For the plugin to work properly you need to correct the below based on your "
+"website"
+msgstr ""
+"Pentru ca plugin-ul să funcționeze corect, trebuie să corectați cele de mai "
+"jos în funcție de site-ul dvs. web"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:143
+msgid "From"
+msgstr "De la"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:63
+msgid "From Date"
+msgstr "De la Data"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:407
+msgid ""
+"Functionality moved into \"View Tickets\" page - now checking per raffle"
+msgstr ""
+"Funcționalitatea a fost mutată în pagina \"Vizualizare bilete\" - acum se "
+"verifică pentru fiecare tombolă"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:65
+msgid "General"
+msgstr "General"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:4
+msgid "General Settings"
+msgstr "Setări generale"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:8
+msgid "Generate and Show Raffle tickets at Checkout"
+msgstr "Generați și afișați bilete de tombolă la Checkout"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:187
+msgid "Generate and Show Raffle tickets at checkout"
+msgstr "Generați și afișați bilete de tombolă la checkout"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3601
+msgid "Generate New PDF"
+msgstr "Generarea unui PDF nou"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:286
+msgid "Generate Raffle Tickets for Order Status"
+msgstr "Generarea de bilete de tombolă pentru starea comenzii"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:177
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:112
+msgid "Generate Random Tickets "
+msgstr "Generarea de bilete aleatorii"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:167
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:103
+msgid ""
+"Generate Random Tickets within the range created by start ticket plus number "
+"of tickets. ***IMPORTANT*** Do not change the raffle ticket system from "
+"random to inline after tickets have been purchased***"
+msgstr ""
+"Generarea de bilete aleatorii în intervalul creat de biletul inițial plus "
+"numărul de bilete. ***IMPORTANT*** Nu schimbați sistemul de bilete de "
+"tombolă din aleatoriu în inline după ce biletele au fost cumpărate***"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:167
+msgid "Generate Report"
+msgstr "Generarea raportului"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:124
+msgid "Generate, Reserve, and Show Raffle tickets at checkout"
+msgstr "Generați, rezervați și afișați bilete de tombolă la checkout"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:11
+msgid "Generated Raffle tickets at Checkout"
+msgstr "Bilete de tombolă generate la Checkout"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:116
+msgid "Generated Tickets at Checkout"
+msgstr "Bilete generate la Checkout"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:325
+msgid "Get Random"
+msgstr "Obțineți aleatoriu"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:221
+msgid "Get Sale By Product"
+msgstr "Obțineți vânzare prin produs"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:352
+msgid "Give Random"
+msgstr "Dați Random"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:19
+msgid ""
+"Giveaway free raffle tickets when customers buy a certain amount at the "
+"checkout"
+msgstr ""
+"Oferiți bilete gratuite la tombolă atunci când clienții cumpără o anumită "
+"sumă la casa de marcat"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:14
+msgid ""
+"Go to 'Products' page and create a new product. But don't leave the page yet."
+msgstr ""
+"Accesați pagina \"Produse\" și creați un nou produs. Dar nu părăsiți încă "
+"pagina."
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:35
+msgid ""
+"Go to General Setting (Default Raffle)  and edit the 'Email Template' "
+"section."
+msgstr ""
+"Mergeți la General Setting (Default Raffle) și editați secțiunea \"Email "
+"Template\" (Șablon de e-mail)."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:20
+#: includes/w/W_RafflePlayWoo_MainPage.php:733
+#: includes/w/W_RafflePlayWoo_Raffles.php:359
+msgid "Gold"
+msgstr "Aur"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:21
+#: includes/w/W_RafflePlayWoo_MainPage.php:734
+#: includes/w/W_RafflePlayWoo_Raffles.php:360
+msgid "Gold Lines"
+msgstr "Linii de aur"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:51
+msgid "Good luck, and stay updated for new plugin changes on "
+msgstr ""
+"Mult noroc și rămâneți la curent cu noile modificări ale plugin-ului pe"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:22
+#: includes/w/W_RafflePlayWoo_MainPage.php:735
+#: includes/w/W_RafflePlayWoo_Raffles.php:361
+msgid "Gray"
+msgstr "Gri"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:159
+msgid "Group Tickets by Order"
+msgstr "Bilete de grup prin comandă"
+
+#: includes/RafflePlayWoo_Plugin.php:323
+msgid ""
+"Have you waited for the request to load? No Tickets Changes yet recorded"
+msgstr ""
+"Ați așteptat ca cererea să se încarce? Nu s-au înregistrat încă modificări "
+"de bilete"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:227
+msgid ""
+"Having different raffle tickets in the same Order, the reports will not "
+"retrieve the correct data (choose Product)"
+msgstr ""
+"Având diferite bilete de tombolă în aceeași comandă, rapoartele nu vor "
+"prelua datele corecte (alegeți Produsul)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:546
+msgid "Header Logo Image (only .jpeg)"
+msgstr "Imaginea logo-ului de antet (doar .jpeg)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:75
+#: includes/w/W_RafflePlayWoo_MainPage.php:148
+msgid "Header Text"
+msgstr "Textul antetului"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:28
+msgid "HERE"
+msgstr "AICI"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:488
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:551
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:624
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:686
+msgid "Here"
+msgstr "Aici"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:32
+msgid "Here are the Capabilities listed:"
+msgstr "Aici sunt enumerate capacitățile:"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1137
+msgid ""
+"Here is an example on how to display a custom counter on any page with "
+"tuskcode countdwon"
+msgstr ""
+"Iată un exemplu despre cum să afișați un contor personalizat pe orice pagină "
+"cu tuskcode countdwon"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1029
+msgid "Hide \"Add To Cart\" Button"
+msgstr "Ascundeți butonul \"Adaugă în coș\""
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1204
+msgid "Hide Progress Bar if the product is not purchasable"
+msgstr "Ascundeți bara de progres dacă produsul nu poate fi cumpărat"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:675
+msgid "Hide Terminated Raffles in the Product->Raffles List"
+msgstr "Ascundeți tombolele terminate în lista Produs->Tombole"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:360
+msgid "History Changes"
+msgstr "Modificări ale istoriei"
+
+#: includes/RafflePlayWoo_Countdown.php:53
+msgid "Hours"
+msgstr "Ore"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1077
+msgid "Hours Label"
+msgstr "Etichetă ore"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1160
+msgid "How it works."
+msgstr "Cum funcționează."
+
+#: includes/RafflePlayWoo_Plugin.php:277
+msgid "Id"
+msgstr "Id"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:80
+msgid ""
+"If changing the ticket no while raffle is running, make sure is above the "
+"last used ticket."
+msgstr ""
+"Dacă schimbați numărul biletului în timpul desfășurării tombolei, asigurați-"
+"vă că este deasupra ultimului bilet folosit."
+
+#: includes/w/W_RafflePlayWoo_Reports.php:192
+msgid "If empty, use woocommerce currency"
+msgstr "Dacă este gol, utilizați moneda woocommerce"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:848
+msgid ""
+"If Enabled go to Settings ->\n"
+"                                                     Permalinks and click on "
+"Save Changes for the Tab to show up in the Woocommerce Account - Do it once "
+msgstr ""
+"Dacă este activată, accesați Setări ->\n"
+"                                                     Permalinks și faceți "
+"clic pe Save Changes pentru ca fila să apară în contul Woocommerce - Faceți-"
+"o o singură dată"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:34
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:67
+msgid "If not allowed to play the crossword based on the rules"
+msgstr "Dacă nu vi se permite să jucați cuvinte încrucișate pe baza regulilor"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2512
+msgid ""
+"If product is raffle and this option is enabled, save product, and go to "
+"Variations to set the raffle tickets number for each variation"
+msgstr ""
+"Dacă produsul este o tombolă și această opțiune este activată, salvați "
+"produsul și mergeți la Variații pentru a seta numărul de bilete de tombolă "
+"pentru fiecare variație"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1031
+msgid "If Raffle hasn't started, it's finished or terminated"
+msgstr "Dacă Raffle nu a început, este terminat sau s-a încheiat"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:5
+msgid ""
+"If you are planning to run multiple raffles, on this page you can create a "
+"new one"
+msgstr ""
+"Dacă intenționați să organizați mai multe tombole, pe această pagină puteți "
+"crea una nouă"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:55
+msgid "If you like this plugin don't forget to rate it"
+msgstr "Dacă vă place acest plugin nu uitați să îl evaluați"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:224
+msgid ""
+"IMPORTANT - PLEASE READ IF YOU ARE RUNNING MULTIPLE RAFFLES AT THE SAME TIME "
+"(MIXED CHECKOUT RAFFLE PRODUCTS)"
+msgstr ""
+"IMPORTANT - VĂ RUGĂM SĂ CITIȚI DACĂ ORGANIZAȚI MAI MULTE TOMBOLE ÎN ACELAȘI "
+"TIMP (PRODUSE DE TOMBOLĂ MIXTE)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:98
+msgid "In the email can be positioned in different places"
+msgstr "În e-mail pot fi poziționate în diferite locuri"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:415
+msgid "In the next version you will be able to fix duplicates from this page."
+msgstr ""
+"În următoarea versiune veți putea repara duplicatele din această pagină."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:677
+msgid ""
+"In the product settings. Hide Terminated Raffles from the raffles list. This "
+"is convenient when you have a long list of raffles. Beaware that the product "
+"might be linked to the any of the hidden terminated raffle."
+msgstr ""
+"În setările produsului. Ascundeți Tombola terminată din lista de tombole. "
+"Acest lucru este convenabil atunci când aveți o listă lungă de tombole. "
+"Atenție la faptul că produsul ar putea fi legat de oricare dintre tombolele "
+"terminate ascunse."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:508
+msgid "Include Billing Info"
+msgstr "Includeți informații de facturare"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:293
+#: includes/w/W_RafflePlayWoo_Promotion.php:341
+msgid "Include Category"
+msgstr "Includeți categoria"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:358
+msgid "Include in draw after tickets purchased"
+msgstr "Includeți în tragerea la sorți după achiziționarea biletelor"
+
+#: includes/RafflePlayWoo_Plugin.php:329
+msgid ""
+"Include in draw after tickets purchased cannot be greater than maximum limit"
+msgstr ""
+"Includerea în extragere după ce biletele cumpărate nu poate fi mai mare "
+"decât limita maximă"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:285
+msgid "Include Leading Zero"
+msgstr "Includeți zero de frunte"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:271
+msgid "Include Prefix"
+msgstr "Includeți prefixul"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:497
+msgid "Include Product Name & Quantity"
+msgstr "Includeți numele produsului și cantitatea"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:161
+msgid "Include Raffle Name"
+msgstr "Includeți numele tombola"
+
+#: includes/RafflePlayWoo_Plugin.php:286
+msgid "Info"
+msgstr "Informații"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:76
+msgid "Info about the raffle"
+msgstr "Informații despre tombolă"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:61
+msgid ""
+"Informational - Might be the case when 2 raffle tickets to have the same "
+"number (should not happen)"
+msgstr ""
+"Informativ - Ar putea fi cazul în care 2 bilete de tombolă să aibă același "
+"număr (nu ar trebui să se întâmple)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:56
+msgid "Informational - Shows the raffle products linked to this raffle"
+msgstr "Informativ - Afișează produsele de tombolă legate de această tombolă"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:51
+msgid "Informational - what's the last ticket purchased"
+msgstr "Informativ - care este ultimul bilet cumpărat"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:307
+msgid "Inherit Email Format from Default Raffle"
+msgstr "Moștenirea formatului de e-mail de la Raffle implicit"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:322
+msgid "Inherit Messages from Default Raffle"
+msgstr "Moștenirea mesajelor din Raffle implicit"
+
+#: includes/RafflePlayWoo_LifeCycle.php:470
+msgid "Installation Info"
+msgstr "Informații despre instalare"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:267
+msgid "Invalid chars (<,>,&,%,',\")"
+msgstr "Caractere nevalabile (<,>,&,%,',\")"
+
+#: includes/templates/customer_search.php:33
+msgid "Invalid Email"
+msgstr "Email invalid"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1609
+msgid "Invalid email"
+msgstr "E-mail invalid"
+
+#: includes/RafflePlayWoo_Plugin.php:294
+msgid "Invalid Limit Number"
+msgstr "Număr limită invalid"
+
+#: includes/RafflePlayWoo_Plugin.php:271
+msgid "Invalid Number"
+msgstr "Număr invalid"
+
+#: includes/RafflePlayWoo_Plugin.php:293
+msgid "Invalid Start Ticket Number"
+msgstr "Număr de tichet de pornire invalid"
+
+#: includes/RafflePlayWoo_Plugin.php:304
+msgid "Invalid Ticket Number"
+msgstr "Număr de bilet invalid"
+
+#: includes/templates/customer_search.php:20
+msgid "is required field"
+msgstr "este un câmp obligatoriu"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:15
+msgid ""
+"It can be of type test, used for testing purposes, with special raffle "
+"numbers, and live.\n"
+"             When finishing testing dont forget to switch to live."
+msgstr ""
+"Acesta poate fi de tip test, utilizat în scopuri de testare, cu numere "
+"speciale de tombolă și în direct.\n"
+"             Când terminați testarea, nu uitați să treceți la live."
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:13
+msgid ""
+"It doesnt inherit the extra message from the email template as it can be "
+"custom set for the new raffle"
+msgstr ""
+"Nu moștenește mesajul suplimentar din șablonul de e-mail, deoarece acesta "
+"poate fi setat personalizat pentru noua tombolă"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:9
+msgid ""
+"It inherits the other settings from the Default Raffle like (message, email "
+"temaplate)"
+msgstr ""
+"Moștenește celelalte setări de la Tombola implicită, cum ar fi (mesaj, "
+"temaplate de e-mail)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:335
+msgid "It wont affect the order, raffle tickets won't be created"
+msgstr "Nu va afecta comanda, biletele de tombolă nu vor fi create"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:497
+msgid "January"
+msgstr "Ianuarie"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:503
+msgid "July"
+msgstr "Iulie"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:502
+msgid "June"
+msgstr "Iunie"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:179
+msgid "Label Customer City"
+msgstr "Etichetă Orașul clientului"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:191
+msgid "Label Customer Country"
+msgstr "Etichetă Client Țară"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:167
+msgid "Label Customer Name"
+msgstr "Etichetă Nume client"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:203
+msgid "Label Purchased"
+msgstr "Etichetă cumpărată"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:155
+msgid "Label Tickets"
+msgstr "Bilete de etichetă"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:70
+msgid ""
+"Labels and info that will show in the email confirmation, and thank you page"
+msgstr ""
+"Etichete și informații care vor fi afișate în confirmarea prin e-mail și în "
+"pagina de mulțumire"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:536
+msgid "Landscape"
+msgstr "Peisaj"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:50
+msgid "Last Live Ticket"
+msgstr "Ultimul bilet live"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:210
+msgid "Last Live Used Ticket"
+msgstr "Ultimul bilet live folosit"
+
+#: includes/RafflePlayWoo_Plugin.php:266
+#: includes/d/D_RafflePlayWoo_Reports.php:978
+#: includes/templates/customer_search.php:17
+#: includes/w/W_RafflePlayWoo_Reports.php:304
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:118
+msgid "Last Name"
+msgstr "Numele de familie"
+
+#: includes/RafflePlayWoo_Plugin.php:299
+msgid "Last Ticket"
+msgstr "Ultimul bilet"
+
+#: includes/w/W_RafflePlayWoo_Info.php:168
+msgid "Latest Version Available"
+msgstr "Cea mai recentă versiune disponibilă"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:176
+msgid "Leave empty if no prefix wanted. (eg: Ticket-10024)"
+msgstr "Se lasă gol dacă nu se dorește un prefix. (de exemplu: Ticket-10024)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:285
+msgid "Let the System pick the number randomly when tickets are generated"
+msgstr ""
+"Lăsați sistemul să aleagă numărul aleatoriu atunci când sunt generate "
+"biletele"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:550
+#: includes/w/W_RafflePlayWoo_MainPage.php:748
+#: includes/w/W_RafflePlayWoo_Raffles.php:373
+msgid "Library"
+msgstr "Biblioteca"
+
+#: includes/w/W_RafflePlayWoo_Info.php:48
+msgid "License"
+msgstr "Licență"
+
+#: includes/RafflePlayWoo_LifeCycle.php:381
+msgid "License & Documentation"
+msgstr "Licență și documentație"
+
+#: includes/w/W_RafflePlayWoo_Info.php:88
+msgid "License (paste it here)"
+msgstr "Licență (lipiți-o aici)"
+
+#: includes/w/W_RafflePlayWoo_Info.php:124
+msgid "License Active"
+msgstr "Licență activă"
+
+#: includes/w/W_RafflePlayWoo_Info.php:188
+msgid "License Date last checked"
+msgstr "Licență Data ultimei verificări"
+
+#: includes/w/W_RafflePlayWoo_Info.php:202
+msgid ""
+"License is valid. Thank you for using our product. We much appreciate it."
+msgstr ""
+"Licența este valabilă. Vă mulțumim pentru utilizarea produsului nostru. "
+"Apreciem foarte mult acest lucru."
+
+#: includes/w/W_RafflePlayWoo_Info.php:114
+msgid "License Version"
+msgstr "Versiunea de licență"
+
+#: includes/w/W_RafflePlayWoo_Info.php:98
+#: includes/w/W_RafflePlayWoo_Info.php:101
+msgid "Licensing Server Url"
+msgstr "Url server de licențiere"
+
+#: includes/RafflePlayWoo_Plugin.php:285
+msgid "Limit No"
+msgstr "Limită Nu"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:30
+msgid "Limit number of tickets"
+msgstr "Limitarea numărului de bilete"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:90
+msgid "Limit Number or Raffle Tickets"
+msgstr "Număr limită sau bilete de tombolă"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:253
+msgid "Limit or rows to display (use -1 for unlimited rows)"
+msgstr "Limita de rânduri de afișat (utilizați -1 pentru rânduri nelimitate)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:369
+msgid ""
+"Limit order per raffle tickets. Avoid mixing raffle tickets per order. The "
+"check is made on add to cart event."
+msgstr ""
+"Limitați comanda pentru fiecare bilet de tombolă. Evitați să amestecați "
+"bilete de tombolă pe comandă. Verificarea se face la evenimentul de adăugare "
+"în coș."
+
+#: includes/RafflePlayWoo_Plugin.php:284
+msgid "Limited"
+msgstr "Limitat"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:160
+msgid "Limited Tickets"
+msgstr "Bilete limitate"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:799
+#: includes/w/W_RafflePlayWoo_ViewPage.php:237
+msgid "Line Height"
+msgstr "Înălțimea liniei"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:387
+msgid "Linked to Product"
+msgstr "Legat de produs"
+
+#: includes/RafflePlayWoo_Plugin.php:279
+#: includes/w/W_RafflePlayWoo_Raffles.php:91
+#: includes/w/W_RafflePlayWoo_ViewPage.php:30
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:44
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:45
+msgid "Live"
+msgstr "Live"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:221
+msgid "Live Raffle Tickets Purchased"
+msgstr "Bilete de tombolă live achiziționate"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:72
+msgid "Live Ticket Starts At"
+msgstr "Bilet live începe de la"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:25
+msgid "Live Tickets Start At"
+msgstr "Biletele live încep de la"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:149
+msgid "Location at Checkout (if checkout is created using blocks)"
+msgstr "Locație la checkout (dacă checkout-ul este creat folosind blocuri)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:115
+msgid ""
+"Location at Checkout (if checkout is created with shortcode "
+"[woocommerce_checkout])"
+msgstr ""
+"Locație la Checkout (dacă checkout este creat cu shortcode "
+"[woocommerce_checkout])"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:22
+msgid "Logged In Users"
+msgstr "Utilizatori conectați"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:46
+msgid "Login url (or product url)"
+msgstr "URL-ul de conectare (sau URL-ul produsului)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:303
+msgid "Look up Available Numbers"
+msgstr "Căutați numerele disponibile"
+
+#: includes/RafflePlayWoo_Plugin.php:330
+msgid "Lucky number cannot be above the maximum limit"
+msgstr "Numărul norocos nu poate fi mai mare decât limita maximă"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:264
+msgid "Lucky Number Name"
+msgstr "Nume număr norocos"
+
+#: includes/RafflePlayWoo_LifeCycle.php:445
+#: includes/w/W_RafflePlayWoo_Lucky.php:104
+msgid "Lucky Numbers (Instant Wins)"
+msgstr "Numerele norocoase (câștiguri instantanee)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:279
+msgid "Lukcy Number"
+msgstr "Număr de Lukcy"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:8
+msgid "Main update - Lucky Numbers, Instant wins"
+msgstr "Actualizare principală - Numere norocoase, câștiguri instantanee"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:499
+msgid "March"
+msgstr "Martie"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:106
+msgid "Maximum 200 characters"
+msgstr "Maxim 200 de caractere"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:501
+msgid "May"
+msgstr "Mai"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:82
+msgid "Message after reserved time has passed!"
+msgstr "Mesaj după ce a trecut timpul rezervat!"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:109
+msgid ""
+"Messages are connected to general settings like terminated, start/end dates "
+"etc"
+msgstr ""
+"Mesajele sunt conectate la setări generale, cum ar fi datele de terminare, "
+"de început și de sfârșit etc"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:345
+msgid "Messages Shortcode"
+msgstr "Mesaje Shortcode"
+
+#: raffle-play-woo.php:28
+msgid "Minimal version of PHP required: "
+msgstr "Este necesară o versiune minimă de PHP:"
+
+#: includes/RafflePlayWoo_Countdown.php:54
+msgid "Minutes"
+msgstr "Proces-verbal"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:39
+msgid "minutes"
+msgstr "minute"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1087
+msgid "Minutes Label"
+msgstr "Etichetă Minute"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:484
+msgid "Month"
+msgstr "Luna"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:143
+#: includes/w/W_RafflePlayWoo_Reports.php:96
+msgid "Monthly Sales"
+msgstr "Vânzări lunare"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:10
+msgid "Most of the settings found on this page are self explanatory."
+msgstr ""
+"Cele mai multe dintre setările de pe această pagină sunt de la sine înțelese."
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:157
+#: includes/w/W_RafflePlayWoo_MainPage.php:81
+msgid "Multiple Raffles"
+msgstr "Tombolă multiplă"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:465
+#: includes/w/W_RafflePlayWoo_Promotion.php:203
+msgid "Name"
+msgstr "Nume"
+
+#: includes/RafflePlayWoo_Plugin.php:325
+msgid "New"
+msgstr "Nou"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:194
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:131
+msgid "New feature"
+msgstr "Caracteristică nouă"
+
+#: includes/RafflePlayWoo_Plugin.php:288
+msgid "New Raffle"
+msgstr "Noua tombolă"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5626
+msgid "New Ticket "
+msgstr "Bilet nou"
+
+#: includes/RafflePlayWoo_Plugin.php:282 includes/w/W_RafflePlayWoo_Info.php:15
+#: includes/w/W_RafflePlayWoo_MainPage.php:166
+#: includes/w/W_RafflePlayWoo_MainPage.php:377
+#: includes/w/W_RafflePlayWoo_MainPage.php:430
+#: includes/w/W_RafflePlayWoo_MainPage.php:502
+#: includes/w/W_RafflePlayWoo_MainPage.php:513
+#: includes/w/W_RafflePlayWoo_MainPage.php:685
+#: includes/w/W_RafflePlayWoo_MainPage.php:701
+#: includes/w/W_RafflePlayWoo_MainPage.php:718
+#: includes/w/W_RafflePlayWoo_MainPage.php:857
+#: includes/w/W_RafflePlayWoo_MainPage.php:1039
+#: includes/w/W_RafflePlayWoo_MainPage.php:1217
+#: includes/w/W_RafflePlayWoo_MainPage.php:1232
+#: includes/w/W_RafflePlayWoo_Raffles.php:96
+#: includes/w/W_RafflePlayWoo_Raffles.php:109
+#: includes/w/W_RafflePlayWoo_Raffles.php:173
+#: includes/w/W_RafflePlayWoo_Raffles.php:181
+#: includes/w/W_RafflePlayWoo_Raffles.php:202
+#: includes/w/W_RafflePlayWoo_Raffles.php:269
+#: includes/w/W_RafflePlayWoo_Raffles.php:312
+#: includes/w/W_RafflePlayWoo_Raffles.php:327
+#: includes/w/W_RafflePlayWoo_Raffles.php:346
+#: includes/w/W_RafflePlayWoo_Raffles.php:404
+#: includes/w/W_RafflePlayWoo_Raffles.php:430
+#: includes/w/W_RafflePlayWoo_Raffles.php:457
+#: includes/w/W_RafflePlayWoo_Raffles.php:483
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:58
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:195
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:63
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:108
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:117
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:139
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:239
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:425
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:445
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:516
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:581
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:651
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:24
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:46
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:106
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:120
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:134
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:148
+msgid "No"
+msgstr "Nu"
+
+#: includes/RafflePlayWoo_Plugin.php:322
+msgid ""
+"No available tickets found, increase the number of available raffle tickets."
+msgstr ""
+"Nu s-au găsit bilete disponibile, creșteți numărul de bilete de tombolă "
+"disponibile."
+
+#: includes/RafflePlayWoo_LifeCycle.php:561
+msgid "No raffle id provided"
+msgstr "Nu se furnizează id pentru tombolă"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:55
+msgid "No raffle products will be available at checkout while disabled."
+msgstr ""
+"Niciun produs de tombolă nu va fi disponibil la casa de marcat cât timp este "
+"dezactivat."
+
+#: includes/RafflePlayWoo_Plugin.php:291
+msgid "No Raffle Selected"
+msgstr "Nici o tombolă selectată"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:145
+msgid "No Raffle Tickets found on this search"
+msgstr "Nu s-au găsit bilete de tombolă în această căutare"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:935
+msgid "No Raffle Tickets to display - message"
+msgstr "Nu se afișează niciun bilet de tombolă - mesaj"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:326
+msgid ""
+"No raffle tickets will be generated. You need to select at least one order "
+"status to generate tickets. Recommending to enable Processing and Completed"
+msgstr ""
+"Nu se vor genera bilete de tombolă. Trebuie să selectați cel puțin o stare a "
+"comenzii pentru a genera bilete. Se recomandă activarea funcțiilor Procesare "
+"și Finalizat"
+
+#: includes/templates/product_raffle_tab.php:186
+msgid "No records found"
+msgstr "Nu s-au găsit înregistrări"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:448
+msgid "No Restrict"
+msgstr "Fără restricții"
+
+#: includes/RafflePlayWoo_Plugin.php:290
+msgid "No Row Selected"
+msgstr "Nici un rând selectat"
+
+#: includes/RafflePlayWoo_Plugin.php:262
+msgid "No Tickets"
+msgstr "Fără bilete"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:129
+msgid "No tickets found message"
+msgstr "Mesaj \"Nu s-au găsit bilete"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:496
+#: includes/w/W_RafflePlayWoo_Lucky.php:14
+msgid "None"
+msgstr "Nici unul"
+
+#: includes/RafflePlayWoo_Plugin.php:324
+msgid "Not Found"
+msgstr "Nu a fost găsit"
+
+#: includes/templates/pdf_template_one.php:306
+#: includes/templates/pdf_template_two.php:305
+msgid "Note:"
+msgstr "Notă:"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:507
+msgid "November"
+msgstr "Noiembrie"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:20
+msgid ""
+"Now you can delegate some of the work to different users thanks to the new "
+"update on User Access."
+msgstr ""
+"Acum puteți delega o parte din muncă unor utilizatori diferiți, datorită "
+"noii actualizări privind accesul utilizatorilor."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:466
+msgid "Number"
+msgstr "Număr"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:506
+msgid "October"
+msgstr "Octombrie"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:167
+msgid "Off as Default"
+msgstr "Dezactivat ca implicit"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:291
+msgid "OK"
+msgstr "OK"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5625
+msgid "Old Ticket"
+msgstr "Bilet vechi"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:310
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:314
+msgid "On Hold"
+msgstr "În așteptare"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:487
+msgid "One"
+msgstr "Unu"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:162
+msgid "One Raffle Tickets at checkout"
+msgstr "Un bilet de tombolă la checkout"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:367
+msgid "One Raffle tickets at checkout."
+msgstr "Un bilet de tombolă la checkout."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1301
+msgid "Optional settings"
+msgstr "Setări opționale"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:69
+msgid "OR"
+msgstr "SAU"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:23
+#: includes/w/W_RafflePlayWoo_MainPage.php:736
+#: includes/w/W_RafflePlayWoo_Raffles.php:362
+msgid "Orange"
+msgstr "Portocaliu"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1055
+#: includes/w/W_RafflePlayWoo_MainPage.php:919
+#: includes/w/W_RafflePlayWoo_Reports.php:220
+msgid "Order"
+msgstr "Comandă"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:246
+msgid "Order can be changed by dragging to desired position number"
+msgstr "Ordinea poate fi schimbată prin glisarea la numărul de poziție dorit"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:240
+#: includes/d/D_RafflePlayWoo_Reports.php:989
+#: includes/w/W_RafflePlayWoo_Reports.php:314
+msgid "Order Date"
+msgstr "Data comenzii"
+
+#: includes/RafflePlayWoo_Plugin.php:269
+msgid "Order Date/Time"
+msgstr "Data/ora comenzii"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:217
+msgid "Order has mixed raffle products"
+msgstr "Comanda are produse de tombolă mixte"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3386
+#: includes/RafflePlayWoo_LifeCycle.php:5627
+#: includes/RafflePlayWoo_Plugin.php:258
+#: includes/w/W_RafflePlayWoo_ViewPage.php:342
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:91
+msgid "Order Id"
+msgstr "ID-ul comenzii"
+
+#: includes/templates/customer_search.php:14
+msgid "Order id"
+msgstr "ID-ul comenzii"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:472
+msgid ""
+"Order Id + Customer First Name + Customer Last Name (eg: 5_John_Silva.pdf)"
+msgstr ""
+"ID-ul comenzii + Prenumele clientului + Numele și prenumele clientului (de "
+"exemplu: 5_John_Silva.pdf)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:464
+msgid ""
+"Order Id + GUID (eg: 5_ADFE2345ADEFEF-42ADFG-34TERE.pdf) ***RECOMMENDED***"
+msgstr ""
+"ID-ul comenzii + GUID (de exemplu: 5_ADFE2345ADEFEF-42ADFG-34TERE.pdf) "
+"***RECOMANDAT***"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:50
+msgid "Order in Modal"
+msgstr "Comandă în modal"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:976
+#: includes/w/W_RafflePlayWoo_Reports.php:301
+msgid "Order No"
+msgstr "Nr. de ordine"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:70
+msgid ""
+"Order of the tab, 5 will be the first tab shown, 15 will be second, and so on"
+msgstr ""
+"Ordinea filelor, 5 va fi prima filă afișată, 15 va fi a doua, și așa mai "
+"departe"
+
+#: includes/RafflePlayWoo_Plugin.php:264
+msgid "Order Sale"
+msgstr "Comandă de vânzare"
+
+#: includes/RafflePlayWoo_Plugin.php:315
+#: includes/d/D_RafflePlayWoo_Reports.php:988
+#: includes/w/W_RafflePlayWoo_Reports.php:313
+msgid "Order Status"
+msgstr "Starea comenzii"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:198
+#: includes/w/W_RafflePlayWoo_ViewPage.php:75
+msgid "Order Status "
+msgstr "Starea comenzii"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:987
+#: includes/w/W_RafflePlayWoo_Reports.php:302
+msgid "Order Total"
+msgstr "Comanda Total"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:423
+msgid "Orders"
+msgstr "Comenzi"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1581
+#: includes/RafflePlayWoo_LifeCycle.php:6204
+msgid "Page did not verify"
+msgstr "Pagina nu a verificat"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:520
+msgid "Page Orientation"
+msgstr "Orientarea paginii"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:348
+msgid "Payment failed or was declined (unpaid)"
+msgstr "Plata a eșuat sau a fost refuzată (neplătită)"
+
+#: includes/docs/RafflePlayWoo_Docs_Pdf_Attachment.php:3
+#: includes/w/W_RafflePlayWoo_MainPage.php:86
+msgid "PDF Email Attachment"
+msgstr "PDF Atașament e-mail"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:456
+msgid "PDF Filename"
+msgstr "Numele fișierului PDF"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:481
+msgid "PDF Template"
+msgstr "Șablon PDF"
+
+#: includes/RafflePlayWoo_Plugin.php:275
+#: includes/d/D_RafflePlayWoo_Reports.php:986
+#: includes/w/W_RafflePlayWoo_Reports.php:312
+msgid "Phone"
+msgstr "Telefon"
+
+#: includes/templates/customer_search.php:18
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:75
+msgid "Phone Number"
+msgstr "Număr de telefon"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:293
+msgid "Pick the number manually"
+msgstr "Alegeți numărul manual"
+
+#: includes/RafflePlayWoo_Plugin.php:316
+#: includes/w/W_RafflePlayWoo_ViewPage.php:375
+msgid "Please Wait."
+msgstr "Vă rugăm să așteptați."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:528
+msgid "Portrait"
+msgstr "Portret"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:527
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:662
+msgid "Position on Grid Card"
+msgstr "Poziția pe cardul de grilă"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:456
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:592
+msgid "Position on Product page"
+msgstr "Poziția pe pagina produsului"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:982
+#: includes/w/W_RafflePlayWoo_Reports.php:308
+msgid "Post Code"
+msgstr "Cod poștal"
+
+#: includes/RafflePlayWoo_Plugin.php:297
+msgid "Prefix"
+msgstr "Prefix"
+
+#: includes/templates/pdf_template_one.php:264
+#: includes/templates/pdf_template_two.php:263
+msgid "Price"
+msgstr "Preț"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:294
+msgid "Print"
+msgstr "Imprimare"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:199
+msgid "Print Options"
+msgstr "Opțiuni de imprimare"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:92
+msgid "Print Tickets"
+msgstr "Imprimă bilete"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:65
+msgid "Priority"
+msgstr "Prioritate"
+
+#: includes/RafflePlayWoo_Plugin.php:305
+#: includes/w/W_RafflePlayWoo_Winners.php:68
+msgid "Prize"
+msgstr "Premiul"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:71
+msgid "Prize Name"
+msgstr "Numele premiului"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:294
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:298
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:372
+msgid "Processing"
+msgstr "Prelucrare"
+
+#: includes/RafflePlayWoo_Plugin.php:314
+#: includes/templates/pdf_template_one.php:262
+#: includes/templates/pdf_template_two.php:261
+#: includes/w/W_RafflePlayWoo_Lucky.php:468
+#: includes/w/W_RafflePlayWoo_Reports.php:220
+msgid "Product"
+msgstr "Produs"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:375
+msgid "Product from Category"
+msgstr "Produs din categoria"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:855
+msgid "Product Name"
+msgstr "Denumirea produsului"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:127
+msgid "Product Raffle Tab (Last Tickets Sold)"
+msgstr "Product Raffle Tab (Ultimele bilete vândute)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:11
+msgid ""
+"Product Raffle Tab - Show last orders with sold tickets and customer info"
+msgstr ""
+"Tab Raffle de produse - Afișați ultimele comenzi cu bilete vândute și "
+"informații despre client"
+
+#: includes/RafflePlayWoo_Plugin.php:283
+msgid "Products"
+msgstr "Produse"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1264
+msgid "Progress Bar Color"
+msgstr "Culoarea barei de progres"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:462
+#: includes/w/W_RafflePlayWoo_Raffles.php:488
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:656
+msgid "Progress Bar Image"
+msgstr "Imaginea barei de progres"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:111
+msgid "Progress Bar Settings"
+msgstr "Setări pentru bara de progres"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1209
+msgid "Progress Bar would be hidden if the raffle not running."
+msgstr "Bara de progres va fi ascunsă dacă nu se desfășoară tombola."
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:586
+msgid "Progressbar Image"
+msgstr "Imaginea barei de progres"
+
+#: includes/RafflePlayWoo_LifeCycle.php:429
+#: includes/w/W_RafflePlayWoo_Promotion.php:176
+msgid "Promotion"
+msgstr "Promoție"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:65
+#: includes/w/W_RafflePlayWoo_Promotion.php:197
+msgid "Promotion Name"
+msgstr "Numele promoției"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:8
+#: includes/w/W_RafflePlayWoo_Promotion.php:39
+msgid "Promotional Raffle"
+msgstr "Tombolă promoțională"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2492
+msgid ""
+"Promotional Raffle Product (watch video on how to setup promotional raffle)"
+msgstr ""
+"Produs promoțional pentru tombolă (urmăriți videoclipul despre cum să "
+"organizați o tombolă promoțională)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:24
+#: includes/w/W_RafflePlayWoo_MainPage.php:737
+#: includes/w/W_RafflePlayWoo_Raffles.php:363
+msgid "Purple"
+msgstr "Violet"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:121
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:149
+msgid "Put leading zeros to the number, the prefix will be included"
+msgstr "Puneți zerouri la număr, prefixul va fi inclus"
+
+#: includes/templates/pdf_template_one.php:263
+#: includes/templates/pdf_template_two.php:262
+msgid "Quantity"
+msgstr "Cantitate"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:693
+msgid "Quick view of the raffle tickets in the Orders Table View"
+msgstr ""
+"Vizualizare rapidă a biletelor de tombolă în vizualizarea tabelului de "
+"comenzi"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3711
+#: includes/RafflePlayWoo_LifeCycle.php:4655
+#: includes/RafflePlayWoo_Plugin.php:308
+#: includes/w/W_RafflePlayWoo_MainPage.php:447
+#: includes/w/W_RafflePlayWoo_MainPage.php:920
+#: includes/w/W_RafflePlayWoo_Promotion.php:246
+#: includes/w/W_RafflePlayWoo_Reports.php:52
+#: includes/w/W_RafflePlayWoo_ViewPage.php:61
+#: includes/w/W_RafflePlayWoo_Winners.php:79
+msgid "Raffle"
+msgstr "Tombolă"
+
+#: includes/RafflePlayWoo_LifeCycle.php:793
+msgid "Raffle - Number of Tickets for this Variation"
+msgstr "Tombolă - Numărul de bilete pentru această variantă"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:60
+msgid "Raffle Action"
+msgstr "Acțiune de tombolă"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:60
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:399
+msgid "Raffle Duplicate Tickets"
+msgstr "Bilete duplicat pentru tombolă"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:199
+msgid "Raffle End Date Time"
+msgstr "Data de încheiere a tombola Ora"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:132
+#, php-format
+msgid "Raffle has an ending date - notify user - %s as end date"
+msgstr ""
+"Tombola are o dată de încheiere - notificați utilizatorul - %s ca dată de "
+"încheiere"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:126
+msgid "Raffle has ended"
+msgstr "Tombola s-a încheiat"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:284
+#, php-format
+msgid "Raffle has ended (end date - %s)"
+msgstr "Tombola s-a încheiat (data de încheiere - %s)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:272
+#, php-format
+msgid "Raffle hasn't started (start date - %s)"
+msgstr "Tombola nu a început (data de începere - %s)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:121
+msgid "Raffle hasn't started yet"
+msgstr "Tombola nu a început încă"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1303
+msgid "Raffle id, swap 0 to your desired raffle id"
+msgstr "ID-ul de tombolă, schimbați 0 cu ID-ul de tombolă dorit"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:710
+#: includes/w/W_RafflePlayWoo_Raffles.php:338
+msgid ""
+"Raffle image will be placed in the background of the ticket number. Custom "
+"images can be used, or customized in the template"
+msgstr ""
+"Imaginea de tombolă va fi plasată pe fundalul numărului de bilet. Se pot "
+"folosi imagini personalizate sau pot fi personalizate în șablon"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:41
+#: includes/w/W_RafflePlayWoo_MainPage.php:260
+msgid "Raffle is Terminated"
+msgstr "Tombola este încheiată"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:116
+msgid "Raffle is Termindated"
+msgstr "Tombola este terminată"
+
+#: includes/RafflePlayWoo_Plugin.php:278
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:80
+#: includes/w/W_RafflePlayWoo_Raffles.php:71
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:27
+msgid "Raffle Name"
+msgstr "Nume tombolă"
+
+#: includes/RafflePlayWoo_Plugin.php:292
+msgid "Raffle Name Required"
+msgstr "Nume de tombolă Necesar"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2519
+#: includes/RafflePlayWoo_LifeCycle.php:4842
+msgid "Raffle Number of tickets"
+msgstr "Tombolă Număr de bilete"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:21
+msgid "Raffle Number or Tickets"
+msgstr "Număr de bilete de tombolă sau bilete"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2548
+#: includes/RafflePlayWoo_LifeCycle.php:4815
+#: includes/RafflePlayWoo_LifeCycle.php:4869
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:19
+msgid "Raffle Play Product"
+msgstr "Produsul Raffle Play"
+
+#: raffle-play-woo.php:35 raffle-play-woo.php:41 raffle-play-woo.php:47
+#: includes/RafflePlayWoo_LifeCycle.php:4652
+msgid "Raffle Play Woo"
+msgstr "Tombolă Joacă Woo"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2480
+msgid "Raffle Product"
+msgstr "Produs de tombolă"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:55
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:268
+msgid "Raffle Products"
+msgstr "Produse pentru tombolă"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2455
+msgid "Raffle Settings"
+msgstr "Setări pentru tombolă"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:40
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:45
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:188
+msgid "Raffle Start Date Time"
+msgstr "Data de începere a tombola Ora"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:14
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:37
+msgid "Raffle Status"
+msgstr "Stare de tombolă"
+
+#: includes/RafflePlayWoo_Plugin.php:270
+msgid "Raffle Ticket"
+msgstr "Bilet de tombolă"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:975
+#: includes/w/W_RafflePlayWoo_Reports.php:300
+msgid "Raffle Ticket No"
+msgstr "Bilet de tombolă nr"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2570
+#: includes/w/W_RafflePlayWoo_Promotion.php:294
+msgid "Raffle Tickets"
+msgstr "Bilete de tombolă"
+
+#: includes/RafflePlayWoo_Plugin.php:331
+msgid "Raffle tickets are Generated and Displayed at Checkout - Turn Off"
+msgstr "Biletele de tombolă sunt generate și afișate la Checkout - Dezactivați"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:154
+msgid "Raffle Tickets Info"
+msgstr "Bilete de tombolă Info"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:288
+msgid "Raffle Tickets will only be generated for these statuses"
+msgstr "Biletele de tombolă vor fi generate doar pentru aceste statusuri"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:339
+msgid "Raffle tickets wont be generated if ticked on"
+msgstr "Biletele de tombolă nu vor fi generate dacă se bifează pe"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:131
+msgid "Raffle will end"
+msgstr "Tombola se va încheia"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:296
+#, php-format
+msgid "Raffle will end (end date - %s)"
+msgstr "Tombola se va încheia (data de încheiere - %s)"
+
+#: includes/RafflePlayWoo_LifeCycle.php:316
+#: includes/w/W_RafflePlayWoo_Raffles.php:17
+msgid "Raffles"
+msgstr "Raffles"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2537
+#: includes/RafflePlayWoo_LifeCycle.php:4858
+msgid "Raffles List"
+msgstr "Lista tombolelor"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:3
+msgid "Raffles Setup"
+msgstr "Configurarea tombolelor"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:351
+msgid "Random from available tickets"
+msgstr "Aleatoriu din biletele disponibile"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:42
+msgid "Recommended to have at least search on by email and order id"
+msgstr "Recomandat să aveți cel puțin o căutare pe e-mail și ID-ul comenzii"
+
+#: includes/RafflePlayWoo_Plugin.php:310
+msgid "Records Deleted"
+msgstr "Înregistrări șterse"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:25
+#: includes/w/W_RafflePlayWoo_MainPage.php:738
+#: includes/w/W_RafflePlayWoo_Raffles.php:364
+msgid "Red"
+msgstr "Roșu"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:7
+msgid "Release 5.8.1  - 2023-December-05"
+msgstr "Versiunea 5.8.1 - 2023-Decembrie-05"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:7
+msgid "Release 5.8.4  - 2024-Jan-4"
+msgstr "Versiunea 5.8.4 - 2024-Jan-4"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:7
+msgid "Release 5.9.0  - 2024-Feb-18"
+msgstr "Versiunea 5.9.0 - 2024-Feb-18"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:7
+msgid "Release 6.0.0  - 2024-Mar-23"
+msgstr "Versiunea 6.0.0 - 2024-Mar-23"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:7
+msgid "Release 6.2  - 2024-Apr-25"
+msgstr "Versiunea 6.2 - 2024-Apr-25"
+
+#: includes/w/W_RafflePlayWoo_Releases.php:13
+msgid "Release Notes"
+msgstr "Note de lansare"
+
+#: includes/RafflePlayWoo_LifeCycle.php:398
+#: includes/w/W_RafflePlayWoo_Releases.php:21
+msgid "Releases"
+msgstr "Eliberări"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:249
+msgid "Report Columns"
+msgstr "Coloane de raport"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:182
+msgid "Report Settings"
+msgstr "Setări raport"
+
+#: includes/RafflePlayWoo_LifeCycle.php:364
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:3
+#: includes/w/W_RafflePlayWoo_Reports.php:41
+msgid "Reports"
+msgstr "Rapoarte"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:65
+msgid "Reserve time message"
+msgstr "Mesaj privind timpul de rezervă"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:17
+msgid "Reserved Time - Cycle"
+msgstr "Timp rezervat - ciclu"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:28
+msgid "Reserved time for the raffle tickets at checkout"
+msgstr "Timp rezervat pentru biletele de tombolă la casa de marcat"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:48
+msgid "Reserved time for tickets at checkout, show countdown."
+msgstr ""
+"Timp rezervat pentru bilete la casa de marcat, numărătoare inversă pentru "
+"spectacol."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:439
+msgid ""
+"Restrict attachement only for Order with raffle products, or let all orders "
+"to have pdf attachment"
+msgstr ""
+"Restricționați atașamentul doar pentru comenzile cu produse de tombolă sau "
+"permiteți tuturor comenzilor să aibă atașament pdf"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:437
+msgid "Restrict attachment only for Orders with: "
+msgstr "Restricționați atașamentul numai pentru comenzile cu:"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:163
+msgid ""
+"Restrict the user of adding mixed raffle tickets at checkout. Some customers "
+"want only one raffle tickets at checkout"
+msgstr ""
+"Restricționarea utilizatorului de a adăuga bilete de tombolă mixte la "
+"finalizarea comenzii. Unii clienți doresc doar un singur bilet de tombolă la "
+"finalizarea comenzii"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:47
+msgid "Reward customers with free raffle tickets for each purchase they make"
+msgstr ""
+"Recompensați clienții cu bilete de tombolă gratuite pentru fiecare achiziție "
+"pe care o fac"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:66
+#: includes/w/W_RafflePlayWoo_Promotion.php:106
+#: includes/w/W_RafflePlayWoo_Promotion.php:274
+msgid "Rules"
+msgstr "Reguli"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:19
+msgid "Run Fix"
+msgstr "Run Fix"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:215
+msgid "Running Multiple Raffles at the same time"
+msgstr "Desfășurarea mai multor tombole în același timp"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:149
+msgid "Sales by Country and County"
+msgstr "Vânzări pe țări și județe"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:109
+msgid "Sales by Country&County"
+msgstr "Vânzări în funcție de țară și județ"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:152
+#: includes/w/W_RafflePlayWoo_Reports.php:145
+msgid "Sales by Product"
+msgstr "Vânzări pe produse"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:226
+msgid ""
+"Sales by Product will retrieve the sale based on the product price and "
+"quantity. When used coupons, the sale price is not retrieved correctly"
+msgstr ""
+"Vânzări după produs va prelua vânzarea pe baza prețului și a cantității "
+"produsului. Atunci când se utilizează cupoane, prețul de vânzare nu este "
+"recuperat corect"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:146
+#: includes/w/W_RafflePlayWoo_Reports.php:102
+msgid "Sales by Region/County"
+msgstr "Vânzări în funcție de regiune/țară"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:148
+msgid "Same as the above one. The check is done on update cart"
+msgstr "La fel ca cel de mai sus. Verificarea se face la actualizarea coșului"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:166
+#: includes/w/W_RafflePlayWoo_MainPage.php:52
+#: includes/w/W_RafflePlayWoo_MainPage.php:1344
+#: includes/w/W_RafflePlayWoo_Promotion.php:461
+#: includes/w/W_RafflePlayWoo_Raffles.php:500
+#: includes/w/W_RafflePlayWoo_Winners.php:116
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:116
+msgid "Save"
+msgstr "Salvați"
+
+#: includes/RafflePlayWoo_Plugin.php:256
+msgid "Saved"
+msgstr "Salvat"
+
+#: includes/RafflePlayWoo_Plugin.php:328
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:120
+msgid "Saving ..."
+msgstr "Economisirea ..."
+
+#: includes/templates/customer_search.php:19
+#: includes/templates/product_raffle_tab.php:185
+msgid "Search"
+msgstr "Căutare"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:36
+msgid "Search By"
+msgstr "Căutați după"
+
+#: includes/RafflePlayWoo_Countdown.php:55
+msgid "Seconds"
+msgstr "Secunde"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1097
+msgid "Seconds Label"
+msgstr "Eticheta Secunde"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2539
+#: includes/RafflePlayWoo_LifeCycle.php:4860
+msgid "Select a raffle for this product"
+msgstr "Selectați o tombolă pentru acest produs"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:408
+#: includes/w/W_RafflePlayWoo_MainPage.php:730
+#: includes/w/W_RafflePlayWoo_Raffles.php:356
+msgid "Select image for background ticket. (Select custom to add your own)"
+msgstr ""
+"Selectați imaginea pentru biletul de fundal. (Selectați personalizată pentru "
+"a adăuga una proprie)"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:505
+msgid "September"
+msgstr "Septembrie"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:159
+msgid "Setting when running multiple raffless at the same time"
+msgstr "Setare în cazul funcționării simultane a mai multor rafale"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:535
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:670
+msgid "Shop Loop Item Title"
+msgstr "Bucla magazinului Titlu articol"
+
+#: includes/RafflePlayWoo_Plugin.php:301
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:54
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:82
+msgid "Shortcode"
+msgstr "Codul scurt"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:154
+msgid "Shortcode Generated"
+msgstr "Codul scurt generat"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:180
+msgid "Shortcode Id - Enter unique id for this shortcode before copy"
+msgstr ""
+"Shortcode Id - Introduceți un id unic pentru acest shortcode înainte de "
+"copiere"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1623
+msgid "Shortcode id not matching"
+msgstr "Id-ul codului scurt nu se potrivește"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:101
+msgid "Shortcode Info Raffle"
+msgstr "Codul scurt Info Raffle"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:955
+msgid "Shortcode Info Raffle Data"
+msgstr "Shortcode Info Raffle Data"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1617
+msgid "Shortcode not found"
+msgstr "Codul scurt nu a fost găsit"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:189
+msgid "Shortcode to display Lucky Numbers"
+msgstr "Shortcode pentru a afișa numere norocoase"
+
+#: includes/RafflePlayWoo_Plugin.php:272
+msgid "Should be greater than zero"
+msgstr "Ar trebui să fie mai mare decât zero"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:229
+msgid "Show a message to explain in case someone will try."
+msgstr "Afișați un mesaj pentru a explica în cazul în care cineva va încerca."
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:45
+msgid "Show Countdown for Reserved time"
+msgstr "Afișați numărătoarea inversă pentru timpul rezervat"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:393
+#: includes/w/W_RafflePlayWoo_Raffles.php:421
+msgid ""
+"Show Countdown if Raffle has start date or end date set for the products "
+"linked to this raffle"
+msgstr ""
+"Afișați numărătoarea inversă dacă tombola are stabilită o dată de început "
+"sau o dată de sfârșit pentru produsele legate de această tombolă"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:434
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:504
+msgid ""
+"Show Countdown if Raffle has start date or end date set for the products "
+"linked to this raffle."
+msgstr ""
+"Afișează numărătoarea inversă dacă tombola are stabilită o dată de început "
+"sau o dată de sfârșit pentru produsele legate de această tombolă."
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:417
+msgid "Show Countdown on Card Product"
+msgstr "Afișați numărătoarea inversă pe cardul produsului"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:389
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:432
+msgid "Show Countdown on Product Page"
+msgstr "Afișați numărătoarea inversă pe pagina produsului"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:502
+msgid "Show Countdown on Shop Grid Cards"
+msgstr "Afișați numărătoarea inversă pe cardurile din grila magazinului"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:113
+msgid "Show Customer City"
+msgstr "Arată orașul clientului"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:127
+msgid "Show Customer Country"
+msgstr "Arată țara clientului"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:99
+msgid "Show Customer Name"
+msgstr "Afișați numele clientului"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:85
+msgid "Show Last Orders (limit)"
+msgstr "Afișați ultimele comenzi (limită)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:17
+msgid "Show Product Raffle Tab"
+msgstr "Afișați fila Raffle pentru produse"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:640
+msgid "Show Progress bar if the raffle has limited number of tickets."
+msgstr "Afișați bara de progres dacă tombola are un număr limitat de bilete."
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:448
+msgid ""
+"Show Progress Bar in the product page. Position is set in the Main Settings"
+msgstr ""
+"Afișați bara de progres în pagina produsului. Poziția este setată în Setări "
+"principale"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:470
+msgid "Show Progress Bar on Card Product"
+msgstr "Afișarea barei de progres pe produsul Card"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:474
+msgid ""
+"Show Progress Bar on Loop Card (eg: shop page). Position is set in the Main "
+"Settings"
+msgstr ""
+"Afișarea barei de progres pe cardul de buclă (de exemplu: pagina magazinului)"
+". Poziția este setată în Setări principale"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:444
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:566
+msgid "Show Progress Bar on Product Page"
+msgstr "Afișați bara de progres pe pagina produsului"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:638
+msgid "Show Progress Bar on Shop Grid Cards"
+msgstr "Afișați bara de progres pe cardurile de grilă din magazin"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1223
+msgid "Show Progress Bar only for limited raffle tickets"
+msgstr "Afișați Progress Bar doar pentru bilete de tombolă limitate"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:568
+msgid "Show Progress Bar, if the raffle has limited number of tickets"
+msgstr "Afișați bara de progres, dacă tombola are un număr limitat de bilete"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:141
+msgid "Show Purchased at"
+msgstr "Spectacol Achiziționat la"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:81
+msgid "Show raffle name"
+msgstr "Afișați numele tombolei"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:691
+msgid "Show Raffle Tickets in Woocommerce Orders Table View"
+msgstr ""
+"Afișați biletele de tombolă în vizualizarea tabelului de comenzi Woocommerce"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:31
+msgid "Show Table as Data Table"
+msgstr "Afișați tabelul ca tabel de date"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:915
+msgid "Show Tickets Grouped by:"
+msgstr "Bilete de spectacol grupate după:"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:708
+#: includes/w/W_RafflePlayWoo_Raffles.php:336
+msgid ""
+"Show Tickets Number with Raffle image in background (Thank you Page / Email )"
+msgstr ""
+"Afișați numărul de bilete cu imaginea tombola în fundal (Pagina de mulțumire "
+"/ Email)"
+
+#: includes/templates/product_raffle_tab.php:184
+#, php-format
+msgid "Showing page %s of %s"
+msgstr "Afișarea paginii %s din %s"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:372
+msgid "Sold"
+msgstr "Vândut"
+
+#: includes/RafflePlayWoo_Plugin.php:300
+msgid "Sold Tickets"
+msgstr "Bilete vândute"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:215
+msgid "Sold Time Hours ago (less than 24 hours)"
+msgstr "Vândut timp Acum câteva ore (mai puțin de 24 de ore)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:227
+msgid "Sold Time Minutes ago (less than 1 hour)"
+msgstr "Timp de vânzare Acum câteva minute (mai puțin de 1 oră)"
+
+#: includes/RafflePlayWoo_LifeCycle.php:795
+msgid "Some data to display for this variation."
+msgstr "Unele date de afișat pentru această variație."
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:555
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:690
+msgid ""
+"Some themes change the position of hooks with different style or html "
+"applied to the page."
+msgstr ""
+"Unele teme modifică poziția cârligelor în funcție de stilul sau de html-ul "
+"aplicat paginii."
+
+#: includes/RafflePlayWoo_Plugin.php:295
+#: includes/w/W_RafflePlayWoo_Raffles.php:210
+msgid "Start Date"
+msgstr "Data de începere"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:122
+#, php-format
+msgid "Start date is later than today - notify user - %s as start date"
+msgstr ""
+"Data de începere este mai târziu de astăzi - notificați utilizatorul - %s ca "
+"dată de începere"
+
+#: includes/RafflePlayWoo_Plugin.php:287
+#: includes/w/W_RafflePlayWoo_Raffles.php:82
+msgid "Start Ticket"
+msgstr "Bilet de pornire"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1108
+msgid "Starts In Label"
+msgstr "Începe în Label"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:3
+msgid "Step One - Install the Plugin"
+msgstr "Pasul unu - Instalați Plugin-ul"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:33
+msgid "Step Three - Configure Email Raffle Labels"
+msgstr "Pasul trei - Configurați etichetele pentru tombolă prin e-mail"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:12
+msgid "Step Two - Create Raffle Product"
+msgstr "Pasul doi - Creați produsul de tombolă"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:179
+msgid "Stop Reserving Tickets after the Time Cycles have passed"
+msgstr "Nu mai rezervați bilete după ce au trecut ciclurile de timp"
+
+#: includes/w/W_RafflePlayWoo_Info.php:157
+msgid "Support & Updates End Date"
+msgstr "Data de încheiere a suportului și a actualizărilor"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:882
+msgid "Tab Location"
+msgstr "Locația filei"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:870
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:53
+msgid "Tab Name"
+msgstr "Denumire fila"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:20
+msgid "Terminate Raffle"
+msgstr "Încetează tombola"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:53
+msgid "Terminate Raffle Now"
+msgstr "Încetează tombola acum"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:260
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:231
+msgid "Terminate Raffle on Buy Out Product"
+msgstr "Încetați tombola pe produsul Buy Out"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5760
+#: includes/RafflePlayWoo_Plugin.php:280
+#: includes/w/W_RafflePlayWoo_Raffles.php:104
+msgid "Terminated"
+msgstr "Terminat"
+
+#: includes/RafflePlayWoo_Plugin.php:298
+#: includes/w/W_RafflePlayWoo_ViewPage.php:31
+msgid "Test"
+msgstr "Test"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:174
+msgid "Test Info"
+msgstr "Informații despre test"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:823
+#: includes/w/W_RafflePlayWoo_MainPage.php:1254
+#: includes/w/W_RafflePlayWoo_ViewPage.php:256
+msgid "Text Color"
+msgstr "Culoarea textului"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:53
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:92
+msgid "Text over image (html accepted)"
+msgstr "Text peste imagine (html acceptat)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:811
+#: includes/w/W_RafflePlayWoo_ViewPage.php:246
+msgid "Text Size"
+msgstr "Dimensiunea textului"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1238
+msgid "Text to display"
+msgstr "Text de afișat"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1310
+msgid "Text to display, for shortcode use the following text replaces"
+msgstr "Textul de afișat, pentru shortcode folosiți următorul text înlocuiește"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:26
+msgid "That's the starting point of the raffle tickets."
+msgstr "Acesta este punctul de plecare al biletelor de tombolă."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1129
+msgid ""
+"The above settings are used to display the raffle countdown in the product "
+"page"
+msgstr ""
+"Setările de mai sus sunt folosite pentru a afișa numărătoarea inversă a "
+"tombolei în pagina produsului"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:974
+msgid "The code with other plugin integration is found "
+msgstr "Codul cu integrarea altor plugin-uri se găsește"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:492
+msgid ""
+"The countdown does not show in the position you have selected? Some themes "
+"change the position of hooks with different style or html applied to the "
+"page."
+msgstr ""
+"Numărătoarea inversă nu se afișează în poziția pe care ați selectat-o? Unele "
+"teme schimbă poziția cârligelor cu un stil diferit sau cu html aplicat "
+"paginii."
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:88
+msgid ""
+"The customer can still buy the tickets, but will be generated at thank you "
+"page"
+msgstr ""
+"Clientul poate cumpăra în continuare bilete, dar va fi generat la pagina de "
+"mulțumire"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:6
+msgid ""
+"The Default Raffle is the main raffle, and all other raffles created inherit "
+"some of the settings from it"
+msgstr ""
+"Tombola implicită este tombola principală, iar toate celelalte tombole "
+"create moștenesc unele dintre setările acesteia"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1247
+msgid "The keywords will be replaced with the numbers when displayed"
+msgstr "Cuvintele cheie vor fi înlocuite cu numere atunci când sunt afișate"
+
+#: raffle-play-woo.php:36
+msgid "The plugin is not licensed"
+msgstr "Plugin-ul nu este licențiat"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:5
+msgid ""
+"The Plugin requires no special installation, just as any regular plugin "
+"proceed with instalation, and activation."
+msgstr ""
+"Plugin-ul nu necesită o instalare specială, la fel ca orice alt plugin "
+"obișnuit, cu instalare și activare."
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:628
+msgid ""
+"The Progress bar does not show in the position you have selected? Some "
+"themes change the position of hooks with different style or html applied to "
+"the page."
+msgstr ""
+"Bara de progres nu se afișează în poziția pe care ați selectat-o? Unele teme "
+"modifică poziția cârligelor cu un stil diferit sau html aplicat paginii."
+
+#: includes/RafflePlayWoo_Plugin.php:333
+msgid ""
+"The Raffle does not generate tickets randomly - Change to random generated"
+msgstr ""
+"Tombola nu generează bilete aleatoriu - Modificați la generat aleatoriu"
+
+#: includes/RafflePlayWoo_Plugin.php:332
+msgid "The Raffle does not have limited tickets - Put a limit"
+msgstr "Tombola nu are bilete limitate - Puneți o limită"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:143
+msgid ""
+"The raffle has limited tickets - notify user - eg: 3 tickets left, user "
+"wants to buy 5, exceeds with 2 - show message"
+msgstr ""
+"Tombola are un număr limitat de bilete - anunțați utilizatorul - ex: au mai "
+"rămas 3 bilete, utilizatorul vrea să cumpere 5, depășește cu 2 - afișați "
+"mesajul"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:137
+msgid ""
+"The raffle has limited tickets - Upon adding to cart, the system checks if "
+"any tickets left, if not show message "
+msgstr ""
+"Tombola are un număr limitat de bilete - La adăugarea în coș, sistemul "
+"verifică dacă au mai rămas bilete, dacă nu, afișează un mesaj"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:117
+msgid "The raffle is set as terminated"
+msgstr "Tombola este stabilită ca fiind terminată"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:262
+msgid ""
+"The raffle will be set to terminated if the \"Buyout Product\" is out of "
+"stock."
+msgstr ""
+"Tombola va fi oprită în cazul în care \"Produsul de achiziție\" nu mai este "
+"în stoc."
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:233
+msgid ""
+"The raffle will be set to terminated if the \"Buyout Product\" is sold (out "
+"of stock). Terminate Raffle by selling a single not raffle product."
+msgstr ""
+"Tombola va fi setată pentru a se încheia dacă \"Produsul de cumpărare\" este "
+"vândut (epuizat). Încheiați tombola prin vânzarea unui singur produs care nu "
+"face parte din tombolă."
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:21
+msgid ""
+"The raffle will be terminated. No raffle tickets will be available for sale."
+msgstr "Tombola va fi încheiată. Nu vor fi puse în vânzare bilete de tombolă."
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:31
+msgid "The raffle will have a limited number of tickets"
+msgstr "Tombola va avea un număr limitat de bilete"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:228
+msgid "The system will do it automatically based on the rules"
+msgstr "Sistemul va face acest lucru în mod automat pe baza regulilor"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:189
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:126
+msgid "The tickets will be generated and shown at checkout page"
+msgstr "Tichetele vor fi generate și afișate la pagina de plată"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:15
+msgid "There are issues with the DB Tables"
+msgstr "Există probleme cu tabelele DB"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:27
+msgid "There is a custom reserved time in minutes"
+msgstr "Există un timp rezervat personalizat în minute"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:37
+msgid ""
+"These labels will show in the 'Thank you page' and the 'Confirmation Email' "
+msgstr ""
+"Aceste etichete vor fi afișate în \"Pagina de mulțumire\" și în \"E-mailul "
+"de confirmare\""
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:23
+msgid ""
+"These tickets are counted as purchased because are reserved for the customer "
+"for a specific time"
+msgstr ""
+"Aceste bilete sunt considerate cumpărate deoarece sunt rezervate pentru "
+"client pentru o anumită perioadă de timp"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:235
+msgid ""
+"This is a promotional raffle, based on your cart value we award free entry "
+"tickets to raffle."
+msgstr ""
+"Aceasta este o tombolă promoțională, pe baza valorii coșului dvs. de "
+"cumpărături, vom acorda bilete de intrare gratuită la tombolă."
+
+#: includes/RafflePlayWoo_Plugin.php:335
+msgid "This is a won ticket, are you sure?"
+msgstr "Acesta este un bilet câștigat, sunteți sigur?"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:50
+msgid "This is the minimal setup to have a raffle running"
+msgstr ""
+"Aceasta este configurația minimă pentru a avea o tombolă în desfășurare"
+
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:9
+msgid ""
+"This page is set only to keep track of the winning tickets, and the "
+"customers associated"
+msgstr ""
+"Această pagină este setată doar pentru a ține evidența biletelor "
+"câștigătoare și a clienților asociați"
+
+#: includes/RafflePlayWoo_Plugin.php:259
+#: includes/w/W_RafflePlayWoo_ViewPage.php:422
+#: includes/w/W_RafflePlayWoo_Winners.php:92
+msgid "Ticket"
+msgstr "Bilet"
+
+#: includes/RafflePlayWoo_Plugin.php:321
+msgid "Ticket Changed Successfully"
+msgstr "Bilet schimbat cu succes"
+
+#: includes/RafflePlayWoo_Plugin.php:260
+msgid "Ticket From"
+msgstr "Bilet de la"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:787
+#: includes/w/W_RafflePlayWoo_ViewPage.php:228
+msgid "Ticket Height"
+msgstr "Înălțimea biletului"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:97
+#: includes/w/W_RafflePlayWoo_MainPage.php:200
+msgid "Ticket Info Position"
+msgstr "Bilet Info Poziția"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:95
+msgid "Ticket Number"
+msgstr "Număr de bilet"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5953
+msgid "Ticket Number does not exist"
+msgstr "Numărul biletului nu există"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:118
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:147
+msgid "Ticket Number Leading Zeros"
+msgstr "Numărul de bilete Zerouri de frunte"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:35
+#: includes/w/W_RafflePlayWoo_Raffles.php:149
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:174
+msgid "Ticket Prefix"
+msgstr "Prefixul biletului"
+
+#: includes/RafflePlayWoo_Plugin.php:261
+msgid "Ticket To"
+msgstr "Bilet pentru"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:774
+#: includes/w/W_RafflePlayWoo_ViewPage.php:218
+msgid "Ticket Width"
+msgstr "Lățimea biletului"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:181
+msgid "Ticket-"
+msgstr "Bilet-"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:23
+msgid ""
+"Tickets are generated and displayed per raffle, you need to enable the "
+"option for each raffle"
+msgstr ""
+"Biletele sunt generate și afișate pentru fiecare tombolă, trebuie să "
+"activați opțiunea pentru fiecare tombolă"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:19
+msgid ""
+"Tickets can now be generated and displayed at checkout before the order is "
+"placed"
+msgstr ""
+"Tichetele pot fi acum generate și afișate la checkout înainte de plasarea "
+"comenzii"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:86
+msgid "Tickets Info"
+msgstr "Bilete Info"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:179
+msgid "Tickets Purchased"
+msgstr "Bilete achiziționate"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:96
+msgid "Tickets will not be visible at checkout anymore"
+msgstr "Biletele nu vor mai fi vizibile la checkout"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:319
+msgid "Tickets will only be generated for these order statuses"
+msgstr "Biletele vor fi generate doar pentru aceste statusuri de comandă"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:68
+#: includes/w/W_RafflePlayWoo_ViewPage.php:163
+msgid "To"
+msgstr "La"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:442
+msgid "to display link to product (Thank you page / Email)"
+msgstr "pentru a afișa link-ul către produs (pagina de mulțumire / Email)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:347
+msgid ""
+"To display messages in custom page, copy the shortcode, change the it to "
+"match the raffle id and paste it in custom page"
+msgstr ""
+"Pentru a afișa mesajele în pagina personalizată, copiați codul scurt, "
+"schimbați-l pentru a se potrivi cu id-ul tombolei și lipiți-l în pagina "
+"personalizată"
+
+#: includes/RafflePlayWoo_Plugin.php:307
+msgid "To display the raffle name add show_raffle_name in the shortcode"
+msgstr "Pentru a afișa numele tombolei adăugați show_raffle_name în shortcode"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:353
+msgid "To show raffle name add (show_raffle_name='1') in the shortcode"
+msgstr ""
+"Pentru a afișa numele tombolei adăugați (show_raffle_name='1') în shortcode"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:464
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:600
+msgid "Top of Single Product Summary"
+msgstr "Partea de sus a rezumatului produsului unic"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:241
+#: includes/d/D_RafflePlayWoo_Reports.php:361
+#: includes/d/D_RafflePlayWoo_Reports.php:485
+#: includes/d/D_RafflePlayWoo_Reports.php:551
+#: includes/d/D_RafflePlayWoo_Reports.php:681
+#: includes/d/D_RafflePlayWoo_Reports.php:856
+msgid "Total"
+msgstr "Total"
+
+#: includes/RafflePlayWoo_Plugin.php:263
+msgid "Total Tickets"
+msgstr "Total bilete"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:488
+msgid "Two"
+msgstr "Două"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:401
+msgid ""
+"Two customers buying raffle products at the same time, might cause the db to "
+"overlap the orders, and create duplicate tickets. Chances are minimal. But "
+"the system will spot any malfunctions "
+msgstr ""
+"Doi clienți care cumpără produse pentru tombolă în același timp ar putea "
+"face ca db să suprapună comenzile și să creeze bilete duble. Șansele sunt "
+"minime. Dar sistemul va detecta orice defecțiune"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:17
+msgid ""
+"Under 'Product' page go to 'General' tab and you should see two extra "
+"options "
+msgstr ""
+"În pagina \"Produs\", accesați fila \"General\" și ar trebui să vedeți două "
+"opțiuni suplimentare"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:259
+msgid "Unique identifier for the shortcode"
+msgstr "Identificator unic pentru codul scurt"
+
+#: includes/templates/progressbar_info.php:55
+#: includes/templates/progressbar_info.php:56
+msgid "unlimited"
+msgstr "nelimitat"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:308
+msgid "Up to 1000 random numbers displayed. Want more? Use filter "
+msgstr ""
+"Se afișează până la 1000 de numere aleatorii. Doriți mai multe? Utilizați "
+"filtrul"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:368
+msgid ""
+"up to 1000 random tickets will be displayed, can be increased, use filter "
+msgstr ""
+"până la 1000 de bilete aleatorii vor fi afișate, pot fi mărite, folosiți un "
+"filtru"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:226
+msgid "Update / Delete / Add to Cart Promotional Product message"
+msgstr ""
+"Mesajul de actualizare / ștergere / adăugare în coș a produsului promoțional"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:147
+#, php-format
+msgid "Update Cart (exceeding tickets %d)"
+msgstr "Actualizarea coșului (depășirea numărului de bilete %d)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:332
+#, php-format
+msgid "Update Cart (limit on - exceeding tickets - %d)"
+msgstr ""
+"Actualizați coșul de cumpărături (limită la - depășirea numărului de bilete -"
+" %d)"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:33
+msgid "Updated - Compatible with new HPOS, and legacy order storage "
+msgstr "Actualizat - Compatibil cu noul HPOS și cu stocarea comenzilor vechi"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:82
+msgid "Url redirect when clicking on image (like url to product)"
+msgstr ""
+"Redirecționarea url-ului atunci când faceți clic pe imagine (cum ar fi url "
+"către produs)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:440
+msgid "Use"
+msgstr "Utilizați"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1285
+msgid "Use spaces as delimiter"
+msgstr "Utilizați spațiile ca delimitator"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2504
+#: includes/RafflePlayWoo_LifeCycle.php:4827
+msgid "Use Variation Product Raffle"
+msgstr "Utilizare Variație Produs Raffle"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:176
+msgid "Used with 'Test' option in the settings"
+msgstr "Utilizat cu opțiunea \"Test\" din setări"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:36
+msgid ""
+"Used with ticket number as Tkt-1001, Tkt-1002, etc. Instead of display a "
+"dull number as 1001, 1002"
+msgstr ""
+"Se utilizează cu numărul de bilet Tkt-1001, Tkt-1002 etc. În loc să se "
+"afișeze un număr plictisitor ca 1001, 1002"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:107
+msgid ""
+"User Message are very effective on showing the tickets status to the users"
+msgstr ""
+"Mesajele de utilizator sunt foarte eficiente pentru a arăta utilizatorilor "
+"starea biletelor"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:105
+#: includes/w/W_RafflePlayWoo_MainPage.php:76
+msgid "User Messages"
+msgstr "Mesaje de utilizator"
+
+#: includes/w/W_RafflePlayWoo_Info.php:223
+msgid "Validate License"
+msgstr "Validarea licenței"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:292
+msgid "Value Above"
+msgstr "Valoarea de mai sus"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3753
+msgid "Variable"
+msgstr "Variabilă"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:30
+msgid "Version"
+msgstr "Versiunea"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:232
+msgid "Very IMPORTANT to setup messages"
+msgstr "Foarte IMPORTANT pentru configurarea mesajelor"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:10
+#: includes/releases/RafflePlayWoo_Release_584.php:10
+#: includes/releases/RafflePlayWoo_Release_590.php:11
+#: includes/releases/RafflePlayWoo_Release_600.php:11
+#: includes/releases/RafflePlayWoo_Release_62.php:11
+msgid "Video available"
+msgstr "Video disponibil"
+
+#: includes/w/W_RafflePlayWoo_Info.php:176
+msgid "View"
+msgstr "Vezi"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:37
+msgid "View more here"
+msgstr "Vezi mai multe aici"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3597
+msgid "View PDF"
+msgstr "Vezi PDF"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:409
+#, fuzzy
+#| msgid "View PDF Attachment Documentation %s "
+msgid "View PDF Attachment Documentation "
+msgstr "Vizualizați documentația atașată în format PDF %s"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:487
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:550
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:623
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:685
+#, php-format
+msgid "View Positions %s"
+msgstr "Vizualizare poziții %s"
+
+#: includes/RafflePlayWoo_LifeCycle.php:332
+#: includes/w/W_RafflePlayWoo_ViewPage.php:20
+msgid "View Tickets"
+msgstr "Vezi bilete"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:54
+msgid "View Tickets by Order"
+msgstr "Vizualizați biletele după comandă"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:5
+msgid "View your sale by raffle"
+msgstr "Vezi vânzarea ta prin tombolă"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:78
+msgid "wait to load after changing status"
+msgstr "așteaptă să se încarce după schimbarea stării"
+
+#: includes/RafflePlayWoo_Plugin.php:311
+msgid "Warning. There is another column with same DB Meta Name"
+msgstr "Avertisment. Există o altă coloană cu același nume meta DB"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:971
+#, fuzzy, php-format
+#| msgid "Watch explanation %s on this youtube video I made"
+msgid "Watch explanation %s and %s on this youtube videos I made"
+msgstr "Urmăriți explicația %s pe acest videoclip youtube pe care l-am făcut"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:54
+msgid "Watch promotional raffle setup video here"
+msgstr "Urmăriți videoclipul de configurare a tombolei promoționale aici"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:23
+msgid "Watch setup video"
+msgstr "Urmăriți videoclipul de configurare"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:121
+msgid "Watch setup video here"
+msgstr "Urmăriți videoclipul de configurare aici"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:25
+msgid "Watch the video on the right for better understanding."
+msgstr "Urmăriți videoclipul din dreapta pentru o mai bună înțelegere."
+
+#: includes/RafflePlayWoo_LifeCycle.php:2500
+msgid "Watch video before proceding. How to promote shop with free raffle"
+msgstr ""
+"Urmăriți videoclipul înainte de procedură. Cum să promovați magazinul cu "
+"tombolă gratuită"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:360
+msgid "Week"
+msgstr "Săptămâna"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:140
+#: includes/w/W_RafflePlayWoo_Reports.php:88
+msgid "Weekly Sales"
+msgstr "Vânzări săptămânale"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:35
+msgid "What is HPOS? Read more about it here"
+msgstr "Ce este HPOS? Citiți mai multe despre el aici"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:210
+msgid ""
+"When printing if the background image is not visible, go to print page -> "
+"More Settings and select \"Background graphics\" from the options."
+msgstr ""
+"La imprimare, dacă imaginea de fundal nu este vizibilă, mergeți la pagina de "
+"imprimare -> Mai multe setări și selectați \"Background graphics\" (Grafică "
+"de fundal) din opțiuni."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:108
+msgid ""
+"While running a raffle reward your customers with smaller prizes as instant "
+"wins"
+msgstr ""
+"În timp ce organizați o tombolă, răsplătiți-vă clienții cu premii mai mici "
+"ca și câștiguri instantanee"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:412
+msgid ""
+"Why Duplicates? Slow hosting, too many order requests at the same time "
+"(server cannot cope), caching issues."
+msgstr ""
+"De ce duplicate? Găzduire lentă, prea multe cereri de comandă în același "
+"timp (serverul nu poate face față), probleme de cache."
+
+#: includes/w/W_RafflePlayWoo_Winners.php:57
+msgid "Winner"
+msgstr "Câștigător"
+
+#: includes/RafflePlayWoo_LifeCycle.php:348
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:3
+#: includes/w/W_RafflePlayWoo_Winners.php:20
+msgid "Winners"
+msgstr "Câștigătorii"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:438
+msgid "Winning Message"
+msgstr "Mesaj câștigător"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:966
+msgid ""
+"With this shortcode you can retrieve the primary attributes of any raffle. \n"
+"                                                            It can be used "
+"to display raffle information or integrate it with other plugins. Check the "
+"link below to the youtube video."
+msgstr ""
+"Cu acest shortcode puteți prelua atributele primare ale oricărei tombole.\n"
+"                                                            Poate fi folosit "
+"pentru a afișa informații despre tombolă sau pentru a o integra cu alte "
+"pluginuri. Verificați link-ul de mai jos pentru a vedea videoclipul de pe "
+"youtube."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:469
+msgid "Won"
+msgstr "Won"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:232
+#, fuzzy
+#| msgid "Old Ticket"
+msgid "Won Ticket"
+msgstr "Bilet vechi"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:96
+msgid "Woocommerce Account"
+msgstr "Contul Woocommerce"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:17
+msgid "Woocommerce has made changes to cart and checkout pages recently."
+msgstr ""
+"Woocommerce a făcut recent modificări la paginile de coș și de checkout."
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:11
+msgid "Woocommerce Info"
+msgstr "Woocommerce Info"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:395
+msgid "Works only with PHP version 7.1, and above"
+msgstr "Funcționează numai cu PHP versiunea 7.1 și mai sus"
+
+#: includes/RafflePlayWoo_Plugin.php:281 includes/w/W_RafflePlayWoo_Info.php:22
+#: includes/w/W_RafflePlayWoo_MainPage.php:166
+#: includes/w/W_RafflePlayWoo_MainPage.php:376
+#: includes/w/W_RafflePlayWoo_MainPage.php:429
+#: includes/w/W_RafflePlayWoo_MainPage.php:501
+#: includes/w/W_RafflePlayWoo_MainPage.php:512
+#: includes/w/W_RafflePlayWoo_MainPage.php:684
+#: includes/w/W_RafflePlayWoo_MainPage.php:700
+#: includes/w/W_RafflePlayWoo_MainPage.php:717
+#: includes/w/W_RafflePlayWoo_MainPage.php:856
+#: includes/w/W_RafflePlayWoo_MainPage.php:1038
+#: includes/w/W_RafflePlayWoo_MainPage.php:1216
+#: includes/w/W_RafflePlayWoo_MainPage.php:1231
+#: includes/w/W_RafflePlayWoo_Raffles.php:95
+#: includes/w/W_RafflePlayWoo_Raffles.php:108
+#: includes/w/W_RafflePlayWoo_Raffles.php:163
+#: includes/w/W_RafflePlayWoo_Raffles.php:172
+#: includes/w/W_RafflePlayWoo_Raffles.php:201
+#: includes/w/W_RafflePlayWoo_Raffles.php:268
+#: includes/w/W_RafflePlayWoo_Raffles.php:311
+#: includes/w/W_RafflePlayWoo_Raffles.php:326
+#: includes/w/W_RafflePlayWoo_Raffles.php:345
+#: includes/w/W_RafflePlayWoo_Raffles.php:403
+#: includes/w/W_RafflePlayWoo_Raffles.php:429
+#: includes/w/W_RafflePlayWoo_Raffles.php:456
+#: includes/w/W_RafflePlayWoo_Raffles.php:482
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:57
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:194
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:63
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:96
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:108
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:138
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:239
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:424
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:444
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:515
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:580
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:650
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:23
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:45
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:105
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:119
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:133
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:147
+msgid "Yes"
+msgstr "Da"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:114
+msgid ""
+"You can define a winning number or let the system pick one. It only works "
+"with Random Tickets"
+msgstr ""
+"Puteți defini un număr câștigător sau puteți lăsa sistemul să aleagă unul. "
+"Funcționează numai cu bilete aleatorii"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1300
+msgid ""
+"You can place custom progress bar on any page with the following shortcode - "
+"if options left empty will pick the default setting set above."
+msgstr ""
+"Puteți plasa o bară de progres personalizată pe orice pagină cu următorul "
+"shortcode - dacă opțiunile sunt lăsate goale, se va alege setarea implicită "
+"stabilită mai sus."
+
+#: includes/RafflePlayWoo_LifeCycle.php:6124
+#: includes/RafflePlayWoo_LifeCycle.php:6250
+msgid "You dont have access"
+msgstr "Nu aveți acces"
+
+#: raffle-play-woo.php:48
+msgid "Your license is not valid"
+msgstr "Licența dumneavoastră nu este valabilă"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:400
+msgid "Your PHP version is less than 7.1, therefore this feature wont work"
+msgstr ""
+"Versiunea PHP este mai mică de 7.1, prin urmare această funcție nu va "
+"funcționa"
+
+#: raffle-play-woo.php:29
+msgid "Your server's PHP version: "
+msgstr "Versiunea PHP a serverului dumneavoastră:"

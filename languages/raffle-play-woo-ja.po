@@ -1,0 +1,3753 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Raffle Play Woo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-08 09:54+0000\n"
+"PO-Revision-Date: 2024-07-19 18:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: raffle-play-woo"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:359
+msgid " All value from Category"
+msgstr "カテゴリのすべての値"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:133
+msgid " Include the rest of the Countries "
+msgstr "その他の国々を含む"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:969
+msgid ""
+" is optional, if productid is added, the raffle linked to that product will "
+"be retrieved."
+msgstr "はオプションで、productidが追加された場合、その商品にリンクされたくじが検索されます。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:970
+msgid ""
+" is optional, used to filter the code, if the shortcode is present in "
+"multiple pages (Dedicated keyword. Do not use keyword \"."
+msgstr "はオプションで、ショートコードが複数のページに存在する場合に、コードをフィルタリングするために使用します（専用キーワード。キーワード\"."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1246
+msgid " keyword for percentage sold"
+msgstr "キーワード：販売率"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1245
+msgid " keyword for remaining tickets"
+msgstr "残りチケットのキーワード"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1244
+msgid " keyword for total number of tickets"
+msgstr "チケット総数のキーワード"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1243
+msgid " keyword to display sold tickets"
+msgstr "売れたチケットを表示するキーワード"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:68
+msgid " will be swapped with the number above"
+msgstr "は上の数字と入れ替わる。"
+
+#: raffle-play-woo.php:42
+msgid " WooCommerce is not installed/active"
+msgstr "WooCommerceがインストールされていない/アクティブでない"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:254
+#, php-format
+msgid ""
+"%s - 2, 3 uses date replacer; %d - 5, 6 uses numeric replacer; If deleted "
+"won't replace the values"
+msgstr "s-2、3は日付の置き換えを使用、%d-5、6は数値の置き換えを使用。"
+
+#: includes/templates/product_raffle_tab.php:187
+#, php-format
+msgid "%s entries per page"
+msgstr "ページあたりのエントリ数"
+
+#: includes/RafflePlayWoo_LifeCycle.php:4896
+#, php-format
+msgid "%s- Order Id %d has ticket number %d"
+msgstr "注文 ID %d にはチケット番号 %d があります。"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:21
+msgid "(Add Number of thickets for this raffle product)"
+msgstr "(この抽選商品の厚さの数を追加)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:359
+#, fuzzy
+#| msgid "At least"
+msgid "(at least)"
+msgstr "少なくとも"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:491
+msgid ""
+"(can be found and edited (styled) under plugin folder /includes/templates )"
+msgstr "(プラグインフォルダ /includes/templates の下にあります。"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1148
+msgid "(D)"
+msgstr "(D)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1121
+msgid "(Deleted)"
+msgstr "(削除)"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:19
+msgid "(Enable the option)"
+msgstr "(オプションを有効にする)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:18
+msgid ""
+"(Generated tickets need to have a time limit for each order at checkout)"
+msgstr "(生成されたチケットは、チェックアウト時に各注文の制限時間を設定する必要があります)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:137
+msgid "(grouped by country)"
+msgstr "国別"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:292
+msgid "(In order to save the column changes, run this report)"
+msgstr "(カラムの変更を保存するには、このレポートを実行します。）"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:152
+msgid "(limited to 15 characters)"
+msgstr "(15文字以内)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:42
+msgid "(live data)"
+msgstr "(ライブデータ)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:90
+msgid "(Monday to Sunday)"
+msgstr "(月～日)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:431
+msgid "(PDFs are only generated for processing, invoice, and completed orders)"
+msgstr "(PDFは加工、請求書、注文完了時のみ生成されます。）"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1147
+msgid "(T)"
+msgstr "(T)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1120
+msgid "(Terminated)"
+msgstr "(終了)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:86
+msgid "(use -1 for unlimited)"
+msgstr "(無制限の場合は-1）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:388
+msgid "(Winning Product)"
+msgstr "(ウイニング・プロダクト）"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:313
+msgid "(Your Message) All raffle tickets have been sold"
+msgstr "(メッセージ）抽選券はすべて売り切れました。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:265
+msgid "(Your Message) The raffle has finished"
+msgstr "(メッセージ）抽選会は終了しました。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:289
+#, php-format
+msgid "(Your Message) The raffle has finished on %s"
+msgstr "(メッセージ）抽選会は %s で終了しました。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:301
+#, php-format
+msgid "(Your Message) The raffle will end on %s"
+msgstr "(メッセージ）抽選会は%sで終了します。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:277
+#, php-format
+msgid "(Your Message) The raffle will start on %s"
+msgstr "(メッセージ）抽選は%sに開始されます。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:325
+#: includes/w/W_RafflePlayWoo_MainPage.php:337
+#, php-format
+msgid "(Your Message) There are only %d tickets left"
+msgstr "(メッセージ）チケットは残り %d 枚です。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:110
+msgid "*** Leave empty not to display ***"
+msgstr "*** 表示しない場合は空欄にする ** 表示しない場合は空欄にする"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:111
+msgid "*** To display copy the short code and paste it into the post/page ***"
+msgstr "*** 表示するには、ショートコードをコピーして、投稿/ページに貼り付けてください ***。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1041
+msgid ""
+"***IMPORTANT*** If this option is YES (Hide Cart), the position to display "
+"the countdown only works for the first 3 top positions (Before Single "
+"Product, Before Single Product Summary, Top of Single Product Summary), the "
+"other positions will be hidden by woocommerce"
+msgstr ""
+"***重要*** "
+"このオプションがYES（カートを隠す）の場合、カウントダウンを表示する位置は最初の3つのトップ位置（単品商品前、単品商品サマリー前、単品商品サマリートップ）にのみ機能し、他の位置はwoocommerceによって隠されます。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:93
+msgid "***Or it can be left empty***"
+msgstr "***空欄のままでも構いません**。"
+
+#: includes/external/dompdf/lib/php-css-parser/tests/Sabberworm/CSS/RuleSet/DeclarationBlockTest.php:215
+msgid "-10px"
+msgstr "-10px"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:975
+msgid "1. Copy the shortcode and paste it in the page/post/etc"
+msgstr "1.ショートコードをコピーして、ページ/投稿/その他に貼り付ける。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:976
+msgid "2. In the functions.php of your child theme add following filter hook"
+msgstr "2.子テーマのfunctions.phpに以下のフィルターフックを追加します。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:463
+#: includes/w/W_RafflePlayWoo_Promotion.php:64
+#: includes/w/W_RafflePlayWoo_Promotion.php:291
+msgid "Action"
+msgstr "アクション"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:255
+#: includes/w/W_RafflePlayWoo_Lucky.php:464
+msgid "Active"
+msgstr "アクティブ"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:217
+msgid "Active Promotion (In use or not)"
+msgstr "アクティブ・プロモーション（使用中か否か）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:148
+#: includes/w/W_RafflePlayWoo_Reports.php:279
+msgid "Add"
+msgstr "追加"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:191
+msgid "Add / remove free raffle tickets to cart based on the rules"
+msgstr "ルールに基づき、無料抽選券をカートに追加／削除する。"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:233
+msgid "Add [end] at the end to break the text into a new line"
+msgstr "テキストを改行するには、最後に[end]を追加する。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:250
+msgid "Add raffle id, only to display tickets sold for that raffle"
+msgstr "ラッフルIDを追加し、そのラッフルで販売されたチケットのみを表示する。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:142
+#, php-format
+msgid "Add to Cart (exceeding tickets %d)"
+msgstr "カートに入れる (チケット %d を超える)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:320
+#, php-format
+msgid "Add To Cart (limit on - exceeding tickets - %d)"
+msgstr "カートに入れる (制限 - チケットを超える - %d)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:308
+msgid "Add To Cart (limit on - no tickets left)"
+msgstr "カートに入れる (制限あり・残券なし)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:136
+msgid "Add to Cart (no tickets left)"
+msgstr "カートに入れる（残券なし）"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:24
+msgid ""
+"Added \"View by Order\" - tickets can be grouped by order in \"View "
+"Tickets\" tab "
+msgstr "View by Order \"の追加 - チケットは \"View Tickets \"タブでオーダーごとにグループ化することができます。"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:23
+msgid "Added - Custom shortcode for progress bar"
+msgstr "追加 - プログレス・バー用のカスタム・ショートコード"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:46
+msgid "Added - Customize Progress Bar from template"
+msgstr "追加 - テンプレートからプログレスバーをカスタマイズ"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:41
+msgid "Added - Customize Progress Bar tab in General Raffle."
+msgstr "General Raffleにプログレスバーのカスタマイズタブを追加しました。"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:19
+msgid "Added - Lucky Numbers"
+msgstr "追加 - ラッキーナンバー"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:18
+msgid "Added Countdown in product card"
+msgstr "商品カードにカウントダウンを追加"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:21
+msgid "Added Progress bar in product card and product page"
+msgstr "商品カードと商品ページにプログレスバーを追加"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:27
+msgid "Added Raffle tab in product page"
+msgstr "商品ページに「ラッフル」タブを追加"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:261
+msgid "Added to cart message"
+msgstr "カートに入れたメッセージ"
+
+#: includes/RafflePlayWoo_Plugin.php:302
+msgid "Address"
+msgstr "住所"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:979
+#: includes/w/W_RafflePlayWoo_Reports.php:305
+msgid "Address One"
+msgstr "アドレスワン"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:980
+#: includes/w/W_RafflePlayWoo_Reports.php:306
+msgid "Address Two"
+msgstr "アドレス2"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:472
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:608
+msgid "After Add to Cart Button"
+msgstr "カートに入れるボタンの後"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:473
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:609
+msgid "After Add to Cart Form"
+msgstr "カートに入れた後"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:471
+msgid "After Add to Cart Quanitity"
+msgstr "カートに入れた後 Quanitity"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:607
+msgid "After Add to Cart Quantity"
+msgstr "カートに追加後 数量"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:216
+msgid "After Billing Address"
+msgstr "請求先住所以降"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:341
+msgid "After changing ticket, resend email order details to customer."
+msgstr "チケットを変更した後、顧客に注文の詳細を電子メールで再送信します。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:207
+msgid ""
+"After how many Reserved Time cycles to remove the raffle products from "
+"Checkout"
+msgstr "何回リザーブド・タイムが経過したら、チェックアウトからくじ商品を削除しますか？"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:536
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:671
+msgid "After Loop Item Title"
+msgstr "アフターループ項目タイトル"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:537
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:672
+msgid "After Price Loop Item"
+msgstr "アフタープライス・ループ・アイテム"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:474
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:610
+msgid "After Single Product Summary"
+msgstr "アフターシングル商品概要"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:467
+msgid "After Sold"
+msgstr "販売後"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:31
+msgid ""
+"After the reserved time has passed a custom message can be displayed to "
+"notify the customer the tickets are no longer reserved but can still be "
+"purchased"
+msgstr "予約時間が過ぎた後、チケットは予約されなくなったが、まだ購入できることを通知するカスタムメッセージを表示することができます。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:182
+msgid ""
+"After the reserved time has passed removed the reserved raffle products from "
+"the checkout. When raffle tickets are generated at checkout are reserved as "
+"purchased tickets"
+msgstr ""
+"予約時間が過ぎた後、チェックアウトから予約された抽選商品を削除します。チェックアウト時に抽選券が生成された場合、購入されたチケットとして予約されます。"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:112
+msgid "All"
+msgstr "すべて"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:17
+msgid "All new raffles cannot be deleted, but can be edited."
+msgstr "すべての新しいくじは削除できませんが、編集することは可能です。"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:9
+msgid "All the report are self explanatory"
+msgstr "レポートはすべて自己紹介です"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:14
+msgid "Allows to export any order field"
+msgstr "任意のオーダーフィールドのエクスポートを許可する"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:25
+msgid ""
+"Also can be created using shortcodes [woocommerce_cart] and "
+"[woocommerce_checkout]"
+msgstr "また、ショートコード[woocommerce_cart]と[woocommerce_checkout]を使用して作成することもできます。"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:23
+msgid ""
+"Also can be customized to giveaway tickets based on amount spent on specific "
+"categories"
+msgstr "また、特定のカテゴリーで使用した金額に応じてチケットをプレゼントするようカスタマイズすることもできる。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:85
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:99
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:112
+msgid "AND"
+msgstr "アンド"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:16
+msgid "Anonymous Users"
+msgstr "匿名ユーザー"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:72
+msgid "Any fields left empty will not be displayed"
+msgstr "空欄の項目は表示されません。"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:500
+msgid "April"
+msgstr "4月"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:416
+msgid ""
+"Are you getting duplicated tickets? Enable this option, and the system will "
+"check for duplicates, and fix them after the order is created"
+msgstr "チケットが重複していませんか？このオプションを有効にすると、システムが重複をチェックし、注文作成後に修正します。"
+
+#: includes/RafflePlayWoo_Plugin.php:318
+msgid "Are you sure you want to change this ticket?"
+msgstr "本当にこのチケットを変更しますか？"
+
+#: includes/RafflePlayWoo_Plugin.php:306
+msgid "Are you sure you want to delete it?"
+msgstr "本当に削除していいのか？"
+
+#: includes/RafflePlayWoo_Plugin.php:309
+msgid "Are you sure you want to PERMANENTLY delete this raffle's tickets?"
+msgstr "本当にこのくじのチケットを永久に削除しますか？"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:359
+msgid "At Checkout, do not assign raffle tickets to following orders"
+msgstr "チェックアウトの際、以下の注文に抽選券を割り当てないでください。"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:369
+msgid "At least"
+msgstr "少なくとも"
+
+#: includes/RafflePlayWoo_LifeCycle.php:415
+msgid "Audit"
+msgstr "監査"
+
+#: includes/w/W_RafflePlayWoo_AuditPage.php:14
+msgid "Audit Info"
+msgstr "監査情報"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:504
+msgid "August"
+msgstr "8月"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:256
+msgid "Available Columns"
+msgstr "利用可能なコラム"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:366
+msgid "Available Tickets"
+msgstr "利用可能なチケット"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1047
+#: includes/w/W_RafflePlayWoo_MainPage.php:1274
+msgid "Background Color"
+msgstr "背景色"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1306
+msgid "Background color of the progress, text, hex, rgb, and rgba accepted."
+msgstr "進行状況の背景色、テキスト、hex、rgb、rgbaを受け付ける。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:404
+msgid "Background Image"
+msgstr "背景画像"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:34
+msgid "Backup"
+msgstr "バックアップ"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:447
+msgid "Backup Actions"
+msgstr "バックアップ動作"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:471
+msgid "Backup All Live Data"
+msgstr "すべてのライブデータをバックアップする"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:475
+msgid "Backup Data from Table View"
+msgstr "テーブルビューからデータをバックアップする"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:457
+msgid "Backup Name (max 10 characters)*"
+msgstr "バックアップ名（10文字以内）*。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1304
+msgid "Bar color of the progress, text, hex, rgb, and rgba accepted."
+msgstr "進捗、テキスト、hex、rgb、rgbaのバーの色。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:657
+msgid "Be aware: inproper css manipulation will break the pdf file"
+msgstr "注意：不適切なcss操作はpdfファイルを壊します。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:620
+#: includes/w/W_RafflePlayWoo_MainPage.php:634
+msgid "Be aware: inproper html manipulation will break the pdf file"
+msgstr "注意：不適切なhtml操作はpdfファイルを壊します。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:895
+msgid "Before Account Details"
+msgstr "口座開設前"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:467
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:603
+msgid "Before Add to Cart Button"
+msgstr "カートに入れるボタンの前に"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:465
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:601
+msgid "Before Add to Cart Form"
+msgstr "カートに入れる前に"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:470
+msgid "Before Add to Cart Quanitity"
+msgstr "カートに入れる前に 数量"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:606
+msgid "Before Add to Cart Quantity"
+msgstr "カートに入れる前に 数量"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:893
+msgid "Before Addresses"
+msgstr "住所変更前"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:890
+msgid "Before Dashboard"
+msgstr "ダッシュボード前"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:892
+msgid "Before Downloads"
+msgstr "ダウンロードの前に"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:180
+msgid ""
+"Before going live with the raffle as a good practice is good to do a few "
+"tests, this will give you an idea how the system works"
+msgstr "良い練習として抽選でライブ行く前に、いくつかのテストを行うには良いですが、これはシステムがどのように動作するかのアイデアを与えるだろう。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:896
+msgid "Before Logout"
+msgstr "ログアウト前"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:533
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:668
+msgid "Before Loop Item"
+msgstr "ループ項目前"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:534
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:669
+msgid "Before Loop Item Title"
+msgstr "ループ前 項目タイトル"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:891
+msgid "Before Order"
+msgstr "ご注文の前に"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:206
+msgid "Before Order Info"
+msgstr "注文前情報"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:894
+msgid "Before Payments Methods"
+msgstr "支払い方法の前に"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:462
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:598
+msgid "Before Single Product"
+msgstr "単品発売前"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:463
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:599
+msgid "Before Single Product Summary"
+msgstr "単品概要の前に"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:468
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:469
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:604
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:605
+msgid "Before Single Variation"
+msgstr "シングル・バリエーション前"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:466
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:602
+msgid "Before Variations Form"
+msgstr "変更前フォーム"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:240
+msgid ""
+"Below messages are displayed in the raffle product page (when adding to cart)"
+", and in the cart page (when updating cart)"
+msgstr "抽選商品ページ（カートに入れる時）、カートページ（カートを更新する時）に以下のメッセージが表示されます。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:50
+msgid "Below selected must match the order data to show the tickets"
+msgstr "チケットの表示には、以下の選択項目が注文データと一致する必要があります。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:211
+msgid "Between Order Info and Billing Address"
+msgstr "注文情報と請求先住所の間"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:45
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:73
+msgid "Block"
+msgstr "ブロック"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:19
+#: includes/w/W_RafflePlayWoo_MainPage.php:732
+#: includes/w/W_RafflePlayWoo_Raffles.php:358
+msgid "Blue"
+msgstr "青"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:85
+#: includes/w/W_RafflePlayWoo_MainPage.php:173
+msgid "Body Tickets"
+msgstr "ボディチケット"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:619
+msgid "Business Info Header (html)"
+msgstr "ビジネス情報ヘッダー(html)"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:272
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:242
+msgid "Buy Out Product "
+msgstr "バイ・アウト商品"
+
+#: includes/RafflePlayWoo_Plugin.php:312
+msgid "Buyout"
+msgstr "バイアウト"
+
+#: includes/RafflePlayWoo_Plugin.php:313
+msgid "Buyout Product"
+msgstr "バイアウト製品"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:155
+msgid "By Raffle Ticket"
+msgstr "抽選券で"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:153
+msgid "By Raffle Ticket "
+msgstr "抽選券で"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:13
+msgid "By Raffle Tickets"
+msgstr "抽選券で"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:177
+#: includes/w/W_RafflePlayWoo_Promotion.php:454
+#: includes/w/W_RafflePlayWoo_Raffles.php:499
+#: includes/w/W_RafflePlayWoo_Reports.php:278
+#: includes/w/W_RafflePlayWoo_ViewPage.php:183
+#: includes/w/W_RafflePlayWoo_ViewPage.php:293
+#: includes/w/W_RafflePlayWoo_ViewPage.php:483
+#: includes/w/W_RafflePlayWoo_Winners.php:115
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:354
+msgid "Cancelled"
+msgstr "キャンセル"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:353
+msgid "Cancelled by an admin or the customer – no further action required"
+msgstr "管理者またはお客様によるキャンセル - これ以上の処置は必要ありません。"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2027
+msgid "Cannot be added to cart"
+msgstr "カートに追加できない"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:158
+msgid "Cannot create lucky numbers for this raffle."
+msgstr "このくじのラッキーナンバーは作成できません。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:21
+msgid "Cart and Checkout are now built using blocks by default"
+msgstr "カートとチェックアウトはデフォルトでブロックを使用して構築されるようになりました。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:35
+msgid "Cart page is built using:"
+msgstr "カートページは"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:348
+msgid "Change"
+msgstr "変更"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:344
+msgid "Change Ticket Number to: "
+msgstr "チケット番号を変更する："
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:765
+msgid ""
+"Change width, height, color, text size of the raffle ticket view in Thank "
+"you / Email"
+msgstr "サンクス／Eメールの抽選券表示の幅、高さ、色、文字サイズの変更"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:63
+msgid "Checkout page is built using:"
+msgstr "チェックアウトページは"
+
+#: includes/RafflePlayWoo_Plugin.php:276
+#: includes/d/D_RafflePlayWoo_Reports.php:981
+#: includes/w/W_RafflePlayWoo_Reports.php:307
+msgid "City"
+msgstr "都市"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:184
+msgid "Clear"
+msgstr "クリア"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:73
+msgid "Clear Dates"
+msgstr "クリアランス"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:38
+msgid "Clear Filter"
+msgstr "クリアフィルター"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:316
+#: includes/w/W_RafflePlayWoo_ViewPage.php:319
+#: includes/w/W_RafflePlayWoo_ViewPage.php:387
+#: includes/w/W_RafflePlayWoo_ViewPage.php:434
+msgid "Close"
+msgstr "閉じる"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:261
+msgid "Col Text"
+msgstr "カラーテキスト"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1057
+msgid "Color"
+msgstr "カラー"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:381
+msgid "Complete"
+msgstr "完全"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:302
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:306
+msgid "Completed"
+msgstr "完成"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:202
+msgid "Concentrate Number (pool)"
+msgstr "濃縮数（プール）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:242
+msgid "Concentrate Number (Set per raffle)"
+msgstr "濃縮番号（くじ1枚につき1セット）"
+
+#: includes/RafflePlayWoo_Plugin.php:319
+msgid "Confirm Ticket Change"
+msgstr "チケット変更の確認"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:266
+msgid ""
+"Congratulations, you are now entering the free raffle draw. Complete the "
+"purchase"
+msgstr "おめでとうございます、あなたは今無料くじの抽選に参加しています。購入を完了する"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:911
+msgid "Content Display - Raffle Tickets"
+msgstr "コンテンツ表示 - 抽選券"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:39
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:72
+msgid "Copy and paste image url here"
+msgstr "画像のURLをコピーしてここに貼り付ける"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:176
+msgid "Copy Shortcode"
+msgstr "ショートコードをコピーする"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:160
+msgid ""
+"Copy the shortcode and paste it in the page. (Enter unique shortcode id)"
+msgstr "ショートコードをコピーしてページに貼り付けます。(ユニークなショートコードIDを入力してください）"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1164
+msgid ""
+"Copy the shortcode on any page or post, and change the values. Datetime can "
+"be of timestamp or format yyyy-mm-dd hh:mm:ss. Color and bgcolor can be of "
+"hex or rgb. The rest are just labels."
+msgstr ""
+"このショートコードを任意のページまたは投稿にコピーし、値を変更してください。Datetimeには、タイムスタンプまたはyyyy-mm-dd hh:mm:"
+"ssの形式を指定できます。Colorとbgcolorは、hexまたはrgbを指定できます。残りは単なるラベルです。"
+
+#: includes/RafflePlayWoo_Plugin.php:317
+msgid "Could not generate Random ticket"
+msgstr "ランダムチケットを生成できませんでした"
+
+#: includes/RafflePlayWoo_Raffles.php:415
+msgid "Could not remove products linked to this raffle"
+msgstr "このくじにリンクされている商品を削除できませんでした。"
+
+#: includes/RafflePlayWoo_Raffles.php:411
+msgid "Could not remove raffle data"
+msgstr "くじデータを削除できませんでした"
+
+#: includes/RafflePlayWoo_Raffles.php:407
+msgid "Could not remove tickets for this raffle"
+msgstr "このくじのチケットを削除できませんでした"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:409
+#: includes/w/W_RafflePlayWoo_Raffles.php:435
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:450
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:521
+msgid "Countdown Image"
+msgstr "カウントダウン・イメージ"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:106
+msgid "Countdown Settings"
+msgstr "カウントダウン設定"
+
+#: includes/RafflePlayWoo_Plugin.php:273
+#: includes/d/D_RafflePlayWoo_Reports.php:549
+#: includes/d/D_RafflePlayWoo_Reports.php:679
+#: includes/d/D_RafflePlayWoo_Reports.php:983
+#: includes/w/W_RafflePlayWoo_Reports.php:309
+msgid "Country"
+msgstr "国名"
+
+#: includes/RafflePlayWoo_Plugin.php:274
+#: includes/d/D_RafflePlayWoo_Reports.php:550
+#: includes/d/D_RafflePlayWoo_Reports.php:680
+#: includes/d/D_RafflePlayWoo_Reports.php:984
+#: includes/w/W_RafflePlayWoo_Reports.php:310
+msgid "County"
+msgstr "郡"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:17
+msgid "Create a custom shortcode and show it on a page"
+msgstr "カスタム・ショートコードを作成してページに表示する"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:419
+msgid "Create a pdf attachment with the raffle info. Attached to the email"
+msgstr "抽選情報を記載したpdfの添付ファイルを作成する。メールに添付する"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:42
+msgid ""
+"Create a promotional raffle with free tickets to boost your sales on your "
+"shop."
+msgstr "無料チケット付きのプロモーションくじを作成して、ショップの売上をアップさせましょう。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:26
+#: includes/w/W_RafflePlayWoo_MainPage.php:739
+#: includes/w/W_RafflePlayWoo_Raffles.php:365
+msgid "Custom"
+msgstr "カスタム"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:190
+msgid "Custom Currency Symbol"
+msgstr "カスタム通貨記号"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:15
+msgid ""
+"Custom data captured at checkout. Click on the plus button, add the field "
+"META name in the db, and the column name"
+msgstr "チェックアウト時に取得するカスタムデータ。プラスボタンをクリックし、dbにフィールドMETA名を追加し、カラム名"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:240
+msgid "Custom display on any page the latest raffle tickets sold"
+msgstr "販売された最新の抽選券を任意のページにカスタム表示する。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1313
+msgid "Custom html class"
+msgstr "カスタムhtmlクラス"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1284
+msgid "Custom HTML classes"
+msgstr "カスタムHTMLクラス"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1295
+msgid "Custom Progress Bar Shortcode"
+msgstr "カスタムプログレスバー・ショートコード"
+
+#: includes/RafflePlayWoo_Plugin.php:268
+msgid "Customer Id"
+msgstr "顧客ID"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:121
+msgid "Customer Search Tickets"
+msgstr "顧客検索チケット"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:227
+msgid ""
+"Customers are not allowed to add to cart, delete or update the promotional "
+"raffle product "
+msgstr "カートに入れたり、削除したり、更新したりすることはできません。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:11
+msgid "Customers can search for their tickets"
+msgstr "顧客はチケットを検索できる"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1021
+msgid "Customize Countdown"
+msgstr "カウントダウンのカスタマイズ"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:763
+msgid "Customize how raffle ticket will show in Thank you Page / Email"
+msgstr "サンクスページ／Eメールでの抽選券の表示方法をカスタマイズする"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1198
+msgid "Customize Progress Bar"
+msgstr "プログレスバーのカスタマイズ"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:136
+#: includes/w/W_RafflePlayWoo_Reports.php:82
+msgid "Daily Sales"
+msgstr "日次売上高"
+
+#: includes/RafflePlayWoo_LifeCycle.php:6114
+#: includes/RafflePlayWoo_LifeCycle.php:6240
+msgid "Data is not set"
+msgstr "データが設定されていない"
+
+#: includes/RafflePlayWoo_LifeCycle.php:6228
+msgid "Data Saved"
+msgstr "保存されたデータ"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:33
+msgid "Data Table is displayed with search, column sorting, pagination"
+msgstr "データテーブルは、検索、列のソート、ページネーションで表示されます。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:41
+msgid "Date and time when the raffle tickets are available for purchase"
+msgstr "抽選券が購入できる日時"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:46
+msgid "Date and time when the raffle will end"
+msgstr "抽選会が終了する日時"
+
+#: includes/RafflePlayWoo_Countdown.php:52
+msgid "Days"
+msgstr "日数"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1067
+msgid "Days Label"
+msgstr "デイズ・レーベル"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1153
+#: includes/w/W_RafflePlayWoo_MainPage.php:1180
+msgid "Days left until Christmas 2025"
+msgstr "2025年クリスマスまであと数日"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:266
+msgid ""
+"DB  Name  is going to be extracted from the order metadata. ( E.g Data "
+"captured at checkout)"
+msgstr "DB名は、注文のメタデータから抽出される予定です。(例：チェックアウト時に取得したデータ)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:262
+msgid "DB Meta Name"
+msgstr "DBメタ名"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:508
+msgid "December"
+msgstr "12月"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:56
+msgid "Default Raffle (ID - 0)"
+msgstr "デフォルト・ラッフル（ID - 0）"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:273
+msgid "Default Raffle has no products"
+msgstr "Default Raffleに商品はありません"
+
+#: includes/RafflePlayWoo_Plugin.php:327
+#: includes/w/W_RafflePlayWoo_Lucky.php:490
+msgid "Delete"
+msgstr "削除"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:41
+#, fuzzy
+#| msgid "Delete Raffle Tickets"
+msgid "Delete All Raffle Tickets"
+msgstr "抽選券を削除する"
+
+#: includes/RafflePlayWoo_Plugin.php:334
+msgid "Delete Lucky Number?"
+msgstr "ラッキーナンバーを削除？"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:388
+msgid "Deprecated functionality - use function above"
+msgstr "非推奨機能 - 上記の関数を使用"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:37
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:70
+msgid "Display image instead of the crossword"
+msgstr "クロスワードの代わりに画像を表示"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:236
+msgid ""
+"Display information to user when raffle is terminated, or there are no more "
+"tickets, or raffle hasnt started etc."
+msgstr "くじが終了したとき、チケットがなくなったとき、くじが始まっていないときなどに、ユーザーに情報を表示します。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:135
+msgid "Display message when no tickets found"
+msgstr "チケットが見つからない場合のメッセージ表示"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:256
+msgid "display table as data table"
+msgstr "データテーブルとしてテーブルを表示"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:333
+msgid "Do not generate Raffle Tickets for Orders with Status:"
+msgstr "ステータスのある注文に対して抽選券を生成しない："
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1133
+msgid "Do you want to display a countdown in the home page? or any other page?"
+msgstr "ホームページにカウントダウンを表示しますか？"
+
+#: includes/w/W_RafflePlayWoo_Info.php:56
+msgid "Doc - Default Raffle Setup"
+msgstr "Doc - デフォルトのラッフルセットアップ"
+
+#: includes/w/W_RafflePlayWoo_Info.php:72
+msgid "Doc - Email PDF Attachment"
+msgstr "Doc - Email PDF 添付ファイル"
+
+#: includes/w/W_RafflePlayWoo_Info.php:52
+msgid "Doc - Installation"
+msgstr "Doc - インストール"
+
+#: includes/w/W_RafflePlayWoo_Info.php:60
+msgid "Doc - Raffles Setup"
+msgstr "ドク - ラッフルセットアップ"
+
+#: includes/w/W_RafflePlayWoo_Info.php:68
+msgid "Doc - Reports Page"
+msgstr "Doc - レポートページ"
+
+#: includes/w/W_RafflePlayWoo_Info.php:64
+msgid "Doc - Winners Page"
+msgstr "ドック - 当選者ページ"
+
+#: includes/docs/RafflePlayWoo_Docs_Pdf_Attachment.php:14
+#, php-format
+msgid "Documentation - How to add custom data to pdf. View %s "
+msgstr "ドキュメント - pdf にカスタム・データを追加する方法。表示 %s"
+
+#: includes/w/W_RafflePlayWoo_Info.php:134
+msgid "Domain License"
+msgstr "ドメインライセンス"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:245
+msgid "Drag & drop to remove from Report Columns"
+msgstr "ドラッグ＆ドロップでレポートカラムから削除可能"
+
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:5
+msgid "Due to lack of transparency, we do not provide random winner generator"
+msgstr "透明性を確保するため、ランダム当選ジェネレータは提供しておりません。"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:97
+msgid "Duplicates"
+msgstr "重複"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:400
+msgid "Duplicates found in this raffle"
+msgstr "このくじで重複が見つかりました。"
+
+#: includes/docs/RafflePlayWoo_Docs_Pdf_Attachment.php:7
+#, php-format
+msgid "Each Setting explained for PDF Attachment. View %s "
+msgstr "PDF添付ファイルの各設定について説明します。表示 %s"
+
+#: includes/RafflePlayWoo_Plugin.php:326
+#: includes/w/W_RafflePlayWoo_Lucky.php:477
+msgid "Edit"
+msgstr "編集"
+
+#: includes/RafflePlayWoo_Plugin.php:289
+msgid "Edit Raffle"
+msgstr "編集ラッフル"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:334
+msgid "Edit Ticket"
+msgstr "チケットの編集"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1248
+msgid "eg: 20/100 tickets sold - 80 left"
+msgstr "例：20/100のチケットが売れ、残り80枚"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:138
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:165
+msgid "Eg: Leading zero set to 5, prefix T-, ticket is 12 => result: T-00012"
+msgstr "例：先頭のゼロを5に設定、プレフィックスT-、チケットは12⇒結果：T-00012"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:193
+msgid "Eg: Raffle draw is on 25th of June 2021"
+msgstr "例：ラッフルの抽選日は2021年6月25日です。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1225
+msgid "eg: Raffle has 1000 tickets available, the progress will show."
+msgstr "例：ラッフルには1000枚のチケットがあります。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1206
+msgid "eg: raffle is terminated, raffle hasn't started, raffle has ended"
+msgstr "例：くじは終了しました、くじは始まっていません、くじは終了しました"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:298
+msgid "Eg: Raffle takes place on 10th of January 2021"
+msgstr "例：抽選会は2021年1月10日に行われます。"
+
+#: includes/RafflePlayWoo_Plugin.php:267
+#: includes/d/D_RafflePlayWoo_Reports.php:985
+#: includes/templates/customer_search.php:15
+#: includes/w/W_RafflePlayWoo_Reports.php:311
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:61
+msgid "Email"
+msgstr "電子メール"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:295
+msgid "Email Extra Line Text"
+msgstr "電子メールの余分な行のテキスト"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1636
+msgid "Email or phone number not provided"
+msgstr "電子メールまたは電話番号は提供されない"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:68
+#: includes/w/W_RafflePlayWoo_MainPage.php:71
+msgid "Email Template & Thank you Page"
+msgstr "Eメールテンプレート＆サンキューページ"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:414
+msgid "Enable Duplicates Fixing after Order Created"
+msgstr "注文作成後の重複修正を有効にする"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:417
+msgid "Enable PDF Email Attachment"
+msgstr "PDFメールの添付を可能にする"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:845
+msgid "Enable Raffle Tab in Woocommerce Account"
+msgstr "WoocommerceアカウントでRaffleタブを有効にする"
+
+#: includes/RafflePlayWoo_Plugin.php:296
+#: includes/w/W_RafflePlayWoo_Raffles.php:234
+msgid "End Date"
+msgstr "終了日"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:127
+#, php-format
+msgid "End date is set as early than today - notify user - %s as end date"
+msgstr "終了日が今日より早く設定されました - ユーザに通知 - 終了日として %s が設定されました。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1118
+msgid "Ends In Label"
+msgstr "レーベル終了"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2549
+#: includes/RafflePlayWoo_LifeCycle.php:4870
+msgid "Enter Raffle Tickets Number in the Variations"
+msgstr "抽選券の番号をバリエーションに入力する"
+
+#: includes/w/W_RafflePlayWoo_Info.php:91
+msgid "Enter the license number"
+msgstr "ライセンス番号を入力する"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2521
+#: includes/RafflePlayWoo_LifeCycle.php:4844
+msgid ""
+"Enter the number or raffle tickets you want for this product. If you have "
+"Raffle Variable Product set the number of raffle tickets in the Variation "
+"product"
+msgstr "この商品に必要な抽選券の枚数を入力してください。ラッフルバリアブル商品がある場合、バリアブル商品のラッフルチケットの数を設定します。"
+
+#: includes/RafflePlayWoo_Plugin.php:257
+msgid "Error Parsing Data"
+msgstr "データのパースエラー"
+
+#: includes/RafflePlayWoo_Plugin.php:320
+msgid "Error. Could not change the number. Refresh the page and try again"
+msgstr "エラー。番号を変更できませんでした。ページを更新して再度お試しください。"
+
+#: raffle-play-woo.php:27
+msgid ""
+"Error: plugin \"Raffle Play\" requires a higher version of PHP to be running."
+msgstr "エラー: プラグイン \"Raffle Play\" は、より高いバージョンの PHP が実行されている必要があります。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:218
+msgid ""
+"Example: Concentrate number is 100, customer buys 20 tickets, and there are "
+"4 lucky numbers not won. The pool to draw one winning number is 124. Changes "
+"to win is 4/124 for each number drawn from 24 purchased. (Extremely high to "
+"win)"
+msgstr ""
+"例集中番号は100、顧客は20枚のチケットを購入し、4つのラッキーナンバーが当選しなかった。1つの当選番号を引くためのプールは124である。購入した24枚から抽選される各数字の当選確率は4/124。(当選確率は極めて高い）"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:482
+msgid "Execute"
+msgstr "実行する"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:154
+msgid "Export Columns"
+msgstr "エクスポートカラム"
+
+#: includes/RafflePlayWoo_Plugin.php:303
+#: includes/w/W_RafflePlayWoo_Winners.php:103
+msgid "Extra Info"
+msgstr "追加情報"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:188
+msgid ""
+"Extra info about raffle displayed on next table row. Leave empty to skip. Eg:"
+" Raffle draw is on 25th of June 2021. Good Luck!"
+msgstr ""
+"抽選に関する追加情報は、次のテーブル行に表示されます。スキップする場合は空欄にしてください。例抽選会は2021年6月25日に行われます。グッドラック!"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:633
+msgid "Extra Info Footer (html)"
+msgstr "エクストラインフォ・フッター（html）"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:90
+msgid "Extra Info Line"
+msgstr "エクストラインフォメーションライン"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:91
+msgid ""
+"Extra information about the raffle (like when/where the draw is taking place)"
+msgstr "抽選会に関する追加情報（抽選が行われる日時や場所など）"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:186
+msgid "Extra Line Info"
+msgstr "エクストラライン情報"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:91
+msgid "Extra Settings"
+msgstr "エクストラセッティング"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:656
+msgid "Extra Style (CSS)"
+msgstr "エクストラスタイル（CSS）"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:265
+msgid ""
+"Extract custom fields captured at checkout. Custom fields saved in order can "
+"be extracted in this report."
+msgstr "チェックアウト時に取得したカスタムフィールドを抽出します。注文時に保存されたカスタムフィールドは、このレポートで抽出できます。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:349
+msgid "Failed"
+msgstr "失敗"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:498
+msgid "February"
+msgstr "2月"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:35
+#: includes/w/W_RafflePlayWoo_ViewPage.php:133
+#: includes/w/W_RafflePlayWoo_ViewPage.php:182
+#: includes/w/W_RafflePlayWoo_ViewPage.php:308
+msgid "Filter"
+msgstr "フィルター"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:49
+msgid "Finish"
+msgstr "仕上がり"
+
+#: includes/RafflePlayWoo_Plugin.php:265
+#: includes/d/D_RafflePlayWoo_Reports.php:977
+#: includes/templates/customer_search.php:16
+#: includes/w/W_RafflePlayWoo_Reports.php:303
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:105
+msgid "First Name"
+msgstr "氏名（フリガナ"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:27
+msgid ""
+"Fixed - Changing customer in the order, will update the raffle tickets in My "
+"Account page"
+msgstr "修正 - 注文の顧客を変更すると、マイアカウントの抽選チケットが更新されます。"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:31
+msgid "Fixed - Removed expired reserved tickets after time expired"
+msgstr "修正 - 時間切れになった予約券を削除しました。"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:35
+msgid "Fixed - Removed raffle tickets limit for variation tickets"
+msgstr "修正 - バリエーション・チケットの抽選券上限を撤廃"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:646
+msgid "Footer Height (px)"
+msgstr "フッターの高さ(px)"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:27
+msgid "For now your product is under the Default raffle "
+msgstr "今のところ、あなたの製品はデフォルトの抽選対象です。"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:56
+msgid "For suggestions email me at developer@tuskcode.com"
+msgstr "ご提案については、developer@tuskcode.com までメールをください。"
+
+#: includes/RafflePlayWoo_Includes.php:33
+msgid "For suggestions or support contact here"
+msgstr "ご提案やサポートはこちらまで"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:29
+msgid ""
+"For the plugin to work properly you need to correct the below based on your "
+"website"
+msgstr "プラグインが正しく動作するためには、あなたのウェブサイトに基づいて以下を修正する必要があります。"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:143
+msgid "From"
+msgstr "から"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:63
+msgid "From Date"
+msgstr "日付から"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:407
+msgid ""
+"Functionality moved into \"View Tickets\" page - now checking per raffle"
+msgstr "機能を「チケットを見る」ページに移し、くじごとにチェックできるようにしました。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:65
+msgid "General"
+msgstr "一般"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:4
+msgid "General Settings"
+msgstr "一般設定"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:8
+msgid "Generate and Show Raffle tickets at Checkout"
+msgstr "チェックアウト時に抽選券を生成して表示する"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:187
+msgid "Generate and Show Raffle tickets at checkout"
+msgstr "チェックアウト時に抽選券を生成して表示する"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3601
+msgid "Generate New PDF"
+msgstr "新しいPDFを作成する"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:286
+msgid "Generate Raffle Tickets for Order Status"
+msgstr "注文状況に応じて抽選券を作成する"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:177
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:112
+msgid "Generate Random Tickets "
+msgstr "ランダムチケットの生成"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:167
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:103
+msgid ""
+"Generate Random Tickets within the range created by start ticket plus number "
+"of tickets. ***IMPORTANT*** Do not change the raffle ticket system from "
+"random to inline after tickets have been purchased***"
+msgstr ""
+"スタートチケットとチケット枚数で作成された範囲内でランダムチケットを生成します。 ***重要*** "
+"チケット購入後、ラッフルチケットシステムをランダムからインラインに変更しないでください***。"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:167
+msgid "Generate Report"
+msgstr "レポート作成"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:124
+msgid "Generate, Reserve, and Show Raffle tickets at checkout"
+msgstr "チェックアウト時に抽選券を生成、予約、表示する"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:11
+msgid "Generated Raffle tickets at Checkout"
+msgstr "チェックアウト時に抽選券を生成"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:116
+msgid "Generated Tickets at Checkout"
+msgstr "チェックアウト時に生成されるチケット"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:325
+msgid "Get Random"
+msgstr "ランダム"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:221
+msgid "Get Sale By Product"
+msgstr "製品別売上を見る"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:352
+msgid "Give Random"
+msgstr "ランダムを与える"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:19
+msgid ""
+"Giveaway free raffle tickets when customers buy a certain amount at the "
+"checkout"
+msgstr "レジで一定額を購入すると抽選券をプレゼント"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:14
+msgid ""
+"Go to 'Products' page and create a new product. But don't leave the page yet."
+msgstr "製品」ページに移動し、新しい製品を作成します。ただし、まだこのページを離れないでください。"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:35
+msgid ""
+"Go to General Setting (Default Raffle)  and edit the 'Email Template' "
+"section."
+msgstr "一般設定（デフォルトラッフル）の「メールテンプレート」セクションを編集してください。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:20
+#: includes/w/W_RafflePlayWoo_MainPage.php:733
+#: includes/w/W_RafflePlayWoo_Raffles.php:359
+msgid "Gold"
+msgstr "ゴールド"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:21
+#: includes/w/W_RafflePlayWoo_MainPage.php:734
+#: includes/w/W_RafflePlayWoo_Raffles.php:360
+msgid "Gold Lines"
+msgstr "ゴールドライン"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:51
+msgid "Good luck, and stay updated for new plugin changes on "
+msgstr "幸運を祈ります。そして、新しいプラグインの変更については、次のサイトで更新してください。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:22
+#: includes/w/W_RafflePlayWoo_MainPage.php:735
+#: includes/w/W_RafflePlayWoo_Raffles.php:361
+msgid "Gray"
+msgstr "グレー"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:159
+msgid "Group Tickets by Order"
+msgstr "団体チケット"
+
+#: includes/RafflePlayWoo_Plugin.php:323
+msgid ""
+"Have you waited for the request to load? No Tickets Changes yet recorded"
+msgstr "リクエストが読み込まれるのを待ちましたか？チケットの変更はまだ記録されていません"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:227
+msgid ""
+"Having different raffle tickets in the same Order, the reports will not "
+"retrieve the correct data (choose Product)"
+msgstr "同じオーダーに異なる抽選券がある場合、レポートが正しいデータを取得しない（商品を選択する）"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:546
+msgid "Header Logo Image (only .jpeg)"
+msgstr "ヘッダーロゴ画像（.jpegのみ）"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:75
+#: includes/w/W_RafflePlayWoo_MainPage.php:148
+msgid "Header Text"
+msgstr "ヘッダーテキスト"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:28
+msgid "HERE"
+msgstr "こちら"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:488
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:551
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:624
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:686
+msgid "Here"
+msgstr "ここに"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:32
+msgid "Here are the Capabilities listed:"
+msgstr "以下はその能力である："
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1137
+msgid ""
+"Here is an example on how to display a custom counter on any page with "
+"tuskcode countdwon"
+msgstr "以下は、tuskcode countdwonを使用してカスタムカウンタを任意のページに表示する方法の例です。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1029
+msgid "Hide \"Add To Cart\" Button"
+msgstr "カートに入れる」ボタンを隠す"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1204
+msgid "Hide Progress Bar if the product is not purchasable"
+msgstr "商品が購入可能でない場合、プログレスバーを隠す"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:675
+msgid "Hide Terminated Raffles in the Product->Raffles List"
+msgstr "製品->ラッフル一覧で終了したラッフルを隠す"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:360
+msgid "History Changes"
+msgstr "歴史の変遷"
+
+#: includes/RafflePlayWoo_Countdown.php:53
+msgid "Hours"
+msgstr "時間"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1077
+msgid "Hours Label"
+msgstr "時間ラベル"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1160
+msgid "How it works."
+msgstr "どのように機能するのか。"
+
+#: includes/RafflePlayWoo_Plugin.php:277
+msgid "Id"
+msgstr "アイド"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:80
+msgid ""
+"If changing the ticket no while raffle is running, make sure is above the "
+"last used ticket."
+msgstr "ラッフル実行中にチケットNoを変更する場合は、最後に使用されたチケットの上にあることを確認してください。"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:192
+msgid "If empty, use woocommerce currency"
+msgstr "空の場合、Woocommerceの通貨を使用します。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:848
+msgid ""
+"If Enabled go to Settings ->\n"
+"                                                     Permalinks and click on "
+"Save Changes for the Tab to show up in the Woocommerce Account - Do it once "
+msgstr ""
+"有効になっている場合、設定->\n"
+"                                                     Permalinks をクリックし、Save "
+"Changes をクリックすると Woocommerce Account にタブが表示されます。"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:34
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:67
+msgid "If not allowed to play the crossword based on the rules"
+msgstr "ルールに基づきクロスワードをプレーすることが許されない場合"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2512
+msgid ""
+"If product is raffle and this option is enabled, save product, and go to "
+"Variations to set the raffle tickets number for each variation"
+msgstr "商品が抽選で、このオプションが有効になっている場合、商品を保存し、バリエーションに進み、各バリエーションに抽選券の番号を設定します。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1031
+msgid "If Raffle hasn't started, it's finished or terminated"
+msgstr "ラッフルが開始されていない場合は、終了または終了している。"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:5
+msgid ""
+"If you are planning to run multiple raffles, on this page you can create a "
+"new one"
+msgstr "複数の抽選を行う場合は、このページで新しい抽選を行うことができます。"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:55
+msgid "If you like this plugin don't forget to rate it"
+msgstr "あなたはこのプラグインが好きなら、それを評価することを忘れないでください"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:224
+msgid ""
+"IMPORTANT - PLEASE READ IF YOU ARE RUNNING MULTIPLE RAFFLES AT THE SAME TIME "
+"(MIXED CHECKOUT RAFFLE PRODUCTS)"
+msgstr "重要 - 複数のくじを同時に実施する場合は必ずお読みください。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:98
+msgid "In the email can be positioned in different places"
+msgstr "メールでは、さまざまな場所に配置することができます"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:415
+msgid "In the next version you will be able to fix duplicates from this page."
+msgstr "次のバージョンでは、このページから重複を修正できるようになります。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:677
+msgid ""
+"In the product settings. Hide Terminated Raffles from the raffles list. This "
+"is convenient when you have a long list of raffles. Beaware that the product "
+"might be linked to the any of the hidden terminated raffle."
+msgstr ""
+"商品設定にて。終了したくじをくじリストから非表示にします。これは、くじの長いリストを持っているときに便利です。非表示にした終了したくじのいずれかに商品がリンクしている可能性がありますので、ご注意ください。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:508
+msgid "Include Billing Info"
+msgstr "請求先情報を含む"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:293
+#: includes/w/W_RafflePlayWoo_Promotion.php:341
+msgid "Include Category"
+msgstr "カテゴリーを含む"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:358
+msgid "Include in draw after tickets purchased"
+msgstr "チケット購入後の抽選に含める"
+
+#: includes/RafflePlayWoo_Plugin.php:329
+msgid ""
+"Include in draw after tickets purchased cannot be greater than maximum limit"
+msgstr "チケット購入後の抽選に含まれるチケットの枚数が上限を超えることはない。"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:285
+msgid "Include Leading Zero"
+msgstr "先頭のゼロを含む"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:271
+msgid "Include Prefix"
+msgstr "プレフィックスを含む"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:497
+msgid "Include Product Name & Quantity"
+msgstr "製品名と数量を記載する"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:161
+msgid "Include Raffle Name"
+msgstr "抽選会の名称を含む"
+
+#: includes/RafflePlayWoo_Plugin.php:286
+msgid "Info"
+msgstr "情報"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:76
+msgid "Info about the raffle"
+msgstr "抽選会に関する情報"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:61
+msgid ""
+"Informational - Might be the case when 2 raffle tickets to have the same "
+"number (should not happen)"
+msgstr "情報提供 - 2枚の抽選券が同じ番号になる場合があります（起こらないはずです）"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:56
+msgid "Informational - Shows the raffle products linked to this raffle"
+msgstr "情報提供 - このくじにリンクしているくじの商品が表示されます。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:51
+msgid "Informational - what's the last ticket purchased"
+msgstr "情報提供 - 最後に購入されたチケットは？"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:307
+msgid "Inherit Email Format from Default Raffle"
+msgstr "デフォルトのラッフルからメール形式を継承する"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:322
+msgid "Inherit Messages from Default Raffle"
+msgstr "デフォルトラッフルからのメッセージの継承"
+
+#: includes/RafflePlayWoo_LifeCycle.php:470
+msgid "Installation Info"
+msgstr "インストール情報"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:267
+msgid "Invalid chars (<,>,&,%,',\")"
+msgstr "無効な文字 (<,>,&,%,',\")"
+
+#: includes/templates/customer_search.php:33
+msgid "Invalid Email"
+msgstr "無効な電子メール"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1609
+msgid "Invalid email"
+msgstr "無効な電子メール"
+
+#: includes/RafflePlayWoo_Plugin.php:294
+msgid "Invalid Limit Number"
+msgstr "無効なリミット番号"
+
+#: includes/RafflePlayWoo_Plugin.php:271
+msgid "Invalid Number"
+msgstr "無効な番号"
+
+#: includes/RafflePlayWoo_Plugin.php:293
+msgid "Invalid Start Ticket Number"
+msgstr "無効なスタートチケット番号"
+
+#: includes/RafflePlayWoo_Plugin.php:304
+msgid "Invalid Ticket Number"
+msgstr "無効なチケット番号"
+
+#: includes/templates/customer_search.php:20
+msgid "is required field"
+msgstr "は必須項目です。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:15
+msgid ""
+"It can be of type test, used for testing purposes, with special raffle "
+"numbers, and live.\n"
+"             When finishing testing dont forget to switch to live."
+msgstr ""
+"テスト用、テスト用、特別抽選番号付き、ライブ用とあります。\n"
+"             テストが終了したら、ライブに切り替えることを忘れないでください。"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:13
+msgid ""
+"It doesnt inherit the extra message from the email template as it can be "
+"custom set for the new raffle"
+msgstr "新しいくじのためにカスタム設定できるため、メールテンプレートの追加メッセージは継承されません。"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:9
+msgid ""
+"It inherits the other settings from the Default Raffle like (message, email "
+"temaplate)"
+msgstr "その他の設定はデフォルトラッフルから継承されます。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:335
+msgid "It wont affect the order, raffle tickets won't be created"
+msgstr "注文に影響はありません、抽選券は作成されません"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:497
+msgid "January"
+msgstr "1月"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:503
+msgid "July"
+msgstr "7月"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:502
+msgid "June"
+msgstr "6月"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:179
+msgid "Label Customer City"
+msgstr "ラベル Customer City"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:191
+msgid "Label Customer Country"
+msgstr "ラベル 顧客の国"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:167
+msgid "Label Customer Name"
+msgstr "ラベル 顧客名"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:203
+msgid "Label Purchased"
+msgstr "購入したレーベル"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:155
+msgid "Label Tickets"
+msgstr "レーベルチケット"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:70
+msgid ""
+"Labels and info that will show in the email confirmation, and thank you page"
+msgstr "確認メールとサンキューページに表示されるラベルと情報"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:536
+msgid "Landscape"
+msgstr "風景"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:50
+msgid "Last Live Ticket"
+msgstr "ラストライブチケット"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:210
+msgid "Last Live Used Ticket"
+msgstr "ラストライブ使用済みチケット"
+
+#: includes/RafflePlayWoo_Plugin.php:266
+#: includes/d/D_RafflePlayWoo_Reports.php:978
+#: includes/templates/customer_search.php:17
+#: includes/w/W_RafflePlayWoo_Reports.php:304
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:118
+msgid "Last Name"
+msgstr "苗字"
+
+#: includes/RafflePlayWoo_Plugin.php:299
+msgid "Last Ticket"
+msgstr "最後のチケット"
+
+#: includes/w/W_RafflePlayWoo_Info.php:168
+msgid "Latest Version Available"
+msgstr "最新バージョン公開"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:176
+msgid "Leave empty if no prefix wanted. (eg: Ticket-10024)"
+msgstr "接頭辞が必要ない場合は空白にしてください。(例：チケット-10024)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:285
+msgid "Let the System pick the number randomly when tickets are generated"
+msgstr "チケットが生成されるときに、システムがランダムに番号を選ぶようにする。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:550
+#: includes/w/W_RafflePlayWoo_MainPage.php:748
+#: includes/w/W_RafflePlayWoo_Raffles.php:373
+msgid "Library"
+msgstr "図書館"
+
+#: includes/w/W_RafflePlayWoo_Info.php:48
+msgid "License"
+msgstr "ライセンス"
+
+#: includes/RafflePlayWoo_LifeCycle.php:381
+msgid "License & Documentation"
+msgstr "ライセンスとドキュメント"
+
+#: includes/w/W_RafflePlayWoo_Info.php:88
+msgid "License (paste it here)"
+msgstr "ライセンス（ここに貼り付ける）"
+
+#: includes/w/W_RafflePlayWoo_Info.php:124
+msgid "License Active"
+msgstr "ライセンスアクティブ"
+
+#: includes/w/W_RafflePlayWoo_Info.php:188
+msgid "License Date last checked"
+msgstr "ライセンス 最終確認日"
+
+#: includes/w/W_RafflePlayWoo_Info.php:202
+msgid ""
+"License is valid. Thank you for using our product. We much appreciate it."
+msgstr "ライセンスは有効です。この度は、弊社製品をご利用いただきありがとうございます。ありがとうございました。"
+
+#: includes/w/W_RafflePlayWoo_Info.php:114
+msgid "License Version"
+msgstr "ライセンスバージョン"
+
+#: includes/w/W_RafflePlayWoo_Info.php:98
+#: includes/w/W_RafflePlayWoo_Info.php:101
+msgid "Licensing Server Url"
+msgstr "ライセンスサーバーのURL"
+
+#: includes/RafflePlayWoo_Plugin.php:285
+msgid "Limit No"
+msgstr "制限なし"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:30
+msgid "Limit number of tickets"
+msgstr "制限枚数"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:90
+msgid "Limit Number or Raffle Tickets"
+msgstr "制限枚数または抽選券の枚数"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:253
+msgid "Limit or rows to display (use -1 for unlimited rows)"
+msgstr "表示する行数を制限する（無制限の場合は-1）"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:369
+msgid ""
+"Limit order per raffle tickets. Avoid mixing raffle tickets per order. The "
+"check is made on add to cart event."
+msgstr "抽選券1枚につき、1回の注文に限ります。1回の注文で抽選券が混在しないようにしましょう。チェックはカートに入れるイベントで行われます。"
+
+#: includes/RafflePlayWoo_Plugin.php:284
+msgid "Limited"
+msgstr "限定"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:160
+msgid "Limited Tickets"
+msgstr "限定チケット"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:799
+#: includes/w/W_RafflePlayWoo_ViewPage.php:237
+msgid "Line Height"
+msgstr "ラインの高さ"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:387
+msgid "Linked to Product"
+msgstr "商品と連動"
+
+#: includes/RafflePlayWoo_Plugin.php:279
+#: includes/w/W_RafflePlayWoo_Raffles.php:91
+#: includes/w/W_RafflePlayWoo_ViewPage.php:30
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:44
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:45
+msgid "Live"
+msgstr "ライブ"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:221
+msgid "Live Raffle Tickets Purchased"
+msgstr "ライブ抽選会チケット購入者"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:72
+msgid "Live Ticket Starts At"
+msgstr "ライブチケットは以下の通りです。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:25
+msgid "Live Tickets Start At"
+msgstr "ライブチケットは以下の通りです。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:149
+msgid "Location at Checkout (if checkout is created using blocks)"
+msgstr "チェックアウト時の位置（チェックアウトがブロックを使用して作成された場合）"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:115
+msgid ""
+"Location at Checkout (if checkout is created with shortcode "
+"[woocommerce_checkout])"
+msgstr "チェックアウト時の場所 (チェックアウトがショートコード [woocommerce_checkout] で作成されている場合)"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:22
+msgid "Logged In Users"
+msgstr "ログインユーザー"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:46
+msgid "Login url (or product url)"
+msgstr "ログインURL（または製品URL）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:303
+msgid "Look up Available Numbers"
+msgstr "空き番号を調べる"
+
+#: includes/RafflePlayWoo_Plugin.php:330
+msgid "Lucky number cannot be above the maximum limit"
+msgstr "ラッキーナンバーが上限を超えることはない"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:264
+msgid "Lucky Number Name"
+msgstr "ラッキーナンバー"
+
+#: includes/RafflePlayWoo_LifeCycle.php:445
+#: includes/w/W_RafflePlayWoo_Lucky.php:104
+msgid "Lucky Numbers (Instant Wins)"
+msgstr "ラッキーナンバーズ（インスタントウィン）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:279
+msgid "Lukcy Number"
+msgstr "ルーキーナンバー"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:8
+msgid "Main update - Lucky Numbers, Instant wins"
+msgstr "主な更新 - ラッキーナンバー、インスタントウィン"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:499
+msgid "March"
+msgstr "3月"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:106
+msgid "Maximum 200 characters"
+msgstr "最大200文字"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:501
+msgid "May"
+msgstr "5月"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:82
+msgid "Message after reserved time has passed!"
+msgstr "予約時間経過後のメッセージ！"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:109
+msgid ""
+"Messages are connected to general settings like terminated, start/end dates "
+"etc"
+msgstr "メッセージは、終了日、開始/終了日などの一般的な設定に接続されています。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:345
+msgid "Messages Shortcode"
+msgstr "メッセージのショートコード"
+
+#: raffle-play-woo.php:28
+msgid "Minimal version of PHP required: "
+msgstr "最小限のバージョンのPHPが必要です。"
+
+#: includes/RafflePlayWoo_Countdown.php:54
+msgid "Minutes"
+msgstr "議事録"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:39
+msgid "minutes"
+msgstr "議事録"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1087
+msgid "Minutes Label"
+msgstr "ミニッツレーベル"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:484
+msgid "Month"
+msgstr "月"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:143
+#: includes/w/W_RafflePlayWoo_Reports.php:96
+msgid "Monthly Sales"
+msgstr "月次売上高"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:10
+msgid "Most of the settings found on this page are self explanatory."
+msgstr "このページにある設定のほとんどは、自分で説明できるものです。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:157
+#: includes/w/W_RafflePlayWoo_MainPage.php:81
+msgid "Multiple Raffles"
+msgstr "複数回の抽選"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:465
+#: includes/w/W_RafflePlayWoo_Promotion.php:203
+msgid "Name"
+msgstr "名称"
+
+#: includes/RafflePlayWoo_Plugin.php:325
+msgid "New"
+msgstr "新しい"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:194
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:131
+msgid "New feature"
+msgstr "新機能"
+
+#: includes/RafflePlayWoo_Plugin.php:288
+msgid "New Raffle"
+msgstr "新しい抽選会"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5626
+msgid "New Ticket "
+msgstr "新しいチケット"
+
+#: includes/RafflePlayWoo_Plugin.php:282 includes/w/W_RafflePlayWoo_Info.php:15
+#: includes/w/W_RafflePlayWoo_MainPage.php:166
+#: includes/w/W_RafflePlayWoo_MainPage.php:377
+#: includes/w/W_RafflePlayWoo_MainPage.php:430
+#: includes/w/W_RafflePlayWoo_MainPage.php:502
+#: includes/w/W_RafflePlayWoo_MainPage.php:513
+#: includes/w/W_RafflePlayWoo_MainPage.php:685
+#: includes/w/W_RafflePlayWoo_MainPage.php:701
+#: includes/w/W_RafflePlayWoo_MainPage.php:718
+#: includes/w/W_RafflePlayWoo_MainPage.php:857
+#: includes/w/W_RafflePlayWoo_MainPage.php:1039
+#: includes/w/W_RafflePlayWoo_MainPage.php:1217
+#: includes/w/W_RafflePlayWoo_MainPage.php:1232
+#: includes/w/W_RafflePlayWoo_Raffles.php:96
+#: includes/w/W_RafflePlayWoo_Raffles.php:109
+#: includes/w/W_RafflePlayWoo_Raffles.php:173
+#: includes/w/W_RafflePlayWoo_Raffles.php:181
+#: includes/w/W_RafflePlayWoo_Raffles.php:202
+#: includes/w/W_RafflePlayWoo_Raffles.php:269
+#: includes/w/W_RafflePlayWoo_Raffles.php:312
+#: includes/w/W_RafflePlayWoo_Raffles.php:327
+#: includes/w/W_RafflePlayWoo_Raffles.php:346
+#: includes/w/W_RafflePlayWoo_Raffles.php:404
+#: includes/w/W_RafflePlayWoo_Raffles.php:430
+#: includes/w/W_RafflePlayWoo_Raffles.php:457
+#: includes/w/W_RafflePlayWoo_Raffles.php:483
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:58
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:195
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:63
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:108
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:117
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:139
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:239
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:425
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:445
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:516
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:581
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:651
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:24
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:46
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:106
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:120
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:134
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:148
+msgid "No"
+msgstr "いいえ"
+
+#: includes/RafflePlayWoo_Plugin.php:322
+msgid ""
+"No available tickets found, increase the number of available raffle tickets."
+msgstr "利用可能なチケットが見つかりません。利用可能な抽選チケットの枚数を増やしてください。"
+
+#: includes/RafflePlayWoo_LifeCycle.php:561
+msgid "No raffle id provided"
+msgstr "抽選IDは提供されない"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:55
+msgid "No raffle products will be available at checkout while disabled."
+msgstr "無効になっている間は、チェックアウト時に抽選対象商品を利用することはできません。"
+
+#: includes/RafflePlayWoo_Plugin.php:291
+msgid "No Raffle Selected"
+msgstr "抽選対象外"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:145
+msgid "No Raffle Tickets found on this search"
+msgstr "この検索では抽選券は見つかりませんでした"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:935
+msgid "No Raffle Tickets to display - message"
+msgstr "抽選券が表示されません - メッセージ"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:326
+msgid ""
+"No raffle tickets will be generated. You need to select at least one order "
+"status to generate tickets. Recommending to enable Processing and Completed"
+msgstr "抽選券は発行されません。チケットを生成するには、少なくとも1つの注文ステータスを選択する必要があります。処理中と完了を有効にすることを推奨"
+
+#: includes/templates/product_raffle_tab.php:186
+msgid "No records found"
+msgstr "記録なし"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:448
+msgid "No Restrict"
+msgstr "制限なし"
+
+#: includes/RafflePlayWoo_Plugin.php:290
+msgid "No Row Selected"
+msgstr "選択された行がない"
+
+#: includes/RafflePlayWoo_Plugin.php:262
+msgid "No Tickets"
+msgstr "チケットはありません"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:129
+msgid "No tickets found message"
+msgstr "チケットが見つかりません"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:496
+#: includes/w/W_RafflePlayWoo_Lucky.php:14
+msgid "None"
+msgstr "なし"
+
+#: includes/RafflePlayWoo_Plugin.php:324
+msgid "Not Found"
+msgstr "見つかりません"
+
+#: includes/templates/pdf_template_one.php:306
+#: includes/templates/pdf_template_two.php:305
+msgid "Note:"
+msgstr "注："
+
+#: includes/d/D_RafflePlayWoo_Reports.php:507
+msgid "November"
+msgstr "11月"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:20
+msgid ""
+"Now you can delegate some of the work to different users thanks to the new "
+"update on User Access."
+msgstr "ユーザーアクセスに関する新しいアップデートのおかげで、作業の一部を別のユーザーに任せることができるようになりました。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:466
+msgid "Number"
+msgstr "番号"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:506
+msgid "October"
+msgstr "10月"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:167
+msgid "Off as Default"
+msgstr "デフォルトではオフ"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:291
+msgid "OK"
+msgstr "よっしゃー"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5625
+msgid "Old Ticket"
+msgstr "オールドチケット"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:310
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:314
+msgid "On Hold"
+msgstr "保留中"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:487
+msgid "One"
+msgstr "1名"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:162
+msgid "One Raffle Tickets at checkout"
+msgstr "チェックアウト時にラッフルチケットを1枚"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:367
+msgid "One Raffle tickets at checkout."
+msgstr "チェックアウト時に抽選券を1枚"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1301
+msgid "Optional settings"
+msgstr "オプション設定"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:69
+msgid "OR"
+msgstr "または"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:23
+#: includes/w/W_RafflePlayWoo_MainPage.php:736
+#: includes/w/W_RafflePlayWoo_Raffles.php:362
+msgid "Orange"
+msgstr "オレンジ"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1055
+#: includes/w/W_RafflePlayWoo_MainPage.php:919
+#: includes/w/W_RafflePlayWoo_Reports.php:220
+msgid "Order"
+msgstr "ご注文"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:246
+msgid "Order can be changed by dragging to desired position number"
+msgstr "任意の位置の番号にドラッグすることで順序を変更することができます。"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:240
+#: includes/d/D_RafflePlayWoo_Reports.php:989
+#: includes/w/W_RafflePlayWoo_Reports.php:314
+msgid "Order Date"
+msgstr "ご注文日"
+
+#: includes/RafflePlayWoo_Plugin.php:269
+msgid "Order Date/Time"
+msgstr "注文日/時間"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:217
+msgid "Order has mixed raffle products"
+msgstr "オーダーは抽選商品が混在している"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3386
+#: includes/RafflePlayWoo_LifeCycle.php:5627
+#: includes/RafflePlayWoo_Plugin.php:258
+#: includes/w/W_RafflePlayWoo_ViewPage.php:342
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:91
+msgid "Order Id"
+msgstr "オーダーID"
+
+#: includes/templates/customer_search.php:14
+msgid "Order id"
+msgstr "注文ID"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:472
+msgid ""
+"Order Id + Customer First Name + Customer Last Name (eg: 5_John_Silva.pdf)"
+msgstr "注文ID + お客様の名前 + お客様の姓 (例: 5_John_Silva.pdf)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:464
+msgid ""
+"Order Id + GUID (eg: 5_ADFE2345ADEFEF-42ADFG-34TERE.pdf) ***RECOMMENDED***"
+msgstr "注文ID + GUID (例: 5_ADFE2345ADEFEF-42ADFG-34TERE.pdf) ***RECOMMENDED***。"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:50
+msgid "Order in Modal"
+msgstr "モーダルでの注文"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:976
+#: includes/w/W_RafflePlayWoo_Reports.php:301
+msgid "Order No"
+msgstr "注文番号"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:70
+msgid ""
+"Order of the tab, 5 will be the first tab shown, 15 will be second, and so on"
+msgstr "タブの順番は、5が最初に表示されるタブ、15が2番目に表示されるタブ、といった具合。"
+
+#: includes/RafflePlayWoo_Plugin.php:264
+msgid "Order Sale"
+msgstr "注文販売"
+
+#: includes/RafflePlayWoo_Plugin.php:315
+#: includes/d/D_RafflePlayWoo_Reports.php:988
+#: includes/w/W_RafflePlayWoo_Reports.php:313
+msgid "Order Status"
+msgstr "注文状況"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:198
+#: includes/w/W_RafflePlayWoo_ViewPage.php:75
+msgid "Order Status "
+msgstr "注文状況"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:987
+#: includes/w/W_RafflePlayWoo_Reports.php:302
+msgid "Order Total"
+msgstr "注文合計"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:423
+msgid "Orders"
+msgstr "受注状況"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1581
+#: includes/RafflePlayWoo_LifeCycle.php:6204
+msgid "Page did not verify"
+msgstr "ページは確認していない"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:520
+msgid "Page Orientation"
+msgstr "ページの向き"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:348
+msgid "Payment failed or was declined (unpaid)"
+msgstr "支払いに失敗した、または支払いを拒否された（未払い）。"
+
+#: includes/docs/RafflePlayWoo_Docs_Pdf_Attachment.php:3
+#: includes/w/W_RafflePlayWoo_MainPage.php:86
+msgid "PDF Email Attachment"
+msgstr "PDFメール添付"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:456
+msgid "PDF Filename"
+msgstr "PDFファイル名"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:481
+msgid "PDF Template"
+msgstr "PDFテンプレート"
+
+#: includes/RafflePlayWoo_Plugin.php:275
+#: includes/d/D_RafflePlayWoo_Reports.php:986
+#: includes/w/W_RafflePlayWoo_Reports.php:312
+msgid "Phone"
+msgstr "電話番号"
+
+#: includes/templates/customer_search.php:18
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:75
+msgid "Phone Number"
+msgstr "電話番号"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:293
+msgid "Pick the number manually"
+msgstr "手動で番号を選ぶ"
+
+#: includes/RafflePlayWoo_Plugin.php:316
+#: includes/w/W_RafflePlayWoo_ViewPage.php:375
+msgid "Please Wait."
+msgstr "お待ちください。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:528
+msgid "Portrait"
+msgstr "ポートレート"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:527
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:662
+msgid "Position on Grid Card"
+msgstr "グリッドカード上の位置"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:456
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:592
+msgid "Position on Product page"
+msgstr "製品ページでの位置"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:982
+#: includes/w/W_RafflePlayWoo_Reports.php:308
+msgid "Post Code"
+msgstr "郵便番号"
+
+#: includes/RafflePlayWoo_Plugin.php:297
+msgid "Prefix"
+msgstr "プリフィクス"
+
+#: includes/templates/pdf_template_one.php:264
+#: includes/templates/pdf_template_two.php:263
+msgid "Price"
+msgstr "価格"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:294
+msgid "Print"
+msgstr "プリント"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:199
+msgid "Print Options"
+msgstr "印刷オプション"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:92
+msgid "Print Tickets"
+msgstr "チケットの印刷"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:65
+msgid "Priority"
+msgstr "優先順位"
+
+#: includes/RafflePlayWoo_Plugin.php:305
+#: includes/w/W_RafflePlayWoo_Winners.php:68
+msgid "Prize"
+msgstr "賞品"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:71
+msgid "Prize Name"
+msgstr "賞品名"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:294
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:298
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:372
+msgid "Processing"
+msgstr "加工"
+
+#: includes/RafflePlayWoo_Plugin.php:314
+#: includes/templates/pdf_template_one.php:262
+#: includes/templates/pdf_template_two.php:261
+#: includes/w/W_RafflePlayWoo_Lucky.php:468
+#: includes/w/W_RafflePlayWoo_Reports.php:220
+msgid "Product"
+msgstr "製品"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:375
+msgid "Product from Category"
+msgstr "カテゴリーからの製品"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:855
+msgid "Product Name"
+msgstr "製品名"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:127
+msgid "Product Raffle Tab (Last Tickets Sold)"
+msgstr "商品抽選タブ（最終販売枚数）"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:11
+msgid ""
+"Product Raffle Tab - Show last orders with sold tickets and customer info"
+msgstr "商品ラッフルタブ - 販売されたチケットと顧客情報を含む最後の注文を表示する"
+
+#: includes/RafflePlayWoo_Plugin.php:283
+msgid "Products"
+msgstr "製品情報"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1264
+msgid "Progress Bar Color"
+msgstr "プログレスバーの色"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:462
+#: includes/w/W_RafflePlayWoo_Raffles.php:488
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:656
+msgid "Progress Bar Image"
+msgstr "プログレス・バー・イメージ"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:111
+msgid "Progress Bar Settings"
+msgstr "プログレスバーの設定"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1209
+msgid "Progress Bar would be hidden if the raffle not running."
+msgstr "抽選が行われていない場合、プログレスバーは非表示になります。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:586
+msgid "Progressbar Image"
+msgstr "プログレスバー画像"
+
+#: includes/RafflePlayWoo_LifeCycle.php:429
+#: includes/w/W_RafflePlayWoo_Promotion.php:176
+msgid "Promotion"
+msgstr "プロモーション"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:65
+#: includes/w/W_RafflePlayWoo_Promotion.php:197
+msgid "Promotion Name"
+msgstr "プロモーション名"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:8
+#: includes/w/W_RafflePlayWoo_Promotion.php:39
+msgid "Promotional Raffle"
+msgstr "プロモーション抽選会"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2492
+msgid ""
+"Promotional Raffle Product (watch video on how to setup promotional raffle)"
+msgstr "プロモーション用ラッフル商品（プロモーション用ラッフルのセットアップ方法をビデオで見る）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:24
+#: includes/w/W_RafflePlayWoo_MainPage.php:737
+#: includes/w/W_RafflePlayWoo_Raffles.php:363
+msgid "Purple"
+msgstr "パープル"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:121
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:149
+msgid "Put leading zeros to the number, the prefix will be included"
+msgstr "先頭にゼロを付けると、プレフィックスが含まれる。"
+
+#: includes/templates/pdf_template_one.php:263
+#: includes/templates/pdf_template_two.php:262
+msgid "Quantity"
+msgstr "数量"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:693
+msgid "Quick view of the raffle tickets in the Orders Table View"
+msgstr "オーダーテーブルビューで抽選券をクイック表示"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3711
+#: includes/RafflePlayWoo_LifeCycle.php:4655
+#: includes/RafflePlayWoo_Plugin.php:308
+#: includes/w/W_RafflePlayWoo_MainPage.php:447
+#: includes/w/W_RafflePlayWoo_MainPage.php:920
+#: includes/w/W_RafflePlayWoo_Promotion.php:246
+#: includes/w/W_RafflePlayWoo_Reports.php:52
+#: includes/w/W_RafflePlayWoo_ViewPage.php:61
+#: includes/w/W_RafflePlayWoo_Winners.php:79
+msgid "Raffle"
+msgstr "抽選会"
+
+#: includes/RafflePlayWoo_LifeCycle.php:793
+msgid "Raffle - Number of Tickets for this Variation"
+msgstr "ラッフル - このバリエーションのチケット数"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:60
+msgid "Raffle Action"
+msgstr "ラッフルアクション"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:60
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:399
+msgid "Raffle Duplicate Tickets"
+msgstr "抽選用複製チケット"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:199
+msgid "Raffle End Date Time"
+msgstr "抽選会終了時刻"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:132
+#, php-format
+msgid "Raffle has an ending date - notify user - %s as end date"
+msgstr "ラッフルに終了日が設定されました - ユーザに通知 - 終了日は %s です。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:126
+msgid "Raffle has ended"
+msgstr "抽選会は終了しました"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:284
+#, php-format
+msgid "Raffle has ended (end date - %s)"
+msgstr "抽選会は終了しました（終了日 - %s）。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:272
+#, php-format
+msgid "Raffle hasn't started (start date - %s)"
+msgstr "抽選は開始されていません（開始日 - %s）。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:121
+msgid "Raffle hasn't started yet"
+msgstr "抽選会はまだ始まっていません"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1303
+msgid "Raffle id, swap 0 to your desired raffle id"
+msgstr "ラッフルID、0を希望のラッフルIDに入れ替える。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:710
+#: includes/w/W_RafflePlayWoo_Raffles.php:338
+msgid ""
+"Raffle image will be placed in the background of the ticket number. Custom "
+"images can be used, or customized in the template"
+msgstr "抽選画像は、チケット番号の背景に配置されます。カスタム画像を使用することも可能で、テンプレートでカスタマイズすることもできます"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:41
+#: includes/w/W_RafflePlayWoo_MainPage.php:260
+msgid "Raffle is Terminated"
+msgstr "抽選会は終了しました"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:116
+msgid "Raffle is Termindated"
+msgstr "抽選会終了のお知らせ"
+
+#: includes/RafflePlayWoo_Plugin.php:278
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:80
+#: includes/w/W_RafflePlayWoo_Raffles.php:71
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:27
+msgid "Raffle Name"
+msgstr "抽選会名"
+
+#: includes/RafflePlayWoo_Plugin.php:292
+msgid "Raffle Name Required"
+msgstr "抽選会名 必須"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2519
+#: includes/RafflePlayWoo_LifeCycle.php:4842
+msgid "Raffle Number of tickets"
+msgstr "抽選券枚数"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:21
+msgid "Raffle Number or Tickets"
+msgstr "抽選番号またはチケット"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2548
+#: includes/RafflePlayWoo_LifeCycle.php:4815
+#: includes/RafflePlayWoo_LifeCycle.php:4869
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:19
+msgid "Raffle Play Product"
+msgstr "ラッフルプレイ製品"
+
+#: raffle-play-woo.php:35 raffle-play-woo.php:41 raffle-play-woo.php:47
+#: includes/RafflePlayWoo_LifeCycle.php:4652
+msgid "Raffle Play Woo"
+msgstr "ラッフル・プレイ・ウー"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2480
+msgid "Raffle Product"
+msgstr "抽選商品"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:55
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:268
+msgid "Raffle Products"
+msgstr "抽選会商品"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2455
+msgid "Raffle Settings"
+msgstr "くじの設定"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:40
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:45
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:188
+msgid "Raffle Start Date Time"
+msgstr "抽選会開始日 時刻"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:14
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:37
+msgid "Raffle Status"
+msgstr "抽選の状況"
+
+#: includes/RafflePlayWoo_Plugin.php:270
+msgid "Raffle Ticket"
+msgstr "抽選券"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:975
+#: includes/w/W_RafflePlayWoo_Reports.php:300
+msgid "Raffle Ticket No"
+msgstr "抽選券番号"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2570
+#: includes/w/W_RafflePlayWoo_Promotion.php:294
+msgid "Raffle Tickets"
+msgstr "抽選券"
+
+#: includes/RafflePlayWoo_Plugin.php:331
+msgid "Raffle tickets are Generated and Displayed at Checkout - Turn Off"
+msgstr "チェックアウト時に抽選券が生成・表示される - オフにする"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:154
+msgid "Raffle Tickets Info"
+msgstr "抽選券のご案内"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:288
+msgid "Raffle Tickets will only be generated for these statuses"
+msgstr "抽選券は以下のステータスの場合にのみ発行されます。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:339
+msgid "Raffle tickets wont be generated if ticked on"
+msgstr "にチェックを入れると抽選券が発行されません。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:131
+msgid "Raffle will end"
+msgstr "抽選会終了"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:296
+#, php-format
+msgid "Raffle will end (end date - %s)"
+msgstr "抽選会は終了します（終了日 - %s）。"
+
+#: includes/RafflePlayWoo_LifeCycle.php:316
+#: includes/w/W_RafflePlayWoo_Raffles.php:17
+msgid "Raffles"
+msgstr "ラッフルズ"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2537
+#: includes/RafflePlayWoo_LifeCycle.php:4858
+msgid "Raffles List"
+msgstr "抽選リスト"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:3
+msgid "Raffles Setup"
+msgstr "抽選会セットアップ"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:351
+msgid "Random from available tickets"
+msgstr "利用可能なチケットからランダム"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:42
+msgid "Recommended to have at least search on by email and order id"
+msgstr "少なくともEメールと注文IDで検索できるようにすることをお勧めします。"
+
+#: includes/RafflePlayWoo_Plugin.php:310
+msgid "Records Deleted"
+msgstr "削除された記録"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:25
+#: includes/w/W_RafflePlayWoo_MainPage.php:738
+#: includes/w/W_RafflePlayWoo_Raffles.php:364
+msgid "Red"
+msgstr "赤色"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:7
+msgid "Release 5.8.1  - 2023-December-05"
+msgstr "リリース 5.8.1 - 2023年12月05日"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:7
+msgid "Release 5.8.4  - 2024-Jan-4"
+msgstr "リリース5.8.4 - 2024-Jan-4"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:7
+msgid "Release 5.9.0  - 2024-Feb-18"
+msgstr "リリース 5.9.0 - 2024-Feb-18"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:7
+msgid "Release 6.0.0  - 2024-Mar-23"
+msgstr "リリース 6.0.0 - 2024-03-23"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:7
+msgid "Release 6.2  - 2024-Apr-25"
+msgstr "リリース6.2 - 2024年4月25日"
+
+#: includes/w/W_RafflePlayWoo_Releases.php:13
+msgid "Release Notes"
+msgstr "リリースノート"
+
+#: includes/RafflePlayWoo_LifeCycle.php:398
+#: includes/w/W_RafflePlayWoo_Releases.php:21
+msgid "Releases"
+msgstr "リリース"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:249
+msgid "Report Columns"
+msgstr "レポートコラム"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:182
+msgid "Report Settings"
+msgstr "レポート設定"
+
+#: includes/RafflePlayWoo_LifeCycle.php:364
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:3
+#: includes/w/W_RafflePlayWoo_Reports.php:41
+msgid "Reports"
+msgstr "レポート"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:65
+msgid "Reserve time message"
+msgstr "リザーブ・タイム・メッセージ"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:17
+msgid "Reserved Time - Cycle"
+msgstr "予約時間 - サイクル"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:28
+msgid "Reserved time for the raffle tickets at checkout"
+msgstr "チェックアウト時に抽選券の予約時間"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:48
+msgid "Reserved time for tickets at checkout, show countdown."
+msgstr "チェックアウト時のチケット予約時間、ショーのカウントダウン。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:439
+msgid ""
+"Restrict attachement only for Order with raffle products, or let all orders "
+"to have pdf attachment"
+msgstr "くじ付きの注文にのみ添付を制限するか、すべての注文にPDFを添付できるようにする。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:437
+msgid "Restrict attachment only for Orders with: "
+msgstr "注文時に添付ファイルを制限する。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:163
+msgid ""
+"Restrict the user of adding mixed raffle tickets at checkout. Some customers "
+"want only one raffle tickets at checkout"
+msgstr "チェックアウト時に混合された抽選券を追加するユーザーを制限する。チェックアウト時に1枚の抽選券のみを希望するお客様がいます。"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:47
+msgid "Reward customers with free raffle tickets for each purchase they make"
+msgstr "お買い上げのお客様に抽選券を差し上げます。"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:66
+#: includes/w/W_RafflePlayWoo_Promotion.php:106
+#: includes/w/W_RafflePlayWoo_Promotion.php:274
+msgid "Rules"
+msgstr "ルール"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:19
+msgid "Run Fix"
+msgstr "ランフィックス"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:215
+msgid "Running Multiple Raffles at the same time"
+msgstr "複数の抽選を同時に行うこと"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:149
+msgid "Sales by Country and County"
+msgstr "国・郡別売上高"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:109
+msgid "Sales by Country&County"
+msgstr "国・地域別売上高"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:152
+#: includes/w/W_RafflePlayWoo_Reports.php:145
+msgid "Sales by Product"
+msgstr "製品別売上高"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:226
+msgid ""
+"Sales by Product will retrieve the sale based on the product price and "
+"quantity. When used coupons, the sale price is not retrieved correctly"
+msgstr "商品別の売上は、商品価格と数量に基づいて売上を取得します。クーポンを使用した場合、販売価格は正しく取得されません。"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:146
+#: includes/w/W_RafflePlayWoo_Reports.php:102
+msgid "Sales by Region/County"
+msgstr "地域別／国別売上高"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:148
+msgid "Same as the above one. The check is done on update cart"
+msgstr "上のものと同じです。カートの更新時にチェックされます"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:166
+#: includes/w/W_RafflePlayWoo_MainPage.php:52
+#: includes/w/W_RafflePlayWoo_MainPage.php:1344
+#: includes/w/W_RafflePlayWoo_Promotion.php:461
+#: includes/w/W_RafflePlayWoo_Raffles.php:500
+#: includes/w/W_RafflePlayWoo_Winners.php:116
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:116
+msgid "Save"
+msgstr "セーブ"
+
+#: includes/RafflePlayWoo_Plugin.php:256
+msgid "Saved"
+msgstr "セーブ"
+
+#: includes/RafflePlayWoo_Plugin.php:328
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:120
+msgid "Saving ..."
+msgstr "節約 ..."
+
+#: includes/templates/customer_search.php:19
+#: includes/templates/product_raffle_tab.php:185
+msgid "Search"
+msgstr "検索"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:36
+msgid "Search By"
+msgstr "で検索"
+
+#: includes/RafflePlayWoo_Countdown.php:55
+msgid "Seconds"
+msgstr "秒"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1097
+msgid "Seconds Label"
+msgstr "秒ラベル"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2539
+#: includes/RafflePlayWoo_LifeCycle.php:4860
+msgid "Select a raffle for this product"
+msgstr "この商品のくじを選ぶ"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:408
+#: includes/w/W_RafflePlayWoo_MainPage.php:730
+#: includes/w/W_RafflePlayWoo_Raffles.php:356
+msgid "Select image for background ticket. (Select custom to add your own)"
+msgstr "背景チケットの画像を選択してください。(独自の画像を追加する場合はカスタムを選択してください)"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:505
+msgid "September"
+msgstr "9月"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:159
+msgid "Setting when running multiple raffless at the same time"
+msgstr "複数のラフレスを同時に動作させる場合の設定"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:535
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:670
+msgid "Shop Loop Item Title"
+msgstr "ショップ・ループ"
+
+#: includes/RafflePlayWoo_Plugin.php:301
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:54
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:82
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:154
+msgid "Shortcode Generated"
+msgstr "ショートコード生成"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:180
+msgid "Shortcode Id - Enter unique id for this shortcode before copy"
+msgstr "ショートコードID - コピーの前に、このショートコードのユニークなIDを入力します。"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1623
+msgid "Shortcode id not matching"
+msgstr "ショートコードのIDが一致しない"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:101
+msgid "Shortcode Info Raffle"
+msgstr "ショートコード情報抽選会"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:955
+msgid "Shortcode Info Raffle Data"
+msgstr "ショートコード情報 ラッフルデータ"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1617
+msgid "Shortcode not found"
+msgstr "ショートコードが見つかりません"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:189
+msgid "Shortcode to display Lucky Numbers"
+msgstr "ラッキーナンバーを表示するショートコード"
+
+#: includes/RafflePlayWoo_Plugin.php:272
+msgid "Should be greater than zero"
+msgstr "ゼロより大きい値でなければならない"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:229
+msgid "Show a message to explain in case someone will try."
+msgstr "誰かがやってみようとする場合に備えて、説明のメッセージを表示する。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:45
+msgid "Show Countdown for Reserved time"
+msgstr "予約時間のカウントダウンを表示"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:393
+#: includes/w/W_RafflePlayWoo_Raffles.php:421
+msgid ""
+"Show Countdown if Raffle has start date or end date set for the products "
+"linked to this raffle"
+msgstr "ラッフルにリンクされた商品に開始日または終了日が設定されている場合、カウントダウンを表示する。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:434
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:504
+msgid ""
+"Show Countdown if Raffle has start date or end date set for the products "
+"linked to this raffle."
+msgstr "ラッフルにリンクされている商品に開始日または終了日が設定されている場合、カウントダウンを表示します。"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:417
+msgid "Show Countdown on Card Product"
+msgstr "カード製品にカウントダウンを表示"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:389
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:432
+msgid "Show Countdown on Product Page"
+msgstr "商品ページにカウントダウンを表示"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:502
+msgid "Show Countdown on Shop Grid Cards"
+msgstr "ショップのグリッドカードにカウントダウンを表示"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:113
+msgid "Show Customer City"
+msgstr "顧客の都市を表示"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:127
+msgid "Show Customer Country"
+msgstr "顧客の国を表示"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:99
+msgid "Show Customer Name"
+msgstr "顧客名を表示"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:85
+msgid "Show Last Orders (limit)"
+msgstr "最後の注文を表示する（制限）"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:17
+msgid "Show Product Raffle Tab"
+msgstr "商品抽選タブを表示する"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:640
+msgid "Show Progress bar if the raffle has limited number of tickets."
+msgstr "くじの枚数に限りがある場合、プログレスバーを表示します。"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:448
+msgid ""
+"Show Progress Bar in the product page. Position is set in the Main Settings"
+msgstr "商品ページにプログレスバーを表示する。位置はメイン設定で設定します。"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:470
+msgid "Show Progress Bar on Card Product"
+msgstr "カード製品にプログレスバーを表示する"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:474
+msgid ""
+"Show Progress Bar on Loop Card (eg: shop page). Position is set in the Main "
+"Settings"
+msgstr "ループカード（例：ショップページ）にプログレスバーを表示する。位置はメイン設定で設定"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:444
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:566
+msgid "Show Progress Bar on Product Page"
+msgstr "製品ページにプログレスバーを表示する"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:638
+msgid "Show Progress Bar on Shop Grid Cards"
+msgstr "ショップのグリッドカードにプログレスバーを表示する"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1223
+msgid "Show Progress Bar only for limited raffle tickets"
+msgstr "限定抽選券はプログレス・バーのみ表示"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:568
+msgid "Show Progress Bar, if the raffle has limited number of tickets"
+msgstr "くじの枚数に限りがある場合、プログレスバーを表示する。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:141
+msgid "Show Purchased at"
+msgstr "ショーで購入"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:81
+msgid "Show raffle name"
+msgstr "くじの名前を表示する"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:691
+msgid "Show Raffle Tickets in Woocommerce Orders Table View"
+msgstr "Woocommerceの注文テーブルビューに抽選券を表示する"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:31
+msgid "Show Table as Data Table"
+msgstr "テーブルをデータテーブルとして表示"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:915
+msgid "Show Tickets Grouped by:"
+msgstr "ショーチケットのグループ分け"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:708
+#: includes/w/W_RafflePlayWoo_Raffles.php:336
+msgid ""
+"Show Tickets Number with Raffle image in background (Thank you Page / Email )"
+msgstr "抽選画像を背景にチケット番号を表示 (サンキューページ / メール)"
+
+#: includes/templates/product_raffle_tab.php:184
+#, php-format
+msgid "Showing page %s of %s"
+msgstr "s の %s ページを表示しています。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:372
+msgid "Sold"
+msgstr "売約済み"
+
+#: includes/RafflePlayWoo_Plugin.php:300
+msgid "Sold Tickets"
+msgstr "チケットの販売"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:215
+msgid "Sold Time Hours ago (less than 24 hours)"
+msgstr "販売時間 数時間前（24時間以内）"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:227
+msgid "Sold Time Minutes ago (less than 1 hour)"
+msgstr "販売時間 分前（1時間未満）"
+
+#: includes/RafflePlayWoo_LifeCycle.php:795
+msgid "Some data to display for this variation."
+msgstr "このバリエーションで表示されるいくつかのデータ。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:555
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:690
+msgid ""
+"Some themes change the position of hooks with different style or html "
+"applied to the page."
+msgstr "テーマによっては、ページに適用されるスタイルやhtmlが異なると、フックの位置が変わるものがあります。"
+
+#: includes/RafflePlayWoo_Plugin.php:295
+#: includes/w/W_RafflePlayWoo_Raffles.php:210
+msgid "Start Date"
+msgstr "開始日"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:122
+#, php-format
+msgid "Start date is later than today - notify user - %s as start date"
+msgstr "開始日が今日より遅い - ユーザに通知 - 開始日は %s です。"
+
+#: includes/RafflePlayWoo_Plugin.php:287
+#: includes/w/W_RafflePlayWoo_Raffles.php:82
+msgid "Start Ticket"
+msgstr "スタートチケット"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1108
+msgid "Starts In Label"
+msgstr "レーベル開始"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:3
+msgid "Step One - Install the Plugin"
+msgstr "ステップ1 - プラグインをインストールする"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:33
+msgid "Step Three - Configure Email Raffle Labels"
+msgstr "ステップ3 - メール抽選用ラベルの設定"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:12
+msgid "Step Two - Create Raffle Product"
+msgstr "ステップ2：抽選用商品の作成"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:179
+msgid "Stop Reserving Tickets after the Time Cycles have passed"
+msgstr "時間サイクル経過後のチケット予約の停止"
+
+#: includes/w/W_RafflePlayWoo_Info.php:157
+msgid "Support & Updates End Date"
+msgstr "サポート＆アップデート終了日"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:882
+msgid "Tab Location"
+msgstr "タブの位置"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:870
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:53
+msgid "Tab Name"
+msgstr "タブ名"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:20
+msgid "Terminate Raffle"
+msgstr "抽選会の終了"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:53
+msgid "Terminate Raffle Now"
+msgstr "今すぐ抽選を終了する"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:260
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:231
+msgid "Terminate Raffle on Buy Out Product"
+msgstr "バイ・アウト製品の抽選を終了する"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5760
+#: includes/RafflePlayWoo_Plugin.php:280
+#: includes/w/W_RafflePlayWoo_Raffles.php:104
+msgid "Terminated"
+msgstr "終了しました"
+
+#: includes/RafflePlayWoo_Plugin.php:298
+#: includes/w/W_RafflePlayWoo_ViewPage.php:31
+msgid "Test"
+msgstr "テスト"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:174
+msgid "Test Info"
+msgstr "テスト情報"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:823
+#: includes/w/W_RafflePlayWoo_MainPage.php:1254
+#: includes/w/W_RafflePlayWoo_ViewPage.php:256
+msgid "Text Color"
+msgstr "テキストの色"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:53
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:92
+msgid "Text over image (html accepted)"
+msgstr "画像上のテキスト（html可）"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:811
+#: includes/w/W_RafflePlayWoo_ViewPage.php:246
+msgid "Text Size"
+msgstr "文字サイズ"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1238
+msgid "Text to display"
+msgstr "表示するテキスト"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1310
+msgid "Text to display, for shortcode use the following text replaces"
+msgstr "表示するテキスト。ショートコードでは、以下のテキストを置き換えてください。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:26
+msgid "That's the starting point of the raffle tickets."
+msgstr "それが抽選券の原点です。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1129
+msgid ""
+"The above settings are used to display the raffle countdown in the product "
+"page"
+msgstr "上記の設定は、商品ページにくじのカウントダウンを表示するために使用されます。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:974
+msgid "The code with other plugin integration is found "
+msgstr "他のプラグインを統合したコードを以下に示します。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:492
+msgid ""
+"The countdown does not show in the position you have selected? Some themes "
+"change the position of hooks with different style or html applied to the "
+"page."
+msgstr ""
+"選択した位置にカウントダウンが表示されない？テーマによっては、ページに適用されるスタイルやhtmlが異なると、フックの位置が変わるものがあります。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:88
+msgid ""
+"The customer can still buy the tickets, but will be generated at thank you "
+"page"
+msgstr "顧客はまだチケットを購入することができますが、サンキューページで生成されます。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:6
+msgid ""
+"The Default Raffle is the main raffle, and all other raffles created inherit "
+"some of the settings from it"
+msgstr "デフォルトラッフルはメインラッフルであり、作成された他のラッフルはこのラッフルの設定の一部を引き継ぎます。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1247
+msgid "The keywords will be replaced with the numbers when displayed"
+msgstr "キーワードが表示されると、数字に置き換えられる。"
+
+#: raffle-play-woo.php:36
+msgid "The plugin is not licensed"
+msgstr "プラグインはライセンスされていません"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:5
+msgid ""
+"The Plugin requires no special installation, just as any regular plugin "
+"proceed with instalation, and activation."
+msgstr "プラグインは特別なインストールを必要とせず、通常のプラグインと同様に、インストール、アクティベーションを行います。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:628
+msgid ""
+"The Progress bar does not show in the position you have selected? Some "
+"themes change the position of hooks with different style or html applied to "
+"the page."
+msgstr "プログレスバーが選択した位置に表示されません。テーマによっては、ページに適用されるスタイルやhtmlが異なると、フックの位置が変わります。"
+
+#: includes/RafflePlayWoo_Plugin.php:333
+msgid ""
+"The Raffle does not generate tickets randomly - Change to random generated"
+msgstr "ラッフルでチケットがランダムに生成されない - ランダム生成に変更する"
+
+#: includes/RafflePlayWoo_Plugin.php:332
+msgid "The Raffle does not have limited tickets - Put a limit"
+msgstr "ラッフルには制限券はありません。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:143
+msgid ""
+"The raffle has limited tickets - notify user - eg: 3 tickets left, user "
+"wants to buy 5, exceeds with 2 - show message"
+msgstr "ラッフルのチケットに限りがあることをユーザーに通知 - 例：チケットは残り3枚、ユーザーは5枚買いたい、2枚で超過 - メッセージの表示"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:137
+msgid ""
+"The raffle has limited tickets - Upon adding to cart, the system checks if "
+"any tickets left, if not show message "
+msgstr ""
+"ラッフルはチケットに限りがあります - カートに追加すると、システムはチケットが残っているかどうかを確認し、残っていない場合はメッセージを表示します。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:117
+msgid "The raffle is set as terminated"
+msgstr "抽選は終了したように設定されています"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:262
+msgid ""
+"The raffle will be set to terminated if the \"Buyout Product\" is out of "
+"stock."
+msgstr "買い取り商品」が品切れの場合、抽選は終了に設定されます。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:233
+msgid ""
+"The raffle will be set to terminated if the \"Buyout Product\" is sold (out "
+"of stock). Terminate Raffle by selling a single not raffle product."
+msgstr "買い切り商品」が販売された場合（在庫切れ）、ラッフルは終了に設定されます。ラッフルでない商品を1つでも販売することで、ラッフルを終了させる。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:21
+msgid ""
+"The raffle will be terminated. No raffle tickets will be available for sale."
+msgstr "抽選会は終了となります。抽選券は販売されません。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:31
+msgid "The raffle will have a limited number of tickets"
+msgstr "抽選会は、チケットの枚数に限りがあります"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:228
+msgid "The system will do it automatically based on the rules"
+msgstr "システムがルールに基づいて自動的に行う"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:189
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:126
+msgid "The tickets will be generated and shown at checkout page"
+msgstr "チケットが生成され、チェックアウトページに表示されます。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:15
+msgid "There are issues with the DB Tables"
+msgstr "DBテーブルに問題がある"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:27
+msgid "There is a custom reserved time in minutes"
+msgstr "分単位のカスタム予約時間があります。"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:37
+msgid ""
+"These labels will show in the 'Thank you page' and the 'Confirmation Email' "
+msgstr "これらのラベルは、「サンキューページ」と「確認メール」に表示されます。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:23
+msgid ""
+"These tickets are counted as purchased because are reserved for the customer "
+"for a specific time"
+msgstr "これらのチケットは、特定の時間のために顧客のために予約されているため、購入したものとしてカウントされます。"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:235
+msgid ""
+"This is a promotional raffle, based on your cart value we award free entry "
+"tickets to raffle."
+msgstr "カートの金額に応じて、抽選会への無料参加券を差し上げます。"
+
+#: includes/RafflePlayWoo_Plugin.php:335
+msgid "This is a won ticket, are you sure?"
+msgstr "これは当たったチケットですが、本当ですか？"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:50
+msgid "This is the minimal setup to have a raffle running"
+msgstr "これは、ラッフルを行うための最小限のセットアップです。"
+
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:9
+msgid ""
+"This page is set only to keep track of the winning tickets, and the "
+"customers associated"
+msgstr "このページは、当選したチケットと、それに関連するお客様を記録するためにのみ設定されています。"
+
+#: includes/RafflePlayWoo_Plugin.php:259
+#: includes/w/W_RafflePlayWoo_ViewPage.php:422
+#: includes/w/W_RafflePlayWoo_Winners.php:92
+msgid "Ticket"
+msgstr "チケット"
+
+#: includes/RafflePlayWoo_Plugin.php:321
+msgid "Ticket Changed Successfully"
+msgstr "チケット変更成功"
+
+#: includes/RafflePlayWoo_Plugin.php:260
+msgid "Ticket From"
+msgstr "チケット発売日"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:787
+#: includes/w/W_RafflePlayWoo_ViewPage.php:228
+msgid "Ticket Height"
+msgstr "チケットの高さ"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:97
+#: includes/w/W_RafflePlayWoo_MainPage.php:200
+msgid "Ticket Info Position"
+msgstr "チケット情報位置"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:95
+msgid "Ticket Number"
+msgstr "チケット番号"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5953
+msgid "Ticket Number does not exist"
+msgstr "チケット番号が存在しない"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:118
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:147
+msgid "Ticket Number Leading Zeros"
+msgstr "チケット番号 先頭ゼロ"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:35
+#: includes/w/W_RafflePlayWoo_Raffles.php:149
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:174
+msgid "Ticket Prefix"
+msgstr "チケットのプレフィックス"
+
+#: includes/RafflePlayWoo_Plugin.php:261
+msgid "Ticket To"
+msgstr "チケット・トゥ"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:774
+#: includes/w/W_RafflePlayWoo_ViewPage.php:218
+msgid "Ticket Width"
+msgstr "チケット幅"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:181
+msgid "Ticket-"
+msgstr "チケット"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:23
+msgid ""
+"Tickets are generated and displayed per raffle, you need to enable the "
+"option for each raffle"
+msgstr "チケットはくじごとに生成・表示されますので、くじごとにオプションを有効にする必要があります。"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:19
+msgid ""
+"Tickets can now be generated and displayed at checkout before the order is "
+"placed"
+msgstr "注文前にチケットを生成し、チェックアウト時に表示できるようになりました。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:86
+msgid "Tickets Info"
+msgstr "チケット情報"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:179
+msgid "Tickets Purchased"
+msgstr "購入したチケット"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:96
+msgid "Tickets will not be visible at checkout anymore"
+msgstr "チケットはチェックアウト時に表示されなくなります。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:319
+msgid "Tickets will only be generated for these order statuses"
+msgstr "チケットは、以下の注文ステータスの場合にのみ生成されます。"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:68
+#: includes/w/W_RafflePlayWoo_ViewPage.php:163
+msgid "To"
+msgstr "への"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:442
+msgid "to display link to product (Thank you page / Email)"
+msgstr "商品へのリンクを表示する（サンキューページ／メール）"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:347
+msgid ""
+"To display messages in custom page, copy the shortcode, change the it to "
+"match the raffle id and paste it in custom page"
+msgstr "カスタムページにメッセージを表示するには、ショートコードをコピーし、くじのIDに合わせて変更し、カスタムページに貼り付けます。"
+
+#: includes/RafflePlayWoo_Plugin.php:307
+msgid "To display the raffle name add show_raffle_name in the shortcode"
+msgstr "くじの名前を表示するには、ショートコードにshow_raffle_nameを追加してください。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:353
+msgid "To show raffle name add (show_raffle_name='1') in the shortcode"
+msgstr "くじの名前を表示するには、ショートコードに (show_raffle_name='1') を追加してください。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:464
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:600
+msgid "Top of Single Product Summary"
+msgstr "単一製品概要のトップ"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:241
+#: includes/d/D_RafflePlayWoo_Reports.php:361
+#: includes/d/D_RafflePlayWoo_Reports.php:485
+#: includes/d/D_RafflePlayWoo_Reports.php:551
+#: includes/d/D_RafflePlayWoo_Reports.php:681
+#: includes/d/D_RafflePlayWoo_Reports.php:856
+msgid "Total"
+msgstr "合計"
+
+#: includes/RafflePlayWoo_Plugin.php:263
+msgid "Total Tickets"
+msgstr "チケット総数"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:488
+msgid "Two"
+msgstr "2名"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:401
+msgid ""
+"Two customers buying raffle products at the same time, might cause the db to "
+"overlap the orders, and create duplicate tickets. Chances are minimal. But "
+"the system will spot any malfunctions "
+msgstr ""
+"2人のお客様が同時に抽選商品を購入した場合、dbの注文が重なり、重複してチケットが作成される可能性があります。その可能性はほとんどありません。しかし、システムは誤動作を発見することができます。"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:17
+msgid ""
+"Under 'Product' page go to 'General' tab and you should see two extra "
+"options "
+msgstr "製品」ページで「一般」タブをクリックすると、2つのオプションが表示されます。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:259
+msgid "Unique identifier for the shortcode"
+msgstr "ショートコードの一意な識別子"
+
+#: includes/templates/progressbar_info.php:55
+#: includes/templates/progressbar_info.php:56
+msgid "unlimited"
+msgstr "無制限"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:308
+msgid "Up to 1000 random numbers displayed. Want more? Use filter "
+msgstr "最大1000個の乱数を表示。もっと欲しいですか？フィルターを使う"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:368
+msgid ""
+"up to 1000 random tickets will be displayed, can be increased, use filter "
+msgstr "最大1000枚のランダムチケットが表示されます。"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:226
+msgid "Update / Delete / Add to Cart Promotional Product message"
+msgstr "プロモーション商品メッセージの更新/削除/カートに追加"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:147
+#, php-format
+msgid "Update Cart (exceeding tickets %d)"
+msgstr "カートを更新する (チケット %d を超える)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:332
+#, php-format
+msgid "Update Cart (limit on - exceeding tickets - %d)"
+msgstr "カートを更新する (制限 - チケットの超過 - %d)"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:33
+msgid "Updated - Compatible with new HPOS, and legacy order storage "
+msgstr "更新 - 新しいHPOSとレガシー・オーダー・ストレージに対応"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:82
+msgid "Url redirect when clicking on image (like url to product)"
+msgstr "画像クリック時のURLリダイレクト（商品へのURLなど）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:440
+msgid "Use"
+msgstr "用途"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1285
+msgid "Use spaces as delimiter"
+msgstr "区切り文字としてスペースを使用"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2504
+#: includes/RafflePlayWoo_LifeCycle.php:4827
+msgid "Use Variation Product Raffle"
+msgstr "使用バリエーション 商品抽選会"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:176
+msgid "Used with 'Test' option in the settings"
+msgstr "設定の'Test'オプションで使用"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:36
+msgid ""
+"Used with ticket number as Tkt-1001, Tkt-1002, etc. Instead of display a "
+"dull number as 1001, 1002"
+msgstr "Tkt-1001、Tkt-1002などのチケット番号で使用します。1001、1002のような鈍い番号の表示ではなく"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:107
+msgid ""
+"User Message are very effective on showing the tickets status to the users"
+msgstr "ユーザーメッセージは、チケットのステータスをユーザーに示すのに非常に効果的です。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:105
+#: includes/w/W_RafflePlayWoo_MainPage.php:76
+msgid "User Messages"
+msgstr "ユーザーメッセージ"
+
+#: includes/w/W_RafflePlayWoo_Info.php:223
+msgid "Validate License"
+msgstr "ライセンスの有効化"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:292
+msgid "Value Above"
+msgstr "上記の値"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3753
+msgid "Variable"
+msgstr "可変"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:30
+msgid "Version"
+msgstr "バージョン"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:232
+msgid "Very IMPORTANT to setup messages"
+msgstr "メッセージを設定する上で非常に重要なこと"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:10
+#: includes/releases/RafflePlayWoo_Release_584.php:10
+#: includes/releases/RafflePlayWoo_Release_590.php:11
+#: includes/releases/RafflePlayWoo_Release_600.php:11
+#: includes/releases/RafflePlayWoo_Release_62.php:11
+msgid "Video available"
+msgstr "ビデオあり"
+
+#: includes/w/W_RafflePlayWoo_Info.php:176
+msgid "View"
+msgstr "表示"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:37
+msgid "View more here"
+msgstr "もっと見る"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3597
+msgid "View PDF"
+msgstr "PDFを見る"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:409
+#, fuzzy
+#| msgid "View PDF Attachment Documentation %s "
+msgid "View PDF Attachment Documentation "
+msgstr "PDF 添付ドキュメントを表示 %s"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:487
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:550
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:623
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:685
+#, php-format
+msgid "View Positions %s"
+msgstr "ポジションを見る"
+
+#: includes/RafflePlayWoo_LifeCycle.php:332
+#: includes/w/W_RafflePlayWoo_ViewPage.php:20
+msgid "View Tickets"
+msgstr "チケットを見る"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:54
+msgid "View Tickets by Order"
+msgstr "オーダー別にチケットを見る"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:5
+msgid "View your sale by raffle"
+msgstr "くじ引きで販売を見る"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:78
+msgid "wait to load after changing status"
+msgstr "ステータス変更後のロード待ち"
+
+#: includes/RafflePlayWoo_Plugin.php:311
+msgid "Warning. There is another column with same DB Meta Name"
+msgstr "警告同じDBメタ名を持つ別のカラムが存在します。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:971
+#, fuzzy, php-format
+#| msgid "Watch explanation %s on this youtube video I made"
+msgid "Watch explanation %s and %s on this youtube videos I made"
+msgstr "私が作ったこのユーチューブのビデオで説明の%sを見てください。"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:54
+msgid "Watch promotional raffle setup video here"
+msgstr "プロモーション用ラッフルセットアップビデオはこちら"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:23
+msgid "Watch setup video"
+msgstr "セットアップビデオを見る"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:121
+msgid "Watch setup video here"
+msgstr "セットアップビデオはこちら"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:25
+msgid "Watch the video on the right for better understanding."
+msgstr "右のビデオをご覧ください。"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2500
+msgid "Watch video before proceding. How to promote shop with free raffle"
+msgstr "ビデオを見る無料くじでお店を宣伝する方法"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:360
+msgid "Week"
+msgstr "週間"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:140
+#: includes/w/W_RafflePlayWoo_Reports.php:88
+msgid "Weekly Sales"
+msgstr "週次売上高"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:35
+msgid "What is HPOS? Read more about it here"
+msgstr "HPOSとは？詳しくはこちら"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:210
+msgid ""
+"When printing if the background image is not visible, go to print page -> "
+"More Settings and select \"Background graphics\" from the options."
+msgstr "印刷時に背景画像が表示されない場合は、「印刷ページ」→「その他の設定」を開き、オプションから「背景画像」を選択します。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:108
+msgid ""
+"While running a raffle reward your customers with smaller prizes as instant "
+"wins"
+msgstr "ラッフルを実施しながら、インスタントウィンとして顧客に小さな賞品で報酬を与える。"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:412
+msgid ""
+"Why Duplicates? Slow hosting, too many order requests at the same time "
+"(server cannot cope), caching issues."
+msgstr "重複の理由遅いホスティング、同時に多すぎる注文リクエスト（サーバーが対応できない）、キャッシュの問題。"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:57
+msgid "Winner"
+msgstr "受賞者"
+
+#: includes/RafflePlayWoo_LifeCycle.php:348
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:3
+#: includes/w/W_RafflePlayWoo_Winners.php:20
+msgid "Winners"
+msgstr "受賞者"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:438
+msgid "Winning Message"
+msgstr "優勝メッセージ"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:966
+msgid ""
+"With this shortcode you can retrieve the primary attributes of any raffle. \n"
+"                                                            It can be used "
+"to display raffle information or integrate it with other plugins. Check the "
+"link below to the youtube video."
+msgstr ""
+"このショートコードを使用すると、任意のくじの主な属性を取得することができます。\n"
+"                                                            "
+"くじの情報を表示したり、他のプラグインと統合したりするために使用できます。下のリンクからyoutubeの動画をご覧ください。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:469
+msgid "Won"
+msgstr "優勝"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:232
+#, fuzzy
+#| msgid "Old Ticket"
+msgid "Won Ticket"
+msgstr "オールドチケット"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:96
+msgid "Woocommerce Account"
+msgstr "Woocommerceアカウント"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:17
+msgid "Woocommerce has made changes to cart and checkout pages recently."
+msgstr "Woocommerceは最近、カートページとチェックアウトページに変更を加えました。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:11
+msgid "Woocommerce Info"
+msgstr "Woocommerce情報"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:395
+msgid "Works only with PHP version 7.1, and above"
+msgstr "PHPバージョン7.1以上でのみ動作します。"
+
+#: includes/RafflePlayWoo_Plugin.php:281 includes/w/W_RafflePlayWoo_Info.php:22
+#: includes/w/W_RafflePlayWoo_MainPage.php:166
+#: includes/w/W_RafflePlayWoo_MainPage.php:376
+#: includes/w/W_RafflePlayWoo_MainPage.php:429
+#: includes/w/W_RafflePlayWoo_MainPage.php:501
+#: includes/w/W_RafflePlayWoo_MainPage.php:512
+#: includes/w/W_RafflePlayWoo_MainPage.php:684
+#: includes/w/W_RafflePlayWoo_MainPage.php:700
+#: includes/w/W_RafflePlayWoo_MainPage.php:717
+#: includes/w/W_RafflePlayWoo_MainPage.php:856
+#: includes/w/W_RafflePlayWoo_MainPage.php:1038
+#: includes/w/W_RafflePlayWoo_MainPage.php:1216
+#: includes/w/W_RafflePlayWoo_MainPage.php:1231
+#: includes/w/W_RafflePlayWoo_Raffles.php:95
+#: includes/w/W_RafflePlayWoo_Raffles.php:108
+#: includes/w/W_RafflePlayWoo_Raffles.php:163
+#: includes/w/W_RafflePlayWoo_Raffles.php:172
+#: includes/w/W_RafflePlayWoo_Raffles.php:201
+#: includes/w/W_RafflePlayWoo_Raffles.php:268
+#: includes/w/W_RafflePlayWoo_Raffles.php:311
+#: includes/w/W_RafflePlayWoo_Raffles.php:326
+#: includes/w/W_RafflePlayWoo_Raffles.php:345
+#: includes/w/W_RafflePlayWoo_Raffles.php:403
+#: includes/w/W_RafflePlayWoo_Raffles.php:429
+#: includes/w/W_RafflePlayWoo_Raffles.php:456
+#: includes/w/W_RafflePlayWoo_Raffles.php:482
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:57
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:194
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:63
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:96
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:108
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:138
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:239
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:424
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:444
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:515
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:580
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:650
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:23
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:45
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:105
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:119
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:133
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:147
+msgid "Yes"
+msgstr "はい"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:114
+msgid ""
+"You can define a winning number or let the system pick one. It only works "
+"with Random Tickets"
+msgstr "当選番号を指定することも、システムに選ばせることもできます。ランダムチケットでのみ動作します。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1300
+msgid ""
+"You can place custom progress bar on any page with the following shortcode - "
+"if options left empty will pick the default setting set above."
+msgstr "カスタムプログレスバーは以下のショートコードでどのページにも設置することができます。"
+
+#: includes/RafflePlayWoo_LifeCycle.php:6124
+#: includes/RafflePlayWoo_LifeCycle.php:6250
+msgid "You dont have access"
+msgstr "アクセスできない"
+
+#: raffle-play-woo.php:48
+msgid "Your license is not valid"
+msgstr "ライセンスが有効でない"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:400
+msgid "Your PHP version is less than 7.1, therefore this feature wont work"
+msgstr "PHPのバージョンが7.1未満であるため、本機能が動作しません。"
+
+#: raffle-play-woo.php:29
+msgid "Your server's PHP version: "
+msgstr "サーバーのPHPバージョン。"

@@ -1,0 +1,2096 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Raffle Play Woo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-26 15:30+0000\n"
+"PO-Revision-Date: 2023-09-26 15:51+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (Australia)\n"
+"Language: en_AU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: raffle-play-woo"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:123
+msgid " Include the rest of the Countries "
+msgstr " Include the rest of the Countries"
+
+#: raffle-play-woo.php:38
+msgid " WooCommerce is not installed/active"
+msgstr " WooCommerce is not installed/active"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:21
+msgid "(Add Number of thickets for this raffle product)"
+msgstr "(Add Number of thickets for this raffle product)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:759
+msgid ""
+"(can be found and edited (styled) under plugin folder /includes/templates )"
+msgstr ""
+"(can be found and edited (styled) under plugin folder /includes/templates )"
+
+#: includes/d/D_RafflePlayWoo_Main.php:783
+msgid "(D)"
+msgstr "(D)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:756
+msgid "(Deleted)"
+msgstr "(Deleted)"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:19
+msgid "(Enable the option)"
+msgstr "(Enable the option)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:272
+msgid "(In order to save the column changes, run this report)"
+msgstr "(In order to save the column changes, run this report)"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:148
+msgid "(limited to 15 characters)"
+msgstr "(limited to 15 characters)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:32
+msgid "(live data)"
+msgstr "(live data)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:80
+msgid "(Monday to Sunday)"
+msgstr "(Monday to Sunday)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:699
+msgid "(PDFs are only generated for processing, invoice, and completed orders)"
+msgstr ""
+"(PDFs are only generated for processing, invoice, and completed orders)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:782
+msgid "(T)"
+msgstr "(T)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:755
+msgid "(Terminated)"
+msgstr "(Terminated)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:596
+msgid "(Your Message) All raffle tickets have been sold"
+msgstr "(Your Message) All raffle tickets have been sold"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:548
+msgid "(Your Message) The raffle has finished"
+msgstr "(Your Message) The raffle has finished"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:572
+#, php-format
+msgid "(Your Message) The raffle has finished on %s"
+msgstr "(Your Message) The raffle has finished on %s"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:584
+#, php-format
+msgid "(Your Message) The raffle will end on %s"
+msgstr "(Your Message) The raffle will end on %s"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:560
+#, php-format
+msgid "(Your Message) The raffle will start on %s"
+msgstr "(Your Message) The raffle will start on %s"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:608
+#: includes/w/W_RafflePlayWoo_MainPage.php:620
+msgid "(Your Message) There are only %d tickets left"
+msgstr "(Your Message) There are only %d tickets left"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:110
+msgid "*** Leave empty not to display ***"
+msgstr "*** Leave empty not to display ***"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:111
+msgid "*** To display copy the short code and paste it into the post/page ***"
+msgstr "*** To display copy the short code and paste it into the post/page ***"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:93
+msgid "***Or it can be left empty***"
+msgstr "***Or it can be left empty***"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1180
+msgid "1. Copy the shortcode and paste it in the page/post/etc"
+msgstr "1. Copy the shortcode and paste it in the page/post/etc"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1181
+msgid "2. In the functions.php of your child theme add following filter hook"
+msgstr "2. In the functions.php of your child theme add following filter hook"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:259
+msgid "Add"
+msgstr "Add"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:142
+msgid "Add to Cart (exceeding tickets %d)"
+msgstr "Add to Cart (exceeding tickets %d)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:603
+msgid "Add To Cart (limit on - exceeding tickets - %d)"
+msgstr "Add To Cart (limit on - exceeding tickets - %d)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:591
+msgid "Add To Cart (limit on - no tickets left)"
+msgstr "Add To Cart (limit on - no tickets left)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:136
+msgid "Add to Cart (no tickets left)"
+msgstr "Add to Cart (no tickets left)"
+
+#: includes/RafflePlayWoo_Plugin.php:232
+msgid "Address"
+msgstr "Address"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:817
+#: includes/w/W_RafflePlayWoo_Reports.php:285
+msgid "Address One"
+msgstr "Address One"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:818
+#: includes/w/W_RafflePlayWoo_Reports.php:286
+msgid "Address Two"
+msgstr "Address Two"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:507
+msgid "After Billing Address"
+msgstr "After Billing Address"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:211
+msgid "After changing ticket, resend email order details to customer."
+msgstr "After changing ticket, resend email order details to customer."
+
+#: includes/w/W_RafflePlayWoo_Reports.php:102
+msgid "All"
+msgstr "All"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:17
+msgid "All new raffles cannot be deleted, but can be edited."
+msgstr "All new raffles cannot be deleted, but can be edited."
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:9
+msgid "All the report are self explanatory"
+msgstr "All the report are self explanatory"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:14
+msgid "Allows to export any order field"
+msgstr "Allows to export any order field"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:72
+msgid "Any fields left empty will not be displayed"
+msgstr "Any fields left empty will not be displayed"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:422
+msgid "April"
+msgstr "April"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:417
+msgid ""
+"Are you getting duplicated tickets? Enable this option, and the system will "
+"check for duplicates, and fix them after the order is created"
+msgstr ""
+"Are you getting duplicated tickets? Enable this option, and the system will "
+"check for duplicates, and fix them after the order is created"
+
+#: includes/RafflePlayWoo_Plugin.php:247
+msgid "Are you sure you want to change this ticket?"
+msgstr "Are you sure you want to change this ticket?"
+
+#: includes/RafflePlayWoo_Plugin.php:236
+msgid "Are you sure you want to delete it?"
+msgstr "Are you sure you want to delete it?"
+
+#: includes/RafflePlayWoo_Plugin.php:239
+msgid "Are you sure you want to PERMANENTLY delete this raffle's tickets?"
+msgstr "Are you sure you want to PERMANENTLY delete this raffle's tickets?"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:368
+msgid "At Checkout, do not assign raffle tickets to following orders"
+msgstr "At Checkout, do not assign raffle tickets to following orders"
+
+#: includes/w/W_RafflePlayWoo_AuditPage.php:14
+msgid "Audit Info"
+msgstr "Audit Info"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:426
+msgid "August"
+msgstr "August"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:240
+msgid "Available Columns"
+msgstr "Available Columns"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:235
+msgid "Available Tickets"
+msgstr "Available Tickets"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:30
+msgid "Backup"
+msgstr "Backup"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:310
+msgid "Backup Actions"
+msgstr "Backup Actions"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:334
+msgid "Backup All Live Data"
+msgstr "Backup All Live Data"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:338
+msgid "Backup Data from Table View"
+msgstr "Backup Data from Table View"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:320
+msgid "Backup Name (max 10 characters)*"
+msgstr "Backup Name (max 10 characters)*"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1069
+msgid "Before Account Details"
+msgstr "Before Account Details"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1067
+msgid "Before Addresses"
+msgstr "Before Addresses"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1064
+msgid "Before Dashboard"
+msgstr "Before Dashboard"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1066
+msgid "Before Downloads"
+msgstr "Before Downloads"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:180
+msgid ""
+"Before going live with the raffle as a good practice is good to do a few "
+"tests, this will give you an idea how the system works"
+msgstr ""
+"Before going live with the raffle as a good practice is good to do a few "
+"tests, this will give you an idea how the system works"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1070
+msgid "Before Logout"
+msgstr "Before Logout"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1065
+msgid "Before Order"
+msgstr "Before Order"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:497
+msgid "Before Order Info"
+msgstr "Before Order Info"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1068
+msgid "Before Payments Methods"
+msgstr "Before Payments Methods"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:502
+msgid "Between Order Info and Billing Address"
+msgstr "Between Order Info and Billing Address"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:981
+#: includes/w/W_RafflePlayWoo_Raffles.php:334
+msgid "Blue"
+msgstr "Blue"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:85
+#: includes/w/W_RafflePlayWoo_MainPage.php:464
+msgid "Body Tickets"
+msgstr "Body Tickets"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:887
+msgid "Business Info Header (html)"
+msgstr "Business Info Header (html)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:299
+#: includes/w/W_RafflePlayWoo_Raffles.php:247
+msgid "Buy Out Product "
+msgstr "Buy Out Product"
+
+#: includes/RafflePlayWoo_Plugin.php:242
+msgid "Buyout"
+msgstr "Buyout"
+
+#: includes/RafflePlayWoo_Plugin.php:243
+msgid "Buyout Product"
+msgstr "Buyout Product"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:148
+msgid "By Raffle Ticket"
+msgstr "By Raffle Ticket"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:13
+msgid "By Raffle Tickets"
+msgstr "By Raffle Tickets"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:367
+#: includes/w/W_RafflePlayWoo_Reports.php:258
+#: includes/w/W_RafflePlayWoo_ViewPage.php:163
+#: includes/w/W_RafflePlayWoo_ViewPage.php:346
+#: includes/w/W_RafflePlayWoo_Winners.php:107
+msgid "Cancel"
+msgstr "Cancel"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:363
+msgid "Cancelled"
+msgstr "Cancelled"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:362
+msgid "Cancelled by an admin or the customer – no further action required"
+msgstr "Cancelled by an admin or the customer – no further action required"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:218
+msgid "Change"
+msgstr "Change"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:214
+msgid "Change Ticket Number to: "
+msgstr "Change Ticket Number to:"
+
+#: includes/RafflePlayWoo_Plugin.php:206
+#: includes/d/D_RafflePlayWoo_Reports.php:819
+#: includes/w/W_RafflePlayWoo_Reports.php:287
+msgid "City"
+msgstr "City"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:164
+msgid "Clear"
+msgstr "Clear"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:63
+msgid "Clear Dates"
+msgstr "Clear Dates"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:34
+msgid "Clear Filter"
+msgstr "Clear Filter"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:189
+#: includes/w/W_RafflePlayWoo_ViewPage.php:250
+#: includes/w/W_RafflePlayWoo_ViewPage.php:297
+msgid "Close"
+msgstr "Close"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:245
+msgid "Col Text"
+msgstr "Col Text"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:390
+msgid "Complete"
+msgstr "Complete"
+
+#: includes/RafflePlayWoo_Plugin.php:248
+msgid "Confirm Ticket Change"
+msgstr "Confirm Ticket Change"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1085
+msgid "Content Display - Raffle Tickets"
+msgstr "Content Display - Raffle Tickets"
+
+#: includes/RafflePlayWoo_Plugin.php:246
+msgid "Could not generate Random ticket"
+msgstr "Could not generate Random ticket"
+
+#: includes/RafflePlayWoo_Raffles.php:368
+msgid "Could not remove products linked to this raffle"
+msgstr "Could not remove products linked to this raffle"
+
+#: includes/RafflePlayWoo_Raffles.php:364
+msgid "Could not remove raffle data"
+msgstr "Could not remove raffle data"
+
+#: includes/RafflePlayWoo_Raffles.php:360
+msgid "Could not remove tickets for this raffle"
+msgstr "Could not remove tickets for this raffle"
+
+#: includes/RafflePlayWoo_Plugin.php:203
+#: includes/d/D_RafflePlayWoo_Reports.php:471
+#: includes/d/D_RafflePlayWoo_Reports.php:572
+#: includes/d/D_RafflePlayWoo_Reports.php:821
+#: includes/w/W_RafflePlayWoo_Reports.php:289
+msgid "Country"
+msgstr "Country"
+
+#: includes/RafflePlayWoo_Plugin.php:204
+#: includes/d/D_RafflePlayWoo_Reports.php:472
+#: includes/d/D_RafflePlayWoo_Reports.php:573
+#: includes/d/D_RafflePlayWoo_Reports.php:822
+#: includes/w/W_RafflePlayWoo_Reports.php:290
+msgid "County"
+msgstr "County"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:687
+msgid "Create a pdf attachment with the raffle info. Attached to the email"
+msgstr "Create a pdf attachment with the raffle info. Attached to the email"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:988
+#: includes/w/W_RafflePlayWoo_Raffles.php:341
+msgid "Custom"
+msgstr "Custom"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:174
+msgid "Custom Currency Symbol"
+msgstr "Custom Currency Symbol"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:15
+msgid ""
+"Custom data captured at checkout. Click on the plus button, add the field "
+"META name in the db, and the column name"
+msgstr ""
+"Custom data captured at checkout. Click on the plus button, add the field "
+"META name in the db, and the column name"
+
+#: includes/RafflePlayWoo_Plugin.php:198
+msgid "Customer Id"
+msgstr "Customer Id"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:129
+#: includes/w/W_RafflePlayWoo_Reports.php:72
+msgid "Daily Sales"
+msgstr "Daily Sales"
+
+#. Author of the plugin
+msgid "dan009"
+msgstr "dan009"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:41
+msgid "Date and time when the raffle tickets are available for purchase"
+msgstr "Date and time when the raffle tickets are available for purchase"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:46
+msgid "Date and time when the raffle will end"
+msgstr "Date and time when the raffle will end"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:249
+msgid ""
+"DB  Name  is going to be extracted from the order metadata. ( E.g Data "
+"captured at checkout)"
+msgstr ""
+"DB Name is going to be extracted from the order metadata. ( E.g Data "
+"captured at checkout)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:246
+msgid "DB Meta Name"
+msgstr "DB Meta Name"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:430
+msgid "December"
+msgstr "December"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:43
+msgid "Default Raffle (ID - 0)"
+msgstr "Default Raffle (ID - 0)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:331
+msgid "Default Raffle has no products"
+msgstr "Default Raffle has no products"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:36
+msgid "Delete Raffle Tickets"
+msgstr "Delete Raffle Tickets"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:342
+msgid "Do not generate Raffle Tickets for Orders with Status:"
+msgstr "Do not generate Raffle Tickets for Orders with Status:"
+
+#: includes/w/W_RafflePlayWoo_Info.php:54
+msgid "Doc - Default Raffle Setup"
+msgstr "Doc - Default Raffle Setup"
+
+#: includes/w/W_RafflePlayWoo_Info.php:70
+msgid "Doc - Email PDF Attachment"
+msgstr "Doc - Email PDF Attachment"
+
+#: includes/w/W_RafflePlayWoo_Info.php:50
+msgid "Doc - Installation"
+msgstr "Doc - Installation"
+
+#: includes/w/W_RafflePlayWoo_Info.php:58
+msgid "Doc - Raffles Setup"
+msgstr "Doc - Raffles Setup"
+
+#: includes/w/W_RafflePlayWoo_Info.php:66
+msgid "Doc - Reports Page"
+msgstr "Doc - Reports Page"
+
+#: includes/w/W_RafflePlayWoo_Info.php:62
+msgid "Doc - Winners Page"
+msgstr "Doc - Winners Page"
+
+#: includes/w/W_RafflePlayWoo_Info.php:133
+msgid "Domain License"
+msgstr "Domain License"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:229
+msgid "Drag & drop to remove from Report Columns"
+msgstr "Drag & drop to remove from Report Columns"
+
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:5
+msgid "Due to lack of transparency, we do not provide random winner generator"
+msgstr "Due to lack of transparency, we do not provide random winner generator"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:78
+msgid "Duplicates"
+msgstr "Duplicates"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:263
+msgid "Duplicates found in this raffle"
+msgstr "Duplicates found in this raffle"
+
+#: includes/RafflePlayWoo_Plugin.php:219
+msgid "Edit Raffle"
+msgstr "Edit Raffle"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:204
+msgid "Edit Ticket"
+msgstr "Edit Ticket"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:222
+#: includes/w/W_RafflePlayWoo_Raffles.php:134
+msgid "Eg: Leading zero set to 5, prefix T-, ticket is 12 => result: T-00012"
+msgstr "Eg: Leading zero set to 5, prefix T-, ticket is 12 => result: T-00012"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:484
+msgid "Eg: Raffle draw is on 25th of June 2021"
+msgstr "Eg: Raffle draw is on 25th of June 2021"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:273
+msgid "Eg: Raffle takes place on 10th of January 2021"
+msgstr "Eg: Raffle takes place on 10th of January 2021"
+
+#: includes/RafflePlayWoo_Plugin.php:197
+#: includes/d/D_RafflePlayWoo_Reports.php:823
+#: includes/w/W_RafflePlayWoo_Reports.php:291
+msgid "Email"
+msgstr "Email"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:270
+msgid "Email Extra Line Text"
+msgstr "Email Extra Line Text"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:68
+#: includes/w/W_RafflePlayWoo_MainPage.php:55
+msgid "Email Template"
+msgstr "Email Template"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:415
+msgid "Enable Duplicates Fixing after Order Created"
+msgstr "Enable Duplicates Fixing after Order Created"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:685
+msgid "Enable PDF Email Attachment"
+msgstr "Enable PDF Email Attachment"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1019
+msgid "Enable Raffle Tab in Woocommerce Account"
+msgstr "Enable Raffle Tab in Woocommerce Account"
+
+#: includes/RafflePlayWoo_Plugin.php:226
+#: includes/w/W_RafflePlayWoo_Raffles.php:209
+msgid "End Date"
+msgstr "End Date"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:127
+#, php-format
+msgid "End date is set as early than today - notify user - %s as end date"
+msgstr "End date is set as early than today - notify user - %s as end date"
+
+#: includes/w/W_RafflePlayWoo_Info.php:88
+msgid "Enter the license number"
+msgstr "Enter the license number"
+
+#: includes/RafflePlayWoo_Plugin.php:187
+msgid "Error Parsing Data"
+msgstr "Error Parsing Data"
+
+#: includes/RafflePlayWoo_Plugin.php:249
+msgid "Error. Could not change the number. Refresh the page and try again"
+msgstr "Error. Could not change the number. Refresh the page and try again"
+
+#: raffle-play-woo.php:23
+msgid ""
+"Error: plugin \"Raffle Play\" requires a higher version of PHP to be running."
+msgstr ""
+"Error: plugin \"Raffle Play\" requires a higher version of PHP to be running."
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:345
+msgid "Execute"
+msgstr "Execute"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:144
+msgid "Export Columns"
+msgstr "Export Columns"
+
+#: includes/RafflePlayWoo_Plugin.php:233
+#: includes/w/W_RafflePlayWoo_Winners.php:95
+msgid "Extra Info"
+msgstr "Extra Info"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:479
+msgid ""
+"Extra info about raffle displayed on next table row. Leave empty to skip. Eg:"
+" Raffle draw is on 25th of June 2021. Good Luck!"
+msgstr ""
+"Extra info about raffle displayed on next table row. Leave empty to skip. Eg:"
+" Raffle draw is on 25th of June 2021. Good Luck!"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:901
+msgid "Extra Info Footer (html)"
+msgstr "Extra Info Footer (html)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:90
+msgid "Extra Info Line"
+msgstr "Extra Info Line"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:91
+msgid ""
+"Extra information about the raffle (like when/where the draw is taking place)"
+msgstr ""
+"Extra information about the raffle (like when/where the draw is taking place)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:477
+msgid "Extra Line Info"
+msgstr "Extra Line Info"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:71
+msgid "Extra Settings"
+msgstr "Extra Settings"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:924
+msgid "Extra Style (CSS)"
+msgstr "Extra Style (CSS)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:358
+msgid "Failed"
+msgstr "Failed"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:420
+msgid "February"
+msgstr "February"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:31
+#: includes/w/W_RafflePlayWoo_ViewPage.php:113
+#: includes/w/W_RafflePlayWoo_ViewPage.php:162
+#: includes/w/W_RafflePlayWoo_ViewPage.php:178
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:49
+msgid "Finish"
+msgstr "Finish"
+
+#: includes/RafflePlayWoo_Plugin.php:195
+#: includes/d/D_RafflePlayWoo_Reports.php:815
+#: includes/w/W_RafflePlayWoo_Reports.php:283
+msgid "First Name"
+msgstr "First Name"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:914
+msgid "Footer Height (px)"
+msgstr "Footer Height (px)"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:27
+msgid "For now your product is under the Default raffle "
+msgstr "For now your product is under the Default raffle"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:56
+msgid "For suggestions email me at developer@tuskcode.com"
+msgstr "For suggestions email me at developer@tuskcode.com"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:123
+msgid "From"
+msgstr "From"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:53
+msgid "From Date"
+msgstr "From Date"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:408
+msgid ""
+"Functionality moved into \"View Tickets\" page - now checking per raffle"
+msgstr ""
+"Functionality moved into \"View Tickets\" page - now checking per raffle"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:51
+msgid "General"
+msgstr "General"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:4
+msgid "General Settings"
+msgstr "General Settings"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:192
+#: includes/w/W_RafflePlayWoo_Raffles.php:173
+msgid "Generate Random Tickets "
+msgstr "Generate Random Tickets"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:183
+#: includes/w/W_RafflePlayWoo_Raffles.php:163
+msgid ""
+"Generate Random Tickets within the range created by start ticket plus number "
+"of tickets. ***IMPORTANT*** Do not change the raffle ticket system from "
+"random to inline after tickets have been purchased***"
+msgstr ""
+"Generate Random Tickets within the range created by start ticket plus number "
+"of tickets. ***IMPORTANT*** Do not change the raffle ticket system from "
+"random to inline after tickets have been purchased***"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:151
+msgid "Generate Report"
+msgstr "Generate Report"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:205
+msgid "Get Sale By Product"
+msgstr "Get Sale By Product"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:222
+msgid "Give Random"
+msgstr "Give Random"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:14
+msgid ""
+"Go to 'Products' page and create a new product. But don't leave the page yet."
+msgstr ""
+"Go to 'Products' page and create a new product. But don't leave the page yet."
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:35
+msgid ""
+"Go to General Setting (Default Raffle)  and edit the 'Email Template' "
+"section."
+msgstr ""
+"Go to General Setting (Default Raffle) and edit the 'Email Template' section."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:982
+#: includes/w/W_RafflePlayWoo_Raffles.php:335
+msgid "Gold"
+msgstr "Gold"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:983
+#: includes/w/W_RafflePlayWoo_Raffles.php:336
+msgid "Gold Lines"
+msgstr "Gold Lines"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:51
+msgid "Good luck, and stay updated for new plugin changes on "
+msgstr "Good luck, and stay updated for new plugin changes on"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:984
+#: includes/w/W_RafflePlayWoo_Raffles.php:337
+msgid "Gray"
+msgstr "Gray"
+
+#: includes/RafflePlayWoo_Plugin.php:252
+msgid ""
+"Have you waited for the request to load? No Tickets Changes yet recorded"
+msgstr ""
+"Have you waited for the request to load? No Tickets Changes yet recorded"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:211
+msgid ""
+"Having different raffle tickets in the same Order, the reports will not "
+"retrieve the correct data (choose Product)"
+msgstr ""
+"Having different raffle tickets in the same Order, the reports will not "
+"retrieve the correct data (choose Product)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:814
+msgid "Header Logo Image (only .jpeg)"
+msgstr "Header Logo Image (only .jpeg)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:75
+#: includes/w/W_RafflePlayWoo_MainPage.php:439
+msgid "Header Text"
+msgstr "Header Text"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:943
+msgid "Hide Terminated Raffles in the Product->Raffles List"
+msgstr "Hide Terminated Raffles in the Product->Raffles List"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:230
+msgid "History Changes"
+msgstr "History Changes"
+
+#. URI of the plugin
+msgid "https://tuskcode.com"
+msgstr "https://tuskcode.com"
+
+#: includes/RafflePlayWoo_Plugin.php:207
+msgid "Id"
+msgstr "Id"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:160
+msgid ""
+"If changing the ticket no while raffle is running, make sure is above the "
+"last used ticket."
+msgstr ""
+"If changing the ticket no while raffle is running, make sure is above the "
+"last used ticket."
+
+#: includes/w/W_RafflePlayWoo_Reports.php:176
+msgid "If empty, use woocommerce currency"
+msgstr "If empty, use woocommerce currency"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1022
+msgid ""
+"If Enabled go to Settings ->\n"
+"                                                     Permalinks and click on "
+"Save Changes for the Tab to show up in the Woocommerce Account - Do it once "
+msgstr ""
+"If Enabled go to Settings ->\n"
+"                                                     Permalinks and click on "
+"Save Changes for the Tab to show up in the Woocommerce Account - Do it once"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:5
+msgid ""
+"If you are planning to run multiple raffles, on this page you can create a "
+"new one"
+msgstr ""
+"If you are planning to run multiple raffles, on this page you can create a "
+"new one"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:55
+msgid "If you like this plugin don't forget to rate it"
+msgstr "If you like this plugin don't forget to rate it"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:208
+msgid ""
+"IMPORTANT - PLEASE READ IF YOU ARE RUNNING MULTIPLE RAFFLES AT THE SAME TIME "
+"(MIXED CHECKOUT RAFFLE PRODUCTS)"
+msgstr ""
+"IMPORTANT - PLEASE READ IF YOU ARE RUNNING MULTIPLE RAFFLES AT THE SAME TIME "
+"(MIXED CHECKOUT RAFFLE PRODUCTS)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:98
+msgid "In the email can be positioned in different places"
+msgstr "In the email can be positioned in different places"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:278
+msgid "In the next version you will be able to fix duplicates from this page."
+msgstr "In the next version you will be able to fix duplicates from this page."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:945
+msgid ""
+"In the product settings. Hide Terminated Raffles from the raffles list. This "
+"is convenient when you have a long list of raffles. Beaware that the product "
+"might be linked to the any of the hidden terminated raffle."
+msgstr ""
+"In the product settings. Hide Terminated Raffles from the raffles list. This "
+"is convenient when you have a long list of raffles. Beaware that the product "
+"might be linked to the any of the hidden terminated raffle."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:776
+msgid "Include Billing Info"
+msgstr "Include Billing Info"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:765
+msgid "Include Product Name & Quantity"
+msgstr "Include Product Name & Quantity"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:452
+msgid "Include Raffle Name"
+msgstr "Include Raffle Name"
+
+#: includes/RafflePlayWoo_Plugin.php:216
+msgid "Info"
+msgstr "Info"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:76
+msgid "Info about the raffle"
+msgstr "Info about the raffle"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:61
+msgid ""
+"Informational - Might be the case when 2 raffle tickets to have the same "
+"number (should not happen)"
+msgstr ""
+"Informational - Might be the case when 2 raffle tickets to have the same "
+"number (should not happen)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:56
+msgid "Informational - Shows the raffle products linked to this raffle"
+msgstr "Informational - Shows the raffle products linked to this raffle"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:51
+msgid "Informational - what's the last ticket purchased"
+msgstr "Informational - what's the last ticket purchased"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:282
+msgid "Inherit Email Format from Default Raffle"
+msgstr "Inherit Email Format from Default Raffle"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:297
+msgid "Inherit Messages from Default Raffle"
+msgstr "Inherit Messages from Default Raffle"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:250
+msgid "Invalid chars (<,>,&,%,',\")"
+msgstr "Invalid chars (<,>,&,%,',\")"
+
+#: includes/RafflePlayWoo_Plugin.php:224
+msgid "Invalid Limit Number"
+msgstr "Invalid Limit Number"
+
+#: includes/RafflePlayWoo_Plugin.php:201
+msgid "Invalid Number"
+msgstr "Invalid Number"
+
+#: includes/RafflePlayWoo_Plugin.php:223
+msgid "Invalid Start Ticket Number"
+msgstr "Invalid Start Ticket Number"
+
+#: includes/RafflePlayWoo_Plugin.php:234
+msgid "Invalid Ticket Number"
+msgstr "Invalid Ticket Number"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:15
+msgid ""
+"It can be of type test, used for testing purposes, with special raffle "
+"numbers, and live.\n"
+"             When finishing testing dont forget to switch to live."
+msgstr ""
+"It can be of type test, used for testing purposes, with special raffle "
+"numbers, and live.\n"
+"             When finishing testing dont forget to switch to live."
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:13
+msgid ""
+"It doesnt inherit the extra message from the email template as it can be "
+"custom set for the new raffle"
+msgstr ""
+"It doesnt inherit the extra message from the email template as it can be "
+"custom set for the new raffle"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:9
+msgid ""
+"It inherits the other settings from the Default Raffle like (message, email "
+"temaplate)"
+msgstr ""
+"It inherits the other settings from the Default Raffle like (message, email "
+"temaplate)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:344
+msgid "It wont affect the order, raffle tickets won't be created"
+msgstr "It wont affect the order, raffle tickets won't be created"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:419
+msgid "January"
+msgstr "January"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:425
+msgid "July"
+msgstr "July"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:424
+msgid "June"
+msgstr "June"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:70
+msgid ""
+"Labels and info that will show in the email confirmation, and thank you page"
+msgstr ""
+"Labels and info that will show in the email confirmation, and thank you page"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:804
+msgid "Landscape"
+msgstr "Landscape"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:50
+msgid "Last Live Ticket"
+msgstr "Last Live Ticket"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:267
+msgid "Last Live Used Ticket"
+msgstr "Last Live Used Ticket"
+
+#: includes/RafflePlayWoo_Plugin.php:196
+#: includes/d/D_RafflePlayWoo_Reports.php:816
+#: includes/w/W_RafflePlayWoo_Reports.php:284
+msgid "Last Name"
+msgstr "Last Name"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1139
+msgid "Last Test Ticket"
+msgstr "Last Test Ticket"
+
+#: includes/RafflePlayWoo_Plugin.php:229
+msgid "Last Ticket"
+msgstr "Last Ticket"
+
+#: includes/w/W_RafflePlayWoo_Info.php:154
+msgid "Latest Version Available"
+msgstr "Latest Version Available"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:233
+msgid "Leave empty if no prefix wanted. (eg: Ticket-10024)"
+msgstr "Leave empty if no prefix wanted. (eg: Ticket-10024)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:818
+#: includes/w/W_RafflePlayWoo_MainPage.php:996
+#: includes/w/W_RafflePlayWoo_Raffles.php:349
+msgid "Library"
+msgstr "Library"
+
+#: includes/w/W_RafflePlayWoo_Info.php:46
+msgid "License"
+msgstr "License"
+
+#: includes/w/W_RafflePlayWoo_Info.php:85
+msgid "License (paste it here)"
+msgstr "License (paste it here)"
+
+#: includes/w/W_RafflePlayWoo_Info.php:123
+msgid "License Active"
+msgstr "License Active"
+
+#: includes/w/W_RafflePlayWoo_Info.php:174
+msgid "License Date last checked"
+msgstr "License Date last checked"
+
+#: includes/w/W_RafflePlayWoo_Info.php:188
+msgid ""
+"License is valid. Thank you for using our product. We much appreciate it."
+msgstr ""
+"License is valid. Thank you for using our product. We much appreciate it."
+
+#: includes/w/W_RafflePlayWoo_Info.php:113
+msgid "License Version"
+msgstr "License Version"
+
+#: includes/w/W_RafflePlayWoo_Info.php:97
+#: includes/w/W_RafflePlayWoo_Info.php:100
+msgid "Licensing Server Url"
+msgstr "Licensing Server Url"
+
+#: includes/RafflePlayWoo_Plugin.php:215
+msgid "Limit No"
+msgstr "Limit No"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:30
+msgid "Limit number of tickets"
+msgstr "Limit number of tickets"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:170
+msgid "Limit Number or Raffle Tickets"
+msgstr "Limit Number or Raffle Tickets"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:637
+msgid ""
+"Limit order per raffle tickets. Avoid mixing raffle tickets per order. The "
+"check is made on add to cart event."
+msgstr ""
+"Limit order per raffle tickets. Avoid mixing raffle tickets per order. The "
+"check is made on add to cart event."
+
+#: includes/RafflePlayWoo_Plugin.php:214
+msgid "Limited"
+msgstr "Limited"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:156
+msgid "Limited Tickets"
+msgstr "Limited Tickets"
+
+#: includes/RafflePlayWoo_Plugin.php:209
+#: includes/w/W_RafflePlayWoo_MainPage.php:126
+#: includes/w/W_RafflePlayWoo_Raffles.php:85
+#: includes/w/W_RafflePlayWoo_ViewPage.php:26
+msgid "Live"
+msgstr "Live"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:278
+msgid "Live Raffle Tickets Purchased"
+msgstr "Live Raffle Tickets Purchased"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:152
+msgid "Live Ticket Starts At"
+msgstr "Live Ticket Starts At"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:25
+msgid "Live Tickets Start At"
+msgstr "Live Tickets Start At"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:421
+msgid "March"
+msgstr "March"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:98
+msgid "Maximum 200 characters"
+msgstr "Maximum 200 characters"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:423
+msgid "May"
+msgstr "May"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:109
+msgid ""
+"Messages are connected to general settings like terminated, start/end dates "
+"etc"
+msgstr ""
+"Messages are connected to general settings like terminated, start/end dates "
+"etc"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:532
+msgid "Messages Shortcode"
+msgstr "Messages Shortcode"
+
+#: raffle-play-woo.php:24
+msgid "Minimal version of PHP required: "
+msgstr "Minimal version of PHP required:"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:406
+msgid "Month"
+msgstr "Month"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:136
+#: includes/w/W_RafflePlayWoo_Reports.php:86
+msgid "Monthly Sales"
+msgstr "Monthly Sales"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:10
+msgid "Most of the settings found on this page are self explanatory."
+msgstr "Most of the settings found on this page are self explanatory."
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:157
+#: includes/w/W_RafflePlayWoo_MainPage.php:63
+msgid "Multiple Raffles"
+msgstr "Multiple Raffles"
+
+#: includes/RafflePlayWoo_Plugin.php:218
+msgid "New Raffle"
+msgstr "New Raffle"
+
+#: includes/RafflePlayWoo_Plugin.php:212 includes/w/W_RafflePlayWoo_Info.php:13
+#: includes/w/W_RafflePlayWoo_MainPage.php:143
+#: includes/w/W_RafflePlayWoo_MainPage.php:188
+#: includes/w/W_RafflePlayWoo_MainPage.php:197
+#: includes/w/W_RafflePlayWoo_MainPage.php:296
+#: includes/w/W_RafflePlayWoo_MainPage.php:426
+#: includes/w/W_RafflePlayWoo_MainPage.php:457
+#: includes/w/W_RafflePlayWoo_MainPage.php:645
+#: includes/w/W_RafflePlayWoo_MainPage.php:698
+#: includes/w/W_RafflePlayWoo_MainPage.php:770
+#: includes/w/W_RafflePlayWoo_MainPage.php:781
+#: includes/w/W_RafflePlayWoo_MainPage.php:953
+#: includes/w/W_RafflePlayWoo_MainPage.php:969
+#: includes/w/W_RafflePlayWoo_MainPage.php:1031
+#: includes/w/W_RafflePlayWoo_Raffles.php:90
+#: includes/w/W_RafflePlayWoo_Raffles.php:105
+#: includes/w/W_RafflePlayWoo_Raffles.php:169
+#: includes/w/W_RafflePlayWoo_Raffles.php:177
+#: includes/w/W_RafflePlayWoo_Raffles.php:244
+#: includes/w/W_RafflePlayWoo_Raffles.php:287
+#: includes/w/W_RafflePlayWoo_Raffles.php:302
+#: includes/w/W_RafflePlayWoo_Raffles.php:320
+msgid "No"
+msgstr "No"
+
+#: includes/RafflePlayWoo_Plugin.php:251
+msgid ""
+"No available tickets found, increase the number of available raffle tickets."
+msgstr ""
+"No available tickets found, increase the number of available raffle tickets."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:135
+msgid "No raffle products will be available at checkout while disabled."
+msgstr "No raffle products will be available at checkout while disabled."
+
+#: includes/RafflePlayWoo_Plugin.php:221
+msgid "No Raffle Selected"
+msgstr "No Raffle Selected"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1109
+msgid "No Raffle Tickets to display - message"
+msgstr "No Raffle Tickets to display - message"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:716
+msgid "No Restrict"
+msgstr "No Restrict"
+
+#: includes/RafflePlayWoo_Plugin.php:220
+msgid "No Row Selected"
+msgstr "No Row Selected"
+
+#: includes/RafflePlayWoo_Plugin.php:192
+msgid "No Tickets"
+msgstr "No Tickets"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:418
+msgid "None"
+msgstr "None"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:429
+msgid "November"
+msgstr "November"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:428
+msgid "October"
+msgstr "October"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:167
+msgid "Off as Default"
+msgstr "Off as Default"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:271
+msgid "OK"
+msgstr "OK"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:755
+msgid "One"
+msgstr "One"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:162
+msgid "One Raffle Tickets at checkout"
+msgstr "One Raffle Tickets at checkout"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:635
+msgid "One Raffle tickets at checkout."
+msgstr "One Raffle tickets at checkout."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:985
+#: includes/w/W_RafflePlayWoo_Raffles.php:338
+msgid "Orange"
+msgstr "Orange"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1093
+#: includes/w/W_RafflePlayWoo_Reports.php:204
+msgid "Order"
+msgstr "Order"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:230
+msgid "Order can be changed by dragging to desired position number"
+msgstr "Order can be changed by dragging to desired position number"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:213
+#: includes/d/D_RafflePlayWoo_Reports.php:827
+#: includes/w/W_RafflePlayWoo_Reports.php:294
+msgid "Order Date"
+msgstr "Order Date"
+
+#: includes/RafflePlayWoo_Plugin.php:199
+msgid "Order Date/Time"
+msgstr "Order Date/Time"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:201
+msgid "Order has mixed raffle products"
+msgstr "Order has mixed raffle products"
+
+#: includes/RafflePlayWoo_Plugin.php:188
+#: includes/w/W_RafflePlayWoo_ViewPage.php:212
+msgid "Order Id"
+msgstr "Order Id"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:740
+msgid ""
+"Order Id + Customer First Name + Customer Last Name (eg: 5_John_Silva.pdf)"
+msgstr ""
+"Order Id + Customer First Name + Customer Last Name (eg: 5_John_Silva.pdf)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:732
+msgid ""
+"Order Id + GUID (eg: 5_ADFE2345ADEFEF-42ADFG-34TERE.pdf) ***RECOMMENDED***"
+msgstr ""
+"Order Id + GUID (eg: 5_ADFE2345ADEFEF-42ADFG-34TERE.pdf) ***RECOMMENDED***"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:43
+msgid "Order in Modal"
+msgstr "Order in Modal"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:814
+#: includes/w/W_RafflePlayWoo_Reports.php:281
+msgid "Order No"
+msgstr "Order No"
+
+#: includes/RafflePlayWoo_Plugin.php:194
+msgid "Order Sale"
+msgstr "Order Sale"
+
+#: includes/RafflePlayWoo_Plugin.php:244
+#: includes/d/D_RafflePlayWoo_Reports.php:826
+#: includes/w/W_RafflePlayWoo_Reports.php:293
+msgid "Order Status"
+msgstr "Order Status"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:182
+#: includes/w/W_RafflePlayWoo_ViewPage.php:61
+msgid "Order Status "
+msgstr "Order Status"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:825
+#: includes/w/W_RafflePlayWoo_Reports.php:282
+msgid "Order Total"
+msgstr "Order Total"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:286
+msgid "Orders"
+msgstr "Orders"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:788
+msgid "Page Orientation"
+msgstr "Page Orientation"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:357
+msgid "Payment failed or was declined (unpaid)"
+msgstr "Payment failed or was declined (unpaid)"
+
+#: includes/docs/RafflePlayWoo_Docs_Pdf_Attachment.php:3
+#: includes/w/W_RafflePlayWoo_MainPage.php:67
+msgid "PDF Email Attachment"
+msgstr "PDF Email Attachment"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:724
+msgid "PDF Filename"
+msgstr "PDF Filename"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:749
+msgid "PDF Template"
+msgstr "PDF Template"
+
+#: includes/RafflePlayWoo_Plugin.php:205
+#: includes/d/D_RafflePlayWoo_Reports.php:824
+#: includes/w/W_RafflePlayWoo_Reports.php:292
+msgid "Phone"
+msgstr "Phone"
+
+#: includes/RafflePlayWoo_Plugin.php:245
+#: includes/w/W_RafflePlayWoo_ViewPage.php:238
+msgid "Please Wait."
+msgstr "Please Wait."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:796
+msgid "Portrait"
+msgstr "Portrait"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:820
+#: includes/w/W_RafflePlayWoo_Reports.php:288
+msgid "Post Code"
+msgstr "Post Code"
+
+#: includes/RafflePlayWoo_Plugin.php:227
+msgid "Prefix"
+msgstr "Prefix"
+
+#: includes/RafflePlayWoo_Plugin.php:235
+#: includes/w/W_RafflePlayWoo_Winners.php:60
+msgid "Prize"
+msgstr "Prize"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:63
+msgid "Prize Name"
+msgstr "Prize Name"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:381
+msgid "Processing"
+msgstr "Processing"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:204
+msgid "Product"
+msgstr "Product"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:717
+msgid "Product Name"
+msgstr "Product Name"
+
+#: includes/RafflePlayWoo_Plugin.php:213
+msgid "Products"
+msgstr "Products"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:986
+#: includes/w/W_RafflePlayWoo_Raffles.php:339
+msgid "Purple"
+msgstr "Purple"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:206
+#: includes/w/W_RafflePlayWoo_Raffles.php:117
+msgid "Put leading zeros to the number, the prefix will be included"
+msgstr "Put leading zeros to the number, the prefix will be included"
+
+#: includes/RafflePlayWoo_Plugin.php:238
+#: includes/w/W_RafflePlayWoo_MainPage.php:715
+#: includes/w/W_RafflePlayWoo_MainPage.php:1094
+#: includes/w/W_RafflePlayWoo_Reports.php:42
+#: includes/w/W_RafflePlayWoo_ViewPage.php:49
+#: includes/w/W_RafflePlayWoo_Winners.php:71
+msgid "Raffle"
+msgstr "Raffle"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:52
+msgid "Raffle Action"
+msgstr "Raffle Action"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:60
+#: includes/w/W_RafflePlayWoo_MainPage.php:400
+msgid "Raffle Duplicate Tickets"
+msgstr "Raffle Duplicate Tickets"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:256
+msgid "Raffle End Date Time"
+msgstr "Raffle End Date Time"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:132
+#, php-format
+msgid "Raffle has an ending date - notify user - %s as end date"
+msgstr "Raffle has an ending date - notify user - %s as end date"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:126
+msgid "Raffle has ended"
+msgstr "Raffle has ended"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:567
+#, php-format
+msgid "Raffle has ended (end date - %s)"
+msgstr "Raffle has ended (end date - %s)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:555
+#, php-format
+msgid "Raffle hasn't started (start date - %s)"
+msgstr "Raffle hasn't started (start date - %s)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:121
+msgid "Raffle hasn't started yet"
+msgstr "Raffle hasn't started yet"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:961
+#: includes/w/W_RafflePlayWoo_Raffles.php:312
+msgid ""
+"Raffle image will be placed in the background of the ticket number. Custom "
+"images can be used, or customized in the template"
+msgstr ""
+"Raffle image will be placed in the background of the ticket number. Custom "
+"images can be used, or customized in the template"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:28
+#: includes/w/W_RafflePlayWoo_MainPage.php:543
+msgid "Raffle is Terminated"
+msgstr "Raffle is Terminated"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:116
+msgid "Raffle is Termindated"
+msgstr "Raffle is Termindated"
+
+#: includes/RafflePlayWoo_Plugin.php:208
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:80
+#: includes/w/W_RafflePlayWoo_MainPage.php:111
+#: includes/w/W_RafflePlayWoo_Raffles.php:63
+msgid "Raffle Name"
+msgstr "Raffle Name"
+
+#: includes/RafflePlayWoo_Plugin.php:222
+msgid "Raffle Name Required"
+msgstr "Raffle Name Required"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:21
+msgid "Raffle Number or Tickets"
+msgstr "Raffle Number or Tickets"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:19
+msgid "Raffle Play Product"
+msgstr "Raffle Play Product"
+
+#. Name of the plugin
+#: raffle-play-woo.php:31 raffle-play-woo.php:37 raffle-play-woo.php:43
+msgid "Raffle Play Woo"
+msgstr "Raffle Play Woo"
+
+#. Description of the plugin
+msgid "Raffle Play Woo - Premium"
+msgstr "Raffle Play Woo - Premium"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:55
+#: includes/w/W_RafflePlayWoo_MainPage.php:325
+msgid "Raffle Products"
+msgstr "Raffle Products"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:40
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:45
+#: includes/w/W_RafflePlayWoo_MainPage.php:245
+msgid "Raffle Start Date Time"
+msgstr "Raffle Start Date Time"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:14
+#: includes/w/W_RafflePlayWoo_MainPage.php:121
+msgid "Raffle Status"
+msgstr "Raffle Status"
+
+#: includes/RafflePlayWoo_Plugin.php:200
+msgid "Raffle Ticket"
+msgstr "Raffle Ticket"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:813
+#: includes/w/W_RafflePlayWoo_Reports.php:280
+msgid "Raffle Ticket No"
+msgstr "Raffle Ticket No"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:976
+#: includes/w/W_RafflePlayWoo_Raffles.php:328
+msgid "Raffle Tickets Images"
+msgstr "Raffle Tickets Images"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:445
+msgid "Raffle Tickets Info"
+msgstr "Raffle Tickets Info"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:348
+msgid "Raffle tickets wont be generated if ticked on"
+msgstr "Raffle tickets wont be generated if ticked on"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:131
+msgid "Raffle will end"
+msgstr "Raffle will end"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:579
+#, php-format
+msgid "Raffle will end (end date - %s)"
+msgstr "Raffle will end (end date - %s)"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:3
+msgid "Raffles Setup"
+msgstr "Raffles Setup"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:221
+msgid "Random from available tickets"
+msgstr "Random from available tickets"
+
+#: includes/RafflePlayWoo_Plugin.php:240
+msgid "Records Deleted"
+msgstr "Records Deleted"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:987
+#: includes/w/W_RafflePlayWoo_Raffles.php:340
+msgid "Red"
+msgstr "Red"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:233
+msgid "Report Columns"
+msgstr "Report Columns"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:166
+msgid "Report Settings"
+msgstr "Report Settings"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:3
+#: includes/w/W_RafflePlayWoo_Reports.php:31
+msgid "Reports"
+msgstr "Reports"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:707
+msgid ""
+"Restrict attachement only for Order with raffle products, or let all orders "
+"to have pdf attachment"
+msgstr ""
+"Restrict attachement only for Order with raffle products, or let all orders "
+"to have pdf attachment"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:705
+msgid "Restrict attachment only for Orders with: "
+msgstr "Restrict attachment only for Orders with:"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:163
+msgid ""
+"Restrict the user of adding mixed raffle tickets at checkout. Some customers "
+"want only one raffle tickets at checkout"
+msgstr ""
+"Restrict the user of adding mixed raffle tickets at checkout. Some customers "
+"want only one raffle tickets at checkout"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:103
+msgid "Run Fix"
+msgstr "Run Fix"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:199
+msgid "Running Multiple Raffles at the same time"
+msgstr "Running Multiple Raffles at the same time"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:142
+#: includes/w/W_RafflePlayWoo_Reports.php:99
+msgid "Sales by Country&County"
+msgstr "Sales by Country&County"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:145
+#: includes/w/W_RafflePlayWoo_Reports.php:135
+msgid "Sales by Product"
+msgstr "Sales by Product"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:210
+msgid ""
+"Sales by Product will retrieve the sale based on the product price and "
+"quantity. When used coupons, the sale price is not retrieved correctly"
+msgstr ""
+"Sales by Product will retrieve the sale based on the product price and "
+"quantity. When used coupons, the sale price is not retrieved correctly"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:139
+#: includes/w/W_RafflePlayWoo_Reports.php:92
+msgid "Sales by Region/County"
+msgstr "Sales by Region/County"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:148
+msgid "Same as the above one. The check is done on update cart"
+msgstr "Same as the above one. The check is done on update cart"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:39
+#: includes/w/W_RafflePlayWoo_MainPage.php:1224
+#: includes/w/W_RafflePlayWoo_Raffles.php:368
+#: includes/w/W_RafflePlayWoo_Winners.php:108
+msgid "Save"
+msgstr "Save"
+
+#: includes/RafflePlayWoo_Plugin.php:186
+msgid "Saved"
+msgstr "Saved"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:427
+msgid "September"
+msgstr "September"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:159
+msgid "Setting when running multiple raffless at the same time"
+msgstr "Setting when running multiple raffless at the same time"
+
+#: includes/RafflePlayWoo_Plugin.php:231
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:84
+msgid "Shortcode Info Raffle"
+msgstr "Shortcode Info Raffle"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1165
+msgid "Shortcode Info Raffle Data"
+msgstr "Shortcode Info Raffle Data"
+
+#: includes/RafflePlayWoo_Plugin.php:202
+msgid "Should be greater than zero"
+msgstr "Should be greater than zero"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:81
+msgid "Show raffle name"
+msgstr "Show raffle name"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1089
+msgid "Show Tickets Grouped by:"
+msgstr "Show Tickets Grouped by:"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:959
+#: includes/w/W_RafflePlayWoo_Raffles.php:310
+msgid ""
+"Show Tickets Number with Raffle image in background (Thank you Page / Email )"
+msgstr ""
+"Show Tickets Number with Raffle image in background (Thank you Page / Email )"
+
+#: includes/RafflePlayWoo_Plugin.php:230
+msgid "Sold Tickets"
+msgstr "Sold Tickets"
+
+#: includes/RafflePlayWoo_Plugin.php:225
+#: includes/w/W_RafflePlayWoo_Raffles.php:185
+msgid "Start Date"
+msgstr "Start Date"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:122
+#, php-format
+msgid "Start date is later than today - notify user - %s as start date"
+msgstr "Start date is later than today - notify user - %s as start date"
+
+#: includes/RafflePlayWoo_Plugin.php:217
+#: includes/w/W_RafflePlayWoo_Raffles.php:74
+msgid "Start Ticket"
+msgstr "Start Ticket"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:3
+msgid "Step One - Install the Plugin"
+msgstr "Step One - Install the Plugin"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:33
+msgid "Step Three - Configure Email Raffle Labels"
+msgstr "Step Three - Configure Email Raffle Labels"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:12
+msgid "Step Two - Create Raffle Product"
+msgstr "Step Two - Create Raffle Product"
+
+#: includes/w/W_RafflePlayWoo_Info.php:143
+msgid "Support & Updates End Date"
+msgstr "Support & Updates End Date"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1056
+msgid "Tab Location"
+msgstr "Tab Location"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1044
+msgid "Tab Name"
+msgstr "Tab Name"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:20
+msgid "Terminate Raffle"
+msgstr "Terminate Raffle"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:133
+msgid "Terminate Raffle Now"
+msgstr "Terminate Raffle Now"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:288
+#: includes/w/W_RafflePlayWoo_Raffles.php:235
+msgid "Terminate Raffle on Buy Out Product"
+msgstr "Terminate Raffle on Buy Out Product"
+
+#: includes/RafflePlayWoo_Plugin.php:210
+#: includes/w/W_RafflePlayWoo_Raffles.php:100
+msgid "Terminated"
+msgstr "Terminated"
+
+#: includes/RafflePlayWoo_Plugin.php:228
+#: includes/w/W_RafflePlayWoo_MainPage.php:126
+#: includes/w/W_RafflePlayWoo_ViewPage.php:27
+msgid "Test"
+msgstr "Test"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:174
+#: includes/w/W_RafflePlayWoo_MainPage.php:80
+msgid "Test Info"
+msgstr "Test Info"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1149
+msgid "Test Raffle Tickets Purchased"
+msgstr "Test Raffle Tickets Purchased"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1129
+msgid "Test Ticket Starts At"
+msgstr "Test Ticket Starts At"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:26
+msgid "That's the starting point of the raffle tickets."
+msgstr "That's the starting point of the raffle tickets."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1179
+msgid "The code with other plugin integration is found "
+msgstr "The code with other plugin integration is found"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:6
+msgid ""
+"The Default Raffle is the main raffle, and all other raffles created inherit "
+"some of the settings from it"
+msgstr ""
+"The Default Raffle is the main raffle, and all other raffles created inherit "
+"some of the settings from it"
+
+#: raffle-play-woo.php:32
+msgid "The plugin is not licensed"
+msgstr "The plugin is not licensed"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:5
+msgid ""
+"The Plugin requires no special installation, just as any regular plugin "
+"proceed with instalation, and activation."
+msgstr ""
+"The Plugin requires no special installation, just as any regular plugin "
+"proceed with instalation, and activation."
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:143
+msgid ""
+"The raffle has limited tickets - notify user - eg: 3 tickets left, user "
+"wants to buy 5, exceeds with 2 - show message"
+msgstr ""
+"The raffle has limited tickets - notify user - eg: 3 tickets left, user "
+"wants to buy 5, exceeds with 2 - show message"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:137
+msgid ""
+"The raffle has limited tickets - Upon adding to cart, the system checks if "
+"any tickets left, if not show message "
+msgstr ""
+"The raffle has limited tickets - Upon adding to cart, the system checks if "
+"any tickets left, if not show message"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:117
+msgid "The raffle is set as terminated"
+msgstr "The raffle is set as terminated"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:237
+msgid ""
+"The raffle will be set to terminated if the \"Buyout Product\" is out of "
+"stock."
+msgstr ""
+"The raffle will be set to terminated if the \"Buyout Product\" is out of "
+"stock."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:290
+msgid ""
+"The raffle will be set to terminated if the \"Buyout Product\" is sold (out "
+"of stock). Terminate Raffle by selling a single not raffle product."
+msgstr ""
+"The raffle will be set to terminated if the \"Buyout Product\" is sold (out "
+"of stock). Terminate Raffle by selling a single not raffle product."
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:21
+msgid ""
+"The raffle will be terminated. No raffle tickets will be available for sale."
+msgstr ""
+"The raffle will be terminated. No raffle tickets will be available for sale."
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:31
+msgid "The raffle will have a limited number of tickets"
+msgstr "The raffle will have a limited number of tickets"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:99
+msgid "There are issues with the DB Tables"
+msgstr "There are issues with the DB Tables"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:37
+msgid ""
+"These labels will show in the 'Thank you page' and the 'Confirmation Email' "
+msgstr ""
+"These labels will show in the 'Thank you page' and the 'Confirmation Email'"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:50
+msgid "This is the minimal setup to have a raffle running"
+msgstr "This is the minimal setup to have a raffle running"
+
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:9
+msgid ""
+"This page is set only to keep track of the winning tickets, and the "
+"customers associated"
+msgstr ""
+"This page is set only to keep track of the winning tickets, and the "
+"customers associated"
+
+#: includes/RafflePlayWoo_Plugin.php:189
+#: includes/w/W_RafflePlayWoo_ViewPage.php:285
+#: includes/w/W_RafflePlayWoo_Winners.php:84
+msgid "Ticket"
+msgstr "Ticket"
+
+#: includes/RafflePlayWoo_Plugin.php:250
+msgid "Ticket Changed Successfully"
+msgstr "Ticket Changed Successfully"
+
+#: includes/RafflePlayWoo_Plugin.php:190
+msgid "Ticket From"
+msgstr "Ticket From"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:97
+#: includes/w/W_RafflePlayWoo_MainPage.php:491
+msgid "Ticket Info Position"
+msgstr "Ticket Info Position"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:87
+msgid "Ticket Number"
+msgstr "Ticket Number"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:204
+#: includes/w/W_RafflePlayWoo_Raffles.php:114
+msgid "Ticket Number Leading Zeros"
+msgstr "Ticket Number Leading Zeros"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:35
+#: includes/w/W_RafflePlayWoo_MainPage.php:231
+#: includes/w/W_RafflePlayWoo_Raffles.php:145
+msgid "Ticket Prefix"
+msgstr "Ticket Prefix"
+
+#: includes/RafflePlayWoo_Plugin.php:191
+msgid "Ticket To"
+msgstr "Ticket To"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:238
+msgid "Ticket-"
+msgstr "Ticket-"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:86
+msgid "Tickets Info"
+msgstr "Tickets Info"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:470
+msgid "Tickets Purchased"
+msgstr "Tickets Purchased"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:58
+#: includes/w/W_RafflePlayWoo_ViewPage.php:143
+msgid "To"
+msgstr "To"
+
+#: includes/RafflePlayWoo_Plugin.php:237
+msgid "To display the raffle name add show_raffle_name in the shortcode"
+msgstr "To display the raffle name add show_raffle_name in the shortcode"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:537
+msgid "To show raffle name add (show_raffle_name='1') in the shortcode"
+msgstr "To show raffle name add (show_raffle_name='1') in the shortcode"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:214
+#: includes/d/D_RafflePlayWoo_Reports.php:307
+#: includes/d/D_RafflePlayWoo_Reports.php:407
+#: includes/d/D_RafflePlayWoo_Reports.php:473
+#: includes/d/D_RafflePlayWoo_Reports.php:574
+#: includes/d/D_RafflePlayWoo_Reports.php:718
+msgid "Total"
+msgstr "Total"
+
+#: includes/RafflePlayWoo_Plugin.php:193
+msgid "Total Tickets"
+msgstr "Total Tickets"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:756
+msgid "Two"
+msgstr "Two"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:402
+msgid ""
+"Two customers buying raffle products at the same time, might cause the db to "
+"overlap the orders, and create duplicate tickets. Chances are minimal. But "
+"the system will spot any malfunctions "
+msgstr ""
+"Two customers buying raffle products at the same time, might cause the db to "
+"overlap the orders, and create duplicate tickets. Chances are minimal. But "
+"the system will spot any malfunctions"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:17
+msgid ""
+"Under 'Product' page go to 'General' tab and you should see two extra "
+"options "
+msgstr ""
+"Under 'Product' page go to 'General' tab and you should see two extra options"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:147
+msgid "Update Cart (exceeding tickets %d)"
+msgstr "Update Cart (exceeding tickets %d)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:615
+msgid "Update Cart (limit on - exceeding tickets - %d)"
+msgstr "Update Cart (limit on - exceeding tickets - %d)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:176
+msgid "Used with 'Test' option in the settings"
+msgstr "Used with 'Test' option in the settings"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:36
+msgid ""
+"Used with ticket number as Tkt-1001, Tkt-1002, etc. Instead of display a "
+"dull number as 1001, 1002"
+msgstr ""
+"Used with ticket number as Tkt-1001, Tkt-1002, etc. Instead of display a "
+"dull number as 1001, 1002"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:107
+msgid ""
+"User Message are very effective on showing the tickets status to the users"
+msgstr ""
+"User Message are very effective on showing the tickets status to the users"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:105
+#: includes/w/W_RafflePlayWoo_MainPage.php:59
+msgid "User Messages"
+msgstr "User Messages"
+
+#: includes/w/W_RafflePlayWoo_Info.php:199
+msgid "Validate License"
+msgstr "Validate License"
+
+#: includes/w/W_RafflePlayWoo_Info.php:162
+msgid "View"
+msgstr "View"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:16
+msgid "View Tickets"
+msgstr "View Tickets"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:5
+msgid "View your sale by raffle"
+msgstr "View your sale by raffle"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:64
+msgid "wait to load after changing status"
+msgstr "wait to load after changing status"
+
+#: includes/RafflePlayWoo_Plugin.php:241
+msgid "Warning. There is another column with same DB Meta Name"
+msgstr "Warning. There is another column with same DB Meta Name"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1178
+#, php-format
+msgid "Watch explanation %s on this youtube video I made"
+msgstr "Watch explanation %s on this youtube video I made"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:306
+msgid "Week"
+msgstr "Week"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:133
+#: includes/w/W_RafflePlayWoo_Reports.php:78
+msgid "Weekly Sales"
+msgstr "Weekly Sales"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:275
+msgid ""
+"Why Duplicates? Slow hosting, too many order requests at the same time "
+"(server cannot cope), caching issues."
+msgstr ""
+"Why Duplicates? Slow hosting, too many order requests at the same time "
+"(server cannot cope), caching issues."
+
+#: includes/w/W_RafflePlayWoo_Winners.php:49
+msgid "Winner"
+msgstr "Winner"
+
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:3
+msgid "Winners"
+msgstr "Winners"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1176
+msgid ""
+"With this shortcode you can retrieve the primary attributes of any raffle. \n"
+"                                                            It can be used "
+"to display raffle information or integrate it with other plugins. Check the "
+"link below to the youtube video."
+msgstr ""
+"With this shortcode you can retrieve the primary attributes of any raffle.\n"
+"                                                            It can be used "
+"to display raffle information or integrate it with other plugins. Check the "
+"link below to the youtube video."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:76
+msgid "Woocommerce Account"
+msgstr "Woocommerce Account"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:663
+msgid "Works only with PHP version 7.1, and above"
+msgstr "Works only with PHP version 7.1, and above"
+
+#: includes/RafflePlayWoo_Plugin.php:211 includes/w/W_RafflePlayWoo_Info.php:20
+#: includes/w/W_RafflePlayWoo_MainPage.php:143
+#: includes/w/W_RafflePlayWoo_MainPage.php:176
+#: includes/w/W_RafflePlayWoo_MainPage.php:188
+#: includes/w/W_RafflePlayWoo_MainPage.php:296
+#: includes/w/W_RafflePlayWoo_MainPage.php:425
+#: includes/w/W_RafflePlayWoo_MainPage.php:457
+#: includes/w/W_RafflePlayWoo_MainPage.php:644
+#: includes/w/W_RafflePlayWoo_MainPage.php:697
+#: includes/w/W_RafflePlayWoo_MainPage.php:769
+#: includes/w/W_RafflePlayWoo_MainPage.php:780
+#: includes/w/W_RafflePlayWoo_MainPage.php:952
+#: includes/w/W_RafflePlayWoo_MainPage.php:968
+#: includes/w/W_RafflePlayWoo_MainPage.php:1030
+#: includes/w/W_RafflePlayWoo_Raffles.php:89
+#: includes/w/W_RafflePlayWoo_Raffles.php:104
+#: includes/w/W_RafflePlayWoo_Raffles.php:159
+#: includes/w/W_RafflePlayWoo_Raffles.php:168
+#: includes/w/W_RafflePlayWoo_Raffles.php:243
+#: includes/w/W_RafflePlayWoo_Raffles.php:286
+#: includes/w/W_RafflePlayWoo_Raffles.php:301
+#: includes/w/W_RafflePlayWoo_Raffles.php:319
+msgid "Yes"
+msgstr "Yes"
+
+#: raffle-play-woo.php:44
+msgid "Your license is not valid"
+msgstr "Your license is not valid"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:668
+msgid "Your PHP version is less than 7.1, therefore this feature wont work"
+msgstr "Your PHP version is less than 7.1, therefore this feature wont work"
+
+#: raffle-play-woo.php:25
+msgid "Your server's PHP version: "
+msgstr "Your server's PHP version:"

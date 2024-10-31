@@ -1,0 +1,387 @@
+.drp-loader-img {
+  display: none;
+  position: fixed !important;
+  left: 50%;
+  top: 40%;
+  border: 9px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 9px solid #000;
+  border-bottom: 9px solid yellowgreen;
+  width: 50px;
+  height: 50px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 1s linear infinite;
+  z-index: 10000000000001 !important;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@font-face {
+  font-family: sohne;
+  src: url("shone.otf") format("opentype");
+}
+
+body .wrap{
+  font-family: "sohne", "Helvetica Neue", "Arial", sans-serif;
+}
+
+/* css main */
+#divViewFilter{
+position: absolute;
+margin-top: 16px;
+margin-left: 10px;
+}
+
+.fixed-table-toolbar{
+float: right !important;
+}
+
+#mainFilterInfo{
+display: none;
+}
+
+#filterClear{
+cursor: pointer;
+color: red;
+font-size: 13px;
+}
+
+#btn_duplicates, 
+#btn_print_tickets{
+  float: right;
+  margin-top: -93px;
+}
+
+#btn_print_tickets{
+  margin-right: 125px;
+}
+
+.btn-edit-ticket{
+  cursor: pointer;
+  float: left;
+  padding: 4px;
+}
+
+.toggle-off{
+  background: rgb(250,128,114, 0.7) !important;
+}
+
+.bmp-set-row{
+  margin-bottom: 8px !important;
+  box-shadow: inset 2px 2px 2px 0px rgb(255 255 255 / 50%), 7px 7px 20px 0px rgb(0 0 0 / 10%), 4px 4px 5px 0px rgb(0 0 0 / 10%);
+  border-radius: 10px;
+  background: #f3f6fc;
+  padding: 7px;
+}
+
+#modalSaveEdit 
+.bmp-set-row{
+  margin-right: .8rem !important;
+  margin-left: .8rem !important;
+}
+
+.div-container-right{
+  border-left: 1px solid blueviolet;
+  padding-left: 22px !important;
+}
+
+.default-header-text{
+  text-align: center;
+  position: inherit;
+  border-bottom: 1px solid blueviolet;
+  width: fit-content;
+  margin: auto;
+  margin-top: -45px;
+  margin-bottom: 13px;
+}
+
+.nav-pills .nav-link{
+  border-bottom: 1px solid blueviolet;
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+}
+
+#modalSaveEdit 
+.modal-body{
+  height: 550px;
+  overflow-y: scroll;
+}
+
+.modal-headline{
+height: 5px;
+background-color: orange;   
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+.fa-info-circle {
+font-size: 1.2em;
+}
+
+.ui-datepicker-calendar .ui-state-default{
+text-align: center !important;
+}
+
+#issue_header{
+font-size: 1.2em;
+}
+.bmp-set-row{
+  margin-bottom: 5px !important;
+}
+
+#div_raffle_issues p{
+padding: 3px;
+margin-left: 3px;
+font-weight: 700;
+color: rgb(230, 59, 59);
+}
+#rpwoo_email_body_extra_txt{
+  width: 100% !important;
+}
+
+.header-messages{
+  text-align: center;;
+}
+
+#divViewFilter .toggle-group label.toggle-on{
+  background: #007cba !important; 
+}
+
+#v-pills-general,
+#v-pills-email,
+#v-pills-messages,
+#v-pills-test,
+#v-pills-multiple{
+  min-height: 420px;
+}
+.dropdown-item {
+  background:  white !important;
+}
+.dropdown-item.active{
+  background: #0d6efd !important ;
+}
+
+.columns-right{
+  float: right !important;
+}
+
+#raffles_list{
+  margin: 5px;
+  min-width: 150px;;
+}
+
+#div_filter_status{
+  position: relative;
+  top: 60px;
+  font-size: 0.9em;
+}
+
+#rpwoo_email_header_lbl,
+#rpwoo_email_body_lbl,
+#msg_terminate,
+#msg_startdate,
+#msg_enddate,
+#msg_add_to_cart,
+#msg_add_to_cart_ex,
+#msg_update_cart_ex,
+#msg_will_enddate{
+width: 100%;
+}
+
+.fa-tools{
+  color: #0a53be;
+}
+
+#div_live_section,
+#div_email_section,
+#div_test_section{
+border: 2px solid orange;
+border-radius: 4px;
+height: 100%; 
+min-height: 415px; 
+border-style: groove;
+}
+#p_view_order_modal{
+position: relative;
+top: 56px;
+left: 10px;
+}
+.well{
+border: 2px solid orange !important;
+}
+
+.modal-footer{
+text-align: left !important;
+}
+.fixed-table-toolbar .dropdown-menu{
+min-width: 230px !important;
+min-height: 360px !important;
+}
+
+.modal-backdrop {
+background-color: transparent !important;
+}
+.modal-dialog{
+margin: 150px auto !important;
+}
+
+#rdp_ticket_start_count_at,
+#liveLastTicketNo, 
+#limit_raffle_no_tickets,
+#liveTicketsPurchased{
+width: 100px;
+}
+
+/*
+input[type=radio] {
+width: 1.5rem !important;
+height: 1.5rem !important;
+}
+
+input[type=radio]:checked::before {
+width: 0.9rem !important;
+height: .9rem !important;
+margin: .1975rem !important;
+}
+*/
+
+.bmp-pins-new-panel .panel-body{
+min-height: 100px;
+}
+.clockpicker{
+  width: 110px !important;
+  /*
+  float: right;  
+  margin-top: -34px;
+  padding-left: 27px;
+  */
+}
+
+#rpwoo_start_time, #rpwoo_end_time{
+width: 70px;
+}
+
+.modal-dates-wrapper{
+width: 285px !important;
+}
+
+#datepicker_from, #datepicker_to{
+height: 34px; 
+}
+.view-order-link{
+color: cornflowerblue;
+cursor: pointer;
+}
+#modalViewOrder{
+margin-top:3px !important;
+z-index:10000001;
+}
+
+#view_order_frame #adminmenumain{
+display: none;
+}
+#modalViewOrder .modal-lg{
+width: 90% !important;
+}
+
+#modalViewOrder .modal-title{
+text-align: center;
+}
+
+#rdp_life_raffle{
+margin-left: 10px;
+}
+
+/*
+input[type=checkbox]:checked::before {
+height: 2.1125rem !important;
+width: 2.1125rem !important;
+}
+input[type=checkbox]{
+width: 1.8rem !important;
+height: 1.8rem !important;
+}
+*/
+.spacer5{
+margin-left: 50px !important;
+}
+
+#order_status_div label{
+margin-right: 10px;
+}
+#div_order_status label{
+  margin-bottom: 10px;
+}
+spacer
+
+button.close{
+  border: none !important;
+  border-radius: 3px !important;
+}
+.modal-footer button{
+  margin-right: 4px !important;
+}
+
+#tbl_view, #view_order_modal{
+  font-size: 0.9em !important;
+}
+.arrow{
+  display: none !important;
+}
+.tooltip-inner{
+  margin-left: 20px !important;
+  background-color: whitesmoke !important;
+  color: black !important;
+  border: 1px solid orange;
+}
+.active-row{
+  background-color: #f5ebe3;
+  box-shadow: inset 5px 0 0px #d6965e;
+}
+.modal-content{
+  border-radius:10px !important;
+  border: 1px solid rgba(0, 0, 0, 0.3) !important;
+  -webkit-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3) !important;
+  -moz-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3) !important;
+  box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3) !important;
+  -webkit-background-clip: padding-box !important;
+  -moz-background-clip: padding-box !important;
+  background-clip: padding-box !important;
+}
+
+.live-raffle{
+  width: 12px !important;
+  height: 12px !important;
+  background-color: greenyellow;
+  border: 1px solid green;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 4px;
+}
+
+.ended-raffle{
+  width: 12px !important;
+  height: 12px !important;
+  background-color: rgb(231, 145, 145);
+  border: 1px solid rgb(209, 72, 72);
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 4px;
+}
+
+.min-width-120{
+  min-width: 120px;
+}
+
+.left-text{
+  min-width: 60px;
+  text-align: left;;
+}
+

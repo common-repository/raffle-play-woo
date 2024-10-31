@@ -1,0 +1,3979 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Raffle Play Woo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-08 09:54+0000\n"
+"PO-Revision-Date: 2024-07-19 18:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: Danish\n"
+"Language: da_DK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.5.3\n"
+"X-Domain: raffle-play-woo"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:359
+msgid " All value from Category"
+msgstr " Al værdi fra kategori"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:133
+msgid " Include the rest of the Countries "
+msgstr " Medtag resten af landene"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:969
+msgid ""
+" is optional, if productid is added, the raffle linked to that product will "
+"be retrieved."
+msgstr ""
+" er valgfri, hvis productid tilføjes, hentes den tombola, der er knyttet til "
+"det produkt."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:970
+msgid ""
+" is optional, used to filter the code, if the shortcode is present in "
+"multiple pages (Dedicated keyword. Do not use keyword \"."
+msgstr ""
+" er valgfri, bruges til at filtrere koden, hvis kortkoden findes på flere "
+"sider (Dedikeret nøgleord. Brug ikke nøgleordet \"."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1246
+msgid " keyword for percentage sold"
+msgstr " nøgleord for procentdel solgt"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1245
+msgid " keyword for remaining tickets"
+msgstr " nøgleord for resterende billetter"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1244
+msgid " keyword for total number of tickets"
+msgstr " nøgleord for samlet antal billetter"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1243
+msgid " keyword to display sold tickets"
+msgstr " søgeord til visning af solgte billetter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:68
+msgid " will be swapped with the number above"
+msgstr " vil blive byttet ud med tallet ovenfor"
+
+#: raffle-play-woo.php:42
+msgid " WooCommerce is not installed/active"
+msgstr " WooCommerce er ikke installeret/aktiv"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:254
+#, php-format
+msgid ""
+"%s - 2, 3 uses date replacer; %d - 5, 6 uses numeric replacer; If deleted "
+"won't replace the values"
+msgstr ""
+"%s - 2, 3 bruger datoerstatning; %d - 5, 6 bruger numerisk erstatning; Hvis "
+"slettet erstatter ikke værdierne"
+
+#: includes/templates/product_raffle_tab.php:187
+#, php-format
+msgid "%s entries per page"
+msgstr "%s poster pr. side"
+
+#: includes/RafflePlayWoo_LifeCycle.php:4896
+#, php-format
+msgid "%s- Order Id %d has ticket number %d"
+msgstr "%s- Ordre-ID %d har billetnummer %d"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:21
+msgid "(Add Number of thickets for this raffle product)"
+msgstr "(Tilføj antal krat til dette lodtrækningsprodukt)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:359
+#, fuzzy
+#| msgid "At least"
+msgid "(at least)"
+msgstr "I det mindste"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:491
+msgid ""
+"(can be found and edited (styled) under plugin folder /includes/templates )"
+msgstr ""
+"(kan findes og redigeres (stilet) under plugin-mappen /includes/templates )"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1148
+msgid "(D)"
+msgstr "(D)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1121
+msgid "(Deleted)"
+msgstr "(Slettet)"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:19
+msgid "(Enable the option)"
+msgstr "(Aktiver indstillingen)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:18
+msgid ""
+"(Generated tickets need to have a time limit for each order at checkout)"
+msgstr ""
+"(Genererede billetter skal have en tidsbegrænsning for hver ordre ved "
+"checkout)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:137
+msgid "(grouped by country)"
+msgstr "(grupperet efter land)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:292
+msgid "(In order to save the column changes, run this report)"
+msgstr "(For at gemme kolonneændringerne skal du køre denne rapport)"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:152
+msgid "(limited to 15 characters)"
+msgstr "(begrænset til 15 tegn)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:42
+msgid "(live data)"
+msgstr "(levende data)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:90
+msgid "(Monday to Sunday)"
+msgstr "(mandag til søndag)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:431
+msgid "(PDFs are only generated for processing, invoice, and completed orders)"
+msgstr ""
+"(PDF-filer genereres kun for behandling, fakturaer og afsluttede ordrer)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1147
+msgid "(T)"
+msgstr "(T)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1120
+msgid "(Terminated)"
+msgstr "(Afsluttet)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:86
+msgid "(use -1 for unlimited)"
+msgstr "(brug -1 for ubegrænset)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:388
+msgid "(Winning Product)"
+msgstr "(Vindende produkt)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:313
+msgid "(Your Message) All raffle tickets have been sold"
+msgstr "(Din besked) Alle lodder er solgt"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:265
+msgid "(Your Message) The raffle has finished"
+msgstr "(Din besked) Lodtrækningen er afsluttet"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:289
+#, php-format
+msgid "(Your Message) The raffle has finished on %s"
+msgstr "(Din meddelelse) Lodtrækningen er afsluttet den %s"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:301
+#, php-format
+msgid "(Your Message) The raffle will end on %s"
+msgstr "(Din besked) Lodtrækningen slutter den %s"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:277
+#, php-format
+msgid "(Your Message) The raffle will start on %s"
+msgstr "(Din besked) Lodtrækningen starter den %s"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:325
+#: includes/w/W_RafflePlayWoo_MainPage.php:337
+#, php-format
+msgid "(Your Message) There are only %d tickets left"
+msgstr "(Din besked) Der er kun %d billetter tilbage"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:110
+msgid "*** Leave empty not to display ***"
+msgstr "*** Lad det være tomt for ikke at blive vist ***"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:111
+msgid "*** To display copy the short code and paste it into the post/page ***"
+msgstr ""
+"*** For at få vist den korte kode kopieres den og indsættes i "
+"indlægget/siden ***"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1041
+msgid ""
+"***IMPORTANT*** If this option is YES (Hide Cart), the position to display "
+"the countdown only works for the first 3 top positions (Before Single "
+"Product, Before Single Product Summary, Top of Single Product Summary), the "
+"other positions will be hidden by woocommerce"
+msgstr ""
+"***VIGTIGT*** Hvis denne indstilling er YES (Hide Cart), fungerer positionen "
+"til at vise nedtællingen kun for de første 3 toppositioner (Before Single "
+"Product, Before Single Product Summary, Top of Single Product Summary), de "
+"andre positioner vil blive skjult af woocommerce"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:93
+msgid "***Or it can be left empty***"
+msgstr "***Og den kan stå tom***"
+
+#: includes/external/dompdf/lib/php-css-parser/tests/Sabberworm/CSS/RuleSet/DeclarationBlockTest.php:215
+msgid "-10px"
+msgstr "-10px"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:975
+msgid "1. Copy the shortcode and paste it in the page/post/etc"
+msgstr "1. Kopier kortkoden, og indsæt den på siden/indlægget/etc"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:976
+msgid "2. In the functions.php of your child theme add following filter hook"
+msgstr ""
+"2. I functions.php i dit child theme skal du tilføje følgende filter hook"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:463
+#: includes/w/W_RafflePlayWoo_Promotion.php:64
+#: includes/w/W_RafflePlayWoo_Promotion.php:291
+msgid "Action"
+msgstr "Handling"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:255
+#: includes/w/W_RafflePlayWoo_Lucky.php:464
+msgid "Active"
+msgstr "Aktiv"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:217
+msgid "Active Promotion (In use or not)"
+msgstr "Aktiv kampagne (i brug eller ej)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:148
+#: includes/w/W_RafflePlayWoo_Reports.php:279
+msgid "Add"
+msgstr "Tilføj"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:191
+msgid "Add / remove free raffle tickets to cart based on the rules"
+msgstr "Tilføj/fjern gratis lodder til indkøbskurven baseret på reglerne"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:233
+msgid "Add [end] at the end to break the text into a new line"
+msgstr "Tilføj [end] til sidst for at bryde teksten til en ny linje"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:250
+msgid "Add raffle id, only to display tickets sold for that raffle"
+msgstr ""
+"Tilføj lodtræknings-id, kun for at vise solgte billetter til den pågældende "
+"lodtrækning"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:142
+#, php-format
+msgid "Add to Cart (exceeding tickets %d)"
+msgstr "Læg i kurv (overskrider billetter %d)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:320
+#, php-format
+msgid "Add To Cart (limit on - exceeding tickets - %d)"
+msgstr "Læg i kurv (grænse på - overskridelse af billetter - %d)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:308
+msgid "Add To Cart (limit on - no tickets left)"
+msgstr "Tilføj til indkøbskurv (begrænsning på - ingen billetter tilbage)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:136
+msgid "Add to Cart (no tickets left)"
+msgstr "Læg i indkøbskurv (ingen billetter tilbage)"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:24
+msgid ""
+"Added \"View by Order\" - tickets can be grouped by order in \"View "
+"Tickets\" tab "
+msgstr ""
+"Tilføjet \"Vis efter rækkefølge\" - billetter kan grupperes efter rækkefølge "
+"i fanen \"Vis billetter\""
+
+#: includes/releases/RafflePlayWoo_Release_62.php:23
+msgid "Added - Custom shortcode for progress bar"
+msgstr "Tilføjet - Brugerdefineret kortkode til statuslinje"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:46
+msgid "Added - Customize Progress Bar from template"
+msgstr "Tilføjet - Tilpas fremdriftslinjen fra skabelonen"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:41
+msgid "Added - Customize Progress Bar tab in General Raffle."
+msgstr "Tilføjet - fanen Tilpas fremdriftslinje i General Raffle."
+
+#: includes/releases/RafflePlayWoo_Release_62.php:19
+msgid "Added - Lucky Numbers"
+msgstr "Tilføjet - Lucky Numbers"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:18
+msgid "Added Countdown in product card"
+msgstr "Tilføjet nedtælling i produktkort"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:21
+msgid "Added Progress bar in product card and product page"
+msgstr "Tilføjet fremdriftslinje på produktkort og produktside"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:27
+msgid "Added Raffle tab in product page"
+msgstr "Tilføjet lodtrækningsfane på produktsiden"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:261
+msgid "Added to cart message"
+msgstr "Besked om tilføjelse til indkøbskurv"
+
+#: includes/RafflePlayWoo_Plugin.php:302
+msgid "Address"
+msgstr "Adresse"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:979
+#: includes/w/W_RafflePlayWoo_Reports.php:305
+msgid "Address One"
+msgstr "Adresse et"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:980
+#: includes/w/W_RafflePlayWoo_Reports.php:306
+msgid "Address Two"
+msgstr "Adresse to"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:472
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:608
+msgid "After Add to Cart Button"
+msgstr "Efter knappen Læg i kurv"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:473
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:609
+msgid "After Add to Cart Form"
+msgstr "Efter Læg i kurv-formularen"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:471
+msgid "After Add to Cart Quanitity"
+msgstr "Efter Tilføj til kurv Kvantum"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:607
+msgid "After Add to Cart Quantity"
+msgstr "Efter tilføj til kurv Antal"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:216
+msgid "After Billing Address"
+msgstr "Efter faktureringsadresse"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:341
+msgid "After changing ticket, resend email order details to customer."
+msgstr ""
+"Når du har ændret billetten, skal du sende ordreoplysningerne til kunden "
+"igen."
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:207
+msgid ""
+"After how many Reserved Time cycles to remove the raffle products from "
+"Checkout"
+msgstr ""
+"Efter hvor mange Reserved Time-cyklusser skal lodtrækningsprodukterne "
+"fjernes fra kassen?"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:536
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:671
+msgid "After Loop Item Title"
+msgstr "Efter sløjfe Emne titel"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:537
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:672
+msgid "After Price Loop Item"
+msgstr "Efter prisløkke Vare"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:474
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:610
+msgid "After Single Product Summary"
+msgstr "Efter enkelt produktoversigt"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:467
+msgid "After Sold"
+msgstr "Efter salg"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:31
+msgid ""
+"After the reserved time has passed a custom message can be displayed to "
+"notify the customer the tickets are no longer reserved but can still be "
+"purchased"
+msgstr ""
+"Når den reserverede tid er gået, kan der vises en brugerdefineret besked til "
+"kunden om, at billetterne ikke længere er reserverede, men stadig kan købes"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:182
+msgid ""
+"After the reserved time has passed removed the reserved raffle products from "
+"the checkout. When raffle tickets are generated at checkout are reserved as "
+"purchased tickets"
+msgstr ""
+"Når den reserverede tid er gået, fjernes de reserverede lodder fra kassen. "
+"Når lodder genereres i kassen, reserveres de som købte lodder"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:112
+msgid "All"
+msgstr "Alle"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:17
+msgid "All new raffles cannot be deleted, but can be edited."
+msgstr "Alle nye lodtrækninger kan ikke slettes, men kan redigeres."
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:9
+msgid "All the report are self explanatory"
+msgstr "Alle rapporter er selvforklarende"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:14
+msgid "Allows to export any order field"
+msgstr "Gør det muligt at eksportere alle ordrefelter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:25
+msgid ""
+"Also can be created using shortcodes [woocommerce_cart] and "
+"[woocommerce_checkout]"
+msgstr ""
+"Kan også oprettes ved hjælp af shortcodes [woocommerce_cart] og "
+"[woocommerce_checkout]"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:23
+msgid ""
+"Also can be customized to giveaway tickets based on amount spent on specific "
+"categories"
+msgstr ""
+"Kan også tilpasses til at give billetter baseret på forbrug i specifikke "
+"kategorier"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:85
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:99
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:112
+msgid "AND"
+msgstr "OG"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:16
+msgid "Anonymous Users"
+msgstr "Anonyme brugere"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:72
+msgid "Any fields left empty will not be displayed"
+msgstr "Eventuelle tomme felter vil ikke blive vist"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:500
+msgid "April"
+msgstr "April"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:416
+msgid ""
+"Are you getting duplicated tickets? Enable this option, and the system will "
+"check for duplicates, and fix them after the order is created"
+msgstr ""
+"Får du duplikerede billetter? Aktivér denne mulighed, så tjekker systemet "
+"for dubletter og retter dem, når ordren er oprettet"
+
+#: includes/RafflePlayWoo_Plugin.php:318
+msgid "Are you sure you want to change this ticket?"
+msgstr "Er du sikker på, at du vil ændre denne billet?"
+
+#: includes/RafflePlayWoo_Plugin.php:306
+msgid "Are you sure you want to delete it?"
+msgstr "Er du sikker på, at du vil slette den?"
+
+#: includes/RafflePlayWoo_Plugin.php:309
+msgid "Are you sure you want to PERMANENTLY delete this raffle's tickets?"
+msgstr ""
+"Er du sikker på, at du ønsker at slette billetterne til denne lodtrækning "
+"PERMANENT?"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:359
+msgid "At Checkout, do not assign raffle tickets to following orders"
+msgstr "Ved kassen må du ikke tildele lodder til følgende ordrer"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:369
+msgid "At least"
+msgstr "I det mindste"
+
+#: includes/RafflePlayWoo_LifeCycle.php:415
+msgid "Audit"
+msgstr "Revision"
+
+#: includes/w/W_RafflePlayWoo_AuditPage.php:14
+msgid "Audit Info"
+msgstr "Information om revision"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:504
+msgid "August"
+msgstr "August"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:256
+msgid "Available Columns"
+msgstr "Tilgængelige kolonner"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:366
+msgid "Available Tickets"
+msgstr "Tilgængelige billetter"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1047
+#: includes/w/W_RafflePlayWoo_MainPage.php:1274
+msgid "Background Color"
+msgstr "Baggrundsfarve"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1306
+msgid "Background color of the progress, text, hex, rgb, and rgba accepted."
+msgstr "Baggrundsfarve for fremskridt, tekst, hex, rgb og rgba accepteret."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:404
+msgid "Background Image"
+msgstr "Baggrundsbillede"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:34
+msgid "Backup"
+msgstr "Backup"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:447
+msgid "Backup Actions"
+msgstr "Sikkerhedskopiering af handlinger"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:471
+msgid "Backup All Live Data"
+msgstr "Sikkerhedskopiering af alle levende data"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:475
+msgid "Backup Data from Table View"
+msgstr "Sikkerhedskopiering af data fra tabelvisning"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:457
+msgid "Backup Name (max 10 characters)*"
+msgstr "Backup Navn (maks. 10 tegn)*"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1304
+msgid "Bar color of the progress, text, hex, rgb, and rgba accepted."
+msgstr "Farven på statuslinjen, tekst, hex, rgb og rgba accepteres."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:657
+msgid "Be aware: inproper css manipulation will break the pdf file"
+msgstr "Vær opmærksom på, at forkert css-manipulation vil ødelægge pdf-filen"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:620
+#: includes/w/W_RafflePlayWoo_MainPage.php:634
+msgid "Be aware: inproper html manipulation will break the pdf file"
+msgstr "Vær opmærksom på, at ukorrekt html-manipulation vil ødelægge pdf-filen"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:895
+msgid "Before Account Details"
+msgstr "Før kontooplysninger"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:467
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:603
+msgid "Before Add to Cart Button"
+msgstr "Før knappen Læg i kurv"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:465
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:601
+msgid "Before Add to Cart Form"
+msgstr "Før Læg i kurv-formular"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:470
+msgid "Before Add to Cart Quanitity"
+msgstr "Før Læg i kurv Kvantum"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:606
+msgid "Before Add to Cart Quantity"
+msgstr "Før Læg i kurv Antal"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:893
+msgid "Before Addresses"
+msgstr "Før adresser"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:890
+msgid "Before Dashboard"
+msgstr "Før Dashboard"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:892
+msgid "Before Downloads"
+msgstr "Før downloads"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:180
+msgid ""
+"Before going live with the raffle as a good practice is good to do a few "
+"tests, this will give you an idea how the system works"
+msgstr ""
+"Før du går live med tombolaen er det en god praksis at lave et par tests, så "
+"du får en idé om, hvordan systemet fungerer"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:896
+msgid "Before Logout"
+msgstr "Før logout"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:533
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:668
+msgid "Before Loop Item"
+msgstr "Før loop-element"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:534
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:669
+msgid "Before Loop Item Title"
+msgstr "Før sløjfe Emne titel"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:891
+msgid "Before Order"
+msgstr "Før bestilling"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:206
+msgid "Before Order Info"
+msgstr "Før bestilling Info"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:894
+msgid "Before Payments Methods"
+msgstr "Før betalingsmetoder"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:462
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:598
+msgid "Before Single Product"
+msgstr "Før enkelt produkt"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:463
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:599
+msgid "Before Single Product Summary"
+msgstr "Før enkelt produktoversigt"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:468
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:469
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:604
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:605
+msgid "Before Single Variation"
+msgstr "Før enkelt variation"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:466
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:602
+msgid "Before Variations Form"
+msgstr "Før Variationsformular"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:240
+msgid ""
+"Below messages are displayed in the raffle product page (when adding to cart)"
+", and in the cart page (when updating cart)"
+msgstr ""
+"Nedenstående meddelelser vises på produktsiden for lodtrækningen (når der "
+"tilføjes til indkøbskurven), og på indkøbskurvsiden (når indkøbskurven "
+"opdateres)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:50
+msgid "Below selected must match the order data to show the tickets"
+msgstr "Det valgte nedenfor skal matche ordredataene for at vise billetterne"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:211
+msgid "Between Order Info and Billing Address"
+msgstr "Mellem bestillingsoplysninger og faktureringsadresse"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:45
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:73
+msgid "Block"
+msgstr "Blok"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:19
+#: includes/w/W_RafflePlayWoo_MainPage.php:732
+#: includes/w/W_RafflePlayWoo_Raffles.php:358
+msgid "Blue"
+msgstr "Blå"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:85
+#: includes/w/W_RafflePlayWoo_MainPage.php:173
+msgid "Body Tickets"
+msgstr "Body-billetter"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:619
+msgid "Business Info Header (html)"
+msgstr "Virksomhedsinformation Header (html)"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:272
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:242
+msgid "Buy Out Product "
+msgstr "Opkøb af produkt"
+
+#: includes/RafflePlayWoo_Plugin.php:312
+msgid "Buyout"
+msgstr "Opkøb"
+
+#: includes/RafflePlayWoo_Plugin.php:313
+msgid "Buyout Product"
+msgstr "Buyout produkt"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:155
+msgid "By Raffle Ticket"
+msgstr "Af tombola-billet"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:153
+msgid "By Raffle Ticket "
+msgstr "Ved lodtrækning"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:13
+msgid "By Raffle Tickets"
+msgstr "Ved hjælp af lodtrækningsbilletter"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:177
+#: includes/w/W_RafflePlayWoo_Promotion.php:454
+#: includes/w/W_RafflePlayWoo_Raffles.php:499
+#: includes/w/W_RafflePlayWoo_Reports.php:278
+#: includes/w/W_RafflePlayWoo_ViewPage.php:183
+#: includes/w/W_RafflePlayWoo_ViewPage.php:293
+#: includes/w/W_RafflePlayWoo_ViewPage.php:483
+#: includes/w/W_RafflePlayWoo_Winners.php:115
+msgid "Cancel"
+msgstr "Annuller"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:354
+msgid "Cancelled"
+msgstr "Annulleret"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:353
+msgid "Cancelled by an admin or the customer – no further action required"
+msgstr ""
+"Annulleret af en administrator eller af kunden - ingen yderligere handling "
+"er nødvendig"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2027
+msgid "Cannot be added to cart"
+msgstr "Kan ikke lægges i kurven"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:158
+msgid "Cannot create lucky numbers for this raffle."
+msgstr "Det er ikke muligt at oprette lykketal til denne lodtrækning."
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:21
+msgid "Cart and Checkout are now built using blocks by default"
+msgstr "Indkøbskurv og checkout er nu bygget med blokke som standard"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:35
+msgid "Cart page is built using:"
+msgstr "Indkøbskurvssiden er bygget med:"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:348
+msgid "Change"
+msgstr "Forandring"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:344
+msgid "Change Ticket Number to: "
+msgstr "Skift billetnummer til:"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:765
+msgid ""
+"Change width, height, color, text size of the raffle ticket view in Thank "
+"you / Email"
+msgstr ""
+"Skift bredde, højde, farve og tekststørrelse på lodtrækningsbilledet i Tak / "
+"E-mail"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:63
+msgid "Checkout page is built using:"
+msgstr "Checkout-siden er bygget ved hjælp af:"
+
+#: includes/RafflePlayWoo_Plugin.php:276
+#: includes/d/D_RafflePlayWoo_Reports.php:981
+#: includes/w/W_RafflePlayWoo_Reports.php:307
+msgid "City"
+msgstr "By"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:184
+msgid "Clear"
+msgstr "Klar"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:73
+msgid "Clear Dates"
+msgstr "Klare datoer"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:38
+msgid "Clear Filter"
+msgstr "Ryd filter"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:316
+#: includes/w/W_RafflePlayWoo_ViewPage.php:319
+#: includes/w/W_RafflePlayWoo_ViewPage.php:387
+#: includes/w/W_RafflePlayWoo_ViewPage.php:434
+msgid "Close"
+msgstr "Luk"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:261
+msgid "Col Text"
+msgstr "Col Text"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1057
+msgid "Color"
+msgstr "Farve"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:381
+msgid "Complete"
+msgstr "Komplet"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:302
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:306
+msgid "Completed"
+msgstr "Afsluttet"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:202
+msgid "Concentrate Number (pool)"
+msgstr "Koncentratnummer (pool)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:242
+msgid "Concentrate Number (Set per raffle)"
+msgstr "Koncentratnummer (sæt pr. lodtrækning)"
+
+#: includes/RafflePlayWoo_Plugin.php:319
+msgid "Confirm Ticket Change"
+msgstr "Bekræft ændring af billet"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:266
+msgid ""
+"Congratulations, you are now entering the free raffle draw. Complete the "
+"purchase"
+msgstr "Tillykke, du deltager nu i den gratis lodtrækning. Gennemfør købet"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:911
+msgid "Content Display - Raffle Tickets"
+msgstr "Visning af indhold - Tombolabilletter"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:39
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:72
+msgid "Copy and paste image url here"
+msgstr "Kopier og indsæt billedets url her"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:176
+msgid "Copy Shortcode"
+msgstr "Kopier kortkode"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:160
+msgid ""
+"Copy the shortcode and paste it in the page. (Enter unique shortcode id)"
+msgstr "Kopier kortkoden, og indsæt den på siden. (Indtast unikt kortkode-id)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1164
+msgid ""
+"Copy the shortcode on any page or post, and change the values. Datetime can "
+"be of timestamp or format yyyy-mm-dd hh:mm:ss. Color and bgcolor can be of "
+"hex or rgb. The rest are just labels."
+msgstr ""
+"Kopier kortkoden til en side eller et indlæg, og ændr værdierne. Datetime "
+"kan være et tidsstempel eller formatet yyyy-mm-dd hh:mm:ss. Color og bgcolor "
+"kan være hex eller rgb. Resten er bare etiketter."
+
+#: includes/RafflePlayWoo_Plugin.php:317
+msgid "Could not generate Random ticket"
+msgstr "Kunne ikke generere tilfældig billet"
+
+#: includes/RafflePlayWoo_Raffles.php:415
+msgid "Could not remove products linked to this raffle"
+msgstr "Kunne ikke fjerne produkter knyttet til denne lodtrækning"
+
+#: includes/RafflePlayWoo_Raffles.php:411
+msgid "Could not remove raffle data"
+msgstr "Kunne ikke fjerne lodtrækningsdata"
+
+#: includes/RafflePlayWoo_Raffles.php:407
+msgid "Could not remove tickets for this raffle"
+msgstr "Kunne ikke fjerne billetter til denne lodtrækning"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:409
+#: includes/w/W_RafflePlayWoo_Raffles.php:435
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:450
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:521
+msgid "Countdown Image"
+msgstr "Nedtællingsbillede"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:106
+msgid "Countdown Settings"
+msgstr "Indstillinger for nedtælling"
+
+#: includes/RafflePlayWoo_Plugin.php:273
+#: includes/d/D_RafflePlayWoo_Reports.php:549
+#: includes/d/D_RafflePlayWoo_Reports.php:679
+#: includes/d/D_RafflePlayWoo_Reports.php:983
+#: includes/w/W_RafflePlayWoo_Reports.php:309
+msgid "Country"
+msgstr "Land"
+
+#: includes/RafflePlayWoo_Plugin.php:274
+#: includes/d/D_RafflePlayWoo_Reports.php:550
+#: includes/d/D_RafflePlayWoo_Reports.php:680
+#: includes/d/D_RafflePlayWoo_Reports.php:984
+#: includes/w/W_RafflePlayWoo_Reports.php:310
+msgid "County"
+msgstr "Amt"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:17
+msgid "Create a custom shortcode and show it on a page"
+msgstr "Opret en brugerdefineret kortkode og vis den på en side"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:419
+msgid "Create a pdf attachment with the raffle info. Attached to the email"
+msgstr ""
+"Opret en pdf-bilag med oplysninger om lodtrækningen. Vedhæftet til e-mailen"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:42
+msgid ""
+"Create a promotional raffle with free tickets to boost your sales on your "
+"shop."
+msgstr ""
+"Lav en salgsfremmende tombola med gratis lodder for at booste salget i din "
+"butik."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:26
+#: includes/w/W_RafflePlayWoo_MainPage.php:739
+#: includes/w/W_RafflePlayWoo_Raffles.php:365
+msgid "Custom"
+msgstr "Tilpasset"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:190
+msgid "Custom Currency Symbol"
+msgstr "Brugerdefineret valutasymbol"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:15
+msgid ""
+"Custom data captured at checkout. Click on the plus button, add the field "
+"META name in the db, and the column name"
+msgstr ""
+"Brugerdefinerede data indsamles ved kassen. Klik på plus-knappen, tilføj "
+"feltet META-navn i db'en og kolonnenavnet"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:240
+msgid "Custom display on any page the latest raffle tickets sold"
+msgstr "Brugerdefineret visning af de seneste solgte lodder på enhver side"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1313
+msgid "Custom html class"
+msgstr "Brugerdefineret html-klasse"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1284
+msgid "Custom HTML classes"
+msgstr "Brugerdefinerede HTML-klasser"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1295
+msgid "Custom Progress Bar Shortcode"
+msgstr "Brugerdefineret kortkode til fremdriftslinje"
+
+#: includes/RafflePlayWoo_Plugin.php:268
+msgid "Customer Id"
+msgstr "Kunde-id"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:121
+msgid "Customer Search Tickets"
+msgstr "Billetter til kundesøgning"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:227
+msgid ""
+"Customers are not allowed to add to cart, delete or update the promotional "
+"raffle product "
+msgstr ""
+"Det er ikke tilladt for kunder at tilføje til indkøbskurven, slette eller "
+"opdatere det salgsfremmende lodtrækningsprodukt"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:11
+msgid "Customers can search for their tickets"
+msgstr "Kunderne kan søge efter deres billetter"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1021
+msgid "Customize Countdown"
+msgstr "Tilpas nedtælling"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:763
+msgid "Customize how raffle ticket will show in Thank you Page / Email"
+msgstr "Tilpas, hvordan loddet skal vises på takkesiden/e-mailen"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1198
+msgid "Customize Progress Bar"
+msgstr "Tilpas statuslinjen"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:136
+#: includes/w/W_RafflePlayWoo_Reports.php:82
+msgid "Daily Sales"
+msgstr "Dagligt salg"
+
+#: includes/RafflePlayWoo_LifeCycle.php:6114
+#: includes/RafflePlayWoo_LifeCycle.php:6240
+msgid "Data is not set"
+msgstr "Data er ikke indstillet"
+
+#: includes/RafflePlayWoo_LifeCycle.php:6228
+msgid "Data Saved"
+msgstr "Gemte data"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:33
+msgid "Data Table is displayed with search, column sorting, pagination"
+msgstr "Datatabellen vises med søgning, kolonnesortering og paginering"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:41
+msgid "Date and time when the raffle tickets are available for purchase"
+msgstr "Dato og klokkeslæt for køb af lodder i forbindelse med lodtrækningen"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:46
+msgid "Date and time when the raffle will end"
+msgstr "Dato og klokkeslæt for afslutning af lodtrækningen"
+
+#: includes/RafflePlayWoo_Countdown.php:52
+msgid "Days"
+msgstr "Dage"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1067
+msgid "Days Label"
+msgstr "Dage Etiket"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1153
+#: includes/w/W_RafflePlayWoo_MainPage.php:1180
+msgid "Days left until Christmas 2025"
+msgstr "Dage tilbage til jul 2025"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:266
+msgid ""
+"DB  Name  is going to be extracted from the order metadata. ( E.g Data "
+"captured at checkout)"
+msgstr ""
+"DB Name skal udtrækkes fra ordremetadataene. (f.eks. data, der registreres "
+"ved kassen)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:262
+msgid "DB Meta Name"
+msgstr "DB-metanavn"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:508
+msgid "December"
+msgstr "December"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:56
+msgid "Default Raffle (ID - 0)"
+msgstr "Standard tombola (ID - 0)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:273
+msgid "Default Raffle has no products"
+msgstr "Default Raffle har ingen produkter"
+
+#: includes/RafflePlayWoo_Plugin.php:327
+#: includes/w/W_RafflePlayWoo_Lucky.php:490
+msgid "Delete"
+msgstr "Slet"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:41
+#, fuzzy
+#| msgid "Delete Raffle Tickets"
+msgid "Delete All Raffle Tickets"
+msgstr "Slet lodtrækningsbilletter"
+
+#: includes/RafflePlayWoo_Plugin.php:334
+msgid "Delete Lucky Number?"
+msgstr "Slette lykkenummer?"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:388
+msgid "Deprecated functionality - use function above"
+msgstr "Forældet funktionalitet - brug funktionen ovenfor"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:37
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:70
+msgid "Display image instead of the crossword"
+msgstr "Vis billede i stedet for krydsord"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:236
+msgid ""
+"Display information to user when raffle is terminated, or there are no more "
+"tickets, or raffle hasnt started etc."
+msgstr ""
+"Vis information til brugeren, når tombolaen er afsluttet, eller der ikke er "
+"flere lodder, eller tombolaen ikke er startet osv."
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:135
+msgid "Display message when no tickets found"
+msgstr "Vis besked, når der ikke er fundet nogen billetter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:256
+msgid "display table as data table"
+msgstr "vis tabel som datatabel"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:333
+msgid "Do not generate Raffle Tickets for Orders with Status:"
+msgstr "Generér ikke lodder til ordrer med status:"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1133
+msgid "Do you want to display a countdown in the home page? or any other page?"
+msgstr "Vil du vise en nedtælling på startsiden eller en anden side?"
+
+#: includes/w/W_RafflePlayWoo_Info.php:56
+msgid "Doc - Default Raffle Setup"
+msgstr "Doc - Standardopsætning af lodtrækning"
+
+#: includes/w/W_RafflePlayWoo_Info.php:72
+msgid "Doc - Email PDF Attachment"
+msgstr "Doc - E-mail PDF-bidrag til e-mail"
+
+#: includes/w/W_RafflePlayWoo_Info.php:52
+msgid "Doc - Installation"
+msgstr "Doc - Installation"
+
+#: includes/w/W_RafflePlayWoo_Info.php:60
+msgid "Doc - Raffles Setup"
+msgstr "Doc - Opsætning af tombolaer"
+
+#: includes/w/W_RafflePlayWoo_Info.php:68
+msgid "Doc - Reports Page"
+msgstr "Doc - Rapporter side"
+
+#: includes/w/W_RafflePlayWoo_Info.php:64
+msgid "Doc - Winners Page"
+msgstr "Doc - Vindere side"
+
+#: includes/docs/RafflePlayWoo_Docs_Pdf_Attachment.php:14
+#, php-format
+msgid "Documentation - How to add custom data to pdf. View %s "
+msgstr "Dokumentation - Sådan tilføjes brugerdefinerede data til pdf. Vis %s"
+
+#: includes/w/W_RafflePlayWoo_Info.php:134
+msgid "Domain License"
+msgstr "Domænelicens"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:245
+msgid "Drag & drop to remove from Report Columns"
+msgstr "Træk og slip for at fjerne fra rapportkolonner"
+
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:5
+msgid "Due to lack of transparency, we do not provide random winner generator"
+msgstr ""
+"På grund af manglende gennemsigtighed leverer vi ikke en generator til "
+"tilfældige vindere"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:97
+msgid "Duplicates"
+msgstr "Duplikater"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:400
+msgid "Duplicates found in this raffle"
+msgstr "Duplikater fundet i denne lodtrækning"
+
+#: includes/docs/RafflePlayWoo_Docs_Pdf_Attachment.php:7
+#, php-format
+msgid "Each Setting explained for PDF Attachment. View %s "
+msgstr "Hver indstilling forklaret for PDF-vedhæftning. Vis %s"
+
+#: includes/RafflePlayWoo_Plugin.php:326
+#: includes/w/W_RafflePlayWoo_Lucky.php:477
+msgid "Edit"
+msgstr "Rediger"
+
+#: includes/RafflePlayWoo_Plugin.php:289
+msgid "Edit Raffle"
+msgstr "Rediger lodtrækning"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:334
+msgid "Edit Ticket"
+msgstr "Rediger billet"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1248
+msgid "eg: 20/100 tickets sold - 80 left"
+msgstr "fx: 20/100 billetter solgt - 80 tilbage"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:138
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:165
+msgid "Eg: Leading zero set to 5, prefix T-, ticket is 12 => result: T-00012"
+msgstr ""
+"Fx: Førende nul sat til 5, præfiks T-, billet er 12 => resultat: T-00012"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:193
+msgid "Eg: Raffle draw is on 25th of June 2021"
+msgstr "F.eks.: lodtrækningen finder sted den 25. juni 2021"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1225
+msgid "eg: Raffle has 1000 tickets available, the progress will show."
+msgstr "f.eks: Tombolaen har 1000 lodder til rådighed, og status vises."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1206
+msgid "eg: raffle is terminated, raffle hasn't started, raffle has ended"
+msgstr ""
+"fx: lodtrækningen er afsluttet, lodtrækningen er ikke startet, lodtrækningen "
+"er slut"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:298
+msgid "Eg: Raffle takes place on 10th of January 2021"
+msgstr "F.eks.: Tombolaen finder sted den 10. januar 2021"
+
+#: includes/RafflePlayWoo_Plugin.php:267
+#: includes/d/D_RafflePlayWoo_Reports.php:985
+#: includes/templates/customer_search.php:15
+#: includes/w/W_RafflePlayWoo_Reports.php:311
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:61
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:295
+msgid "Email Extra Line Text"
+msgstr "E-mail ekstra linje tekst"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1636
+msgid "Email or phone number not provided"
+msgstr "E-mail eller telefonnummer ikke oplyst"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:68
+#: includes/w/W_RafflePlayWoo_MainPage.php:71
+msgid "Email Template & Thank you Page"
+msgstr "E-mail-skabelon og takkeside"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:414
+msgid "Enable Duplicates Fixing after Order Created"
+msgstr "Aktiver rettelse af dubletter efter ordreoprettelse"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:417
+msgid "Enable PDF Email Attachment"
+msgstr "Aktiver vedhæftning af PDF-e-mail"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:845
+msgid "Enable Raffle Tab in Woocommerce Account"
+msgstr "Aktivér fanen Tombola i Woocommerce-kontoen"
+
+#: includes/RafflePlayWoo_Plugin.php:296
+#: includes/w/W_RafflePlayWoo_Raffles.php:234
+msgid "End Date"
+msgstr "Slutdato"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:127
+#, php-format
+msgid "End date is set as early than today - notify user - %s as end date"
+msgstr ""
+"Slutdato er sat tidligere end i dag - underret brugeren - %s som slutdato"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1118
+msgid "Ends In Label"
+msgstr "Slutter i etiket"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2549
+#: includes/RafflePlayWoo_LifeCycle.php:4870
+msgid "Enter Raffle Tickets Number in the Variations"
+msgstr "Indtast nummeret på lodderne i variationerne"
+
+#: includes/w/W_RafflePlayWoo_Info.php:91
+msgid "Enter the license number"
+msgstr "Indtast licensnummeret"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2521
+#: includes/RafflePlayWoo_LifeCycle.php:4844
+msgid ""
+"Enter the number or raffle tickets you want for this product. If you have "
+"Raffle Variable Product set the number of raffle tickets in the Variation "
+"product"
+msgstr ""
+"Indtast det antal lodder, du vil have til dette produkt. Hvis du har Raffle "
+"Variable Product, skal du angive antallet af lodder i Variation-produktet"
+
+#: includes/RafflePlayWoo_Plugin.php:257
+msgid "Error Parsing Data"
+msgstr "Fejl ved parsing af data"
+
+#: includes/RafflePlayWoo_Plugin.php:320
+msgid "Error. Could not change the number. Refresh the page and try again"
+msgstr "Fejl. Kunne ikke ændre nummeret. Opdater siden, og prøv igen"
+
+#: raffle-play-woo.php:27
+msgid ""
+"Error: plugin \"Raffle Play\" requires a higher version of PHP to be running."
+msgstr ""
+"Fejl: plugin \"Raffle Play\" kræver en højere version af PHP til at køre."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:218
+msgid ""
+"Example: Concentrate number is 100, customer buys 20 tickets, and there are "
+"4 lucky numbers not won. The pool to draw one winning number is 124. Changes "
+"to win is 4/124 for each number drawn from 24 purchased. (Extremely high to "
+"win)"
+msgstr ""
+"Et eksempel: Koncentratnummeret er 100, kunden køber 20 lodder, og der er 4 "
+"lykketal, som ikke er vundet. Puljen til at trække et vindernummer er 124. "
+"Ændringer for at vinde er 4/124 for hvert nummer, der trækkes ud af 24 købte."
+" (Ekstremt høj chance for at vinde)"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:482
+msgid "Execute"
+msgstr "Udfør"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:154
+msgid "Export Columns"
+msgstr "Eksporter kolonner"
+
+#: includes/RafflePlayWoo_Plugin.php:303
+#: includes/w/W_RafflePlayWoo_Winners.php:103
+msgid "Extra Info"
+msgstr "Ekstra oplysninger"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:188
+msgid ""
+"Extra info about raffle displayed on next table row. Leave empty to skip. Eg:"
+" Raffle draw is on 25th of June 2021. Good Luck!"
+msgstr ""
+"Ekstra oplysninger om lodtrækning vises på næste bordrække. Lad den være tom "
+"for at springe over. F.eks: Lodtrækningen finder sted den 25. juni 2021. "
+"Held og lykke!"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:633
+msgid "Extra Info Footer (html)"
+msgstr "Ekstra oplysninger i bunden (html)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:90
+msgid "Extra Info Line"
+msgstr "Ekstra informationslinje"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:91
+msgid ""
+"Extra information about the raffle (like when/where the draw is taking place)"
+msgstr ""
+"Ekstra oplysninger om lodtrækningen (f.eks. hvor/ hvornår lodtrækningen "
+"finder sted)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:186
+msgid "Extra Line Info"
+msgstr "Oplysninger om ekstra linjer"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:91
+msgid "Extra Settings"
+msgstr "Ekstra indstillinger"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:656
+msgid "Extra Style (CSS)"
+msgstr "Ekstra stil (CSS)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:265
+msgid ""
+"Extract custom fields captured at checkout. Custom fields saved in order can "
+"be extracted in this report."
+msgstr ""
+"Udtræk af brugerdefinerede felter, der er registreret ved kassen. "
+"Brugerdefinerede felter, der er gemt i ordren, kan udtrækkes i denne rapport."
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:349
+msgid "Failed"
+msgstr "Mislykkedes"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:498
+msgid "February"
+msgstr "Februar"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:35
+#: includes/w/W_RafflePlayWoo_ViewPage.php:133
+#: includes/w/W_RafflePlayWoo_ViewPage.php:182
+#: includes/w/W_RafflePlayWoo_ViewPage.php:308
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:49
+msgid "Finish"
+msgstr "Færdig"
+
+#: includes/RafflePlayWoo_Plugin.php:265
+#: includes/d/D_RafflePlayWoo_Reports.php:977
+#: includes/templates/customer_search.php:16
+#: includes/w/W_RafflePlayWoo_Reports.php:303
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:105
+msgid "First Name"
+msgstr "Fornavn"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:27
+msgid ""
+"Fixed - Changing customer in the order, will update the raffle tickets in My "
+"Account page"
+msgstr ""
+"Rettet - Ændring af kunde i ordren vil opdatere lodderne på siden Min konto"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:31
+msgid "Fixed - Removed expired reserved tickets after time expired"
+msgstr "Rettet - Fjernede udløbne reserverede billetter efter udløb af tid"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:35
+msgid "Fixed - Removed raffle tickets limit for variation tickets"
+msgstr "Rettet - Fjernede grænsen for lodder til variation"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:646
+msgid "Footer Height (px)"
+msgstr "Højde i sidefoden (px)"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:27
+msgid "For now your product is under the Default raffle "
+msgstr "Indtil videre er dit produkt under Standard-lodtrækning"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:56
+msgid "For suggestions email me at developer@tuskcode.com"
+msgstr ""
+"Hvis du har forslag, kan du sende mig en e-mail på developer@tuskcode.com"
+
+#: includes/RafflePlayWoo_Includes.php:33
+msgid "For suggestions or support contact here"
+msgstr "For forslag eller support kontakt her"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:29
+msgid ""
+"For the plugin to work properly you need to correct the below based on your "
+"website"
+msgstr ""
+"For at pluginet skal fungere korrekt, skal du rette nedenstående baseret på "
+"din hjemmeside"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:143
+msgid "From"
+msgstr "Fra"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:63
+msgid "From Date"
+msgstr "Fra dato"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:407
+msgid ""
+"Functionality moved into \"View Tickets\" page - now checking per raffle"
+msgstr ""
+"Funktionalitet flyttet til siden \"Vis billetter\" - tjekker nu pr. "
+"lodtrækning"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:65
+msgid "General"
+msgstr "Generelt"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:4
+msgid "General Settings"
+msgstr "Generelle indstillinger"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:8
+msgid "Generate and Show Raffle tickets at Checkout"
+msgstr "Generer og vis lodder ved kassen"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:187
+msgid "Generate and Show Raffle tickets at checkout"
+msgstr "Generer og vis lodder ved checkout"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3601
+msgid "Generate New PDF"
+msgstr "Generer ny PDF"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:286
+msgid "Generate Raffle Tickets for Order Status"
+msgstr "Generer lodder til ordrestatus"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:177
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:112
+msgid "Generate Random Tickets "
+msgstr "Generer tilfældige billetter"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:167
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:103
+msgid ""
+"Generate Random Tickets within the range created by start ticket plus number "
+"of tickets. ***IMPORTANT*** Do not change the raffle ticket system from "
+"random to inline after tickets have been purchased***"
+msgstr ""
+"Generer tilfældige billetter inden for det område, der er oprettet af "
+"startbillet plus antal billetter. ***VIGTIGT*** Du må ikke ændre "
+"lodssystemet fra tilfældigt til inline efter køb af lodder***"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:167
+msgid "Generate Report"
+msgstr "Generer rapport"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:124
+msgid "Generate, Reserve, and Show Raffle tickets at checkout"
+msgstr "Generer, reserver og vis lodder ved checkout"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:11
+msgid "Generated Raffle tickets at Checkout"
+msgstr "Genererede lodder til lodtrækning ved kassen"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:116
+msgid "Generated Tickets at Checkout"
+msgstr "Genererede billetter ved kassen"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:325
+msgid "Get Random"
+msgstr "Bliv tilfældig"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:221
+msgid "Get Sale By Product"
+msgstr "Få salg efter produkt"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:352
+msgid "Give Random"
+msgstr "Giv tilfældig"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:19
+msgid ""
+"Giveaway free raffle tickets when customers buy a certain amount at the "
+"checkout"
+msgstr "Giv gratis lodder, når kunderne køber for et bestemt beløb ved kassen"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:14
+msgid ""
+"Go to 'Products' page and create a new product. But don't leave the page yet."
+msgstr ""
+"Gå til siden \"Produkter\", og opret et nyt produkt. Men du må ikke forlade "
+"siden endnu."
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:35
+msgid ""
+"Go to General Setting (Default Raffle)  and edit the 'Email Template' "
+"section."
+msgstr ""
+"Gå til Generel indstilling (Standardtombola), og rediger afsnittet \"E-mail-"
+"skabelon\"."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:20
+#: includes/w/W_RafflePlayWoo_MainPage.php:733
+#: includes/w/W_RafflePlayWoo_Raffles.php:359
+msgid "Gold"
+msgstr "Guld"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:21
+#: includes/w/W_RafflePlayWoo_MainPage.php:734
+#: includes/w/W_RafflePlayWoo_Raffles.php:360
+msgid "Gold Lines"
+msgstr "Guldlinjer"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:51
+msgid "Good luck, and stay updated for new plugin changes on "
+msgstr "Held og lykke, og hold dig opdateret for nye plugin-ændringer på"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:22
+#: includes/w/W_RafflePlayWoo_MainPage.php:735
+#: includes/w/W_RafflePlayWoo_Raffles.php:361
+msgid "Gray"
+msgstr "Grå"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:159
+msgid "Group Tickets by Order"
+msgstr "Gruppebilletter efter ordre"
+
+#: includes/RafflePlayWoo_Plugin.php:323
+msgid ""
+"Have you waited for the request to load? No Tickets Changes yet recorded"
+msgstr ""
+"Har du ventet på, at anmodningen blev indlæst? Der er endnu ikke registreret "
+"nogen billetændringer"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:227
+msgid ""
+"Having different raffle tickets in the same Order, the reports will not "
+"retrieve the correct data (choose Product)"
+msgstr ""
+"Hvis du har forskellige lodder i samme ordre, vil rapporterne ikke hente de "
+"korrekte data (vælg Produkt)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:546
+msgid "Header Logo Image (only .jpeg)"
+msgstr "Billede af header-logo (kun .jpeg)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:75
+#: includes/w/W_RafflePlayWoo_MainPage.php:148
+msgid "Header Text"
+msgstr "Tekst i overskriften"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:28
+msgid "HERE"
+msgstr "HER"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:488
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:551
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:624
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:686
+msgid "Here"
+msgstr "Her"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:32
+msgid "Here are the Capabilities listed:"
+msgstr "Her er de anførte kapaciteter:"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1137
+msgid ""
+"Here is an example on how to display a custom counter on any page with "
+"tuskcode countdwon"
+msgstr ""
+"Her er et eksempel på, hvordan man viser en brugerdefineret tæller på enhver "
+"side med tuskcode countdwon"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1029
+msgid "Hide \"Add To Cart\" Button"
+msgstr "Skjul \"Læg i kurv\"-knappen"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1204
+msgid "Hide Progress Bar if the product is not purchasable"
+msgstr "Skjul statuslinjen, hvis produktet ikke kan købes"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:675
+msgid "Hide Terminated Raffles in the Product->Raffles List"
+msgstr "Skjul afsluttede lotterier i listen Produkt->Lotterier"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:360
+msgid "History Changes"
+msgstr "Historiske ændringer"
+
+#: includes/RafflePlayWoo_Countdown.php:53
+msgid "Hours"
+msgstr "Timer"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1077
+msgid "Hours Label"
+msgstr "Timer Label"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1160
+msgid "How it works."
+msgstr "Sådan fungerer det."
+
+#: includes/RafflePlayWoo_Plugin.php:277
+msgid "Id"
+msgstr "Id"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:80
+msgid ""
+"If changing the ticket no while raffle is running, make sure is above the "
+"last used ticket."
+msgstr ""
+"Hvis du ændrer billetnummeret, mens lodtrækningen er i gang, skal du sørge "
+"for, at det er over den sidst anvendte billet."
+
+#: includes/w/W_RafflePlayWoo_Reports.php:192
+msgid "If empty, use woocommerce currency"
+msgstr "Hvis den er tom, skal du bruge woocommerce valuta"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:848
+msgid ""
+"If Enabled go to Settings ->\n"
+"                                                     Permalinks and click on "
+"Save Changes for the Tab to show up in the Woocommerce Account - Do it once "
+msgstr ""
+"Hvis aktiveret, skal du gå til Indstillinger ->\n"
+"                                                     Permalinks og klik på "
+"Gem ændringer, så fanen vises i Woocommerce-kontoen - Gør det én gang"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:34
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:67
+msgid "If not allowed to play the crossword based on the rules"
+msgstr "Hvis det ikke er tilladt at spille krydsord baseret på reglerne"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2512
+msgid ""
+"If product is raffle and this option is enabled, save product, and go to "
+"Variations to set the raffle tickets number for each variation"
+msgstr ""
+"Hvis produktet er en lodtrækning, og denne mulighed er aktiveret, skal du "
+"gemme produktet og gå til Variationer for at indstille antallet af lodder "
+"for hver variation"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1031
+msgid "If Raffle hasn't started, it's finished or terminated"
+msgstr "Hvis Raffle ikke er startet, er den færdig eller afsluttet"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:5
+msgid ""
+"If you are planning to run multiple raffles, on this page you can create a "
+"new one"
+msgstr ""
+"Hvis du har planer om at afholde flere lodtrækninger, kan du oprette en ny "
+"på denne side"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:55
+msgid "If you like this plugin don't forget to rate it"
+msgstr "Hvis du kan lide dette plugin, så glem ikke at bedømme det"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:224
+msgid ""
+"IMPORTANT - PLEASE READ IF YOU ARE RUNNING MULTIPLE RAFFLES AT THE SAME TIME "
+"(MIXED CHECKOUT RAFFLE PRODUCTS)"
+msgstr ""
+"VIGTIGT - LÆS VENLIGST, HVIS DU KØRER FLERE LODTRÆKNINGER PÅ SAMME TID "
+"(LODTRÆKNINGSPRODUKTER MED BLANDET KASSE)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:98
+msgid "In the email can be positioned in different places"
+msgstr "I e-mailen kan placeres på forskellige steder"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:415
+msgid "In the next version you will be able to fix duplicates from this page."
+msgstr "I den næste version vil du kunne rette dubletter fra denne side."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:677
+msgid ""
+"In the product settings. Hide Terminated Raffles from the raffles list. This "
+"is convenient when you have a long list of raffles. Beaware that the product "
+"might be linked to the any of the hidden terminated raffle."
+msgstr ""
+"I produktindstillingerne. Skjul afsluttede lotterier fra listen over "
+"lotterier. Dette er praktisk, når du har en lang liste over lodtrækninger. "
+"Vær opmærksom på, at produktet kan være knyttet til en af de skjulte "
+"afsluttede lotterier."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:508
+msgid "Include Billing Info"
+msgstr "Medtag faktureringsoplysninger"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:293
+#: includes/w/W_RafflePlayWoo_Promotion.php:341
+msgid "Include Category"
+msgstr "Medtag kategori"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:358
+msgid "Include in draw after tickets purchased"
+msgstr "Deltag i lodtrækning efter køb af billetter"
+
+#: includes/RafflePlayWoo_Plugin.php:329
+msgid ""
+"Include in draw after tickets purchased cannot be greater than maximum limit"
+msgstr ""
+"Deltagelse i lodtrækning efter køb af billetter kan ikke være større end "
+"maksimumsgrænsen"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:285
+msgid "Include Leading Zero"
+msgstr "Inkluder foranstillet nul"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:271
+msgid "Include Prefix"
+msgstr "Inkluder præfiks"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:497
+msgid "Include Product Name & Quantity"
+msgstr "Medtag produktnavn og mængde"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:161
+msgid "Include Raffle Name"
+msgstr "Medtag navn på tombolaen"
+
+#: includes/RafflePlayWoo_Plugin.php:286
+msgid "Info"
+msgstr "Info"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:76
+msgid "Info about the raffle"
+msgstr "Info om lodtrækningen"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:61
+msgid ""
+"Informational - Might be the case when 2 raffle tickets to have the same "
+"number (should not happen)"
+msgstr ""
+"Information - Det kan forekomme, at 2 lodder har samme nummer (bør ikke ske)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:56
+msgid "Informational - Shows the raffle products linked to this raffle"
+msgstr "Information - Viser de produkter, der er knyttet til denne lodtrækning"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:51
+msgid "Informational - what's the last ticket purchased"
+msgstr "Information - hvad er den sidste billet, der er købt"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:307
+msgid "Inherit Email Format from Default Raffle"
+msgstr "Overtage e-mail-formatet fra standardraffle"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:322
+msgid "Inherit Messages from Default Raffle"
+msgstr "Overtage meddelelser fra standardraffle"
+
+#: includes/RafflePlayWoo_LifeCycle.php:470
+msgid "Installation Info"
+msgstr "Info om installation"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:267
+msgid "Invalid chars (<,>,&,%,',\")"
+msgstr "Ugyldige tegn (<,>,&,%,',\")"
+
+#: includes/templates/customer_search.php:33
+msgid "Invalid Email"
+msgstr "Ugyldig e-mail"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1609
+msgid "Invalid email"
+msgstr "Ugyldig e-mail"
+
+#: includes/RafflePlayWoo_Plugin.php:294
+msgid "Invalid Limit Number"
+msgstr "Ugyldigt grænsenummer"
+
+#: includes/RafflePlayWoo_Plugin.php:271
+msgid "Invalid Number"
+msgstr "Ugyldigt nummer"
+
+#: includes/RafflePlayWoo_Plugin.php:293
+msgid "Invalid Start Ticket Number"
+msgstr "Ugyldigt startbilletnummer"
+
+#: includes/RafflePlayWoo_Plugin.php:304
+msgid "Invalid Ticket Number"
+msgstr "Ugyldigt billetnummer"
+
+#: includes/templates/customer_search.php:20
+msgid "is required field"
+msgstr "er et påkrævet felt"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:15
+msgid ""
+"It can be of type test, used for testing purposes, with special raffle "
+"numbers, and live.\n"
+"             When finishing testing dont forget to switch to live."
+msgstr ""
+"Den kan være af typen test, bruges til testformål, med særlige "
+"lodtrækningsnumre og live.\n"
+"             Når du er færdig med at teste, må du ikke glemme at skifte til "
+"live."
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:13
+msgid ""
+"It doesnt inherit the extra message from the email template as it can be "
+"custom set for the new raffle"
+msgstr ""
+"Den arver ikke den ekstra besked fra e-mail-skabelonen, da den kan tilpasses "
+"til den nye lodtrækning"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:9
+msgid ""
+"It inherits the other settings from the Default Raffle like (message, email "
+"temaplate)"
+msgstr ""
+"Den arver de andre indstillinger fra standardtombolaen som f.eks. (besked, e-"
+"mail-temaplade)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:335
+msgid "It wont affect the order, raffle tickets won't be created"
+msgstr "Det vil ikke påvirke ordren, men der vil ikke blive oprettet lodder"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:497
+msgid "January"
+msgstr "Januar"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:503
+msgid "July"
+msgstr "Juli"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:502
+msgid "June"
+msgstr "Juni"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:179
+msgid "Label Customer City"
+msgstr "Mærk kundens by"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:191
+msgid "Label Customer Country"
+msgstr "Label Kunde Land"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:167
+msgid "Label Customer Name"
+msgstr "Mærk kundens navn"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:203
+msgid "Label Purchased"
+msgstr "Købt etiket"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:155
+msgid "Label Tickets"
+msgstr "Label-billetter"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:70
+msgid ""
+"Labels and info that will show in the email confirmation, and thank you page"
+msgstr ""
+"Etiketter og oplysninger, der vil blive vist i e-mailen med bekræftelse og "
+"på taksiden"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:536
+msgid "Landscape"
+msgstr "Landskab"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:50
+msgid "Last Live Ticket"
+msgstr "Sidste live-billet"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:210
+msgid "Last Live Used Ticket"
+msgstr "Sidste live brugte billet"
+
+#: includes/RafflePlayWoo_Plugin.php:266
+#: includes/d/D_RafflePlayWoo_Reports.php:978
+#: includes/templates/customer_search.php:17
+#: includes/w/W_RafflePlayWoo_Reports.php:304
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:118
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: includes/RafflePlayWoo_Plugin.php:299
+msgid "Last Ticket"
+msgstr "Sidste billet"
+
+#: includes/w/W_RafflePlayWoo_Info.php:168
+msgid "Latest Version Available"
+msgstr "Seneste tilgængelige version"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:176
+msgid "Leave empty if no prefix wanted. (eg: Ticket-10024)"
+msgstr ""
+"Lad den være tom, hvis der ikke ønskes noget præfiks. (f.eks.: Ticket-10024)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:285
+msgid "Let the System pick the number randomly when tickets are generated"
+msgstr "Lad systemet vælge nummeret tilfældigt, når billetterne genereres"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:550
+#: includes/w/W_RafflePlayWoo_MainPage.php:748
+#: includes/w/W_RafflePlayWoo_Raffles.php:373
+msgid "Library"
+msgstr "Bibliotek"
+
+#: includes/w/W_RafflePlayWoo_Info.php:48
+msgid "License"
+msgstr "Licens"
+
+#: includes/RafflePlayWoo_LifeCycle.php:381
+msgid "License & Documentation"
+msgstr "Licens og dokumentation"
+
+#: includes/w/W_RafflePlayWoo_Info.php:88
+msgid "License (paste it here)"
+msgstr "Licens (indsæt den her)"
+
+#: includes/w/W_RafflePlayWoo_Info.php:124
+msgid "License Active"
+msgstr "Licens Aktiv"
+
+#: includes/w/W_RafflePlayWoo_Info.php:188
+msgid "License Date last checked"
+msgstr "Licens Dato for sidste kontrol"
+
+#: includes/w/W_RafflePlayWoo_Info.php:202
+msgid ""
+"License is valid. Thank you for using our product. We much appreciate it."
+msgstr ""
+"Licensen er gyldig. Tak fordi du bruger vores produkt. Vi sætter stor pris "
+"på det."
+
+#: includes/w/W_RafflePlayWoo_Info.php:114
+msgid "License Version"
+msgstr "Licensversion"
+
+#: includes/w/W_RafflePlayWoo_Info.php:98
+#: includes/w/W_RafflePlayWoo_Info.php:101
+msgid "Licensing Server Url"
+msgstr "Url til licensserver"
+
+#: includes/RafflePlayWoo_Plugin.php:285
+msgid "Limit No"
+msgstr "Grænse Nej"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:30
+msgid "Limit number of tickets"
+msgstr "Begrænsning af antallet af billetter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:90
+msgid "Limit Number or Raffle Tickets"
+msgstr "Begrænset antal eller lodtrækningsbilletter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:253
+msgid "Limit or rows to display (use -1 for unlimited rows)"
+msgstr ""
+"Begræns antallet af rækker, der skal vises (brug -1 for ubegrænsede rækker)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:369
+msgid ""
+"Limit order per raffle tickets. Avoid mixing raffle tickets per order. The "
+"check is made on add to cart event."
+msgstr ""
+"Begrænset bestilling pr. lodtrækningsbillet. Undgå at blande lodder pr. "
+"ordre. Kontrollen foretages ved tilføjelse til indkøbskurven."
+
+#: includes/RafflePlayWoo_Plugin.php:284
+msgid "Limited"
+msgstr "Begrænset"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:160
+msgid "Limited Tickets"
+msgstr "Begrænsede billetter"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:799
+#: includes/w/W_RafflePlayWoo_ViewPage.php:237
+msgid "Line Height"
+msgstr "Linjehøjde"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:387
+msgid "Linked to Product"
+msgstr "Knyttet til produkt"
+
+#: includes/RafflePlayWoo_Plugin.php:279
+#: includes/w/W_RafflePlayWoo_Raffles.php:91
+#: includes/w/W_RafflePlayWoo_ViewPage.php:30
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:44
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:45
+msgid "Live"
+msgstr "Live"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:221
+msgid "Live Raffle Tickets Purchased"
+msgstr "Købte billetter til live-tombola"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:72
+msgid "Live Ticket Starts At"
+msgstr "Live-billet starter ved"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:25
+msgid "Live Tickets Start At"
+msgstr "Live-billetter starter ved"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:149
+msgid "Location at Checkout (if checkout is created using blocks)"
+msgstr "Placering ved checkout (hvis checkout er oprettet med blokke)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:115
+msgid ""
+"Location at Checkout (if checkout is created with shortcode "
+"[woocommerce_checkout])"
+msgstr ""
+"Placering ved checkout (hvis checkout er oprettet med shortcode "
+"[woocommerce_checkout])"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:22
+msgid "Logged In Users"
+msgstr "Indloggede brugere"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:46
+msgid "Login url (or product url)"
+msgstr "Login-URL (eller produkt-URL)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:303
+msgid "Look up Available Numbers"
+msgstr "Slå ledige numre op"
+
+#: includes/RafflePlayWoo_Plugin.php:330
+msgid "Lucky number cannot be above the maximum limit"
+msgstr "Lykketallet må ikke være over maksimumsgrænsen"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:264
+msgid "Lucky Number Name"
+msgstr "Navn på lykketal"
+
+#: includes/RafflePlayWoo_LifeCycle.php:445
+#: includes/w/W_RafflePlayWoo_Lucky.php:104
+msgid "Lucky Numbers (Instant Wins)"
+msgstr "Lucky Numbers (øjeblikkelige gevinster)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:279
+msgid "Lukcy Number"
+msgstr "Lukcy-nummer"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:8
+msgid "Main update - Lucky Numbers, Instant wins"
+msgstr "Hovedopdatering - Lucky Numbers, øjeblikkelige gevinster"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:499
+msgid "March"
+msgstr "Marts"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:106
+msgid "Maximum 200 characters"
+msgstr "Højst 200 tegn"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:501
+msgid "May"
+msgstr "Maj"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:82
+msgid "Message after reserved time has passed!"
+msgstr "Besked efter den reserverede tid er gået!"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:109
+msgid ""
+"Messages are connected to general settings like terminated, start/end dates "
+"etc"
+msgstr ""
+"Meddelelser er forbundet med generelle indstillinger som termineret, start-"
+"/slutdatoer osv"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:345
+msgid "Messages Shortcode"
+msgstr "Kortkode til meddelelser"
+
+#: raffle-play-woo.php:28
+msgid "Minimal version of PHP required: "
+msgstr "Minimumsversion af PHP er påkrævet:"
+
+#: includes/RafflePlayWoo_Countdown.php:54
+msgid "Minutes"
+msgstr "Minutter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:39
+msgid "minutes"
+msgstr "minutter"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1087
+msgid "Minutes Label"
+msgstr "Etikette til minutter"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:484
+msgid "Month"
+msgstr "Måned"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:143
+#: includes/w/W_RafflePlayWoo_Reports.php:96
+msgid "Monthly Sales"
+msgstr "Månedligt salg"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:10
+msgid "Most of the settings found on this page are self explanatory."
+msgstr "De fleste af indstillingerne på denne side er selvforklarende."
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:157
+#: includes/w/W_RafflePlayWoo_MainPage.php:81
+msgid "Multiple Raffles"
+msgstr "Flere lodtrækninger"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:465
+#: includes/w/W_RafflePlayWoo_Promotion.php:203
+msgid "Name"
+msgstr "Navn"
+
+#: includes/RafflePlayWoo_Plugin.php:325
+msgid "New"
+msgstr "Ny"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:194
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:131
+msgid "New feature"
+msgstr "Ny funktion"
+
+#: includes/RafflePlayWoo_Plugin.php:288
+msgid "New Raffle"
+msgstr "Ny lodtrækning"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5626
+msgid "New Ticket "
+msgstr "Ny billet"
+
+#: includes/RafflePlayWoo_Plugin.php:282 includes/w/W_RafflePlayWoo_Info.php:15
+#: includes/w/W_RafflePlayWoo_MainPage.php:166
+#: includes/w/W_RafflePlayWoo_MainPage.php:377
+#: includes/w/W_RafflePlayWoo_MainPage.php:430
+#: includes/w/W_RafflePlayWoo_MainPage.php:502
+#: includes/w/W_RafflePlayWoo_MainPage.php:513
+#: includes/w/W_RafflePlayWoo_MainPage.php:685
+#: includes/w/W_RafflePlayWoo_MainPage.php:701
+#: includes/w/W_RafflePlayWoo_MainPage.php:718
+#: includes/w/W_RafflePlayWoo_MainPage.php:857
+#: includes/w/W_RafflePlayWoo_MainPage.php:1039
+#: includes/w/W_RafflePlayWoo_MainPage.php:1217
+#: includes/w/W_RafflePlayWoo_MainPage.php:1232
+#: includes/w/W_RafflePlayWoo_Raffles.php:96
+#: includes/w/W_RafflePlayWoo_Raffles.php:109
+#: includes/w/W_RafflePlayWoo_Raffles.php:173
+#: includes/w/W_RafflePlayWoo_Raffles.php:181
+#: includes/w/W_RafflePlayWoo_Raffles.php:202
+#: includes/w/W_RafflePlayWoo_Raffles.php:269
+#: includes/w/W_RafflePlayWoo_Raffles.php:312
+#: includes/w/W_RafflePlayWoo_Raffles.php:327
+#: includes/w/W_RafflePlayWoo_Raffles.php:346
+#: includes/w/W_RafflePlayWoo_Raffles.php:404
+#: includes/w/W_RafflePlayWoo_Raffles.php:430
+#: includes/w/W_RafflePlayWoo_Raffles.php:457
+#: includes/w/W_RafflePlayWoo_Raffles.php:483
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:58
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:195
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:63
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:108
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:117
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:139
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:239
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:425
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:445
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:516
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:581
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:651
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:24
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:46
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:106
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:120
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:134
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:148
+msgid "No"
+msgstr "Nej"
+
+#: includes/RafflePlayWoo_Plugin.php:322
+msgid ""
+"No available tickets found, increase the number of available raffle tickets."
+msgstr "Ingen ledige lodder fundet, øg antallet af ledige lodder."
+
+#: includes/RafflePlayWoo_LifeCycle.php:561
+msgid "No raffle id provided"
+msgstr "Intet lodtræknings-id leveret"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:55
+msgid "No raffle products will be available at checkout while disabled."
+msgstr ""
+"Ingen produkter fra lodtrækningen vil være tilgængelige ved kassen, mens de "
+"er deaktiveret."
+
+#: includes/RafflePlayWoo_Plugin.php:291
+msgid "No Raffle Selected"
+msgstr "Ingen lodtrækning valgt"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:145
+msgid "No Raffle Tickets found on this search"
+msgstr "Ingen lodder fundet på denne søgning"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:935
+msgid "No Raffle Tickets to display - message"
+msgstr "Ingen lodder at vise - besked"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:326
+msgid ""
+"No raffle tickets will be generated. You need to select at least one order "
+"status to generate tickets. Recommending to enable Processing and Completed"
+msgstr ""
+"Der vil ikke blive genereret lodder. Du skal vælge mindst én ordrestatus for "
+"at generere lodder. Anbefaler at aktivere Processing og Completed"
+
+#: includes/templates/product_raffle_tab.php:186
+msgid "No records found"
+msgstr "Ingen optegnelser fundet"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:448
+msgid "No Restrict"
+msgstr "Ingen begrænsning"
+
+#: includes/RafflePlayWoo_Plugin.php:290
+msgid "No Row Selected"
+msgstr "Ingen række valgt"
+
+#: includes/RafflePlayWoo_Plugin.php:262
+msgid "No Tickets"
+msgstr "Ingen billetter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:129
+msgid "No tickets found message"
+msgstr "Ingen billetter fundet besked"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:496
+#: includes/w/W_RafflePlayWoo_Lucky.php:14
+msgid "None"
+msgstr "Ingen"
+
+#: includes/RafflePlayWoo_Plugin.php:324
+msgid "Not Found"
+msgstr "Ikke fundet"
+
+#: includes/templates/pdf_template_one.php:306
+#: includes/templates/pdf_template_two.php:305
+msgid "Note:"
+msgstr "Bemærk:"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:507
+msgid "November"
+msgstr "November"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:20
+msgid ""
+"Now you can delegate some of the work to different users thanks to the new "
+"update on User Access."
+msgstr ""
+"Nu kan du uddelegere noget af arbejdet til forskellige brugere takket være "
+"den nye opdatering af User Access."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:466
+msgid "Number"
+msgstr "Antal"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:506
+msgid "October"
+msgstr "Oktober"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:167
+msgid "Off as Default"
+msgstr "Fra som standard"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:291
+msgid "OK"
+msgstr "OK"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5625
+msgid "Old Ticket"
+msgstr "Gammel billet"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:310
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:314
+msgid "On Hold"
+msgstr "I venteposition"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:487
+msgid "One"
+msgstr "En"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:162
+msgid "One Raffle Tickets at checkout"
+msgstr "Én lodtrækningsbillet ved kassen"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:367
+msgid "One Raffle tickets at checkout."
+msgstr "En lodtrækningsbillet ved kassen."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1301
+msgid "Optional settings"
+msgstr "Valgfrie indstillinger"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:69
+msgid "OR"
+msgstr "ELLER"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:23
+#: includes/w/W_RafflePlayWoo_MainPage.php:736
+#: includes/w/W_RafflePlayWoo_Raffles.php:362
+msgid "Orange"
+msgstr "Orange"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1055
+#: includes/w/W_RafflePlayWoo_MainPage.php:919
+#: includes/w/W_RafflePlayWoo_Reports.php:220
+msgid "Order"
+msgstr "Bestil"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:246
+msgid "Order can be changed by dragging to desired position number"
+msgstr "Rækkefølgen kan ændres ved at trække til det ønskede positionsnummer"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:240
+#: includes/d/D_RafflePlayWoo_Reports.php:989
+#: includes/w/W_RafflePlayWoo_Reports.php:314
+msgid "Order Date"
+msgstr "Dato for bestilling"
+
+#: includes/RafflePlayWoo_Plugin.php:269
+msgid "Order Date/Time"
+msgstr "Dato/tidspunkt for bestilling"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:217
+msgid "Order has mixed raffle products"
+msgstr "Ordren har blandede tombola-produkter"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3386
+#: includes/RafflePlayWoo_LifeCycle.php:5627
+#: includes/RafflePlayWoo_Plugin.php:258
+#: includes/w/W_RafflePlayWoo_ViewPage.php:342
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:91
+msgid "Order Id"
+msgstr "Ordre-id"
+
+#: includes/templates/customer_search.php:14
+msgid "Order id"
+msgstr "Ordre-id"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:472
+msgid ""
+"Order Id + Customer First Name + Customer Last Name (eg: 5_John_Silva.pdf)"
+msgstr ""
+"Bestillings-id + kundens fornavn + kundens efternavn (f.eks.: 5_John_Silva."
+"pdf)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:464
+msgid ""
+"Order Id + GUID (eg: 5_ADFE2345ADEFEF-42ADFG-34TERE.pdf) ***RECOMMENDED***"
+msgstr ""
+"Bestillings-id + GUID (f.eks.: 5_ADFE2345ADEFEF-42ADFG-34TERE.pdf) "
+"***ANBEFALET***"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:50
+msgid "Order in Modal"
+msgstr "Bestil i Modal"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:976
+#: includes/w/W_RafflePlayWoo_Reports.php:301
+msgid "Order No"
+msgstr "Løbenummer"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:70
+msgid ""
+"Order of the tab, 5 will be the first tab shown, 15 will be second, and so on"
+msgstr ""
+"Fanenes rækkefølge: 5 vil være den første fane, der vises, 15 vil være den "
+"anden osv"
+
+#: includes/RafflePlayWoo_Plugin.php:264
+msgid "Order Sale"
+msgstr "Bestil salg"
+
+#: includes/RafflePlayWoo_Plugin.php:315
+#: includes/d/D_RafflePlayWoo_Reports.php:988
+#: includes/w/W_RafflePlayWoo_Reports.php:313
+msgid "Order Status"
+msgstr "Status for bestilling"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:198
+#: includes/w/W_RafflePlayWoo_ViewPage.php:75
+msgid "Order Status "
+msgstr "Status for bestilling"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:987
+#: includes/w/W_RafflePlayWoo_Reports.php:302
+msgid "Order Total"
+msgstr "Bestilling i alt"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:423
+msgid "Orders"
+msgstr "Bestillinger"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1581
+#: includes/RafflePlayWoo_LifeCycle.php:6204
+msgid "Page did not verify"
+msgstr "Page bekræftede ikke"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:520
+msgid "Page Orientation"
+msgstr "Orientering af sider"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:348
+msgid "Payment failed or was declined (unpaid)"
+msgstr "Betalingen mislykkedes eller blev afvist (ubetalt)"
+
+#: includes/docs/RafflePlayWoo_Docs_Pdf_Attachment.php:3
+#: includes/w/W_RafflePlayWoo_MainPage.php:86
+msgid "PDF Email Attachment"
+msgstr "PDF vedhæftet fil til e-mail"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:456
+msgid "PDF Filename"
+msgstr "PDF-filnavn"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:481
+msgid "PDF Template"
+msgstr "PDF-skabelon"
+
+#: includes/RafflePlayWoo_Plugin.php:275
+#: includes/d/D_RafflePlayWoo_Reports.php:986
+#: includes/w/W_RafflePlayWoo_Reports.php:312
+msgid "Phone"
+msgstr "Telefon"
+
+#: includes/templates/customer_search.php:18
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:75
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:293
+msgid "Pick the number manually"
+msgstr "Vælg nummeret manuelt"
+
+#: includes/RafflePlayWoo_Plugin.php:316
+#: includes/w/W_RafflePlayWoo_ViewPage.php:375
+msgid "Please Wait."
+msgstr "Vent venligst."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:528
+msgid "Portrait"
+msgstr "Portræt"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:527
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:662
+msgid "Position on Grid Card"
+msgstr "Placering på gitterkort"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:456
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:592
+msgid "Position on Product page"
+msgstr "Placering på produktsiden"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:982
+#: includes/w/W_RafflePlayWoo_Reports.php:308
+msgid "Post Code"
+msgstr "Postnummer"
+
+#: includes/RafflePlayWoo_Plugin.php:297
+msgid "Prefix"
+msgstr "Præfiks"
+
+#: includes/templates/pdf_template_one.php:264
+#: includes/templates/pdf_template_two.php:263
+msgid "Price"
+msgstr "Pris"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:294
+msgid "Print"
+msgstr "Udskriv"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:199
+msgid "Print Options"
+msgstr "Udskriftsindstillinger"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:92
+msgid "Print Tickets"
+msgstr "Udskriv billetter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:65
+msgid "Priority"
+msgstr "Prioritet"
+
+#: includes/RafflePlayWoo_Plugin.php:305
+#: includes/w/W_RafflePlayWoo_Winners.php:68
+msgid "Prize"
+msgstr "Præmie"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:71
+msgid "Prize Name"
+msgstr "Navn på præmie"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:294
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:298
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:372
+msgid "Processing"
+msgstr "Behandling"
+
+#: includes/RafflePlayWoo_Plugin.php:314
+#: includes/templates/pdf_template_one.php:262
+#: includes/templates/pdf_template_two.php:261
+#: includes/w/W_RafflePlayWoo_Lucky.php:468
+#: includes/w/W_RafflePlayWoo_Reports.php:220
+msgid "Product"
+msgstr "Produkt"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:375
+msgid "Product from Category"
+msgstr "Produkt fra kategori"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:855
+msgid "Product Name"
+msgstr "Produktnavn"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:127
+msgid "Product Raffle Tab (Last Tickets Sold)"
+msgstr "Fane til produktlotteri (sidste solgte billetter)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:11
+msgid ""
+"Product Raffle Tab - Show last orders with sold tickets and customer info"
+msgstr ""
+"Fanen Produktlotteri - Vis de sidste ordrer med solgte billetter og "
+"kundeoplysninger"
+
+#: includes/RafflePlayWoo_Plugin.php:283
+msgid "Products"
+msgstr "Produkter"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1264
+msgid "Progress Bar Color"
+msgstr "Farve på statuslinje"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:462
+#: includes/w/W_RafflePlayWoo_Raffles.php:488
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:656
+msgid "Progress Bar Image"
+msgstr "Billede af statuslinje"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:111
+msgid "Progress Bar Settings"
+msgstr "Indstillinger for statuslinje"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1209
+msgid "Progress Bar would be hidden if the raffle not running."
+msgstr "Fremdriftslinjen vil være skjult, hvis tombolaen ikke kører."
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:586
+msgid "Progressbar Image"
+msgstr "Billede af fremdriftslinje"
+
+#: includes/RafflePlayWoo_LifeCycle.php:429
+#: includes/w/W_RafflePlayWoo_Promotion.php:176
+msgid "Promotion"
+msgstr "Forfremmelse"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:65
+#: includes/w/W_RafflePlayWoo_Promotion.php:197
+msgid "Promotion Name"
+msgstr "Navn på kampagne"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:8
+#: includes/w/W_RafflePlayWoo_Promotion.php:39
+msgid "Promotional Raffle"
+msgstr "Salgsfremmende lodtrækning"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2492
+msgid ""
+"Promotional Raffle Product (watch video on how to setup promotional raffle)"
+msgstr ""
+"Salgsfremmende lodtrækningsprodukt (se video om, hvordan du sætter "
+"salgsfremmende lodtrækning op)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:24
+#: includes/w/W_RafflePlayWoo_MainPage.php:737
+#: includes/w/W_RafflePlayWoo_Raffles.php:363
+msgid "Purple"
+msgstr "Lilla"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:121
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:149
+msgid "Put leading zeros to the number, the prefix will be included"
+msgstr "Sæt foranstillede nuller på nummeret, så kommer præfikset med"
+
+#: includes/templates/pdf_template_one.php:263
+#: includes/templates/pdf_template_two.php:262
+msgid "Quantity"
+msgstr "Mængde"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:693
+msgid "Quick view of the raffle tickets in the Orders Table View"
+msgstr "Hurtigt overblik over lodderne i tabelvisningen Ordrer"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3711
+#: includes/RafflePlayWoo_LifeCycle.php:4655
+#: includes/RafflePlayWoo_Plugin.php:308
+#: includes/w/W_RafflePlayWoo_MainPage.php:447
+#: includes/w/W_RafflePlayWoo_MainPage.php:920
+#: includes/w/W_RafflePlayWoo_Promotion.php:246
+#: includes/w/W_RafflePlayWoo_Reports.php:52
+#: includes/w/W_RafflePlayWoo_ViewPage.php:61
+#: includes/w/W_RafflePlayWoo_Winners.php:79
+msgid "Raffle"
+msgstr "Tombola"
+
+#: includes/RafflePlayWoo_LifeCycle.php:793
+msgid "Raffle - Number of Tickets for this Variation"
+msgstr "Tombola - antal billetter til denne variation"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:60
+msgid "Raffle Action"
+msgstr "Tombola-aktion"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:60
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:399
+msgid "Raffle Duplicate Tickets"
+msgstr "Duplikatbilletter til lodtrækning"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:199
+msgid "Raffle End Date Time"
+msgstr "Tombola slutdato Tidspunkt"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:132
+#, php-format
+msgid "Raffle has an ending date - notify user - %s as end date"
+msgstr "Tombolaen har en slutdato - underret brugeren - %s som slutdato"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:126
+msgid "Raffle has ended"
+msgstr "Tombolaen er afsluttet"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:284
+#, php-format
+msgid "Raffle has ended (end date - %s)"
+msgstr "Tombolaen er afsluttet (slutdato - %s)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:272
+#, php-format
+msgid "Raffle hasn't started (start date - %s)"
+msgstr "Tombolaen er ikke startet (startdato - %s)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:121
+msgid "Raffle hasn't started yet"
+msgstr "Raffle er ikke startet endnu"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1303
+msgid "Raffle id, swap 0 to your desired raffle id"
+msgstr "Tombola-id, byt 0 til dit ønskede tombola-id"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:710
+#: includes/w/W_RafflePlayWoo_Raffles.php:338
+msgid ""
+"Raffle image will be placed in the background of the ticket number. Custom "
+"images can be used, or customized in the template"
+msgstr ""
+"Billedet af lodtrækningen vil blive placeret i baggrunden af billetnummeret. "
+"Brugerdefinerede billeder kan bruges eller tilpasses i skabelonen"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:41
+#: includes/w/W_RafflePlayWoo_MainPage.php:260
+msgid "Raffle is Terminated"
+msgstr "Tombolaen er afbrudt"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:116
+msgid "Raffle is Termindated"
+msgstr "Tombola er tidsbestemt"
+
+#: includes/RafflePlayWoo_Plugin.php:278
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:80
+#: includes/w/W_RafflePlayWoo_Raffles.php:71
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:27
+msgid "Raffle Name"
+msgstr "Navn på lodtrækning"
+
+#: includes/RafflePlayWoo_Plugin.php:292
+msgid "Raffle Name Required"
+msgstr "Raffle Navn påkrævet"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2519
+#: includes/RafflePlayWoo_LifeCycle.php:4842
+msgid "Raffle Number of tickets"
+msgstr "Tombola Antal billetter"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:21
+msgid "Raffle Number or Tickets"
+msgstr "Antal eller antal lodder i lodtrækningen"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2548
+#: includes/RafflePlayWoo_LifeCycle.php:4815
+#: includes/RafflePlayWoo_LifeCycle.php:4869
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:19
+msgid "Raffle Play Product"
+msgstr "Raffle Play Produkt"
+
+#: raffle-play-woo.php:35 raffle-play-woo.php:41 raffle-play-woo.php:47
+#: includes/RafflePlayWoo_LifeCycle.php:4652
+msgid "Raffle Play Woo"
+msgstr "Raffle Play Woo"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2480
+msgid "Raffle Product"
+msgstr "Raffle-produkt"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:55
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:268
+msgid "Raffle Products"
+msgstr "Tombola-produkter"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2455
+msgid "Raffle Settings"
+msgstr "Indstillinger for lodtrækning"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:40
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:45
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:188
+msgid "Raffle Start Date Time"
+msgstr "Tombola Startdato Tidspunkt"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:14
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:37
+msgid "Raffle Status"
+msgstr "Status for lodtrækning"
+
+#: includes/RafflePlayWoo_Plugin.php:270
+msgid "Raffle Ticket"
+msgstr "Billet til lodtrækning"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:975
+#: includes/w/W_RafflePlayWoo_Reports.php:300
+msgid "Raffle Ticket No"
+msgstr "Billet nr"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2570
+#: includes/w/W_RafflePlayWoo_Promotion.php:294
+msgid "Raffle Tickets"
+msgstr "Tombola-billetter"
+
+#: includes/RafflePlayWoo_Plugin.php:331
+msgid "Raffle tickets are Generated and Displayed at Checkout - Turn Off"
+msgstr "Lodder genereres og vises ved kassen - Slå fra"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:154
+msgid "Raffle Tickets Info"
+msgstr "Information om lodtrækningsbilletter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:288
+msgid "Raffle Tickets will only be generated for these statuses"
+msgstr "Der vil kun blive genereret lodder til disse statusser"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:339
+msgid "Raffle tickets wont be generated if ticked on"
+msgstr "Tombolalodder genereres ikke, hvis der er sat kryds ved"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:131
+msgid "Raffle will end"
+msgstr "Tombolaen slutter"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:296
+#, php-format
+msgid "Raffle will end (end date - %s)"
+msgstr "Tombolaen slutter (slutdato - %s)"
+
+#: includes/RafflePlayWoo_LifeCycle.php:316
+#: includes/w/W_RafflePlayWoo_Raffles.php:17
+msgid "Raffles"
+msgstr "Raffles"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2537
+#: includes/RafflePlayWoo_LifeCycle.php:4858
+msgid "Raffles List"
+msgstr "Liste over lodtrækninger"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:3
+msgid "Raffles Setup"
+msgstr "Opsætning af tombolaer"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:351
+msgid "Random from available tickets"
+msgstr "Tilfældig fra tilgængelige billetter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:42
+msgid "Recommended to have at least search on by email and order id"
+msgstr "Anbefales at have mindst søgning på e-mail og ordre-id"
+
+#: includes/RafflePlayWoo_Plugin.php:310
+msgid "Records Deleted"
+msgstr "Slettede optegnelser"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:25
+#: includes/w/W_RafflePlayWoo_MainPage.php:738
+#: includes/w/W_RafflePlayWoo_Raffles.php:364
+msgid "Red"
+msgstr "Rød"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:7
+msgid "Release 5.8.1  - 2023-December-05"
+msgstr "Udgave 5.8.1 - 2023-december-05"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:7
+msgid "Release 5.8.4  - 2024-Jan-4"
+msgstr "Udgave 5.8.4 - 2024-Jan-4"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:7
+msgid "Release 5.9.0  - 2024-Feb-18"
+msgstr "Udgivelse 5.9.0 - 2024-feb-18"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:7
+msgid "Release 6.0.0  - 2024-Mar-23"
+msgstr "Udgivelse 6.0.0 - 2024-mar-23"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:7
+msgid "Release 6.2  - 2024-Apr-25"
+msgstr "Version 6.2 - 2024-apr-25"
+
+#: includes/w/W_RafflePlayWoo_Releases.php:13
+msgid "Release Notes"
+msgstr "Udgivelsesnoter"
+
+#: includes/RafflePlayWoo_LifeCycle.php:398
+#: includes/w/W_RafflePlayWoo_Releases.php:21
+msgid "Releases"
+msgstr "Udgivelser"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:249
+msgid "Report Columns"
+msgstr "Kolonner i rapporten"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:182
+msgid "Report Settings"
+msgstr "Indstillinger for rapporter"
+
+#: includes/RafflePlayWoo_LifeCycle.php:364
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:3
+#: includes/w/W_RafflePlayWoo_Reports.php:41
+msgid "Reports"
+msgstr "Rapporter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:65
+msgid "Reserve time message"
+msgstr "Besked om reservetid"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:17
+msgid "Reserved Time - Cycle"
+msgstr "Reserveret tid - cyklus"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:28
+msgid "Reserved time for the raffle tickets at checkout"
+msgstr "Reserveret tid til lodtrækningen ved kassen"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:48
+msgid "Reserved time for tickets at checkout, show countdown."
+msgstr "Reserveret tid til billetter ved checkout, nedtælling til show."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:439
+msgid ""
+"Restrict attachement only for Order with raffle products, or let all orders "
+"to have pdf attachment"
+msgstr ""
+"Begræns kun vedhæftning til ordrer med lodtrækningsprodukter, eller lad alle "
+"ordrer have pdf-vedhæftning"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:437
+msgid "Restrict attachment only for Orders with: "
+msgstr "Begræns kun vedhæftede filer til ordrer med:"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:163
+msgid ""
+"Restrict the user of adding mixed raffle tickets at checkout. Some customers "
+"want only one raffle tickets at checkout"
+msgstr ""
+"Begræns brugeren i at tilføje blandede lodder ved kassen. Nogle kunder vil "
+"kun have én lotteriseddel ved kassen"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:47
+msgid "Reward customers with free raffle tickets for each purchase they make"
+msgstr ""
+"Beløn kunderne med gratis lodder til lodtrækningen for hvert køb, de "
+"foretager"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:66
+#: includes/w/W_RafflePlayWoo_Promotion.php:106
+#: includes/w/W_RafflePlayWoo_Promotion.php:274
+msgid "Rules"
+msgstr "Regler"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:19
+msgid "Run Fix"
+msgstr "Kør fix"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:215
+msgid "Running Multiple Raffles at the same time"
+msgstr "Afvikling af flere konkurrencer på samme tid"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:149
+msgid "Sales by Country and County"
+msgstr "Salg efter land og amt"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:109
+msgid "Sales by Country&County"
+msgstr "Salg efter land og amt"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:152
+#: includes/w/W_RafflePlayWoo_Reports.php:145
+msgid "Sales by Product"
+msgstr "Salg efter produkt"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:226
+msgid ""
+"Sales by Product will retrieve the sale based on the product price and "
+"quantity. When used coupons, the sale price is not retrieved correctly"
+msgstr ""
+"Salg efter produkt henter salget baseret på produktets pris og antal. Når "
+"der bruges kuponer, hentes salgsprisen ikke korrekt"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:146
+#: includes/w/W_RafflePlayWoo_Reports.php:102
+msgid "Sales by Region/County"
+msgstr "Salg efter region/amt"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:148
+msgid "Same as the above one. The check is done on update cart"
+msgstr ""
+"Samme som ovenstående. Kontrollen foretages ved opdatering af indkøbskurven"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:166
+#: includes/w/W_RafflePlayWoo_MainPage.php:52
+#: includes/w/W_RafflePlayWoo_MainPage.php:1344
+#: includes/w/W_RafflePlayWoo_Promotion.php:461
+#: includes/w/W_RafflePlayWoo_Raffles.php:500
+#: includes/w/W_RafflePlayWoo_Winners.php:116
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:116
+msgid "Save"
+msgstr "Gem"
+
+#: includes/RafflePlayWoo_Plugin.php:256
+msgid "Saved"
+msgstr "Gemte"
+
+#: includes/RafflePlayWoo_Plugin.php:328
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:120
+msgid "Saving ..."
+msgstr "Sparer ..."
+
+#: includes/templates/customer_search.php:19
+#: includes/templates/product_raffle_tab.php:185
+msgid "Search"
+msgstr "Søg efter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:36
+msgid "Search By"
+msgstr "Søg efter"
+
+#: includes/RafflePlayWoo_Countdown.php:55
+msgid "Seconds"
+msgstr "Sekunder"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1097
+msgid "Seconds Label"
+msgstr "Sekunder Label"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2539
+#: includes/RafflePlayWoo_LifeCycle.php:4860
+msgid "Select a raffle for this product"
+msgstr "Vælg en lodtrækning for dette produkt"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:408
+#: includes/w/W_RafflePlayWoo_MainPage.php:730
+#: includes/w/W_RafflePlayWoo_Raffles.php:356
+msgid "Select image for background ticket. (Select custom to add your own)"
+msgstr ""
+"Vælg billede til baggrundsbilletten. (Vælg brugerdefineret for at tilføje "
+"dit eget)"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:505
+msgid "September"
+msgstr "September"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:159
+msgid "Setting when running multiple raffless at the same time"
+msgstr "Indstilling, når der køres flere raffless på samme tid"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:535
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:670
+msgid "Shop Loop Item Title"
+msgstr "Shop Loop Varetitel"
+
+#: includes/RafflePlayWoo_Plugin.php:301
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:54
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:82
+msgid "Shortcode"
+msgstr "Genvejskode"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:154
+msgid "Shortcode Generated"
+msgstr "Genereret kortkode"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:180
+msgid "Shortcode Id - Enter unique id for this shortcode before copy"
+msgstr "Kortkode-id - Indtast unikt id for denne kortkode før kopiering"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1623
+msgid "Shortcode id not matching"
+msgstr "Shortcode-id matcher ikke"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:101
+msgid "Shortcode Info Raffle"
+msgstr "Kortkode Info Tombola"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:955
+msgid "Shortcode Info Raffle Data"
+msgstr "Genvejskode Info lodtrækningsdata"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1617
+msgid "Shortcode not found"
+msgstr "Shortcode ikke fundet"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:189
+msgid "Shortcode to display Lucky Numbers"
+msgstr "Kortkode til at vise lykketal"
+
+#: includes/RafflePlayWoo_Plugin.php:272
+msgid "Should be greater than zero"
+msgstr "Skal være større end nul"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:229
+msgid "Show a message to explain in case someone will try."
+msgstr "Vis en besked for at forklare, hvis nogen vil prøve."
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:45
+msgid "Show Countdown for Reserved time"
+msgstr "Vis nedtælling for reserveret tid"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:393
+#: includes/w/W_RafflePlayWoo_Raffles.php:421
+msgid ""
+"Show Countdown if Raffle has start date or end date set for the products "
+"linked to this raffle"
+msgstr ""
+"Vis nedtælling, hvis tombolaen har en start- eller slutdato for de produkter,"
+" der er knyttet til denne tombola"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:434
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:504
+msgid ""
+"Show Countdown if Raffle has start date or end date set for the products "
+"linked to this raffle."
+msgstr ""
+"Vis nedtælling, hvis tombolaen har en start- eller slutdato for de produkter,"
+" der er knyttet til denne tombola."
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:417
+msgid "Show Countdown on Card Product"
+msgstr "Vis nedtælling på kortprodukt"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:389
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:432
+msgid "Show Countdown on Product Page"
+msgstr "Vis nedtælling på produktsiden"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:502
+msgid "Show Countdown on Shop Grid Cards"
+msgstr "Vis nedtælling på Shop Grid Cards"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:113
+msgid "Show Customer City"
+msgstr "Vis kundens by"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:127
+msgid "Show Customer Country"
+msgstr "Vis kundens land"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:99
+msgid "Show Customer Name"
+msgstr "Vis kundenavn"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:85
+msgid "Show Last Orders (limit)"
+msgstr "Vis sidste ordrer (grænse)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:17
+msgid "Show Product Raffle Tab"
+msgstr "Vis fanen Produktlotteri"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:640
+msgid "Show Progress bar if the raffle has limited number of tickets."
+msgstr "Vis statuslinje, hvis lodtrækningen har et begrænset antal lodder."
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:448
+msgid ""
+"Show Progress Bar in the product page. Position is set in the Main Settings"
+msgstr ""
+"Vis statuslinje på produktsiden. Position indstilles i hovedindstillingerne"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:470
+msgid "Show Progress Bar on Card Product"
+msgstr "Vis statuslinje på kortprodukt"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:474
+msgid ""
+"Show Progress Bar on Loop Card (eg: shop page). Position is set in the Main "
+"Settings"
+msgstr ""
+"Vis statuslinje på loop-kort (f.eks. shop-side). Position indstilles i "
+"hovedindstillingerne"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:444
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:566
+msgid "Show Progress Bar on Product Page"
+msgstr "Vis statuslinje på produktsiden"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:638
+msgid "Show Progress Bar on Shop Grid Cards"
+msgstr "Vis fremdriftslinje på Shop Grid Cards"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1223
+msgid "Show Progress Bar only for limited raffle tickets"
+msgstr "Vis kun Progress Bar for et begrænset antal lodder"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:568
+msgid "Show Progress Bar, if the raffle has limited number of tickets"
+msgstr "Vis statuslinje, hvis lodtrækningen har et begrænset antal lodder"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:141
+msgid "Show Purchased at"
+msgstr "Vis købt på"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:81
+msgid "Show raffle name"
+msgstr "Vis navnet på lodtrækningen"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:691
+msgid "Show Raffle Tickets in Woocommerce Orders Table View"
+msgstr "Vis lodder i Woocommerce-bestillingstabelvisning"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:31
+msgid "Show Table as Data Table"
+msgstr "Vis tabel som datatabel"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:915
+msgid "Show Tickets Grouped by:"
+msgstr "Vis billetter grupperet efter:"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:708
+#: includes/w/W_RafflePlayWoo_Raffles.php:336
+msgid ""
+"Show Tickets Number with Raffle image in background (Thank you Page / Email )"
+msgstr "Vis billetnummer med tombola-billede i baggrunden (Tak-side / e-mail)"
+
+#: includes/templates/product_raffle_tab.php:184
+#, php-format
+msgid "Showing page %s of %s"
+msgstr "Viser side %s af %s"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:372
+msgid "Sold"
+msgstr "Solgt"
+
+#: includes/RafflePlayWoo_Plugin.php:300
+msgid "Sold Tickets"
+msgstr "Solgte billetter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:215
+msgid "Sold Time Hours ago (less than 24 hours)"
+msgstr "Solgt tid for timer siden (mindre end 24 timer)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:227
+msgid "Sold Time Minutes ago (less than 1 hour)"
+msgstr "Solgt tid for minutter siden (mindre end 1 time)"
+
+#: includes/RafflePlayWoo_LifeCycle.php:795
+msgid "Some data to display for this variation."
+msgstr "Nogle data, der skal vises for denne variation."
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:555
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:690
+msgid ""
+"Some themes change the position of hooks with different style or html "
+"applied to the page."
+msgstr ""
+"Nogle temaer ændrer placeringen af kroge med forskellige stilarter eller "
+"html, der anvendes på siden."
+
+#: includes/RafflePlayWoo_Plugin.php:295
+#: includes/w/W_RafflePlayWoo_Raffles.php:210
+msgid "Start Date"
+msgstr "Startdato"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:122
+#, php-format
+msgid "Start date is later than today - notify user - %s as start date"
+msgstr "Startdatoen er senere end i dag - underret brugeren - %s som startdato"
+
+#: includes/RafflePlayWoo_Plugin.php:287
+#: includes/w/W_RafflePlayWoo_Raffles.php:82
+msgid "Start Ticket"
+msgstr "Start billet"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1108
+msgid "Starts In Label"
+msgstr "Begynder i etiket"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:3
+msgid "Step One - Install the Plugin"
+msgstr "Trin et - Installer plugin'et"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:33
+msgid "Step Three - Configure Email Raffle Labels"
+msgstr "Trin tre - Konfigurer etiketter til e-mail-trafikturnering"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:12
+msgid "Step Two - Create Raffle Product"
+msgstr "Trin to - Opret et tombola-produkt"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:179
+msgid "Stop Reserving Tickets after the Time Cycles have passed"
+msgstr "Stop med at reservere billetter, når tidscyklusserne er gået"
+
+#: includes/w/W_RafflePlayWoo_Info.php:157
+msgid "Support & Updates End Date"
+msgstr "Slutdato for support og opdateringer"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:882
+msgid "Tab Location"
+msgstr "Fane Placering"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:870
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:53
+msgid "Tab Name"
+msgstr "Fanenavn"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:20
+msgid "Terminate Raffle"
+msgstr "Afslut tombola"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:53
+msgid "Terminate Raffle Now"
+msgstr "Afslut tombola nu"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:260
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:231
+msgid "Terminate Raffle on Buy Out Product"
+msgstr "Ophør af tombola om opkøb af produkt"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5760
+#: includes/RafflePlayWoo_Plugin.php:280
+#: includes/w/W_RafflePlayWoo_Raffles.php:104
+msgid "Terminated"
+msgstr "Afsluttet"
+
+#: includes/RafflePlayWoo_Plugin.php:298
+#: includes/w/W_RafflePlayWoo_ViewPage.php:31
+msgid "Test"
+msgstr "Test"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:174
+msgid "Test Info"
+msgstr "Testinformation"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:823
+#: includes/w/W_RafflePlayWoo_MainPage.php:1254
+#: includes/w/W_RafflePlayWoo_ViewPage.php:256
+msgid "Text Color"
+msgstr "Tekstfarve"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:53
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:92
+msgid "Text over image (html accepted)"
+msgstr "Tekst over billede (html accepteret)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:811
+#: includes/w/W_RafflePlayWoo_ViewPage.php:246
+msgid "Text Size"
+msgstr "Tekststørrelse"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1238
+msgid "Text to display"
+msgstr "Tekst, der skal vises"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1310
+msgid "Text to display, for shortcode use the following text replaces"
+msgstr "Tekst, der skal vises, brug følgende tekst til at erstatte shortcode"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:26
+msgid "That's the starting point of the raffle tickets."
+msgstr "Det er udgangspunktet for lodtrækningsbilletterne."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1129
+msgid ""
+"The above settings are used to display the raffle countdown in the product "
+"page"
+msgstr ""
+"Ovenstående indstillinger bruges til at vise nedtællingen til lodtrækningen "
+"på produktsiden"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:974
+msgid "The code with other plugin integration is found "
+msgstr "Koden med integration af andre plugins findes"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:492
+msgid ""
+"The countdown does not show in the position you have selected? Some themes "
+"change the position of hooks with different style or html applied to the "
+"page."
+msgstr ""
+"Nedtællingen vises ikke i den position, du har valgt? Nogle temaer ændrer "
+"placeringen af hooks med forskellig stil eller html anvendt på siden."
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:88
+msgid ""
+"The customer can still buy the tickets, but will be generated at thank you "
+"page"
+msgstr ""
+"Kunden kan stadig købe billetterne, men vil blive genereret på takkesiden"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:6
+msgid ""
+"The Default Raffle is the main raffle, and all other raffles created inherit "
+"some of the settings from it"
+msgstr ""
+"Standardtombolaen er hovedtombolaen, og alle andre oprettede tombolaer arver "
+"nogle af indstillingerne fra den"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1247
+msgid "The keywords will be replaced with the numbers when displayed"
+msgstr "Nøgleordene vil blive erstattet med tal, når de vises"
+
+#: raffle-play-woo.php:36
+msgid "The plugin is not licensed"
+msgstr "Plugin'et er ikke licenseret"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:5
+msgid ""
+"The Plugin requires no special installation, just as any regular plugin "
+"proceed with instalation, and activation."
+msgstr ""
+"Plugin'et kræver ingen særlig installation, ligesom ethvert almindeligt "
+"plugin fortsætter med installation og aktivering."
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:628
+msgid ""
+"The Progress bar does not show in the position you have selected? Some "
+"themes change the position of hooks with different style or html applied to "
+"the page."
+msgstr ""
+"Fremdriftslinjen vises ikke i den position, du har valgt? Nogle temaer "
+"ændrer placeringen af kroge med forskellig stil eller html anvendt på siden."
+
+#: includes/RafflePlayWoo_Plugin.php:333
+msgid ""
+"The Raffle does not generate tickets randomly - Change to random generated"
+msgstr ""
+"Tombola genererer ikke lodder tilfældigt - Skift til tilfældigt genereret"
+
+#: includes/RafflePlayWoo_Plugin.php:332
+msgid "The Raffle does not have limited tickets - Put a limit"
+msgstr "Tombolaen har ikke begrænsede lodder - sæt en grænse"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:143
+msgid ""
+"The raffle has limited tickets - notify user - eg: 3 tickets left, user "
+"wants to buy 5, exceeds with 2 - show message"
+msgstr ""
+"Lodtrækningen har begrænset antal billetter - giv brugeren besked - f.eks.: "
+"3 billetter tilbage, brugeren ønsker at købe 5, overstiger med 2 - vis besked"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:137
+msgid ""
+"The raffle has limited tickets - Upon adding to cart, the system checks if "
+"any tickets left, if not show message "
+msgstr ""
+"Lodtrækningen har et begrænset antal billetter - Når du lægger det i "
+"indkøbskurven, kontrollerer systemet, om der er nogen billetter tilbage, "
+"hvis ikke, vises en besked"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:117
+msgid "The raffle is set as terminated"
+msgstr "Lodtrækningen er fastsat som afsluttet"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:262
+msgid ""
+"The raffle will be set to terminated if the \"Buyout Product\" is out of "
+"stock."
+msgstr ""
+"Lodtrækningen vil blive indstillet til at blive afbrudt, hvis \"Buyout-"
+"produktet\" er udsolgt."
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:233
+msgid ""
+"The raffle will be set to terminated if the \"Buyout Product\" is sold (out "
+"of stock). Terminate Raffle by selling a single not raffle product."
+msgstr ""
+"Lodtrækningen vil blive indstillet til at blive afbrudt, hvis \"Buyout-"
+"produktet\" er solgt (udsolgt). Afslut lodtrækningen ved at sælge et enkelt "
+"produkt, der ikke er omfattet af lodtrækningen."
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:21
+msgid ""
+"The raffle will be terminated. No raffle tickets will be available for sale."
+msgstr ""
+"Lodtrækningen vil blive afsluttet. Der vil ikke være nogen lodder til salg."
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:31
+msgid "The raffle will have a limited number of tickets"
+msgstr "Der vil være et begrænset antal lodder til lodtrækningen"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:228
+msgid "The system will do it automatically based on the rules"
+msgstr "Systemet vil gøre det automatisk baseret på reglerne"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:189
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:126
+msgid "The tickets will be generated and shown at checkout page"
+msgstr "Billetterne vil blive genereret og vist på betalingssiden"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:15
+msgid "There are issues with the DB Tables"
+msgstr "Der er problemer med DB-tabellerne"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:27
+msgid "There is a custom reserved time in minutes"
+msgstr "Der er en brugerdefineret reserveret tid i minutter"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:37
+msgid ""
+"These labels will show in the 'Thank you page' and the 'Confirmation Email' "
+msgstr ""
+"Disse etiketter vil blive vist på \"Tak-siden\" og i \"Bekræftelses-e-"
+"mailen\""
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:23
+msgid ""
+"These tickets are counted as purchased because are reserved for the customer "
+"for a specific time"
+msgstr ""
+"Disse billetter tælles som købte, fordi de er reserveret til kunden i et "
+"bestemt tidsrum"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:235
+msgid ""
+"This is a promotional raffle, based on your cart value we award free entry "
+"tickets to raffle."
+msgstr ""
+"Dette er en kampagnetombola, baseret på din indkøbsvogns værdi tildeler vi "
+"gratis adgangsbilletter til tombolaen."
+
+#: includes/RafflePlayWoo_Plugin.php:335
+msgid "This is a won ticket, are you sure?"
+msgstr "Dette er en vundet billet, er du sikker?"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:50
+msgid "This is the minimal setup to have a raffle running"
+msgstr "Dette er den minimale opsætning for at få en tombola til at køre"
+
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:9
+msgid ""
+"This page is set only to keep track of the winning tickets, and the "
+"customers associated"
+msgstr ""
+"Denne side er kun indstillet til at holde styr på de vindende billetter og "
+"de kunder, der er tilknyttet"
+
+#: includes/RafflePlayWoo_Plugin.php:259
+#: includes/w/W_RafflePlayWoo_ViewPage.php:422
+#: includes/w/W_RafflePlayWoo_Winners.php:92
+msgid "Ticket"
+msgstr "Billet"
+
+#: includes/RafflePlayWoo_Plugin.php:321
+msgid "Ticket Changed Successfully"
+msgstr "Billet ændret med succes"
+
+#: includes/RafflePlayWoo_Plugin.php:260
+msgid "Ticket From"
+msgstr "Billet fra"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:787
+#: includes/w/W_RafflePlayWoo_ViewPage.php:228
+msgid "Ticket Height"
+msgstr "Billethøjde"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:97
+#: includes/w/W_RafflePlayWoo_MainPage.php:200
+msgid "Ticket Info Position"
+msgstr "Information om billetter Position"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:95
+msgid "Ticket Number"
+msgstr "Billetnummer"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5953
+msgid "Ticket Number does not exist"
+msgstr "Billetnummeret findes ikke"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:118
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:147
+msgid "Ticket Number Leading Zeros"
+msgstr "Billetnummer med foranstillede nuller"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:35
+#: includes/w/W_RafflePlayWoo_Raffles.php:149
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:174
+msgid "Ticket Prefix"
+msgstr "Præfiks for billetter"
+
+#: includes/RafflePlayWoo_Plugin.php:261
+msgid "Ticket To"
+msgstr "Billet til"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:774
+#: includes/w/W_RafflePlayWoo_ViewPage.php:218
+msgid "Ticket Width"
+msgstr "Billetbredde"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:181
+msgid "Ticket-"
+msgstr "Billet-"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:23
+msgid ""
+"Tickets are generated and displayed per raffle, you need to enable the "
+"option for each raffle"
+msgstr ""
+"Billetter genereres og vises pr. lodtrækning, så du skal aktivere "
+"indstillingen for hver lodtrækning"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:19
+msgid ""
+"Tickets can now be generated and displayed at checkout before the order is "
+"placed"
+msgstr "Billetter kan nu genereres og vises ved kassen, før ordren afgives"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:86
+msgid "Tickets Info"
+msgstr "Information om billetter"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:179
+msgid "Tickets Purchased"
+msgstr "Købte billetter"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:96
+msgid "Tickets will not be visible at checkout anymore"
+msgstr "Billetter vil ikke længere være synlige ved checkout"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:319
+msgid "Tickets will only be generated for these order statuses"
+msgstr "Billetter vil kun blive genereret for disse ordrestatusser"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:68
+#: includes/w/W_RafflePlayWoo_ViewPage.php:163
+msgid "To"
+msgstr "Til"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:442
+msgid "to display link to product (Thank you page / Email)"
+msgstr "for at vise et link til produktet (takkeside/e-mail)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:347
+msgid ""
+"To display messages in custom page, copy the shortcode, change the it to "
+"match the raffle id and paste it in custom page"
+msgstr ""
+"For at vise beskeder på en brugerdefineret side skal du kopiere kortkoden, "
+"ændre den, så den matcher tombola-id'et, og indsætte den på den "
+"brugerdefinerede side"
+
+#: includes/RafflePlayWoo_Plugin.php:307
+msgid "To display the raffle name add show_raffle_name in the shortcode"
+msgstr ""
+"Hvis du vil vise navnet på lodtrækningen, skal du tilføje show_raffle_name i "
+"shortkoden"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:353
+msgid "To show raffle name add (show_raffle_name='1') in the shortcode"
+msgstr ""
+"For at vise navnet på lodtrækningen skal du tilføje (show_raffle_name='1') i "
+"shortkoden"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:464
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:600
+msgid "Top of Single Product Summary"
+msgstr "Øverst i produktoversigten"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:241
+#: includes/d/D_RafflePlayWoo_Reports.php:361
+#: includes/d/D_RafflePlayWoo_Reports.php:485
+#: includes/d/D_RafflePlayWoo_Reports.php:551
+#: includes/d/D_RafflePlayWoo_Reports.php:681
+#: includes/d/D_RafflePlayWoo_Reports.php:856
+msgid "Total"
+msgstr "I alt"
+
+#: includes/RafflePlayWoo_Plugin.php:263
+msgid "Total Tickets"
+msgstr "Billetter i alt"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:488
+msgid "Two"
+msgstr "To"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:401
+msgid ""
+"Two customers buying raffle products at the same time, might cause the db to "
+"overlap the orders, and create duplicate tickets. Chances are minimal. But "
+"the system will spot any malfunctions "
+msgstr ""
+"Hvis to kunder køber tombola-produkter på samme tid, kan det medføre, at "
+"db'en overlapper ordrerne og opretter dobbelte lodder. Chancerne er minimale."
+" Men systemet vil opdage eventuelle fejlfunktioner"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:17
+msgid ""
+"Under 'Product' page go to 'General' tab and you should see two extra "
+"options "
+msgstr ""
+"Gå til fanen \"Generelt\" på siden \"Produkt\", og du bør se to ekstra "
+"muligheder"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:259
+msgid "Unique identifier for the shortcode"
+msgstr "Unik identifikator for kortkoden"
+
+#: includes/templates/progressbar_info.php:55
+#: includes/templates/progressbar_info.php:56
+msgid "unlimited"
+msgstr "ubegrænset"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:308
+msgid "Up to 1000 random numbers displayed. Want more? Use filter "
+msgstr "Op til 1000 tilfældige tal vises. Vil du have flere? Brug filter"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:368
+msgid ""
+"up to 1000 random tickets will be displayed, can be increased, use filter "
+msgstr "op til 1000 tilfældige billetter vises, kan øges, brug filter"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:226
+msgid "Update / Delete / Add to Cart Promotional Product message"
+msgstr "Opdater / Slet / Læg i kurv Reklamebudskab"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:147
+#, php-format
+msgid "Update Cart (exceeding tickets %d)"
+msgstr "Opdater kurv (overskrider billetter %d)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:332
+#, php-format
+msgid "Update Cart (limit on - exceeding tickets - %d)"
+msgstr "Opdater kurv (grænse på - overskrider billetter - %d)"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:33
+msgid "Updated - Compatible with new HPOS, and legacy order storage "
+msgstr "Opdateret - Kompatibel med nye HPOS og ældre ordrelagre"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:82
+msgid "Url redirect when clicking on image (like url to product)"
+msgstr ""
+"Url-omdirigering, når du klikker på et billede (f.eks. url til et produkt)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:440
+msgid "Use"
+msgstr "Brug"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1285
+msgid "Use spaces as delimiter"
+msgstr "Brug mellemrum som afgrænsning"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2504
+#: includes/RafflePlayWoo_LifeCycle.php:4827
+msgid "Use Variation Product Raffle"
+msgstr "Brug variationsprodukt Raffle"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:176
+msgid "Used with 'Test' option in the settings"
+msgstr "Anvendes med \"Test\" i indstillingerne"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:36
+msgid ""
+"Used with ticket number as Tkt-1001, Tkt-1002, etc. Instead of display a "
+"dull number as 1001, 1002"
+msgstr ""
+"Anvendes sammen med billetnummer som Tkt-1001, Tkt-1002 osv. I stedet for at "
+"vise et kedeligt nummer som 1001, 1002"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:107
+msgid ""
+"User Message are very effective on showing the tickets status to the users"
+msgstr ""
+"Brugermeddelelser er meget effektive til at vise status for billetterne til "
+"brugerne"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:105
+#: includes/w/W_RafflePlayWoo_MainPage.php:76
+msgid "User Messages"
+msgstr "Brugermeddelelser"
+
+#: includes/w/W_RafflePlayWoo_Info.php:223
+msgid "Validate License"
+msgstr "Validere licens"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:292
+msgid "Value Above"
+msgstr "Værdi over"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3753
+msgid "Variable"
+msgstr "Variabel"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:30
+msgid "Version"
+msgstr "Version"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:232
+msgid "Very IMPORTANT to setup messages"
+msgstr "Meget VIGTIGT at opsætte beskeder"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:10
+#: includes/releases/RafflePlayWoo_Release_584.php:10
+#: includes/releases/RafflePlayWoo_Release_590.php:11
+#: includes/releases/RafflePlayWoo_Release_600.php:11
+#: includes/releases/RafflePlayWoo_Release_62.php:11
+msgid "Video available"
+msgstr "Video tilgængelig"
+
+#: includes/w/W_RafflePlayWoo_Info.php:176
+msgid "View"
+msgstr "Se"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:37
+msgid "View more here"
+msgstr "Se mere her"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3597
+msgid "View PDF"
+msgstr "Se PDF"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:409
+#, fuzzy
+#| msgid "View PDF Attachment Documentation %s "
+msgid "View PDF Attachment Documentation "
+msgstr "Se vedhæftet PDF-dokumentation %s"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:487
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:550
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:623
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:685
+#, php-format
+msgid "View Positions %s"
+msgstr "Se positioner %s"
+
+#: includes/RafflePlayWoo_LifeCycle.php:332
+#: includes/w/W_RafflePlayWoo_ViewPage.php:20
+msgid "View Tickets"
+msgstr "Se billetter"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:54
+msgid "View Tickets by Order"
+msgstr "Se billetter efter ordre"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:5
+msgid "View your sale by raffle"
+msgstr "Se dit salg ved lodtrækning"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:78
+msgid "wait to load after changing status"
+msgstr "vente med at indlæse efter ændring af status"
+
+#: includes/RafflePlayWoo_Plugin.php:311
+msgid "Warning. There is another column with same DB Meta Name"
+msgstr "Advarsel. Der er en anden kolonne med samme DB-metanavn"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:971
+#, fuzzy, php-format
+#| msgid "Watch explanation %s on this youtube video I made"
+msgid "Watch explanation %s and %s on this youtube videos I made"
+msgstr "Se forklaring %s på denne youtube-video, jeg har lavet"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:54
+msgid "Watch promotional raffle setup video here"
+msgstr "Se video om opsætning af reklametombola her"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:23
+msgid "Watch setup video"
+msgstr "Se video om opsætning"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:121
+msgid "Watch setup video here"
+msgstr "Se video af opsætningen her"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:25
+msgid "Watch the video on the right for better understanding."
+msgstr "Se videoen til højre for bedre forståelse."
+
+#: includes/RafflePlayWoo_LifeCycle.php:2500
+msgid "Watch video before proceding. How to promote shop with free raffle"
+msgstr ""
+"Se videoen, før du går i gang. Sådan promoverer du din butik med gratis "
+"lodtrækning"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:360
+msgid "Week"
+msgstr "Uge"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:140
+#: includes/w/W_RafflePlayWoo_Reports.php:88
+msgid "Weekly Sales"
+msgstr "Ugentligt salg"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:35
+msgid "What is HPOS? Read more about it here"
+msgstr "Hvad er HPOS? Læs mere om det her"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:210
+msgid ""
+"When printing if the background image is not visible, go to print page -> "
+"More Settings and select \"Background graphics\" from the options."
+msgstr ""
+"Hvis baggrundsbilledet ikke er synligt, når du udskriver, skal du gå til "
+"udskriftssiden -> Flere indstillinger og vælge \"Baggrundsgrafik\" blandt "
+"indstillingerne."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:108
+msgid ""
+"While running a raffle reward your customers with smaller prizes as instant "
+"wins"
+msgstr ""
+"Når du kører en tombola, belønner du dine kunder med mindre præmier som "
+"øjeblikkelige gevinster"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:412
+msgid ""
+"Why Duplicates? Slow hosting, too many order requests at the same time "
+"(server cannot cope), caching issues."
+msgstr ""
+"Hvorfor duplikater? Langsom hosting, for mange ordreforespørgsler på samme "
+"tid (serveren kan ikke klare det), problemer med caching."
+
+#: includes/w/W_RafflePlayWoo_Winners.php:57
+msgid "Winner"
+msgstr "Vinder"
+
+#: includes/RafflePlayWoo_LifeCycle.php:348
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:3
+#: includes/w/W_RafflePlayWoo_Winners.php:20
+msgid "Winners"
+msgstr "Vindere"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:438
+msgid "Winning Message"
+msgstr "Det vindende budskab"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:966
+msgid ""
+"With this shortcode you can retrieve the primary attributes of any raffle. \n"
+"                                                            It can be used "
+"to display raffle information or integrate it with other plugins. Check the "
+"link below to the youtube video."
+msgstr ""
+"Med denne kortkode kan du hente de primære attributter for enhver tombola.\n"
+"                                                            Den kan bruges "
+"til at vise lodtrækningsinformation eller integrere den med andre plugins. "
+"Tjek linket nedenfor til youtube-videoen."
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:469
+msgid "Won"
+msgstr "Vundet"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:232
+#, fuzzy
+#| msgid "Old Ticket"
+msgid "Won Ticket"
+msgstr "Gammel billet"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:96
+msgid "Woocommerce Account"
+msgstr "Woocommerce-konto"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:17
+msgid "Woocommerce has made changes to cart and checkout pages recently."
+msgstr ""
+"Woocommerce har for nylig foretaget ændringer på siderne med indkøbskurv og "
+"checkout."
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:11
+msgid "Woocommerce Info"
+msgstr "Info om Woocommerce"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:395
+msgid "Works only with PHP version 7.1, and above"
+msgstr "Virker kun med PHP version 7.1 og derover"
+
+#: includes/RafflePlayWoo_Plugin.php:281 includes/w/W_RafflePlayWoo_Info.php:22
+#: includes/w/W_RafflePlayWoo_MainPage.php:166
+#: includes/w/W_RafflePlayWoo_MainPage.php:376
+#: includes/w/W_RafflePlayWoo_MainPage.php:429
+#: includes/w/W_RafflePlayWoo_MainPage.php:501
+#: includes/w/W_RafflePlayWoo_MainPage.php:512
+#: includes/w/W_RafflePlayWoo_MainPage.php:684
+#: includes/w/W_RafflePlayWoo_MainPage.php:700
+#: includes/w/W_RafflePlayWoo_MainPage.php:717
+#: includes/w/W_RafflePlayWoo_MainPage.php:856
+#: includes/w/W_RafflePlayWoo_MainPage.php:1038
+#: includes/w/W_RafflePlayWoo_MainPage.php:1216
+#: includes/w/W_RafflePlayWoo_MainPage.php:1231
+#: includes/w/W_RafflePlayWoo_Raffles.php:95
+#: includes/w/W_RafflePlayWoo_Raffles.php:108
+#: includes/w/W_RafflePlayWoo_Raffles.php:163
+#: includes/w/W_RafflePlayWoo_Raffles.php:172
+#: includes/w/W_RafflePlayWoo_Raffles.php:201
+#: includes/w/W_RafflePlayWoo_Raffles.php:268
+#: includes/w/W_RafflePlayWoo_Raffles.php:311
+#: includes/w/W_RafflePlayWoo_Raffles.php:326
+#: includes/w/W_RafflePlayWoo_Raffles.php:345
+#: includes/w/W_RafflePlayWoo_Raffles.php:403
+#: includes/w/W_RafflePlayWoo_Raffles.php:429
+#: includes/w/W_RafflePlayWoo_Raffles.php:456
+#: includes/w/W_RafflePlayWoo_Raffles.php:482
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:57
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:194
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:63
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:96
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:108
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:138
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:239
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:424
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:444
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:515
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:580
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:650
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:23
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:45
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:105
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:119
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:133
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:147
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:114
+msgid ""
+"You can define a winning number or let the system pick one. It only works "
+"with Random Tickets"
+msgstr ""
+"Du kan definere et vindernummer eller lade systemet vælge et. Det fungerer "
+"kun med tilfældige billetter"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1300
+msgid ""
+"You can place custom progress bar on any page with the following shortcode - "
+"if options left empty will pick the default setting set above."
+msgstr ""
+"Du kan placere en brugerdefineret statuslinje på enhver side med følgende "
+"kortkode - hvis indstillingerne er tomme, vælges standardindstillingen, der "
+"er angivet ovenfor."
+
+#: includes/RafflePlayWoo_LifeCycle.php:6124
+#: includes/RafflePlayWoo_LifeCycle.php:6250
+msgid "You dont have access"
+msgstr "Du har ikke adgang"
+
+#: raffle-play-woo.php:48
+msgid "Your license is not valid"
+msgstr "Din licens er ikke gyldig"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:400
+msgid "Your PHP version is less than 7.1, therefore this feature wont work"
+msgstr ""
+"Din PHP-version er mindre end 7.1, og derfor vil denne funktion ikke fungere"
+
+#: raffle-play-woo.php:29
+msgid "Your server's PHP version: "
+msgstr "Din servers PHP-version:"

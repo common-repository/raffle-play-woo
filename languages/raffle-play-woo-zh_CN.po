@@ -1,0 +1,3747 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Raffle Play Woo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-08 09:54+0000\n"
+"PO-Revision-Date: 2024-07-19 18:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: raffle-play-woo"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:359
+msgid " All value from Category"
+msgstr "类别中的所有值"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:133
+msgid " Include the rest of the Countries "
+msgstr "包括其他国家"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:969
+msgid ""
+" is optional, if productid is added, the raffle linked to that product will "
+"be retrieved."
+msgstr "为可选项，如果添加了 productid，则将检索与该产品相关联的抽奖活动。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:970
+msgid ""
+" is optional, used to filter the code, if the shortcode is present in "
+"multiple pages (Dedicated keyword. Do not use keyword \"."
+msgstr "是可选项，用于过滤代码，如果该简码存在于多个页面中（专用关键字。请勿使用关键字\"."
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1246
+msgid " keyword for percentage sold"
+msgstr "售出百分比关键词"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1245
+msgid " keyword for remaining tickets"
+msgstr "余票关键词"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1244
+msgid " keyword for total number of tickets"
+msgstr "总票数关键词"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1243
+msgid " keyword to display sold tickets"
+msgstr "显示已售出机票的关键字"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:68
+msgid " will be swapped with the number above"
+msgstr "将与上面的数字对调"
+
+#: raffle-play-woo.php:42
+msgid " WooCommerce is not installed/active"
+msgstr "WooCommerce没有安装/激活"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:254
+#, php-format
+msgid ""
+"%s - 2, 3 uses date replacer; %d - 5, 6 uses numeric replacer; If deleted "
+"won't replace the values"
+msgstr "%s - 2, 3 使用日期替换器；%d - 5, 6 使用数字替换器；如果删除将不会替换数值"
+
+#: includes/templates/product_raffle_tab.php:187
+#, php-format
+msgid "%s entries per page"
+msgstr "每页 %s 条目"
+
+#: includes/RafflePlayWoo_LifeCycle.php:4896
+#, php-format
+msgid "%s- Order Id %d has ticket number %d"
+msgstr "%s- 订单编号 %d 有票据编号 %d"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:21
+msgid "(Add Number of thickets for this raffle product)"
+msgstr "(添加此抽奖产品的丛书数量)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:359
+#, fuzzy
+#| msgid "At least"
+msgid "(at least)"
+msgstr "至少"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:491
+msgid ""
+"(can be found and edited (styled) under plugin folder /includes/templates )"
+msgstr "(可以在插件文件夹/includes/templates下找到并编辑（样式））。"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1148
+msgid "(D)"
+msgstr "(D)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1121
+msgid "(Deleted)"
+msgstr "(已删除)"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:19
+msgid "(Enable the option)"
+msgstr "(启用该选项)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:18
+msgid ""
+"(Generated tickets need to have a time limit for each order at checkout)"
+msgstr "(生成的门票需要在结账时为每个订单设定时间限制）。"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:137
+msgid "(grouped by country)"
+msgstr "(按国家分组）"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:292
+msgid "(In order to save the column changes, run this report)"
+msgstr "(为了保存列的变化，运行这个报告）。"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:152
+msgid "(limited to 15 characters)"
+msgstr "(限于15个字符)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:42
+msgid "(live data)"
+msgstr "(实时数据)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:90
+msgid "(Monday to Sunday)"
+msgstr "(周一至周日)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:431
+msgid "(PDFs are only generated for processing, invoice, and completed orders)"
+msgstr "(PDF文件只为处理、发票和完成的订单而生成)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1147
+msgid "(T)"
+msgstr "(T)"
+
+#: includes/d/D_RafflePlayWoo_Main.php:1120
+msgid "(Terminated)"
+msgstr "(终止)"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:86
+msgid "(use -1 for unlimited)"
+msgstr "(使用 -1 表示无限制）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:388
+msgid "(Winning Product)"
+msgstr "(获奖产品）"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:313
+msgid "(Your Message) All raffle tickets have been sold"
+msgstr "(您的信息) 所有抽奖券都已售出"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:265
+msgid "(Your Message) The raffle has finished"
+msgstr "(您的信息) 抽奖活动已经结束"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:289
+#, php-format
+msgid "(Your Message) The raffle has finished on %s"
+msgstr "(您的信息) 抽奖活动已在%s完成。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:301
+#, php-format
+msgid "(Your Message) The raffle will end on %s"
+msgstr "(您的信息) 抽奖活动将于%s结束。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:277
+#, php-format
+msgid "(Your Message) The raffle will start on %s"
+msgstr "(您的信息) 抽奖活动将于%s开始。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:325
+#: includes/w/W_RafflePlayWoo_MainPage.php:337
+#, php-format
+msgid "(Your Message) There are only %d tickets left"
+msgstr "(您的信息) 只剩下 %d 的票了"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:110
+msgid "*** Leave empty not to display ***"
+msgstr "***留空不显示 ***"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:111
+msgid "*** To display copy the short code and paste it into the post/page ***"
+msgstr "***要显示复制短代码并粘贴到帖子/页面中 ***"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1041
+msgid ""
+"***IMPORTANT*** If this option is YES (Hide Cart), the position to display "
+"the countdown only works for the first 3 top positions (Before Single "
+"Product, Before Single Product Summary, Top of Single Product Summary), the "
+"other positions will be hidden by woocommerce"
+msgstr ""
+"*重要**** 如果该选项为 \"是\"（隐藏购物车），则显示倒计时的位置仅适用于前 3 "
+"个顶部位置（单个产品之前、单个产品摘要之前、单个产品摘要顶部），其他位置将被 woocommerce 隐藏。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:93
+msgid "***Or it can be left empty***"
+msgstr "***也可以让它空着***。"
+
+#: includes/external/dompdf/lib/php-css-parser/tests/Sabberworm/CSS/RuleSet/DeclarationBlockTest.php:215
+msgid "-10px"
+msgstr "-10px"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:975
+msgid "1. Copy the shortcode and paste it in the page/post/etc"
+msgstr "1.复制简码并将其粘贴到页面/帖子等中"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:976
+msgid "2. In the functions.php of your child theme add following filter hook"
+msgstr "2.在子主题的 functions.php 中添加以下过滤钩子"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:463
+#: includes/w/W_RafflePlayWoo_Promotion.php:64
+#: includes/w/W_RafflePlayWoo_Promotion.php:291
+msgid "Action"
+msgstr "行动"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:255
+#: includes/w/W_RafflePlayWoo_Lucky.php:464
+msgid "Active"
+msgstr "活跃"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:217
+msgid "Active Promotion (In use or not)"
+msgstr "活动促销（使用中或未使用）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:148
+#: includes/w/W_RafflePlayWoo_Reports.php:279
+msgid "Add"
+msgstr "添加"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:191
+msgid "Add / remove free raffle tickets to cart based on the rules"
+msgstr "根据规则在购物车中添加/删除免费抽奖券"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:233
+msgid "Add [end] at the end to break the text into a new line"
+msgstr "在末尾添加 [end]，将文本换行"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:250
+msgid "Add raffle id, only to display tickets sold for that raffle"
+msgstr "添加抽奖 ID，仅用于显示该抽奖售出的门票"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:142
+#, php-format
+msgid "Add to Cart (exceeding tickets %d)"
+msgstr "添加到购物车 (超过票数 %d)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:320
+#, php-format
+msgid "Add To Cart (limit on - exceeding tickets - %d)"
+msgstr "添加到购物车 (限制 - 超过票数 - %d)"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:308
+msgid "Add To Cart (limit on - no tickets left)"
+msgstr "添加到购物车 (限制 - 无票)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:136
+msgid "Add to Cart (no tickets left)"
+msgstr "添加到购物车（无票）。"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:24
+msgid ""
+"Added \"View by Order\" - tickets can be grouped by order in \"View "
+"Tickets\" tab "
+msgstr "添加了 \"按顺序查看 \"功能 - 可在 \"查看门票 \"选项卡中按顺序对门票进行分组"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:23
+msgid "Added - Custom shortcode for progress bar"
+msgstr "已添加 - 用于进度条的自定义简码"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:46
+msgid "Added - Customize Progress Bar from template"
+msgstr "已添加 - 从模板自定义进度条"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:41
+msgid "Added - Customize Progress Bar tab in General Raffle."
+msgstr "已添加 - 常规抽奖中的 \"自定义进度条 \"选项卡。"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:19
+msgid "Added - Lucky Numbers"
+msgstr "已添加 - 幸运数字"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:18
+msgid "Added Countdown in product card"
+msgstr "在产品卡中添加了倒计时功能"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:21
+msgid "Added Progress bar in product card and product page"
+msgstr "在产品卡和产品页面中添加了进度条"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:27
+msgid "Added Raffle tab in product page"
+msgstr "在产品页面添加了抽奖标签"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:261
+msgid "Added to cart message"
+msgstr "已添加到购物车信息"
+
+#: includes/RafflePlayWoo_Plugin.php:302
+msgid "Address"
+msgstr "地址"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:979
+#: includes/w/W_RafflePlayWoo_Reports.php:305
+msgid "Address One"
+msgstr "地址一"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:980
+#: includes/w/W_RafflePlayWoo_Reports.php:306
+msgid "Address Two"
+msgstr "地址二"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:472
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:608
+msgid "After Add to Cart Button"
+msgstr "添加到购物车按钮后"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:473
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:609
+msgid "After Add to Cart Form"
+msgstr "添加到购物车表单后"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:471
+msgid "After Add to Cart Quanitity"
+msgstr "加入购物车后 数量"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:607
+msgid "After Add to Cart Quantity"
+msgstr "添加到购物车后的数量"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:216
+msgid "After Billing Address"
+msgstr "开票后的地址"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:341
+msgid "After changing ticket, resend email order details to customer."
+msgstr "更改票单后，重新向客户发送订单详情电子邮件。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:207
+msgid ""
+"After how many Reserved Time cycles to remove the raffle products from "
+"Checkout"
+msgstr "在多少个保留时间周期后从结账中删除抽奖产品"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:536
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:671
+msgid "After Loop Item Title"
+msgstr "循环后项目标题"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:537
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:672
+msgid "After Price Loop Item"
+msgstr "价格循环后 项目"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:474
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:610
+msgid "After Single Product Summary"
+msgstr "单个产品摘要之后"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:467
+msgid "After Sold"
+msgstr "售出后"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:31
+msgid ""
+"After the reserved time has passed a custom message can be displayed to "
+"notify the customer the tickets are no longer reserved but can still be "
+"purchased"
+msgstr "预订时间过后，可显示一条自定义信息，通知客户门票已不再预订，但仍可购买"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:182
+msgid ""
+"After the reserved time has passed removed the reserved raffle products from "
+"the checkout. When raffle tickets are generated at checkout are reserved as "
+"purchased tickets"
+msgstr "保留时间过后，从结账中删除保留的抽奖产品。结账时生成的抽奖券被保留为已购买的抽奖券"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:112
+msgid "All"
+msgstr "全部"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:17
+msgid "All new raffles cannot be deleted, but can be edited."
+msgstr "所有新的抽奖活动都不能被删除，但可以被编辑。"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:9
+msgid "All the report are self explanatory"
+msgstr "所有的报告都是不言自明的"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:14
+msgid "Allows to export any order field"
+msgstr "允许导出任何订单字段"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:25
+msgid ""
+"Also can be created using shortcodes [woocommerce_cart] and "
+"[woocommerce_checkout]"
+msgstr "也可使用 [woocommerce_cart] 和 [woocommerce_checkout] 简码创建。"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:23
+msgid ""
+"Also can be customized to giveaway tickets based on amount spent on specific "
+"categories"
+msgstr "还可根据特定类别的消费金额定制赠票方案"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:85
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:99
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:112
+msgid "AND"
+msgstr "和"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:16
+msgid "Anonymous Users"
+msgstr "匿名用户"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:72
+msgid "Any fields left empty will not be displayed"
+msgstr "任何留空的字段将不会被显示"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:500
+msgid "April"
+msgstr "四月"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:416
+msgid ""
+"Are you getting duplicated tickets? Enable this option, and the system will "
+"check for duplicates, and fix them after the order is created"
+msgstr "您是否收到重复的订单？启用该选项后，系统将检查是否有重复票单，并在创建订单后将其修复"
+
+#: includes/RafflePlayWoo_Plugin.php:318
+msgid "Are you sure you want to change this ticket?"
+msgstr "您确定要更改这张票吗？"
+
+#: includes/RafflePlayWoo_Plugin.php:306
+msgid "Are you sure you want to delete it?"
+msgstr "你确定你要删除它吗？"
+
+#: includes/RafflePlayWoo_Plugin.php:309
+msgid "Are you sure you want to PERMANENTLY delete this raffle's tickets?"
+msgstr "你确定你要永久删除这个抽奖活动的门票吗？"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:359
+msgid "At Checkout, do not assign raffle tickets to following orders"
+msgstr "在结账时，不要将抽奖券分配给以下订单"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:369
+msgid "At least"
+msgstr "至少"
+
+#: includes/RafflePlayWoo_LifeCycle.php:415
+msgid "Audit"
+msgstr "审计"
+
+#: includes/w/W_RafflePlayWoo_AuditPage.php:14
+msgid "Audit Info"
+msgstr "审计信息"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:504
+msgid "August"
+msgstr "八月"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:256
+msgid "Available Columns"
+msgstr "可用的栏目"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:366
+msgid "Available Tickets"
+msgstr "可用门票"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1047
+#: includes/w/W_RafflePlayWoo_MainPage.php:1274
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1306
+msgid "Background color of the progress, text, hex, rgb, and rgba accepted."
+msgstr "进度、文本的背景颜色，接受十六进制、rgb 和 rgba。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:404
+msgid "Background Image"
+msgstr "背景图片"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:34
+msgid "Backup"
+msgstr "备份"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:447
+msgid "Backup Actions"
+msgstr "备份行动"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:471
+msgid "Backup All Live Data"
+msgstr "备份所有实时数据"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:475
+msgid "Backup Data from Table View"
+msgstr "从表视图中备份数据"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:457
+msgid "Backup Name (max 10 characters)*"
+msgstr "备份名称（最多10个字符）*"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1304
+msgid "Bar color of the progress, text, hex, rgb, and rgba accepted."
+msgstr "进度条、文本的颜色，接受十六进制、rgb 和 rgba。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:657
+msgid "Be aware: inproper css manipulation will break the pdf file"
+msgstr "注意：不正确的 css 操作会破坏 pdf 文件"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:620
+#: includes/w/W_RafflePlayWoo_MainPage.php:634
+msgid "Be aware: inproper html manipulation will break the pdf file"
+msgstr "注意：不正确的 HTML 操作会破坏 pdf 文件"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:895
+msgid "Before Account Details"
+msgstr "账户详情之前"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:467
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:603
+msgid "Before Add to Cart Button"
+msgstr "添加到购物车按钮前"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:465
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:601
+msgid "Before Add to Cart Form"
+msgstr "添加到购物车表格之前"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:470
+msgid "Before Add to Cart Quanitity"
+msgstr "加入购物车前 数量"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:606
+msgid "Before Add to Cart Quantity"
+msgstr "加入购物车前 数量"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:893
+msgid "Before Addresses"
+msgstr "地址前"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:890
+msgid "Before Dashboard"
+msgstr "仪表板前"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:892
+msgid "Before Downloads"
+msgstr "下载前"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:180
+msgid ""
+"Before going live with the raffle as a good practice is good to do a few "
+"tests, this will give you an idea how the system works"
+msgstr "在进行抽奖活动之前，作为一种良好的做法，最好做一些测试，这将使你了解系统的工作情况。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:896
+msgid "Before Logout"
+msgstr "注销前"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:533
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:668
+msgid "Before Loop Item"
+msgstr "循环前项目"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:534
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:669
+msgid "Before Loop Item Title"
+msgstr "循环前 项目名称"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:891
+msgid "Before Order"
+msgstr "订购前"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:206
+msgid "Before Order Info"
+msgstr "订购前信息"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:894
+msgid "Before Payments Methods"
+msgstr "付款方式前"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:462
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:598
+msgid "Before Single Product"
+msgstr "单一产品前"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:463
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:599
+msgid "Before Single Product Summary"
+msgstr "单一产品概述前"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:468
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:469
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:604
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:605
+msgid "Before Single Variation"
+msgstr "单一变化前"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:466
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:602
+msgid "Before Variations Form"
+msgstr "变体前表格"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:240
+msgid ""
+"Below messages are displayed in the raffle product page (when adding to cart)"
+", and in the cart page (when updating cart)"
+msgstr "抽奖产品页面（添加到购物车时）和购物车页面（更新购物车时）将显示以下信息"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:50
+msgid "Below selected must match the order data to show the tickets"
+msgstr "以下所选内容必须与订单数据相匹配，才能显示门票"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:211
+msgid "Between Order Info and Billing Address"
+msgstr "在订单信息和账单地址之间"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:45
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:73
+msgid "Block"
+msgstr "街区"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:19
+#: includes/w/W_RafflePlayWoo_MainPage.php:732
+#: includes/w/W_RafflePlayWoo_Raffles.php:358
+msgid "Blue"
+msgstr "蓝色"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:85
+#: includes/w/W_RafflePlayWoo_MainPage.php:173
+msgid "Body Tickets"
+msgstr "身体票"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:619
+msgid "Business Info Header (html)"
+msgstr "商业信息标题(html)"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:272
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:242
+msgid "Buy Out Product "
+msgstr "买断产品"
+
+#: includes/RafflePlayWoo_Plugin.php:312
+msgid "Buyout"
+msgstr "买断"
+
+#: includes/RafflePlayWoo_Plugin.php:313
+msgid "Buyout Product"
+msgstr "买断产品"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:155
+msgid "By Raffle Ticket"
+msgstr "通过抽奖券"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:153
+msgid "By Raffle Ticket "
+msgstr "抽奖券"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:13
+msgid "By Raffle Tickets"
+msgstr "通过抽奖券"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:177
+#: includes/w/W_RafflePlayWoo_Promotion.php:454
+#: includes/w/W_RafflePlayWoo_Raffles.php:499
+#: includes/w/W_RafflePlayWoo_Reports.php:278
+#: includes/w/W_RafflePlayWoo_ViewPage.php:183
+#: includes/w/W_RafflePlayWoo_ViewPage.php:293
+#: includes/w/W_RafflePlayWoo_ViewPage.php:483
+#: includes/w/W_RafflePlayWoo_Winners.php:115
+msgid "Cancel"
+msgstr "取消"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:354
+msgid "Cancelled"
+msgstr "取消了"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:353
+msgid "Cancelled by an admin or the customer – no further action required"
+msgstr "由管理员或客户取消--不需要采取进一步行动"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2027
+msgid "Cannot be added to cart"
+msgstr "无法添加到购物车"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:158
+msgid "Cannot create lucky numbers for this raffle."
+msgstr "无法为本次抽奖创建幸运号码。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:21
+msgid "Cart and Checkout are now built using blocks by default"
+msgstr "购物车和结账现在默认使用区块构建"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:35
+msgid "Cart page is built using:"
+msgstr "购物车页面使用"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:348
+msgid "Change"
+msgstr "改变"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:344
+msgid "Change Ticket Number to: "
+msgstr "将票号改为"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:765
+msgid ""
+"Change width, height, color, text size of the raffle ticket view in Thank "
+"you / Email"
+msgstr "更改 \"感谢您\"/\"电子邮件 \"中抽奖券视图的宽度、高度、颜色和文字大小"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:63
+msgid "Checkout page is built using:"
+msgstr "结账页面使用"
+
+#: includes/RafflePlayWoo_Plugin.php:276
+#: includes/d/D_RafflePlayWoo_Reports.php:981
+#: includes/w/W_RafflePlayWoo_Reports.php:307
+msgid "City"
+msgstr "城市"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:184
+msgid "Clear"
+msgstr "清楚"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:73
+msgid "Clear Dates"
+msgstr "清除日期"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:38
+msgid "Clear Filter"
+msgstr "清理过滤器"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:316
+#: includes/w/W_RafflePlayWoo_ViewPage.php:319
+#: includes/w/W_RafflePlayWoo_ViewPage.php:387
+#: includes/w/W_RafflePlayWoo_ViewPage.php:434
+msgid "Close"
+msgstr "关闭"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:261
+msgid "Col Text"
+msgstr "Col Text"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1057
+msgid "Color"
+msgstr "颜色"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:381
+msgid "Complete"
+msgstr "完整"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:302
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:306
+msgid "Completed"
+msgstr "已完成"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:202
+msgid "Concentrate Number (pool)"
+msgstr "浓缩物数量（池）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:242
+msgid "Concentrate Number (Set per raffle)"
+msgstr "浓缩物编号（每次抽奖设置一个）"
+
+#: includes/RafflePlayWoo_Plugin.php:319
+msgid "Confirm Ticket Change"
+msgstr "确认机票更改"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:266
+msgid ""
+"Congratulations, you are now entering the free raffle draw. Complete the "
+"purchase"
+msgstr "恭喜您，您正在参加免费抽奖活动。完成购买"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:911
+msgid "Content Display - Raffle Tickets"
+msgstr "内容显示 - 抽奖券"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:39
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:72
+msgid "Copy and paste image url here"
+msgstr "在此复制并粘贴图片网址"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:176
+msgid "Copy Shortcode"
+msgstr "复制简码"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:160
+msgid ""
+"Copy the shortcode and paste it in the page. (Enter unique shortcode id)"
+msgstr "复制简码并粘贴到页面中。(输入唯一的简码 ID）"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1164
+msgid ""
+"Copy the shortcode on any page or post, and change the values. Datetime can "
+"be of timestamp or format yyyy-mm-dd hh:mm:ss. Color and bgcolor can be of "
+"hex or rgb. The rest are just labels."
+msgstr ""
+"将简码复制到任何页面或文章上，然后更改值。日期可以是时间戳或格式 yyyy-mm-dd hh:mm:ss。颜色和 bgcolor 可以是十六进制或 "
+"rgb。其余均为标签。"
+
+#: includes/RafflePlayWoo_Plugin.php:317
+msgid "Could not generate Random ticket"
+msgstr "无法生成随机票据"
+
+#: includes/RafflePlayWoo_Raffles.php:415
+msgid "Could not remove products linked to this raffle"
+msgstr "无法删除与此抽奖活动相关联的产品"
+
+#: includes/RafflePlayWoo_Raffles.php:411
+msgid "Could not remove raffle data"
+msgstr "无法删除抽奖数据"
+
+#: includes/RafflePlayWoo_Raffles.php:407
+msgid "Could not remove tickets for this raffle"
+msgstr "无法删除抽奖券"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:409
+#: includes/w/W_RafflePlayWoo_Raffles.php:435
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:450
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:521
+msgid "Countdown Image"
+msgstr "倒计时图像"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:106
+msgid "Countdown Settings"
+msgstr "倒计时设置"
+
+#: includes/RafflePlayWoo_Plugin.php:273
+#: includes/d/D_RafflePlayWoo_Reports.php:549
+#: includes/d/D_RafflePlayWoo_Reports.php:679
+#: includes/d/D_RafflePlayWoo_Reports.php:983
+#: includes/w/W_RafflePlayWoo_Reports.php:309
+msgid "Country"
+msgstr "国家"
+
+#: includes/RafflePlayWoo_Plugin.php:274
+#: includes/d/D_RafflePlayWoo_Reports.php:550
+#: includes/d/D_RafflePlayWoo_Reports.php:680
+#: includes/d/D_RafflePlayWoo_Reports.php:984
+#: includes/w/W_RafflePlayWoo_Reports.php:310
+msgid "County"
+msgstr "县级"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:17
+msgid "Create a custom shortcode and show it on a page"
+msgstr "创建自定义快捷代码并在页面上显示"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:419
+msgid "Create a pdf attachment with the raffle info. Attached to the email"
+msgstr "创建一个包含抽奖信息的pdf附件。附在电子邮件中"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:42
+msgid ""
+"Create a promotional raffle with free tickets to boost your sales on your "
+"shop."
+msgstr "制作促销抽奖券，提供免费门票，提高店铺销售额。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:26
+#: includes/w/W_RafflePlayWoo_MainPage.php:739
+#: includes/w/W_RafflePlayWoo_Raffles.php:365
+msgid "Custom"
+msgstr "定制"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:190
+msgid "Custom Currency Symbol"
+msgstr "自定义货币符号"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:15
+msgid ""
+"Custom data captured at checkout. Click on the plus button, add the field "
+"META name in the db, and the column name"
+msgstr "在结账时捕获的自定义数据。点击加号按钮，在数据库中添加字段META名称，以及列名"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:240
+msgid "Custom display on any page the latest raffle tickets sold"
+msgstr "在任何页面上自定义显示最新售出的抽奖券"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1313
+msgid "Custom html class"
+msgstr "自定义 html 类"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1284
+msgid "Custom HTML classes"
+msgstr "自定义 HTML 类"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1295
+msgid "Custom Progress Bar Shortcode"
+msgstr "自定义进度条简码"
+
+#: includes/RafflePlayWoo_Plugin.php:268
+msgid "Customer Id"
+msgstr "客户身份"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:121
+msgid "Customer Search Tickets"
+msgstr "客户搜索门票"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:227
+msgid ""
+"Customers are not allowed to add to cart, delete or update the promotional "
+"raffle product "
+msgstr "客户不得将促销抽奖产品添加到购物车、删除或更新"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:11
+msgid "Customers can search for their tickets"
+msgstr "客户可搜索机票"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1021
+msgid "Customize Countdown"
+msgstr "自定义倒计时"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:763
+msgid "Customize how raffle ticket will show in Thank you Page / Email"
+msgstr "自定义抽奖券在感谢页面/电子邮件中的显示方式"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1198
+msgid "Customize Progress Bar"
+msgstr "自定义进度条"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:136
+#: includes/w/W_RafflePlayWoo_Reports.php:82
+msgid "Daily Sales"
+msgstr "日常销售"
+
+#: includes/RafflePlayWoo_LifeCycle.php:6114
+#: includes/RafflePlayWoo_LifeCycle.php:6240
+msgid "Data is not set"
+msgstr "数据未设置"
+
+#: includes/RafflePlayWoo_LifeCycle.php:6228
+msgid "Data Saved"
+msgstr "保存的数据"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:33
+msgid "Data Table is displayed with search, column sorting, pagination"
+msgstr "数据表的显示具有搜索、列排序和分页功能"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:41
+msgid "Date and time when the raffle tickets are available for purchase"
+msgstr "可购买抽奖券的日期和时间"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:46
+msgid "Date and time when the raffle will end"
+msgstr "抽奖活动结束的日期和时间"
+
+#: includes/RafflePlayWoo_Countdown.php:52
+msgid "Days"
+msgstr "天数"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1067
+msgid "Days Label"
+msgstr "天数标签"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1153
+#: includes/w/W_RafflePlayWoo_MainPage.php:1180
+msgid "Days left until Christmas 2025"
+msgstr "距离 2025 年圣诞节还有几天"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:266
+msgid ""
+"DB  Name  is going to be extracted from the order metadata. ( E.g Data "
+"captured at checkout)"
+msgstr "DB名称将从订单元数据中提取。( 例如：结账时获取的数据)"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:262
+msgid "DB Meta Name"
+msgstr "DB元名称"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:508
+msgid "December"
+msgstr "12月"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:56
+msgid "Default Raffle (ID - 0)"
+msgstr "默认抽奖（ID - 0）"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:273
+msgid "Default Raffle has no products"
+msgstr "默认抽奖活动没有产品"
+
+#: includes/RafflePlayWoo_Plugin.php:327
+#: includes/w/W_RafflePlayWoo_Lucky.php:490
+msgid "Delete"
+msgstr "删除"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:41
+#, fuzzy
+#| msgid "Delete Raffle Tickets"
+msgid "Delete All Raffle Tickets"
+msgstr "删除抽奖券"
+
+#: includes/RafflePlayWoo_Plugin.php:334
+msgid "Delete Lucky Number?"
+msgstr "删除幸运号码？"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:388
+msgid "Deprecated functionality - use function above"
+msgstr "已过时的功能 - 使用上述功能"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:37
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:70
+msgid "Display image instead of the crossword"
+msgstr "显示图片而不是填字游戏"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:236
+msgid ""
+"Display information to user when raffle is terminated, or there are no more "
+"tickets, or raffle hasnt started etc."
+msgstr "在抽奖结束、没有门票或抽奖尚未开始等情况下向用户显示信息。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:135
+msgid "Display message when no tickets found"
+msgstr "未找到门票时显示消息"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:256
+msgid "display table as data table"
+msgstr "将表格显示为数据表"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:333
+msgid "Do not generate Raffle Tickets for Orders with Status:"
+msgstr "不为有状态的订单生成抽奖券："
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1133
+msgid "Do you want to display a countdown in the home page? or any other page?"
+msgstr "您想在主页还是其他页面显示倒计时？"
+
+#: includes/w/W_RafflePlayWoo_Info.php:56
+msgid "Doc - Default Raffle Setup"
+msgstr "文件 - 默认抽奖设置"
+
+#: includes/w/W_RafflePlayWoo_Info.php:72
+msgid "Doc - Email PDF Attachment"
+msgstr "文件 - 电子邮件PDF附件"
+
+#: includes/w/W_RafflePlayWoo_Info.php:52
+msgid "Doc - Installation"
+msgstr "文件 - 安装"
+
+#: includes/w/W_RafflePlayWoo_Info.php:60
+msgid "Doc - Raffles Setup"
+msgstr "文件 - 抽奖活动的设置"
+
+#: includes/w/W_RafflePlayWoo_Info.php:68
+msgid "Doc - Reports Page"
+msgstr "文件 - 报告页"
+
+#: includes/w/W_RafflePlayWoo_Info.php:64
+msgid "Doc - Winners Page"
+msgstr "文件 - 获奖者页面"
+
+#: includes/docs/RafflePlayWoo_Docs_Pdf_Attachment.php:14
+#, php-format
+msgid "Documentation - How to add custom data to pdf. View %s "
+msgstr "文档 - 如何在 pdf 中添加自定义数据。查看 %s"
+
+#: includes/w/W_RafflePlayWoo_Info.php:134
+msgid "Domain License"
+msgstr "域名许可"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:245
+msgid "Drag & drop to remove from Report Columns"
+msgstr "通过拖放方式从报告栏中删除"
+
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:5
+msgid "Due to lack of transparency, we do not provide random winner generator"
+msgstr "由于缺乏透明度，我们不提供随机获胜者生成器。"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:97
+msgid "Duplicates"
+msgstr "重复"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:400
+msgid "Duplicates found in this raffle"
+msgstr "本次抽奖中发现的重复奖品"
+
+#: includes/docs/RafflePlayWoo_Docs_Pdf_Attachment.php:7
+#, php-format
+msgid "Each Setting explained for PDF Attachment. View %s "
+msgstr "解释 PDF 附件的各项设置。查看 %s"
+
+#: includes/RafflePlayWoo_Plugin.php:326
+#: includes/w/W_RafflePlayWoo_Lucky.php:477
+msgid "Edit"
+msgstr "编辑"
+
+#: includes/RafflePlayWoo_Plugin.php:289
+msgid "Edit Raffle"
+msgstr "编辑抽奖"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:334
+msgid "Edit Ticket"
+msgstr "编辑机票"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1248
+msgid "eg: 20/100 tickets sold - 80 left"
+msgstr "例如：已售出 20/100 张门票 - 还剩 80 张"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:138
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:165
+msgid "Eg: Leading zero set to 5, prefix T-, ticket is 12 => result: T-00012"
+msgstr "例如：前导零设置为 5，前缀为 T-，票面金额为 12 => 结果：T-00012"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:193
+msgid "Eg: Raffle draw is on 25th of June 2021"
+msgstr "例如：抽奖是在2021年6月25日。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1225
+msgid "eg: Raffle has 1000 tickets available, the progress will show."
+msgstr "例如：抽奖活动有 1000 张门票，将显示进度。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1206
+msgid "eg: raffle is terminated, raffle hasn't started, raffle has ended"
+msgstr "例如：抽奖已终止、抽奖尚未开始、抽奖已结束"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:298
+msgid "Eg: Raffle takes place on 10th of January 2021"
+msgstr "例如：抽奖活动于2021年1月10日举行。"
+
+#: includes/RafflePlayWoo_Plugin.php:267
+#: includes/d/D_RafflePlayWoo_Reports.php:985
+#: includes/templates/customer_search.php:15
+#: includes/w/W_RafflePlayWoo_Reports.php:311
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:61
+msgid "Email"
+msgstr "电子邮件"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:295
+msgid "Email Extra Line Text"
+msgstr "电子邮件额外行文字"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1636
+msgid "Email or phone number not provided"
+msgstr "未提供电子邮件或电话号码"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:68
+#: includes/w/W_RafflePlayWoo_MainPage.php:71
+msgid "Email Template & Thank you Page"
+msgstr "电子邮件模板和感谢页面"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:414
+msgid "Enable Duplicates Fixing after Order Created"
+msgstr "创建订单后启用重复订单修复功能"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:417
+msgid "Enable PDF Email Attachment"
+msgstr "启用PDF电子邮件附件"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:845
+msgid "Enable Raffle Tab in Woocommerce Account"
+msgstr "在 Woocommerce 账户中启用抽奖选项卡"
+
+#: includes/RafflePlayWoo_Plugin.php:296
+#: includes/w/W_RafflePlayWoo_Raffles.php:234
+msgid "End Date"
+msgstr "结束日期"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:127
+#, php-format
+msgid "End date is set as early than today - notify user - %s as end date"
+msgstr "结束日期被设定为比今天早 - 通知用户 - %s为结束日期"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1118
+msgid "Ends In Label"
+msgstr "结束于标签"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2549
+#: includes/RafflePlayWoo_LifeCycle.php:4870
+msgid "Enter Raffle Tickets Number in the Variations"
+msgstr "在变量中输入抽奖券号码"
+
+#: includes/w/W_RafflePlayWoo_Info.php:91
+msgid "Enter the license number"
+msgstr "输入许可证号码"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2521
+#: includes/RafflePlayWoo_LifeCycle.php:4844
+msgid ""
+"Enter the number or raffle tickets you want for this product. If you have "
+"Raffle Variable Product set the number of raffle tickets in the Variation "
+"product"
+msgstr "输入该产品所需的奖券数量。如果您有抽奖可变产品，请在可变产品中设置抽奖券的数量。"
+
+#: includes/RafflePlayWoo_Plugin.php:257
+msgid "Error Parsing Data"
+msgstr "解析数据时出错"
+
+#: includes/RafflePlayWoo_Plugin.php:320
+msgid "Error. Could not change the number. Refresh the page and try again"
+msgstr "错误。无法更改号码。刷新页面后再试一次"
+
+#: raffle-play-woo.php:27
+msgid ""
+"Error: plugin \"Raffle Play\" requires a higher version of PHP to be running."
+msgstr "错误：插件 \"Raffle Play \"需要更高版本的PHP运行。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:218
+msgid ""
+"Example: Concentrate number is 100, customer buys 20 tickets, and there are "
+"4 lucky numbers not won. The pool to draw one winning number is 124. Changes "
+"to win is 4/124 for each number drawn from 24 purchased. (Extremely high to "
+"win)"
+msgstr ""
+"举例说明：集中号码是 100，客户购买了 20 张彩票，有 4 个幸运号码没有中奖。开出一个中奖号码的奖池为 124。从购买的 24 "
+"个号码中，每个号码的中奖率为 4/124。(中奖率极高）"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:482
+msgid "Execute"
+msgstr "执行"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:154
+msgid "Export Columns"
+msgstr "出口列"
+
+#: includes/RafflePlayWoo_Plugin.php:303
+#: includes/w/W_RafflePlayWoo_Winners.php:103
+msgid "Extra Info"
+msgstr "额外信息"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:188
+msgid ""
+"Extra info about raffle displayed on next table row. Leave empty to skip. Eg:"
+" Raffle draw is on 25th of June 2021. Good Luck!"
+msgstr "关于抽奖的额外信息显示在下一个表格行。留空则跳过。例如。抽奖活动将于2021年6月25日举行。祝您好运!"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:633
+msgid "Extra Info Footer (html)"
+msgstr "额外信息页脚(html)"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:90
+msgid "Extra Info Line"
+msgstr "额外信息线"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:91
+msgid ""
+"Extra information about the raffle (like when/where the draw is taking place)"
+msgstr "有关抽奖的额外信息（如抽奖的时间/地点）。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:186
+msgid "Extra Line Info"
+msgstr "额外线路信息"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:91
+msgid "Extra Settings"
+msgstr "额外设置"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:656
+msgid "Extra Style (CSS)"
+msgstr "额外风格（CSS）"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:265
+msgid ""
+"Extract custom fields captured at checkout. Custom fields saved in order can "
+"be extracted in this report."
+msgstr "提取结账时捕获的自定义字段。本报告可提取订单中保存的自定义字段。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:349
+msgid "Failed"
+msgstr "失败"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:498
+msgid "February"
+msgstr "2月"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:35
+#: includes/w/W_RafflePlayWoo_ViewPage.php:133
+#: includes/w/W_RafflePlayWoo_ViewPage.php:182
+#: includes/w/W_RafflePlayWoo_ViewPage.php:308
+msgid "Filter"
+msgstr "过滤器"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:49
+msgid "Finish"
+msgstr "完成"
+
+#: includes/RafflePlayWoo_Plugin.php:265
+#: includes/d/D_RafflePlayWoo_Reports.php:977
+#: includes/templates/customer_search.php:16
+#: includes/w/W_RafflePlayWoo_Reports.php:303
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:105
+msgid "First Name"
+msgstr "名字"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:27
+msgid ""
+"Fixed - Changing customer in the order, will update the raffle tickets in My "
+"Account page"
+msgstr "修正 - 更改订单中的客户，将更新 \"我的帐户 \"页面中的抽奖券"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:31
+msgid "Fixed - Removed expired reserved tickets after time expired"
+msgstr "已修复 - 删除时间已过期的预订门票"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:35
+msgid "Fixed - Removed raffle tickets limit for variation tickets"
+msgstr "已修复 - 取消了变体奖券的抽奖券限制"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:646
+msgid "Footer Height (px)"
+msgstr "页脚高度（px）"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:27
+msgid "For now your product is under the Default raffle "
+msgstr "目前，您的产品在 \"默认抽奖 \"中。"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:56
+msgid "For suggestions email me at developer@tuskcode.com"
+msgstr "如有建议，请发电子邮件给我：developer@tuskcode.com"
+
+#: includes/RafflePlayWoo_Includes.php:33
+msgid "For suggestions or support contact here"
+msgstr "如需建议或支持，请联系这里"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:29
+msgid ""
+"For the plugin to work properly you need to correct the below based on your "
+"website"
+msgstr "要使插件正常工作，您需要根据自己的网站修正以下内容"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:143
+msgid "From"
+msgstr "来自"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:63
+msgid "From Date"
+msgstr "发稿日期"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:407
+msgid ""
+"Functionality moved into \"View Tickets\" page - now checking per raffle"
+msgstr "功能移至 \"查看门票 \"页面 - 现在每次抽奖都要进行检查"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:65
+msgid "General"
+msgstr "一般"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:4
+msgid "General Settings"
+msgstr "一般设置"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:8
+msgid "Generate and Show Raffle tickets at Checkout"
+msgstr "在结账时生成并显示抽奖券"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:187
+msgid "Generate and Show Raffle tickets at checkout"
+msgstr "在结账时生成并显示抽奖券"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3601
+msgid "Generate New PDF"
+msgstr "生成新 PDF"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:286
+msgid "Generate Raffle Tickets for Order Status"
+msgstr "根据订单状态生成抽奖券"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:177
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:112
+msgid "Generate Random Tickets "
+msgstr "生成随机门票"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:167
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:103
+msgid ""
+"Generate Random Tickets within the range created by start ticket plus number "
+"of tickets. ***IMPORTANT*** Do not change the raffle ticket system from "
+"random to inline after tickets have been purchased***"
+msgstr "在起始票加票数创建的范围内生成随机票。 ***重要的是***不要在购票后将抽奖券系统从随机改为内联***。"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:167
+msgid "Generate Report"
+msgstr "生成报告"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:124
+msgid "Generate, Reserve, and Show Raffle tickets at checkout"
+msgstr "在结账时生成、预订和显示抽奖券"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:11
+msgid "Generated Raffle tickets at Checkout"
+msgstr "结账时生成抽奖券"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:116
+msgid "Generated Tickets at Checkout"
+msgstr "结账时生成的门票"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:325
+msgid "Get Random"
+msgstr "随机获取"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:221
+msgid "Get Sale By Product"
+msgstr "按产品获得销售"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:352
+msgid "Give Random"
+msgstr "给随机"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:19
+msgid ""
+"Giveaway free raffle tickets when customers buy a certain amount at the "
+"checkout"
+msgstr "顾客在结账时购买一定金额的商品，可免费获得抽奖券"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:14
+msgid ""
+"Go to 'Products' page and create a new product. But don't leave the page yet."
+msgstr "进入 \"产品 \"页面，创建一个新产品。但先不要离开这个页面。"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:35
+msgid ""
+"Go to General Setting (Default Raffle)  and edit the 'Email Template' "
+"section."
+msgstr "进入常规设置（默认抽奖）并编辑 \"电子邮件模板 \"部分。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:20
+#: includes/w/W_RafflePlayWoo_MainPage.php:733
+#: includes/w/W_RafflePlayWoo_Raffles.php:359
+msgid "Gold"
+msgstr "金色"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:21
+#: includes/w/W_RafflePlayWoo_MainPage.php:734
+#: includes/w/W_RafflePlayWoo_Raffles.php:360
+msgid "Gold Lines"
+msgstr "金线"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:51
+msgid "Good luck, and stay updated for new plugin changes on "
+msgstr "祝你好运，并保持更新，以了解新的插件变化。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:22
+#: includes/w/W_RafflePlayWoo_MainPage.php:735
+#: includes/w/W_RafflePlayWoo_Raffles.php:361
+msgid "Gray"
+msgstr "灰色"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:159
+msgid "Group Tickets by Order"
+msgstr "团体票订购"
+
+#: includes/RafflePlayWoo_Plugin.php:323
+msgid ""
+"Have you waited for the request to load? No Tickets Changes yet recorded"
+msgstr "您等待请求加载了吗？尚未记录门票更改"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:227
+msgid ""
+"Having different raffle tickets in the same Order, the reports will not "
+"retrieve the correct data (choose Product)"
+msgstr "同一订单中有不同的抽奖券，报告将无法检索到正确的数据（选择产品）"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:546
+msgid "Header Logo Image (only .jpeg)"
+msgstr "标题标志图片（仅有.jpeg）。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:75
+#: includes/w/W_RafflePlayWoo_MainPage.php:148
+msgid "Header Text"
+msgstr "标题文本"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:28
+msgid "HERE"
+msgstr "这里"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:488
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:551
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:624
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:686
+msgid "Here"
+msgstr "这里"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:32
+msgid "Here are the Capabilities listed:"
+msgstr "以下是列出的功能："
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1137
+msgid ""
+"Here is an example on how to display a custom counter on any page with "
+"tuskcode countdwon"
+msgstr "下面是一个示例，说明如何使用 tuskcode countdwon 在任何页面上显示自定义计数器"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1029
+msgid "Hide \"Add To Cart\" Button"
+msgstr "隐藏 \"添加到购物车 \"按钮"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1204
+msgid "Hide Progress Bar if the product is not purchasable"
+msgstr "如果产品不可购买，则隐藏进度条"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:675
+msgid "Hide Terminated Raffles in the Product->Raffles List"
+msgstr "在产品->奖券列表中隐藏已终止的奖券"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:360
+msgid "History Changes"
+msgstr "历史变迁"
+
+#: includes/RafflePlayWoo_Countdown.php:53
+msgid "Hours"
+msgstr "小时数"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1077
+msgid "Hours Label"
+msgstr "小时标签"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1160
+msgid "How it works."
+msgstr "如何使用"
+
+#: includes/RafflePlayWoo_Plugin.php:277
+msgid "Id"
+msgstr "同上"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:80
+msgid ""
+"If changing the ticket no while raffle is running, make sure is above the "
+"last used ticket."
+msgstr "如果在抽奖过程中改变票号，请确保是在最后使用的票号之上。"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:192
+msgid "If empty, use woocommerce currency"
+msgstr "如果为空，则使用woocommerce的货币"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:848
+msgid ""
+"If Enabled go to Settings ->\n"
+"                                                     Permalinks and click on "
+"Save Changes for the Tab to show up in the Woocommerce Account - Do it once "
+msgstr ""
+"如果已启用，请转到设置 ->\n"
+"                                                     永久链接，然后单击保存更改，使选项卡显示在 "
+"Woocommerce 账户中。"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:34
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:67
+msgid "If not allowed to play the crossword based on the rules"
+msgstr "如果不允许根据规则玩填字游戏"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2512
+msgid ""
+"If product is raffle and this option is enabled, save product, and go to "
+"Variations to set the raffle tickets number for each variation"
+msgstr "如果产品是抽奖产品且该选项已启用，请保存产品，然后转到变体设置每个变体的抽奖券数量"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1031
+msgid "If Raffle hasn't started, it's finished or terminated"
+msgstr "如果抽奖尚未开始，则已结束或终止"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:5
+msgid ""
+"If you are planning to run multiple raffles, on this page you can create a "
+"new one"
+msgstr "如果你打算进行多次抽奖，在这个页面上你可以创建一个新的抽奖。"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:55
+msgid "If you like this plugin don't forget to rate it"
+msgstr "如果你喜欢这个插件，别忘了给它评分。"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:224
+msgid ""
+"IMPORTANT - PLEASE READ IF YOU ARE RUNNING MULTIPLE RAFFLES AT THE SAME TIME "
+"(MIXED CHECKOUT RAFFLE PRODUCTS)"
+msgstr "重要 - 如果您同时进行多个抽奖活动（混合结账抽奖产品），请阅读以下内容"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:98
+msgid "In the email can be positioned in different places"
+msgstr "在电子邮件中可以定位在不同的地方"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:415
+msgid "In the next version you will be able to fix duplicates from this page."
+msgstr "在下一个版本中，您将可以从该页面修复重复内容。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:677
+msgid ""
+"In the product settings. Hide Terminated Raffles from the raffles list. This "
+"is convenient when you have a long list of raffles. Beaware that the product "
+"might be linked to the any of the hidden terminated raffle."
+msgstr ""
+"在产品设置中。从抽奖活动列表中隐藏终止的抽奖活动。当你有一个很长的抽奖活动列表时，这很方便。注意该产品可能与任何一个被隐藏的终止抽奖活动相关联。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:508
+msgid "Include Billing Info"
+msgstr "包括帐单信息"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:293
+#: includes/w/W_RafflePlayWoo_Promotion.php:341
+msgid "Include Category"
+msgstr "包括类别"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:358
+msgid "Include in draw after tickets purchased"
+msgstr "购票后参加抽奖"
+
+#: includes/RafflePlayWoo_Plugin.php:329
+msgid ""
+"Include in draw after tickets purchased cannot be greater than maximum limit"
+msgstr "购票后参加抽奖的人数不得超过最高限额"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:285
+msgid "Include Leading Zero"
+msgstr "包括前导零"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:271
+msgid "Include Prefix"
+msgstr "包含前缀"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:497
+msgid "Include Product Name & Quantity"
+msgstr "包括产品名称和数量"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:161
+msgid "Include Raffle Name"
+msgstr "包括抽奖活动名称"
+
+#: includes/RafflePlayWoo_Plugin.php:286
+msgid "Info"
+msgstr "信息"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:76
+msgid "Info about the raffle"
+msgstr "关于抽奖的信息"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:61
+msgid ""
+"Informational - Might be the case when 2 raffle tickets to have the same "
+"number (should not happen)"
+msgstr "信息 - 可能会出现2张抽奖券有相同号码的情况（不应该发生）。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:56
+msgid "Informational - Shows the raffle products linked to this raffle"
+msgstr "信息性 - 显示与此抽奖活动相关的抽奖产品"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:51
+msgid "Informational - what's the last ticket purchased"
+msgstr "信息性--最后购买的门票是多少"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:307
+msgid "Inherit Email Format from Default Raffle"
+msgstr "继承默认抽奖活动的电子邮件格式"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:322
+msgid "Inherit Messages from Default Raffle"
+msgstr "继承默认抽奖活动的信息"
+
+#: includes/RafflePlayWoo_LifeCycle.php:470
+msgid "Installation Info"
+msgstr "安装信息"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:267
+msgid "Invalid chars (<,>,&,%,',\")"
+msgstr "无效字符（<,>,&,%,',\"）。"
+
+#: includes/templates/customer_search.php:33
+msgid "Invalid Email"
+msgstr "无效电子邮件"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1609
+msgid "Invalid email"
+msgstr "无效电子邮件"
+
+#: includes/RafflePlayWoo_Plugin.php:294
+msgid "Invalid Limit Number"
+msgstr "无效的限制号码"
+
+#: includes/RafflePlayWoo_Plugin.php:271
+msgid "Invalid Number"
+msgstr "无效号码"
+
+#: includes/RafflePlayWoo_Plugin.php:293
+msgid "Invalid Start Ticket Number"
+msgstr "无效的起始票号"
+
+#: includes/RafflePlayWoo_Plugin.php:304
+msgid "Invalid Ticket Number"
+msgstr "无效票号"
+
+#: includes/templates/customer_search.php:20
+msgid "is required field"
+msgstr "为必填字段"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:15
+msgid ""
+"It can be of type test, used for testing purposes, with special raffle "
+"numbers, and live.\n"
+"             When finishing testing dont forget to switch to live."
+msgstr ""
+"它可以是测试类型，用于测试目的，有特殊的抽奖号码，和现场。\n"
+"             当完成测试时，不要忘记切换到现场。"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:13
+msgid ""
+"It doesnt inherit the extra message from the email template as it can be "
+"custom set for the new raffle"
+msgstr "它不继承电子邮件模板中的额外信息，因为它可以为新的抽奖活动定制设置。"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:9
+msgid ""
+"It inherits the other settings from the Default Raffle like (message, email "
+"temaplate)"
+msgstr "它继承了默认抽奖活动的其他设置，如（信息、电子邮件模板）。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:335
+msgid "It wont affect the order, raffle tickets won't be created"
+msgstr "这不会影响订单，抽奖券也不会被创建。"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:497
+msgid "January"
+msgstr "一月"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:503
+msgid "July"
+msgstr "七月"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:502
+msgid "June"
+msgstr "6月"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:179
+msgid "Label Customer City"
+msgstr "客户城市标签"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:191
+msgid "Label Customer Country"
+msgstr "标签 客户国家"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:167
+msgid "Label Customer Name"
+msgstr "标签 客户名称"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:203
+msgid "Label Purchased"
+msgstr "购买的标签"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:155
+msgid "Label Tickets"
+msgstr "标签门票"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:70
+msgid ""
+"Labels and info that will show in the email confirmation, and thank you page"
+msgstr "将显示在电子邮件确认和感谢页面的标签和信息"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:536
+msgid "Landscape"
+msgstr "景观"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:50
+msgid "Last Live Ticket"
+msgstr "最后一张现场门票"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:210
+msgid "Last Live Used Ticket"
+msgstr "最后一张现场使用的门票"
+
+#: includes/RafflePlayWoo_Plugin.php:266
+#: includes/d/D_RafflePlayWoo_Reports.php:978
+#: includes/templates/customer_search.php:17
+#: includes/w/W_RafflePlayWoo_Reports.php:304
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:118
+msgid "Last Name"
+msgstr "姓氏"
+
+#: includes/RafflePlayWoo_Plugin.php:299
+msgid "Last Ticket"
+msgstr "最后一张票"
+
+#: includes/w/W_RafflePlayWoo_Info.php:168
+msgid "Latest Version Available"
+msgstr "现有的最新版本"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:176
+msgid "Leave empty if no prefix wanted. (eg: Ticket-10024)"
+msgstr "如果不需要前缀，则留空。(例如: Ticket-10024)"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:285
+msgid "Let the System pick the number randomly when tickets are generated"
+msgstr "让系统在生成门票时随机选择号码"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:550
+#: includes/w/W_RafflePlayWoo_MainPage.php:748
+#: includes/w/W_RafflePlayWoo_Raffles.php:373
+msgid "Library"
+msgstr "图书馆"
+
+#: includes/w/W_RafflePlayWoo_Info.php:48
+msgid "License"
+msgstr "许可证"
+
+#: includes/RafflePlayWoo_LifeCycle.php:381
+msgid "License & Documentation"
+msgstr "许可证和文件"
+
+#: includes/w/W_RafflePlayWoo_Info.php:88
+msgid "License (paste it here)"
+msgstr "许可证（粘贴在此处）"
+
+#: includes/w/W_RafflePlayWoo_Info.php:124
+msgid "License Active"
+msgstr "许可证有效"
+
+#: includes/w/W_RafflePlayWoo_Info.php:188
+msgid "License Date last checked"
+msgstr "许可证 上次检查日期"
+
+#: includes/w/W_RafflePlayWoo_Info.php:202
+msgid ""
+"License is valid. Thank you for using our product. We much appreciate it."
+msgstr "许可证是有效的。感谢你使用我们的产品。我们非常感激。"
+
+#: includes/w/W_RafflePlayWoo_Info.php:114
+msgid "License Version"
+msgstr "许可证版本"
+
+#: includes/w/W_RafflePlayWoo_Info.php:98
+#: includes/w/W_RafflePlayWoo_Info.php:101
+msgid "Licensing Server Url"
+msgstr "许可证服务器网址"
+
+#: includes/RafflePlayWoo_Plugin.php:285
+msgid "Limit No"
+msgstr "限制 没有"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:30
+msgid "Limit number of tickets"
+msgstr "限制门票数量"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:90
+msgid "Limit Number or Raffle Tickets"
+msgstr "限定数量或抽奖券"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:253
+msgid "Limit or rows to display (use -1 for unlimited rows)"
+msgstr "限制显示的行数（使用 -1 表示行数不受限制）"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:369
+msgid ""
+"Limit order per raffle tickets. Avoid mixing raffle tickets per order. The "
+"check is made on add to cart event."
+msgstr "限制每张抽奖券的订单。避免每个订单混合抽奖券。检查是在添加到购物车活动中进行的。"
+
+#: includes/RafflePlayWoo_Plugin.php:284
+msgid "Limited"
+msgstr "ǞǞǞ"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:160
+msgid "Limited Tickets"
+msgstr "有限的门票"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:799
+#: includes/w/W_RafflePlayWoo_ViewPage.php:237
+msgid "Line Height"
+msgstr "线条高度"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:387
+msgid "Linked to Product"
+msgstr "与产品相关联"
+
+#: includes/RafflePlayWoo_Plugin.php:279
+#: includes/w/W_RafflePlayWoo_Raffles.php:91
+#: includes/w/W_RafflePlayWoo_ViewPage.php:30
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:44
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:45
+msgid "Live"
+msgstr "现场"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:221
+msgid "Live Raffle Tickets Purchased"
+msgstr "购买的现场抽奖券"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:72
+msgid "Live Ticket Starts At"
+msgstr "现场门票起价为"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:25
+msgid "Live Tickets Start At"
+msgstr "现场门票起价为"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:149
+msgid "Location at Checkout (if checkout is created using blocks)"
+msgstr "结账时的位置（如果使用区块创建结账）"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:115
+msgid ""
+"Location at Checkout (if checkout is created with shortcode "
+"[woocommerce_checkout])"
+msgstr "结账时的位置（如果使用简码 [woocommerce_checkout] 创建了结账）"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:22
+msgid "Logged In Users"
+msgstr "登录用户"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:46
+msgid "Login url (or product url)"
+msgstr "登录网址（或产品网址）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:303
+msgid "Look up Available Numbers"
+msgstr "查询可用号码"
+
+#: includes/RafflePlayWoo_Plugin.php:330
+msgid "Lucky number cannot be above the maximum limit"
+msgstr "幸运数字不能超过最高限额"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:264
+msgid "Lucky Number Name"
+msgstr "幸运数字名称"
+
+#: includes/RafflePlayWoo_LifeCycle.php:445
+#: includes/w/W_RafflePlayWoo_Lucky.php:104
+msgid "Lucky Numbers (Instant Wins)"
+msgstr "幸运号码（即开即赢）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:279
+msgid "Lukcy Number"
+msgstr "编号"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:8
+msgid "Main update - Lucky Numbers, Instant wins"
+msgstr "主要更新--幸运号码、即开即赢"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:499
+msgid "March"
+msgstr "三月"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:106
+msgid "Maximum 200 characters"
+msgstr "最多200个字符"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:501
+msgid "May"
+msgstr "5月"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:82
+msgid "Message after reserved time has passed!"
+msgstr "保留时间过后的信息！"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:109
+msgid ""
+"Messages are connected to general settings like terminated, start/end dates "
+"etc"
+msgstr "信息与一般设置相连，如终止、开始/结束日期等"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:345
+msgid "Messages Shortcode"
+msgstr "信息短代码"
+
+#: raffle-play-woo.php:28
+msgid "Minimal version of PHP required: "
+msgstr "需要最少的PHP版本。"
+
+#: includes/RafflePlayWoo_Countdown.php:54
+msgid "Minutes"
+msgstr "分钟"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:39
+msgid "minutes"
+msgstr "分钟"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1087
+msgid "Minutes Label"
+msgstr "分钟标签"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:484
+msgid "Month"
+msgstr "月份"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:143
+#: includes/w/W_RafflePlayWoo_Reports.php:96
+msgid "Monthly Sales"
+msgstr "月销售额"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:10
+msgid "Most of the settings found on this page are self explanatory."
+msgstr "本页中的大多数设置是不言自明的。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:157
+#: includes/w/W_RafflePlayWoo_MainPage.php:81
+msgid "Multiple Raffles"
+msgstr "多次抽奖"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:465
+#: includes/w/W_RafflePlayWoo_Promotion.php:203
+msgid "Name"
+msgstr "名称"
+
+#: includes/RafflePlayWoo_Plugin.php:325
+msgid "New"
+msgstr "新"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:194
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:131
+msgid "New feature"
+msgstr "新功能"
+
+#: includes/RafflePlayWoo_Plugin.php:288
+msgid "New Raffle"
+msgstr "新的抽奖活动"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5626
+msgid "New Ticket "
+msgstr "新票"
+
+#: includes/RafflePlayWoo_Plugin.php:282 includes/w/W_RafflePlayWoo_Info.php:15
+#: includes/w/W_RafflePlayWoo_MainPage.php:166
+#: includes/w/W_RafflePlayWoo_MainPage.php:377
+#: includes/w/W_RafflePlayWoo_MainPage.php:430
+#: includes/w/W_RafflePlayWoo_MainPage.php:502
+#: includes/w/W_RafflePlayWoo_MainPage.php:513
+#: includes/w/W_RafflePlayWoo_MainPage.php:685
+#: includes/w/W_RafflePlayWoo_MainPage.php:701
+#: includes/w/W_RafflePlayWoo_MainPage.php:718
+#: includes/w/W_RafflePlayWoo_MainPage.php:857
+#: includes/w/W_RafflePlayWoo_MainPage.php:1039
+#: includes/w/W_RafflePlayWoo_MainPage.php:1217
+#: includes/w/W_RafflePlayWoo_MainPage.php:1232
+#: includes/w/W_RafflePlayWoo_Raffles.php:96
+#: includes/w/W_RafflePlayWoo_Raffles.php:109
+#: includes/w/W_RafflePlayWoo_Raffles.php:173
+#: includes/w/W_RafflePlayWoo_Raffles.php:181
+#: includes/w/W_RafflePlayWoo_Raffles.php:202
+#: includes/w/W_RafflePlayWoo_Raffles.php:269
+#: includes/w/W_RafflePlayWoo_Raffles.php:312
+#: includes/w/W_RafflePlayWoo_Raffles.php:327
+#: includes/w/W_RafflePlayWoo_Raffles.php:346
+#: includes/w/W_RafflePlayWoo_Raffles.php:404
+#: includes/w/W_RafflePlayWoo_Raffles.php:430
+#: includes/w/W_RafflePlayWoo_Raffles.php:457
+#: includes/w/W_RafflePlayWoo_Raffles.php:483
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:58
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:195
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:63
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:108
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:117
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:139
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:239
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:425
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:445
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:516
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:581
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:651
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:24
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:46
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:106
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:120
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:134
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:148
+msgid "No"
+msgstr "没有"
+
+#: includes/RafflePlayWoo_Plugin.php:322
+msgid ""
+"No available tickets found, increase the number of available raffle tickets."
+msgstr "未找到可用奖券，请增加可用奖券数量。"
+
+#: includes/RafflePlayWoo_LifeCycle.php:561
+msgid "No raffle id provided"
+msgstr "不提供抽奖 ID"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:55
+msgid "No raffle products will be available at checkout while disabled."
+msgstr "在禁用期间，没有抽奖产品可以在结账时使用。"
+
+#: includes/RafflePlayWoo_Plugin.php:291
+msgid "No Raffle Selected"
+msgstr "没有选择抽奖"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:145
+msgid "No Raffle Tickets found on this search"
+msgstr "本次搜索未找到抽奖券"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:935
+msgid "No Raffle Tickets to display - message"
+msgstr "未显示抽奖券 - 信息"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:326
+msgid ""
+"No raffle tickets will be generated. You need to select at least one order "
+"status to generate tickets. Recommending to enable Processing and Completed"
+msgstr "不会生成抽奖券。您需要选择至少一种订单状态才能生成奖券。建议启用正在处理和已完成"
+
+#: includes/templates/product_raffle_tab.php:186
+msgid "No records found"
+msgstr "未找到记录"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:448
+msgid "No Restrict"
+msgstr "无限制"
+
+#: includes/RafflePlayWoo_Plugin.php:290
+msgid "No Row Selected"
+msgstr "未选择行"
+
+#: includes/RafflePlayWoo_Plugin.php:262
+msgid "No Tickets"
+msgstr "没有门票"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:129
+msgid "No tickets found message"
+msgstr "未找到门票信息"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:496
+#: includes/w/W_RafflePlayWoo_Lucky.php:14
+msgid "None"
+msgstr "无"
+
+#: includes/RafflePlayWoo_Plugin.php:324
+msgid "Not Found"
+msgstr "未找到"
+
+#: includes/templates/pdf_template_one.php:306
+#: includes/templates/pdf_template_two.php:305
+msgid "Note:"
+msgstr "请注意："
+
+#: includes/d/D_RafflePlayWoo_Reports.php:507
+msgid "November"
+msgstr "11月"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:20
+msgid ""
+"Now you can delegate some of the work to different users thanks to the new "
+"update on User Access."
+msgstr "现在，由于用户访问权限的新升级，您可以将部分工作委托给不同的用户。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:466
+msgid "Number"
+msgstr "数量"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:506
+msgid "October"
+msgstr "10月"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:167
+msgid "Off as Default"
+msgstr "关为默认"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:291
+msgid "OK"
+msgstr "认可"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5625
+msgid "Old Ticket"
+msgstr "旧票"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:310
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:314
+msgid "On Hold"
+msgstr "搁置"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:487
+msgid "One"
+msgstr "一"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:162
+msgid "One Raffle Tickets at checkout"
+msgstr "结账时赠送一张抽奖券"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:367
+msgid "One Raffle tickets at checkout."
+msgstr "结账时可获得一张抽奖券。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1301
+msgid "Optional settings"
+msgstr "可选设置"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:69
+msgid "OR"
+msgstr "或"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:23
+#: includes/w/W_RafflePlayWoo_MainPage.php:736
+#: includes/w/W_RafflePlayWoo_Raffles.php:362
+msgid "Orange"
+msgstr "橙色"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1055
+#: includes/w/W_RafflePlayWoo_MainPage.php:919
+#: includes/w/W_RafflePlayWoo_Reports.php:220
+msgid "Order"
+msgstr "秩序"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:246
+msgid "Order can be changed by dragging to desired position number"
+msgstr "可以通过拖动到所需的位置号来改变顺序"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:240
+#: includes/d/D_RafflePlayWoo_Reports.php:989
+#: includes/w/W_RafflePlayWoo_Reports.php:314
+msgid "Order Date"
+msgstr "订购日期"
+
+#: includes/RafflePlayWoo_Plugin.php:269
+msgid "Order Date/Time"
+msgstr "订购日期/时间"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:217
+msgid "Order has mixed raffle products"
+msgstr "订单有混合抽奖产品"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3386
+#: includes/RafflePlayWoo_LifeCycle.php:5627
+#: includes/RafflePlayWoo_Plugin.php:258
+#: includes/w/W_RafflePlayWoo_ViewPage.php:342
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:91
+msgid "Order Id"
+msgstr "订单编号"
+
+#: includes/templates/customer_search.php:14
+msgid "Order id"
+msgstr "订单 id"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:472
+msgid ""
+"Order Id + Customer First Name + Customer Last Name (eg: 5_John_Silva.pdf)"
+msgstr "订单编号+客户姓名+客户姓氏（例如：5_John_Silva.pdf）。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:464
+msgid ""
+"Order Id + GUID (eg: 5_ADFE2345ADEFEF-42ADFG-34TERE.pdf) ***RECOMMENDED***"
+msgstr "订单编号+GUID（例如：5_ADFE2345ADEFEF-42ADFG-34TERE.pdf） ***建议****"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:50
+msgid "Order in Modal"
+msgstr "在模式中排序"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:976
+#: includes/w/W_RafflePlayWoo_Reports.php:301
+msgid "Order No"
+msgstr "订购号"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:70
+msgid ""
+"Order of the tab, 5 will be the first tab shown, 15 will be second, and so on"
+msgstr "选项卡的顺序，5 是第一个显示的选项卡，15 是第二个，以此类推"
+
+#: includes/RafflePlayWoo_Plugin.php:264
+msgid "Order Sale"
+msgstr "订单销售"
+
+#: includes/RafflePlayWoo_Plugin.php:315
+#: includes/d/D_RafflePlayWoo_Reports.php:988
+#: includes/w/W_RafflePlayWoo_Reports.php:313
+msgid "Order Status"
+msgstr "订单状态"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:198
+#: includes/w/W_RafflePlayWoo_ViewPage.php:75
+msgid "Order Status "
+msgstr "订单状态"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:987
+#: includes/w/W_RafflePlayWoo_Reports.php:302
+msgid "Order Total"
+msgstr "订单总数"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:423
+msgid "Orders"
+msgstr "订单"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1581
+#: includes/RafflePlayWoo_LifeCycle.php:6204
+msgid "Page did not verify"
+msgstr "页面未核实"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:520
+msgid "Page Orientation"
+msgstr "页面定位"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:348
+msgid "Payment failed or was declined (unpaid)"
+msgstr "付款失败或被拒绝（未支付）。"
+
+#: includes/docs/RafflePlayWoo_Docs_Pdf_Attachment.php:3
+#: includes/w/W_RafflePlayWoo_MainPage.php:86
+msgid "PDF Email Attachment"
+msgstr "PDF电子邮件附件"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:456
+msgid "PDF Filename"
+msgstr "PDF文件名"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:481
+msgid "PDF Template"
+msgstr "PDF模板"
+
+#: includes/RafflePlayWoo_Plugin.php:275
+#: includes/d/D_RafflePlayWoo_Reports.php:986
+#: includes/w/W_RafflePlayWoo_Reports.php:312
+msgid "Phone"
+msgstr "电话"
+
+#: includes/templates/customer_search.php:18
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:75
+msgid "Phone Number"
+msgstr "电话号码"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:293
+msgid "Pick the number manually"
+msgstr "手动选择号码"
+
+#: includes/RafflePlayWoo_Plugin.php:316
+#: includes/w/W_RafflePlayWoo_ViewPage.php:375
+msgid "Please Wait."
+msgstr "请稍候。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:528
+msgid "Portrait"
+msgstr "形象代言人"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:527
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:662
+msgid "Position on Grid Card"
+msgstr "在网格卡上的位置"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:456
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:592
+msgid "Position on Product page"
+msgstr "在产品页面上的位置"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:982
+#: includes/w/W_RafflePlayWoo_Reports.php:308
+msgid "Post Code"
+msgstr "邮政编码"
+
+#: includes/RafflePlayWoo_Plugin.php:297
+msgid "Prefix"
+msgstr "前缀"
+
+#: includes/templates/pdf_template_one.php:264
+#: includes/templates/pdf_template_two.php:263
+msgid "Price"
+msgstr "价格"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:294
+msgid "Print"
+msgstr "打印"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:199
+msgid "Print Options"
+msgstr "打印选项"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:92
+msgid "Print Tickets"
+msgstr "打印门票"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:65
+msgid "Priority"
+msgstr "优先权"
+
+#: includes/RafflePlayWoo_Plugin.php:305
+#: includes/w/W_RafflePlayWoo_Winners.php:68
+msgid "Prize"
+msgstr "奖品"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:71
+msgid "Prize Name"
+msgstr "奖项名称"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:294
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:298
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:372
+msgid "Processing"
+msgstr "加工"
+
+#: includes/RafflePlayWoo_Plugin.php:314
+#: includes/templates/pdf_template_one.php:262
+#: includes/templates/pdf_template_two.php:261
+#: includes/w/W_RafflePlayWoo_Lucky.php:468
+#: includes/w/W_RafflePlayWoo_Reports.php:220
+msgid "Product"
+msgstr "产品"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:375
+msgid "Product from Category"
+msgstr "产品类别"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:855
+msgid "Product Name"
+msgstr "产品名称"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:127
+msgid "Product Raffle Tab (Last Tickets Sold)"
+msgstr "产品抽奖标签（最后售出的门票）"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:11
+msgid ""
+"Product Raffle Tab - Show last orders with sold tickets and customer info"
+msgstr "产品抽奖标签 - 显示最后订单及已售出门票和客户信息"
+
+#: includes/RafflePlayWoo_Plugin.php:283
+msgid "Products"
+msgstr "产品"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1264
+msgid "Progress Bar Color"
+msgstr "进度条颜色"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:462
+#: includes/w/W_RafflePlayWoo_Raffles.php:488
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:656
+msgid "Progress Bar Image"
+msgstr "进度条图像"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:111
+msgid "Progress Bar Settings"
+msgstr "进度条设置"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1209
+msgid "Progress Bar would be hidden if the raffle not running."
+msgstr "如果不进行抽奖，进度条将被隐藏。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:586
+msgid "Progressbar Image"
+msgstr "进度条图像"
+
+#: includes/RafflePlayWoo_LifeCycle.php:429
+#: includes/w/W_RafflePlayWoo_Promotion.php:176
+msgid "Promotion"
+msgstr "促销活动"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:65
+#: includes/w/W_RafflePlayWoo_Promotion.php:197
+msgid "Promotion Name"
+msgstr "推广名称"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:8
+#: includes/w/W_RafflePlayWoo_Promotion.php:39
+msgid "Promotional Raffle"
+msgstr "促销抽奖"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2492
+msgid ""
+"Promotional Raffle Product (watch video on how to setup promotional raffle)"
+msgstr "促销抽奖产品（观看如何设置促销抽奖的视频）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:24
+#: includes/w/W_RafflePlayWoo_MainPage.php:737
+#: includes/w/W_RafflePlayWoo_Raffles.php:363
+msgid "Purple"
+msgstr "紫色"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:121
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:149
+msgid "Put leading zeros to the number, the prefix will be included"
+msgstr "在数字前加零，前缀将包括在内"
+
+#: includes/templates/pdf_template_one.php:263
+#: includes/templates/pdf_template_two.php:262
+msgid "Quantity"
+msgstr "数量"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:693
+msgid "Quick view of the raffle tickets in the Orders Table View"
+msgstr "在订单表视图中快速查看抽奖券"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3711
+#: includes/RafflePlayWoo_LifeCycle.php:4655
+#: includes/RafflePlayWoo_Plugin.php:308
+#: includes/w/W_RafflePlayWoo_MainPage.php:447
+#: includes/w/W_RafflePlayWoo_MainPage.php:920
+#: includes/w/W_RafflePlayWoo_Promotion.php:246
+#: includes/w/W_RafflePlayWoo_Reports.php:52
+#: includes/w/W_RafflePlayWoo_ViewPage.php:61
+#: includes/w/W_RafflePlayWoo_Winners.php:79
+msgid "Raffle"
+msgstr "抽奖活动"
+
+#: includes/RafflePlayWoo_LifeCycle.php:793
+msgid "Raffle - Number of Tickets for this Variation"
+msgstr "抽奖 - 此变体的门票数量"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:60
+msgid "Raffle Action"
+msgstr "抽奖行动"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:60
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:399
+msgid "Raffle Duplicate Tickets"
+msgstr "抽奖活动复式票"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:199
+msgid "Raffle End Date Time"
+msgstr "抽奖结束日期 时间"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:132
+#, php-format
+msgid "Raffle has an ending date - notify user - %s as end date"
+msgstr "抽奖活动有一个结束日期 - 通知用户 - %s为结束日期"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:126
+msgid "Raffle has ended"
+msgstr "抽奖活动已经结束"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:284
+#, php-format
+msgid "Raffle has ended (end date - %s)"
+msgstr "抽奖活动已经结束（结束日期 - %s）。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:272
+#, php-format
+msgid "Raffle hasn't started (start date - %s)"
+msgstr "抽奖活动尚未开始（开始日期 - %s）。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:121
+msgid "Raffle hasn't started yet"
+msgstr "抽奖活动还没有开始"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1303
+msgid "Raffle id, swap 0 to your desired raffle id"
+msgstr "抽奖 ID，将 0 替换为所需的抽奖 ID"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:710
+#: includes/w/W_RafflePlayWoo_Raffles.php:338
+msgid ""
+"Raffle image will be placed in the background of the ticket number. Custom "
+"images can be used, or customized in the template"
+msgstr "抽奖图像将被放在票号的背景中。可以使用自定义图像，或在模板中定制"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:41
+#: includes/w/W_RafflePlayWoo_MainPage.php:260
+msgid "Raffle is Terminated"
+msgstr "抽奖活动终止"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:116
+msgid "Raffle is Termindated"
+msgstr "抽奖活动已结束"
+
+#: includes/RafflePlayWoo_Plugin.php:278
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:80
+#: includes/w/W_RafflePlayWoo_Raffles.php:71
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:27
+msgid "Raffle Name"
+msgstr "抽奖活动名称"
+
+#: includes/RafflePlayWoo_Plugin.php:292
+msgid "Raffle Name Required"
+msgstr "抽奖活动名称必填"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2519
+#: includes/RafflePlayWoo_LifeCycle.php:4842
+msgid "Raffle Number of tickets"
+msgstr "抽奖券数量"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:21
+msgid "Raffle Number or Tickets"
+msgstr "抽奖号码或奖券"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2548
+#: includes/RafflePlayWoo_LifeCycle.php:4815
+#: includes/RafflePlayWoo_LifeCycle.php:4869
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:19
+msgid "Raffle Play Product"
+msgstr "抽奖活动产品"
+
+#: raffle-play-woo.php:35 raffle-play-woo.php:41 raffle-play-woo.php:47
+#: includes/RafflePlayWoo_LifeCycle.php:4652
+msgid "Raffle Play Woo"
+msgstr "抽奖活动 玩转Woo"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2480
+msgid "Raffle Product"
+msgstr "抽奖产品"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:55
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:268
+msgid "Raffle Products"
+msgstr "抽奖产品"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2455
+msgid "Raffle Settings"
+msgstr "抽奖设置"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:40
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:45
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:188
+msgid "Raffle Start Date Time"
+msgstr "抽奖活动开始日期 时间"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:14
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:37
+msgid "Raffle Status"
+msgstr "抽奖情况"
+
+#: includes/RafflePlayWoo_Plugin.php:270
+msgid "Raffle Ticket"
+msgstr "抽奖券"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:975
+#: includes/w/W_RafflePlayWoo_Reports.php:300
+msgid "Raffle Ticket No"
+msgstr "抽奖券编号"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2570
+#: includes/w/W_RafflePlayWoo_Promotion.php:294
+msgid "Raffle Tickets"
+msgstr "抽奖券"
+
+#: includes/RafflePlayWoo_Plugin.php:331
+msgid "Raffle tickets are Generated and Displayed at Checkout - Turn Off"
+msgstr "生成抽奖券并在结账时显示 - 关闭"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:154
+msgid "Raffle Tickets Info"
+msgstr "抽奖券信息"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:288
+msgid "Raffle Tickets will only be generated for these statuses"
+msgstr "抽奖券只针对这些状态生成"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:339
+msgid "Raffle tickets wont be generated if ticked on"
+msgstr "如果勾选，则不会生成抽奖券"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:131
+msgid "Raffle will end"
+msgstr "抽奖活动将结束"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:296
+#, php-format
+msgid "Raffle will end (end date - %s)"
+msgstr "抽奖活动将结束（结束日期 - %s）。"
+
+#: includes/RafflePlayWoo_LifeCycle.php:316
+#: includes/w/W_RafflePlayWoo_Raffles.php:17
+msgid "Raffles"
+msgstr "莱佛士"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2537
+#: includes/RafflePlayWoo_LifeCycle.php:4858
+msgid "Raffles List"
+msgstr "抽奖名单"
+
+#: includes/docs/RafflePlayWoo_Docs_RafflesSetup.php:3
+msgid "Raffles Setup"
+msgstr "抽奖的设置"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:351
+msgid "Random from available tickets"
+msgstr "从现有门票中随机抽取"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:42
+msgid "Recommended to have at least search on by email and order id"
+msgstr "建议至少通过电子邮件和订单 ID 进行搜索"
+
+#: includes/RafflePlayWoo_Plugin.php:310
+msgid "Records Deleted"
+msgstr "删除的记录"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:25
+#: includes/w/W_RafflePlayWoo_MainPage.php:738
+#: includes/w/W_RafflePlayWoo_Raffles.php:364
+msgid "Red"
+msgstr "红色"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:7
+msgid "Release 5.8.1  - 2023-December-05"
+msgstr "版本 5.8.1 - 2023 年 12 月 05 日"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:7
+msgid "Release 5.8.4  - 2024-Jan-4"
+msgstr "5.8.4 版 - 2024 年 1 月 4 日"
+
+#: includes/releases/RafflePlayWoo_Release_590.php:7
+msgid "Release 5.9.0  - 2024-Feb-18"
+msgstr "版本 5.9.0 - 2024-Feb-18"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:7
+msgid "Release 6.0.0  - 2024-Mar-23"
+msgstr "6.0.0 版 - 2024 年 3 月 23 日"
+
+#: includes/releases/RafflePlayWoo_Release_62.php:7
+msgid "Release 6.2  - 2024-Apr-25"
+msgstr "第 6.2 版 - 2024 年 4 月 25 日"
+
+#: includes/w/W_RafflePlayWoo_Releases.php:13
+msgid "Release Notes"
+msgstr "发布说明"
+
+#: includes/RafflePlayWoo_LifeCycle.php:398
+#: includes/w/W_RafflePlayWoo_Releases.php:21
+msgid "Releases"
+msgstr "发布"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:249
+msgid "Report Columns"
+msgstr "报告栏"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:182
+msgid "Report Settings"
+msgstr "报告设置"
+
+#: includes/RafflePlayWoo_LifeCycle.php:364
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:3
+#: includes/w/W_RafflePlayWoo_Reports.php:41
+msgid "Reports"
+msgstr "报告"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:65
+msgid "Reserve time message"
+msgstr "预约时间信息"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:17
+msgid "Reserved Time - Cycle"
+msgstr "保留时间 - 周期"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:28
+msgid "Reserved time for the raffle tickets at checkout"
+msgstr "结账时为抽奖券预留时间"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:48
+msgid "Reserved time for tickets at checkout, show countdown."
+msgstr "结账时保留购票时间，演出倒计时。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:439
+msgid ""
+"Restrict attachement only for Order with raffle products, or let all orders "
+"to have pdf attachment"
+msgstr "只对有抽奖产品的订单限制附件，或让所有订单都有pdf附件"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:437
+msgid "Restrict attachment only for Orders with: "
+msgstr "限制附件只适用于有以下情况的订单。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:163
+msgid ""
+"Restrict the user of adding mixed raffle tickets at checkout. Some customers "
+"want only one raffle tickets at checkout"
+msgstr "限制用户在结账时添加混合抽奖券。有些客户在结账时只想要一种抽奖券"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:47
+msgid "Reward customers with free raffle tickets for each purchase they make"
+msgstr "顾客每次购物都可获得免费抽奖券作为奖励"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:66
+#: includes/w/W_RafflePlayWoo_Promotion.php:106
+#: includes/w/W_RafflePlayWoo_Promotion.php:274
+msgid "Rules"
+msgstr "规则"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:19
+msgid "Run Fix"
+msgstr "运行修复"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:215
+msgid "Running Multiple Raffles at the same time"
+msgstr "同时进行多项抽奖活动"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:149
+msgid "Sales by Country and County"
+msgstr "按国家和县分列的销售额"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:109
+msgid "Sales by Country&County"
+msgstr "按国家和地区划分的销售额"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:152
+#: includes/w/W_RafflePlayWoo_Reports.php:145
+msgid "Sales by Product"
+msgstr "按产品分类的销售额"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:226
+msgid ""
+"Sales by Product will retrieve the sale based on the product price and "
+"quantity. When used coupons, the sale price is not retrieved correctly"
+msgstr "按产品销售将根据产品价格和数量检索销售额。使用优惠券时，不会正确检索销售价格"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:146
+#: includes/w/W_RafflePlayWoo_Reports.php:102
+msgid "Sales by Region/County"
+msgstr "按地区/县的销售情况"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:148
+msgid "Same as the above one. The check is done on update cart"
+msgstr "和上面那个一样。检查是在更新购物车时进行的"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:166
+#: includes/w/W_RafflePlayWoo_MainPage.php:52
+#: includes/w/W_RafflePlayWoo_MainPage.php:1344
+#: includes/w/W_RafflePlayWoo_Promotion.php:461
+#: includes/w/W_RafflePlayWoo_Raffles.php:500
+#: includes/w/W_RafflePlayWoo_Winners.php:116
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:116
+msgid "Save"
+msgstr "拯救"
+
+#: includes/RafflePlayWoo_Plugin.php:256
+msgid "Saved"
+msgstr "被拯救的"
+
+#: includes/RafflePlayWoo_Plugin.php:328
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:120
+msgid "Saving ..."
+msgstr "节省..."
+
+#: includes/templates/customer_search.php:19
+#: includes/templates/product_raffle_tab.php:185
+msgid "Search"
+msgstr "搜索"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:36
+msgid "Search By"
+msgstr "搜索"
+
+#: includes/RafflePlayWoo_Countdown.php:55
+msgid "Seconds"
+msgstr "秒数"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1097
+msgid "Seconds Label"
+msgstr "秒标签"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2539
+#: includes/RafflePlayWoo_LifeCycle.php:4860
+msgid "Select a raffle for this product"
+msgstr "选择该产品的抽奖活动"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:408
+#: includes/w/W_RafflePlayWoo_MainPage.php:730
+#: includes/w/W_RafflePlayWoo_Raffles.php:356
+msgid "Select image for background ticket. (Select custom to add your own)"
+msgstr "为背景票据选择图片。(选择自定义以添加您自己的图片）"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:505
+msgid "September"
+msgstr "9月"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:159
+msgid "Setting when running multiple raffless at the same time"
+msgstr "同时运行多个无绳电话时的设置"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:535
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:670
+msgid "Shop Loop Item Title"
+msgstr "商店循环 项目名称"
+
+#: includes/RafflePlayWoo_Plugin.php:301
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:54
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:82
+msgid "Shortcode"
+msgstr "短码"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:154
+msgid "Shortcode Generated"
+msgstr "生成简码"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:180
+msgid "Shortcode Id - Enter unique id for this shortcode before copy"
+msgstr "简码 ID - 在复制前输入此简码的唯一 ID"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1623
+msgid "Shortcode id not matching"
+msgstr "简码 ID 不匹配"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:101
+msgid "Shortcode Info Raffle"
+msgstr "简码信息抽奖"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:955
+msgid "Shortcode Info Raffle Data"
+msgstr "简码信息抽奖数据"
+
+#: includes/RafflePlayWoo_LifeCycle.php:1617
+msgid "Shortcode not found"
+msgstr "未找到简码"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:189
+msgid "Shortcode to display Lucky Numbers"
+msgstr "显示幸运数字的简码"
+
+#: includes/RafflePlayWoo_Plugin.php:272
+msgid "Should be greater than zero"
+msgstr "应大于零"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:229
+msgid "Show a message to explain in case someone will try."
+msgstr "显示一条解释信息，以防有人尝试。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:45
+msgid "Show Countdown for Reserved time"
+msgstr "显示保留时间倒计时"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:393
+#: includes/w/W_RafflePlayWoo_Raffles.php:421
+msgid ""
+"Show Countdown if Raffle has start date or end date set for the products "
+"linked to this raffle"
+msgstr "如果抽奖活动已为链接到此抽奖活动的产品设置了开始日期或结束日期，则显示倒计时"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:434
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:504
+msgid ""
+"Show Countdown if Raffle has start date or end date set for the products "
+"linked to this raffle."
+msgstr "如果抽奖活动已为链接到此抽奖活动的产品设置了开始日期或结束日期，则显示倒计时。"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:417
+msgid "Show Countdown on Card Product"
+msgstr "在卡片产品上显示倒计时"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:389
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:432
+msgid "Show Countdown on Product Page"
+msgstr "在产品页面上显示倒计时"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:502
+msgid "Show Countdown on Shop Grid Cards"
+msgstr "在商店格子卡上显示倒计时"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:113
+msgid "Show Customer City"
+msgstr "显示客户所在城市"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:127
+msgid "Show Customer Country"
+msgstr "显示客户国家"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:99
+msgid "Show Customer Name"
+msgstr "显示客户名称"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:85
+msgid "Show Last Orders (limit)"
+msgstr "显示最后订单（上限）"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:17
+msgid "Show Product Raffle Tab"
+msgstr "显示产品抽奖标签"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:640
+msgid "Show Progress bar if the raffle has limited number of tickets."
+msgstr "如果抽奖券数量有限，则显示进度条。"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:448
+msgid ""
+"Show Progress Bar in the product page. Position is set in the Main Settings"
+msgstr "在产品页面中显示进度条。位置在主设置中设置"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:470
+msgid "Show Progress Bar on Card Product"
+msgstr "在卡片产品上显示进度条"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:474
+msgid ""
+"Show Progress Bar on Loop Card (eg: shop page). Position is set in the Main "
+"Settings"
+msgstr "在循环卡（例如：商店页面）上显示进度条。位置在主设置中设置"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:444
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:566
+msgid "Show Progress Bar on Product Page"
+msgstr "在产品页面上显示进度条"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:638
+msgid "Show Progress Bar on Shop Grid Cards"
+msgstr "在商店网格卡上显示进度条"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1223
+msgid "Show Progress Bar only for limited raffle tickets"
+msgstr "只显示进度条，抽奖券数量有限"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:568
+msgid "Show Progress Bar, if the raffle has limited number of tickets"
+msgstr "如果抽奖券数量有限，则显示进度条"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:141
+msgid "Show Purchased at"
+msgstr "显示购买地点"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:81
+msgid "Show raffle name"
+msgstr "显示抽奖活动名称"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:691
+msgid "Show Raffle Tickets in Woocommerce Orders Table View"
+msgstr "在 Woocommerce 订单表视图中显示抽奖券"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:31
+msgid "Show Table as Data Table"
+msgstr "将表格显示为数据表"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:915
+msgid "Show Tickets Grouped by:"
+msgstr "演出门票按以下方式分组"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:708
+#: includes/w/W_RafflePlayWoo_Raffles.php:336
+msgid ""
+"Show Tickets Number with Raffle image in background (Thank you Page / Email )"
+msgstr "在背景中显示门票号码和抽奖图像（感谢页/电子邮件）。"
+
+#: includes/templates/product_raffle_tab.php:184
+#, php-format
+msgid "Showing page %s of %s"
+msgstr "显示 %s 的 %s 页"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:372
+msgid "Sold"
+msgstr "已售"
+
+#: includes/RafflePlayWoo_Plugin.php:300
+msgid "Sold Tickets"
+msgstr "售出的门票"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:215
+msgid "Sold Time Hours ago (less than 24 hours)"
+msgstr "售出时间 小时前（小于 24 小时）"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:227
+msgid "Sold Time Minutes ago (less than 1 hour)"
+msgstr "成交时间 几分钟前（不到 1 小时）"
+
+#: includes/RafflePlayWoo_LifeCycle.php:795
+msgid "Some data to display for this variation."
+msgstr "为该变体显示一些数据。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:555
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:690
+msgid ""
+"Some themes change the position of hooks with different style or html "
+"applied to the page."
+msgstr "有些主题会根据页面应用的不同样式或 HTML 来更改钩子的位置。"
+
+#: includes/RafflePlayWoo_Plugin.php:295
+#: includes/w/W_RafflePlayWoo_Raffles.php:210
+msgid "Start Date"
+msgstr "开始日期"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:122
+#, php-format
+msgid "Start date is later than today - notify user - %s as start date"
+msgstr "开始日期晚于今天 - 通知用户 - %s为开始日期"
+
+#: includes/RafflePlayWoo_Plugin.php:287
+#: includes/w/W_RafflePlayWoo_Raffles.php:82
+msgid "Start Ticket"
+msgstr "启动票"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1108
+msgid "Starts In Label"
+msgstr "从标签开始"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:3
+msgid "Step One - Install the Plugin"
+msgstr "第一步 - 安装插件"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:33
+msgid "Step Three - Configure Email Raffle Labels"
+msgstr "第三步 - 配置电子邮件抽奖标签"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:12
+msgid "Step Two - Create Raffle Product"
+msgstr "第二步 - 创建抽奖产品"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:179
+msgid "Stop Reserving Tickets after the Time Cycles have passed"
+msgstr "时间周期结束后停止预订门票"
+
+#: includes/w/W_RafflePlayWoo_Info.php:157
+msgid "Support & Updates End Date"
+msgstr "支持和更新结束日期"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:882
+msgid "Tab Location"
+msgstr "选项卡位置"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:870
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:53
+msgid "Tab Name"
+msgstr "选项卡名称"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:20
+msgid "Terminate Raffle"
+msgstr "终止抽奖活动"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:53
+msgid "Terminate Raffle Now"
+msgstr "立即终止抽奖活动"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:260
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:231
+msgid "Terminate Raffle on Buy Out Product"
+msgstr "终止买断产品的抽奖活动"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5760
+#: includes/RafflePlayWoo_Plugin.php:280
+#: includes/w/W_RafflePlayWoo_Raffles.php:104
+msgid "Terminated"
+msgstr "终止"
+
+#: includes/RafflePlayWoo_Plugin.php:298
+#: includes/w/W_RafflePlayWoo_ViewPage.php:31
+msgid "Test"
+msgstr "测试"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:174
+msgid "Test Info"
+msgstr "测试信息"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:823
+#: includes/w/W_RafflePlayWoo_MainPage.php:1254
+#: includes/w/W_RafflePlayWoo_ViewPage.php:256
+msgid "Text Color"
+msgstr "文字颜色"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:53
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:92
+msgid "Text over image (html accepted)"
+msgstr "图像上的文字（接受 HTML）"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:811
+#: includes/w/W_RafflePlayWoo_ViewPage.php:246
+msgid "Text Size"
+msgstr "文字大小"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1238
+msgid "Text to display"
+msgstr "要显示的文本"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1310
+msgid "Text to display, for shortcode use the following text replaces"
+msgstr "要显示的文本，对于简码，使用以下文本替换"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:26
+msgid "That's the starting point of the raffle tickets."
+msgstr "这就是抽奖券的起点。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1129
+msgid ""
+"The above settings are used to display the raffle countdown in the product "
+"page"
+msgstr "上述设置用于在产品页面中显示抽奖倒计时"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:974
+msgid "The code with other plugin integration is found "
+msgstr "可找到与其他插件集成的代码"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:492
+msgid ""
+"The countdown does not show in the position you have selected? Some themes "
+"change the position of hooks with different style or html applied to the "
+"page."
+msgstr "倒计时没有显示在您选择的位置上？有些主题会根据页面应用的不同样式或 HTML 来更改钩子的位置。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:88
+msgid ""
+"The customer can still buy the tickets, but will be generated at thank you "
+"page"
+msgstr "客户仍可购买门票，但会在 \"感谢 \"页面生成信息"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:6
+msgid ""
+"The Default Raffle is the main raffle, and all other raffles created inherit "
+"some of the settings from it"
+msgstr "默认抽奖活动是主要的抽奖活动，所有其他创建的抽奖活动都继承了它的一些设置。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1247
+msgid "The keywords will be replaced with the numbers when displayed"
+msgstr "显示时，关键字将被数字取代"
+
+#: raffle-play-woo.php:36
+msgid "The plugin is not licensed"
+msgstr "该插件未获许可"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:5
+msgid ""
+"The Plugin requires no special installation, just as any regular plugin "
+"proceed with instalation, and activation."
+msgstr "该插件不需要特别的安装，就像任何普通的插件一样，要进行安装和激活。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:628
+msgid ""
+"The Progress bar does not show in the position you have selected? Some "
+"themes change the position of hooks with different style or html applied to "
+"the page."
+msgstr "进度条没有显示在您选择的位置上？有些主题会根据页面应用的不同样式或 HTML 更改钩子的位置。"
+
+#: includes/RafflePlayWoo_Plugin.php:333
+msgid ""
+"The Raffle does not generate tickets randomly - Change to random generated"
+msgstr "抽奖券不是随机生成的 - 改为随机生成"
+
+#: includes/RafflePlayWoo_Plugin.php:332
+msgid "The Raffle does not have limited tickets - Put a limit"
+msgstr "抽奖券不设上限 - 设置上限"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:143
+msgid ""
+"The raffle has limited tickets - notify user - eg: 3 tickets left, user "
+"wants to buy 5, exceeds with 2 - show message"
+msgstr "抽奖活动的票数有限--通知用户--例如：剩下3张票，用户想买5张，超出2张--显示信息"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:137
+msgid ""
+"The raffle has limited tickets - Upon adding to cart, the system checks if "
+"any tickets left, if not show message "
+msgstr "抽奖活动的门票有限 - 加入购物车后，系统会检查是否有剩余的门票，如果没有，则显示消息"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:117
+msgid "The raffle is set as terminated"
+msgstr "抽奖活动被设定为终止"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:262
+msgid ""
+"The raffle will be set to terminated if the \"Buyout Product\" is out of "
+"stock."
+msgstr "如果 \"买断产品 \"缺货，抽奖活动将被设定为终止。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:233
+msgid ""
+"The raffle will be set to terminated if the \"Buyout Product\" is sold (out "
+"of stock). Terminate Raffle by selling a single not raffle product."
+msgstr "如果 \"买断产品 \"被售出（缺货），抽奖活动将被设置为终止。通过出售单一的非抽奖产品来终止抽奖活动。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:21
+msgid ""
+"The raffle will be terminated. No raffle tickets will be available for sale."
+msgstr "抽奖活动将被终止。没有抽奖券可供出售。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:31
+msgid "The raffle will have a limited number of tickets"
+msgstr "抽奖活动的门票数量有限"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:228
+msgid "The system will do it automatically based on the rules"
+msgstr "系统会根据规则自动执行"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:189
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:126
+msgid "The tickets will be generated and shown at checkout page"
+msgstr "门票将在结账页面生成并显示"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:15
+msgid "There are issues with the DB Tables"
+msgstr "DB表有问题"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:27
+msgid "There is a custom reserved time in minutes"
+msgstr "自定义预留时间，单位为分钟"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:37
+msgid ""
+"These labels will show in the 'Thank you page' and the 'Confirmation Email' "
+msgstr "这些标签将显示在 \"感谢页面 \"和 \"确认电子邮件 \"中。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:23
+msgid ""
+"These tickets are counted as purchased because are reserved for the customer "
+"for a specific time"
+msgstr "这些门票被算作已购票，因为它们是在特定时间内为客户预留的"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:235
+msgid ""
+"This is a promotional raffle, based on your cart value we award free entry "
+"tickets to raffle."
+msgstr "这是一次促销抽奖活动，我们将根据您的购物车价值发放免费抽奖券。"
+
+#: includes/RafflePlayWoo_Plugin.php:335
+msgid "This is a won ticket, are you sure?"
+msgstr "这是一张中奖彩票，你确定吗？"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:50
+msgid "This is the minimal setup to have a raffle running"
+msgstr "这是进行抽奖活动的最基本设置"
+
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:9
+msgid ""
+"This page is set only to keep track of the winning tickets, and the "
+"customers associated"
+msgstr "这个页面的设置只是为了跟踪中奖彩票，以及与之相关的客户。"
+
+#: includes/RafflePlayWoo_Plugin.php:259
+#: includes/w/W_RafflePlayWoo_ViewPage.php:422
+#: includes/w/W_RafflePlayWoo_Winners.php:92
+msgid "Ticket"
+msgstr "票务"
+
+#: includes/RafflePlayWoo_Plugin.php:321
+msgid "Ticket Changed Successfully"
+msgstr "机票已成功更改"
+
+#: includes/RafflePlayWoo_Plugin.php:260
+msgid "Ticket From"
+msgstr "票价从"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:787
+#: includes/w/W_RafflePlayWoo_ViewPage.php:228
+msgid "Ticket Height"
+msgstr "门票高度"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:97
+#: includes/w/W_RafflePlayWoo_MainPage.php:200
+msgid "Ticket Info Position"
+msgstr "门票信息位置"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:95
+msgid "Ticket Number"
+msgstr "票号"
+
+#: includes/RafflePlayWoo_LifeCycle.php:5953
+msgid "Ticket Number does not exist"
+msgstr "票号不存在"
+
+#: includes/w/W_RafflePlayWoo_Raffles.php:118
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:147
+msgid "Ticket Number Leading Zeros"
+msgstr "票号前导零"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:35
+#: includes/w/W_RafflePlayWoo_Raffles.php:149
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:174
+msgid "Ticket Prefix"
+msgstr "票据前缀"
+
+#: includes/RafflePlayWoo_Plugin.php:261
+msgid "Ticket To"
+msgstr "票价"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:774
+#: includes/w/W_RafflePlayWoo_ViewPage.php:218
+msgid "Ticket Width"
+msgstr "票宽"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:181
+msgid "Ticket-"
+msgstr "票务-"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:23
+msgid ""
+"Tickets are generated and displayed per raffle, you need to enable the "
+"option for each raffle"
+msgstr "每次抽奖都会生成和显示门票，您需要为每次抽奖启用该选项"
+
+#: includes/releases/RafflePlayWoo_Release_600.php:19
+msgid ""
+"Tickets can now be generated and displayed at checkout before the order is "
+"placed"
+msgstr "现在可在下订单前生成并在结账时显示票据"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:86
+msgid "Tickets Info"
+msgstr "门票信息"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:179
+msgid "Tickets Purchased"
+msgstr "购买的门票"
+
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:96
+msgid "Tickets will not be visible at checkout anymore"
+msgstr "结账时将不再显示门票"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:319
+msgid "Tickets will only be generated for these order statuses"
+msgstr "只有这些订单状态才会生成订单"
+
+#: includes/w/W_RafflePlayWoo_Reports.php:68
+#: includes/w/W_RafflePlayWoo_ViewPage.php:163
+msgid "To"
+msgstr "拟"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:442
+msgid "to display link to product (Thank you page / Email)"
+msgstr "显示产品链接（感谢页面/电子邮件）"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:347
+msgid ""
+"To display messages in custom page, copy the shortcode, change the it to "
+"match the raffle id and paste it in custom page"
+msgstr "要在自定义页面中显示消息，请复制简码，将其更改为与抽奖 ID 匹配，然后将其粘贴到自定义页面中"
+
+#: includes/RafflePlayWoo_Plugin.php:307
+msgid "To display the raffle name add show_raffle_name in the shortcode"
+msgstr "为了显示抽奖活动的名称，在短码中添加show_raffle_name。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:353
+msgid "To show raffle name add (show_raffle_name='1') in the shortcode"
+msgstr "为了显示抽奖活动的名称，在短码中添加(show_raffle_name='1')"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:464
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:600
+msgid "Top of Single Product Summary"
+msgstr "单个产品摘要顶部"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:241
+#: includes/d/D_RafflePlayWoo_Reports.php:361
+#: includes/d/D_RafflePlayWoo_Reports.php:485
+#: includes/d/D_RafflePlayWoo_Reports.php:551
+#: includes/d/D_RafflePlayWoo_Reports.php:681
+#: includes/d/D_RafflePlayWoo_Reports.php:856
+msgid "Total"
+msgstr "共计"
+
+#: includes/RafflePlayWoo_Plugin.php:263
+msgid "Total Tickets"
+msgstr "总票数"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:488
+msgid "Two"
+msgstr "二"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:401
+msgid ""
+"Two customers buying raffle products at the same time, might cause the db to "
+"overlap the orders, and create duplicate tickets. Chances are minimal. But "
+"the system will spot any malfunctions "
+msgstr "两个客户同时购买抽奖产品，可能会导致数据库中的订单重叠，并产生重复的彩票。机会是最小的。但系统会发现任何故障"
+
+#: includes/docs/RafflePlayWoo_Docs_Installation.php:17
+msgid ""
+"Under 'Product' page go to 'General' tab and you should see two extra "
+"options "
+msgstr "在 \"产品 \"页面下，进入 \"常规 \"标签，你应该看到两个额外的选项"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:259
+msgid "Unique identifier for the shortcode"
+msgstr "简码的唯一标识符"
+
+#: includes/templates/progressbar_info.php:55
+#: includes/templates/progressbar_info.php:56
+msgid "unlimited"
+msgstr "无限"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:308
+msgid "Up to 1000 random numbers displayed. Want more? Use filter "
+msgstr "最多可显示 1000 个随机数字。想要更多？使用过滤器"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:368
+msgid ""
+"up to 1000 random tickets will be displayed, can be increased, use filter "
+msgstr "最多显示 1000 张随机门票，可以增加，使用过滤器"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:226
+msgid "Update / Delete / Add to Cart Promotional Product message"
+msgstr "更新/删除/添加到购物车 促销产品信息"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:147
+#, php-format
+msgid "Update Cart (exceeding tickets %d)"
+msgstr "更新购物车（超过票数%d）。"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:332
+#, php-format
+msgid "Update Cart (limit on - exceeding tickets - %d)"
+msgstr "更新购物车（限制 - 超过票数 - %d)"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:33
+msgid "Updated - Compatible with new HPOS, and legacy order storage "
+msgstr "更新 - 与新的 HPOS 和传统订单存储兼容"
+
+#: includes/w/promotion/W_RafflePlayWoo_Promotion_Tabs.php:82
+msgid "Url redirect when clicking on image (like url to product)"
+msgstr "点击图片时重定向网址（如产品网址）"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:440
+msgid "Use"
+msgstr "使用"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1285
+msgid "Use spaces as delimiter"
+msgstr "使用空格作为分隔符"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2504
+#: includes/RafflePlayWoo_LifeCycle.php:4827
+msgid "Use Variation Product Raffle"
+msgstr "使用变化 产品抽奖"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:176
+msgid "Used with 'Test' option in the settings"
+msgstr "与设置中的 \"测试 \"选项一起使用"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:36
+msgid ""
+"Used with ticket number as Tkt-1001, Tkt-1002, etc. Instead of display a "
+"dull number as 1001, 1002"
+msgstr "与Tkt-1001, Tkt-1002等票号一起使用。而不是显示一个枯燥的数字，如1001，1002"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:107
+msgid ""
+"User Message are very effective on showing the tickets status to the users"
+msgstr "用户信息在向用户显示票据状态方面非常有效。"
+
+#: includes/docs/RafflePlayWoo_Docs_DefaultRaffle.php:105
+#: includes/w/W_RafflePlayWoo_MainPage.php:76
+msgid "User Messages"
+msgstr "用户信息"
+
+#: includes/w/W_RafflePlayWoo_Info.php:223
+msgid "Validate License"
+msgstr "验证许可证"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:292
+msgid "Value Above"
+msgstr "以上价值"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3753
+msgid "Variable"
+msgstr "可变"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:30
+msgid "Version"
+msgstr "版本"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:232
+msgid "Very IMPORTANT to setup messages"
+msgstr "设置信息非常重要"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:10
+#: includes/releases/RafflePlayWoo_Release_584.php:10
+#: includes/releases/RafflePlayWoo_Release_590.php:11
+#: includes/releases/RafflePlayWoo_Release_600.php:11
+#: includes/releases/RafflePlayWoo_Release_62.php:11
+msgid "Video available"
+msgstr "提供视频"
+
+#: includes/w/W_RafflePlayWoo_Info.php:176
+msgid "View"
+msgstr "查看"
+
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:37
+msgid "View more here"
+msgstr "在此查看更多信息"
+
+#: includes/RafflePlayWoo_LifeCycle.php:3597
+msgid "View PDF"
+msgstr "查看 PDF"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:409
+#, fuzzy
+#| msgid "View PDF Attachment Documentation %s "
+msgid "View PDF Attachment Documentation "
+msgstr "查看 PDF 附件文档 %s"
+
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:487
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:550
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:623
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:685
+#, php-format
+msgid "View Positions %s"
+msgstr "查看职位 %s"
+
+#: includes/RafflePlayWoo_LifeCycle.php:332
+#: includes/w/W_RafflePlayWoo_ViewPage.php:20
+msgid "View Tickets"
+msgstr "查看门票"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:54
+msgid "View Tickets by Order"
+msgstr "按订单查看门票"
+
+#: includes/docs/RafflePlayWoo_Docs_Reports.php:5
+msgid "View your sale by raffle"
+msgstr "通过抽奖查看您的销售情况"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:78
+msgid "wait to load after changing status"
+msgstr "改变状态后等待加载"
+
+#: includes/RafflePlayWoo_Plugin.php:311
+msgid "Warning. There is another column with same DB Meta Name"
+msgstr "警告。有另一列具有相同的DB元名称"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:971
+#, fuzzy, php-format
+#| msgid "Watch explanation %s on this youtube video I made"
+msgid "Watch explanation %s and %s on this youtube videos I made"
+msgstr "在我制作的这段 youtube 视频中观看解释 %s"
+
+#: includes/w/W_RafflePlayWoo_Promotion.php:54
+msgid "Watch promotional raffle setup video here"
+msgstr "点击此处观看抽奖设置宣传视频"
+
+#: includes/w/main/W_RafflePlayWoo_Main_SearchTickets.php:23
+msgid "Watch setup video"
+msgstr "观看设置视频"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:121
+msgid "Watch setup video here"
+msgstr "点击此处观看安装视频"
+
+#: includes/releases/RafflePlayWoo_Release_584.php:25
+msgid "Watch the video on the right for better understanding."
+msgstr "请观看右侧的视频，以便更好地理解。"
+
+#: includes/RafflePlayWoo_LifeCycle.php:2500
+msgid "Watch video before proceding. How to promote shop with free raffle"
+msgstr "开始前请观看视频。如何通过免费抽奖推广店铺"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:360
+msgid "Week"
+msgstr "周"
+
+#: includes/d/D_RafflePlayWoo_Reports.php:140
+#: includes/w/W_RafflePlayWoo_Reports.php:88
+msgid "Weekly Sales"
+msgstr "每周销售"
+
+#: includes/releases/RafflePlayWoo_Release_581.php:35
+msgid "What is HPOS? Read more about it here"
+msgstr "什么是 HPOS？点击此处了解更多"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:210
+msgid ""
+"When printing if the background image is not visible, go to print page -> "
+"More Settings and select \"Background graphics\" from the options."
+msgstr "打印时，如果背景图片不可见，请进入打印页面 -> 更多设置，然后从选项中选择 \"背景图形\"。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:108
+msgid ""
+"While running a raffle reward your customers with smaller prizes as instant "
+"wins"
+msgstr "在进行抽奖活动时，将较小的奖品作为即时奖品回馈客户"
+
+#: includes/w/W_RafflePlayWoo_ViewPage.php:412
+msgid ""
+"Why Duplicates? Slow hosting, too many order requests at the same time "
+"(server cannot cope), caching issues."
+msgstr "为什么会出现重复订单？主机速度慢、同时有太多订单请求（服务器无法处理）、缓存问题。"
+
+#: includes/w/W_RafflePlayWoo_Winners.php:57
+msgid "Winner"
+msgstr "冠军"
+
+#: includes/RafflePlayWoo_LifeCycle.php:348
+#: includes/docs/RafflePlayWoo_Docs_Winners.php:3
+#: includes/w/W_RafflePlayWoo_Winners.php:20
+msgid "Winners"
+msgstr "获奖者"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:438
+msgid "Winning Message"
+msgstr "获奖感言"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:966
+msgid ""
+"With this shortcode you can retrieve the primary attributes of any raffle. \n"
+"                                                            It can be used "
+"to display raffle information or integrate it with other plugins. Check the "
+"link below to the youtube video."
+msgstr ""
+"使用此简码，您可以检索任何抽奖活动的主要属性。\n"
+"                                                            "
+"它可用于显示抽奖信息或与其他插件集成。请查看下面的 youtube 视频链接。"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:469
+msgid "Won"
+msgstr "获胜"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:232
+#, fuzzy
+#| msgid "Old Ticket"
+msgid "Won Ticket"
+msgstr "旧票"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:96
+msgid "Woocommerce Account"
+msgstr "Woocommerce 账户"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:17
+msgid "Woocommerce has made changes to cart and checkout pages recently."
+msgstr "Woocommerce 最近对购物车和结账页面进行了修改。"
+
+#: includes/w/main/W_RafflePlayWoo_Main_Woocomerce_Info.php:11
+msgid "Woocommerce Info"
+msgstr "Woocommerce 信息"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:395
+msgid "Works only with PHP version 7.1, and above"
+msgstr "仅在PHP7.1及以上版本中工作"
+
+#: includes/RafflePlayWoo_Plugin.php:281 includes/w/W_RafflePlayWoo_Info.php:22
+#: includes/w/W_RafflePlayWoo_MainPage.php:166
+#: includes/w/W_RafflePlayWoo_MainPage.php:376
+#: includes/w/W_RafflePlayWoo_MainPage.php:429
+#: includes/w/W_RafflePlayWoo_MainPage.php:501
+#: includes/w/W_RafflePlayWoo_MainPage.php:512
+#: includes/w/W_RafflePlayWoo_MainPage.php:684
+#: includes/w/W_RafflePlayWoo_MainPage.php:700
+#: includes/w/W_RafflePlayWoo_MainPage.php:717
+#: includes/w/W_RafflePlayWoo_MainPage.php:856
+#: includes/w/W_RafflePlayWoo_MainPage.php:1038
+#: includes/w/W_RafflePlayWoo_MainPage.php:1216
+#: includes/w/W_RafflePlayWoo_MainPage.php:1231
+#: includes/w/W_RafflePlayWoo_Raffles.php:95
+#: includes/w/W_RafflePlayWoo_Raffles.php:108
+#: includes/w/W_RafflePlayWoo_Raffles.php:163
+#: includes/w/W_RafflePlayWoo_Raffles.php:172
+#: includes/w/W_RafflePlayWoo_Raffles.php:201
+#: includes/w/W_RafflePlayWoo_Raffles.php:268
+#: includes/w/W_RafflePlayWoo_Raffles.php:311
+#: includes/w/W_RafflePlayWoo_Raffles.php:326
+#: includes/w/W_RafflePlayWoo_Raffles.php:345
+#: includes/w/W_RafflePlayWoo_Raffles.php:403
+#: includes/w/W_RafflePlayWoo_Raffles.php:429
+#: includes/w/W_RafflePlayWoo_Raffles.php:456
+#: includes/w/W_RafflePlayWoo_Raffles.php:482
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:57
+#: includes/w/main/W_RafflePlayWoo_Main_GenCheckout.php:194
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:63
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:96
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:108
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:138
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:239
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:424
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:444
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:515
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:580
+#: includes/w/main/W_RafflePlayWoo_Main_General.php:650
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:23
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:45
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:105
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:119
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:133
+#: includes/w/main/W_RafflePlayWoo_Main_ProductTab.php:147
+msgid "Yes"
+msgstr "是"
+
+#: includes/w/W_RafflePlayWoo_Lucky.php:114
+msgid ""
+"You can define a winning number or let the system pick one. It only works "
+"with Random Tickets"
+msgstr "您可以定义一个中奖号码，也可以让系统选择一个中奖号码。它只适用于随机彩票"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:1300
+msgid ""
+"You can place custom progress bar on any page with the following shortcode - "
+"if options left empty will pick the default setting set above."
+msgstr "您可以使用以下简码在任何页面上放置自定义进度条--如果选项留空，将使用上述默认设置。"
+
+#: includes/RafflePlayWoo_LifeCycle.php:6124
+#: includes/RafflePlayWoo_LifeCycle.php:6250
+msgid "You dont have access"
+msgstr "您没有访问权限"
+
+#: raffle-play-woo.php:48
+msgid "Your license is not valid"
+msgstr "你的驾照是无效的"
+
+#: includes/w/W_RafflePlayWoo_MainPage.php:400
+msgid "Your PHP version is less than 7.1, therefore this feature wont work"
+msgstr "你的PHP版本小于7.1，因此该功能不能工作。"
+
+#: raffle-play-woo.php:29
+msgid "Your server's PHP version: "
+msgstr "你的服务器的PHP版本。"

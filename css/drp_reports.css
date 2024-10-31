@@ -1,0 +1,182 @@
+.drp-reports .drp-loader-img {
+    display: none;
+    position: fixed !important;
+    left: 50%;
+    top: 40%;
+    border: 9px solid #0eb972;
+    border-radius: 50%;
+    border-top: 9px solid #000;
+    border-bottom: 9px solid rgb(168, 51, 106);
+    width: 50px;
+    height: 50px;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 1s linear infinite;
+    z-index: 10000000000001 !important;
+  }
+  
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .drp-reports .bmp-set-row{
+      margin-left: 10px;
+  }
+  .drp-reports #rpr_clear_dates{
+    cursor: pointer;
+  }
+
+  /* The Modal (background) */
+.modal-rpr {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+ .modal-rpr .rpwoo-modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 600px;
+  height: 450px;
+  border-radius: 5px;
+}
+
+/* The Close Button */
+#modal_fields .close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.drp-reports .close:hover,
+.drp-reports .close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+.rpwoo-modal-footer{
+  position: absolute;
+  top: 511px;
+}
+
+#div_report_fields, 
+#div_fields{
+  display: inline-block;
+  width: 270px;
+  height: 300px;
+}
+ #div_middle{
+  display: inline-block;
+}
+
+ #div_report_fields ul, 
+ #div_fields ul{
+  background: rgb(255, 242, 242);
+  border: 1px solid rgb(119, 118, 118);
+  border-radius: 2px;
+  width: 270px;
+  height: 300px;
+  overflow: auto;
+}
+#div_report_fields ul li,
+#div_fields ul li{
+  background: #d4eef8;
+  border: 1px solid rgb(196, 196, 241);
+  min-height: 15px;
+  padding: 5px;
+  margin: 2px;
+  cursor: pointer;
+}
+
+#div_fields{
+  float: right;
+}
+
+.info_col_fields{
+  padding: 0px;
+  margin: 0px;
+}
+.rpwoo-modal-content h2{
+  margin: 0px;
+  padding: 0px;
+  font-weight: bold;
+}
+
+#panel_reports, 
+#panel_settings{
+  width: 49%;
+  display: inline-block;  
+}
+#panel_reports{
+  margin-right: 0.2%;
+}
+
+#panel_settings{  
+  float:right;
+}
+
+.drp-reports #div_order_status,
+.drp-reports #div_custom_currency,
+.drp-reports #div_date_format,
+.drp-reports #div_order_filter{
+  border: 1px solid lightgray; 
+  padding:5px; 
+  margin: 2px;
+}
+
+#new_col_name,
+#db_col_name{
+  float: right;
+}
+li .fa-trash-alt{
+  float: right;
+  color: rgb(102, 26, 26);
+}
+.fa-trash-alt:hover{
+  color: red;
+}
+
+.drp-reports .requested{
+  border: 1px solid red !important;
+}
+
+#panel_settings{
+  min-height: 447px;
+}
+
+#div_fields ul, #ul_report_fields{
+  padding-left: 0px !important;
+}
+#btn_send_report{
+  width: 120px;
+}
+
+.drp-reports label{
+  font-size: .9em !important;
+}
+
+.tooltip .arrow{
+  display: none !important;  
+}
+
+.bs-tooltip-right{
+  left: 10px !important;
+}
+
